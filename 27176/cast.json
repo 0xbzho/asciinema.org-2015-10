@@ -1,0 +1,438 @@
+{
+  "version": 1,
+  "width": 106,
+  "height": 31,
+  "duration": 51.230528,
+  "command": "/bin/bash",
+  "title": "Example strace trace commands",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.063481,
+      "\u001b]0;root@server:~\u0007\u001b[?1034h[root@server ~]# "
+    ],
+    [
+      0.624626,
+      "s"
+    ],
+    [
+      0.287858,
+      "t"
+    ],
+    [
+      0.207214,
+      "r"
+    ],
+    [
+      0.136145,
+      "a"
+    ],
+    [
+      0.127823,
+      "c"
+    ],
+    [
+      0.032432,
+      "e"
+    ],
+    [
+      0.304247,
+      " "
+    ],
+    [
+      0.656347,
+      "-"
+    ],
+    [
+      0.175087,
+      "e"
+    ],
+    [
+      0.120028,
+      " "
+    ],
+    [
+      0.280753,
+      "t"
+    ],
+    [
+      0.335666,
+      "r"
+    ],
+    [
+      0.280005,
+      "a"
+    ],
+    [
+      0.127640,
+      "c"
+    ],
+    [
+      0.063761,
+      "e"
+    ],
+    [
+      0.168879,
+      "="
+    ],
+    [
+      0.119112,
+      "f"
+    ],
+    [
+      0.176230,
+      "i"
+    ],
+    [
+      0.031728,
+      "l"
+    ],
+    [
+      0.120151,
+      "e"
+    ],
+    [
+      0.336823,
+      " "
+    ],
+    [
+      0.263934,
+      "-"
+    ],
+    [
+      0.199415,
+      "o"
+    ],
+    [
+      0.207747,
+      " "
+    ],
+    [
+      0.185257,
+      "p"
+    ],
+    [
+      0.174745,
+      "a"
+    ],
+    [
+      0.280696,
+      "s"
+    ],
+    [
+      0.232177,
+      "s"
+    ],
+    [
+      0.487125,
+      "w"
+    ],
+    [
+      0.328555,
+      "d"
+    ],
+    [
+      0.224261,
+      "-"
+    ],
+    [
+      0.151040,
+      "t"
+    ],
+    [
+      0.152150,
+      "r"
+    ],
+    [
+      0.151822,
+      "a"
+    ],
+    [
+      0.096085,
+      "c"
+    ],
+    [
+      0.072190,
+      "e"
+    ],
+    [
+      0.207737,
+      "."
+    ],
+    [
+      0.280183,
+      "o"
+    ],
+    [
+      0.087920,
+      "u"
+    ],
+    [
+      0.129886,
+      "t"
+    ],
+    [
+      0.202369,
+      " "
+    ],
+    [
+      0.179690,
+      "p"
+    ],
+    [
+      0.127935,
+      "a"
+    ],
+    [
+      0.191934,
+      "s"
+    ],
+    [
+      0.128194,
+      "s"
+    ],
+    [
+      0.376481,
+      "w"
+    ],
+    [
+      0.167314,
+      "d"
+    ],
+    [
+      0.465072,
+      "\r\n"
+    ],
+    [
+      0.011250,
+      "Changing password for user root.\r\n"
+    ],
+    [
+      0.030412,
+      "New password: "
+    ],
+    [
+      2.982102,
+      "\r\n"
+    ],
+    [
+      0.004986,
+      "Retype new password: "
+    ],
+    [
+      2.401991,
+      "\r\n"
+    ],
+    [
+      0.025425,
+      "passwd: all authentication tokens updated successfully.\r\n"
+    ],
+    [
+      0.000894,
+      "\u001b]0;root@server:~\u0007[root@server ~]# "
+    ],
+    [
+      6.446392,
+      "l"
+    ],
+    [
+      0.111181,
+      "s"
+    ],
+    [
+      0.664958,
+      "\r\n"
+    ],
+    [
+      0.001953,
+      "\u001b[0m\u001b[38;5;27mdemos\u001b[0m  passwd.out  passwd-trace.out  \u001b[38;5;27mstrace-code-examples\u001b[0m  strace-trace\r\n\u001b]0;root@server:~\u0007[root@server ~]# "
+    ],
+    [
+      5.061438,
+      "l"
+    ],
+    [
+      0.175095,
+      "e"
+    ],
+    [
+      0.265302,
+      "s"
+    ],
+    [
+      0.542621,
+      "s"
+    ],
+    [
+      0.240845,
+      " "
+    ],
+    [
+      0.151199,
+      "p"
+    ],
+    [
+      0.064034,
+      "a"
+    ],
+    [
+      0.111741,
+      "s"
+    ],
+    [
+      0.191049,
+      "\u0007swd"
+    ],
+    [
+      0.634568,
+      "-"
+    ],
+    [
+      0.239241,
+      "t"
+    ],
+    [
+      0.067671,
+      "race.out "
+    ],
+    [
+      0.516574,
+      "\u001b[H\u001b[2J[root@server ~]# less passwd-trace.out "
+    ],
+    [
+      1.152493,
+      "\r\n"
+    ],
+    [
+      0.019021,
+      "\u001b[?1049h\u001b[?1h\u001b=\rexecve(\"/usr/bin/passwd\", [\"passwd\"], [/* 25 vars */]) = 0\r\naccess(\"/etc/ld.so.preload\", R_OK)      = -1 ENOENT (No such file or directory)\r\nopen(\"/etc/ld.so.cache\", O_RDONLY|O_CLOEXEC) = 3\r\nopen(\"/lib64/libuser.so.1\", O_RDONLY|O_CLOEXEC) = 3\r\nopen(\"/lib64/libgobject-2.0.so.0\", O_RDONLY|O_CLOEXEC) = 3\r\nopen(\"/lib64/libglib-2.0.so.0\", O_RDONLY|O_CLOEXEC) = 3\r\nopen(\"/lib64/libpopt.so.0\", O_RDONLY|O_CLOEXEC) = 3\r\nopen(\"/lib64/libpam.so.0\", O_RDONLY|O_CLOEXEC) = 3\r\nopen(\"/lib64/libpam_misc.so.0\", O_RDONLY|O_CLOEXEC) = 3\r\nopen(\"/lib64/libaudit.so.1\", O_RDONLY|O_CLOEXEC) = 3\r\nopen(\"/lib64/libselinux.so.1\", O_RDONLY|O_CLOEXEC) = 3\r\nopen(\"/lib64/libpthread.so.0\", O_RDONLY|O_CLOEXEC) = 3\r\nopen(\"/lib64/libc.so.6\", O_RDONLY|O_CLOEXEC) = 3\r\nopen(\"/lib64/libgmodule-2.0.so.0\", O_RDONLY|O_CLOEXEC) = 3\r\nopen(\"/lib64/libcrypt.so.1\", O_RDONLY|O_CLOEXEC) = 3\r\nopen(\"/lib64/libffi.so.6\", O_RDONLY|O_CLOEXEC) = 3\r\nopen(\"/lib64/libdl.so.2\", O_RDONLY|O_CLOEXEC) = 3\r\nopen(\"/lib64/libpcre.so.1\", O_RDONLY|O_CLOEXEC) = 3\r\nopen(\"/lib64/liblzma.so.5\", O_RDONLY|O_CLOEXEC) = 3\r\nopen(\"/lib64/libfreebl3.so\", O_RDONLY|O_CLOEXEC) = 3\r\nstatfs(\"/sys/fs/selinux\", {f_type=0xf97cff8c, f_bsize=4096, f_blocks=0, f_bfree=0, f_bavail=0, f_files=0,  \u0008f_ffree=0, f_fsid={0, 0}, f_namelen=255, f_frsize=4096}) = 0\r\nstatfs(\"/sys/fs/selinux\", {f_type=0xf97cff8c, f_bsize=4096, f_blocks=0, f_bfree=0, f_bavail=0, f_files=0,  \u0008f_ffree=0, f_fsid={0, 0}, f_namelen=255, f_frsize=4096}) = 0\r\nstat(\"/sys/fs/selinux\", {st_mode=S_IFDIR|0755, st_size=0, ...}) = 0\r\nopen(\"/usr/lib/locale/locale-archive\", O_RDONLY|O_CLOEXEC) = 3\r\nopen(\"/usr/share/locale/locale.alias\", O_RDONLY|O_CLOEXEC) = 4\r\nopen(\"/usr/share/locale/en_US.UTF-8/LC_MESSAGES/passwd.mo\", O_RDONLY) = -1 ENOENT (No such file or directo \u0008ry)\r\nopen(\"/usr/share/locale/en_US.utf8/LC_MESSAGES/passwd.mo\", O_RDONLY) = -1 ENOENT (No such file or director \u0008\u001b[7mpasswd-trace.out\u001b[27m\u001b[K"
+    ],
+    [
+      2.956379,
+      "\r\u001b[Ky)\r\n:\u001b[K"
+    ],
+    [
+      0.223814,
+      "\r\u001b[Kopen(\"/usr/share/locale/en_US/LC_MESSAGES/passwd.mo\", O_RDONLY) = -1 ENOENT (No such file or directory)\r\n:\u001b[K"
+    ],
+    [
+      0.367954,
+      "\r\u001b[Kopen(\"/usr/share/locale/en.UTF-8/LC_MESSAGES/passwd.mo\", O_RDONLY) = -1 ENOENT (No such file or directory)\r\n:\u001b[K"
+    ],
+    [
+      0.280032,
+      "\r\u001b[Kopen(\"/usr/share/locale/en.utf8/LC_MESSAGES/passwd.mo\", O_RDONLY) = -1 ENOENT (No such file or directory)\r\n:\u001b[K"
+    ],
+    [
+      0.351805,
+      "\r\u001b[Kopen(\"/usr/share/locale/en/LC_MESSAGES/passwd.mo\", O_RDONLY) = -1 ENOENT (No such file or directory)\r\n:\u001b[K"
+    ],
+    [
+      0.279904,
+      "\r\u001b[Kopen(\"/etc/nsswitch.conf\", O_RDONLY|O_CLOEXEC) = 4\r\n:\u001b[K"
+    ],
+    [
+      0.287668,
+      "\r\u001b[Kopen(\"/etc/ld.so.cache\", O_RDONLY|O_CLOEXEC) = 4\r\n:\u001b[K"
+    ],
+    [
+      0.480758,
+      "\r\u001b[Kopen(\"/lib64/libnss_files.so.2\", O_RDONLY|O_CLOEXEC) = 4\r\n:\u001b[K"
+    ],
+    [
+      0.214984,
+      "\r\u001b[Kopen(\"/etc/passwd\", O_RDONLY|O_CLOEXEC) = 4\r\n:\u001b[K"
+    ],
+    [
+      0.256052,
+      "\r\u001b[Kopen(\"/etc/passwd\", O_RDONLY|O_CLOEXEC) = 4\r\n:\u001b[K"
+    ],
+    [
+      0.264691,
+      "\r\u001b[Kopen(\"/proc/self/task/26462/attr/current\", O_RDONLY|O_CLOEXEC) = 4\r\n:\u001b[K"
+    ],
+    [
+      0.240110,
+      "\r\u001b[Kopen(\"/proc/self/task/26462/attr/current\", O_RDONLY|O_CLOEXEC) = 4\r\n:\u001b[K"
+    ],
+    [
+      0.240046,
+      "\r\u001b[Kopen(\"/proc/self/task/26462/attr/prev\", O_RDONLY|O_CLOEXEC) = 4\r\n:\u001b[K"
+    ],
+    [
+      0.432134,
+      "\r\u001b[Kopen(\"/sys/fs/selinux/mls\", O_RDONLY)   = 4\r\n:\u001b[K"
+    ],
+    [
+      0.239659,
+      "\r\u001b[Kopen(\"/proc/self/task/26462/attr/current\", O_RDONLY|O_CLOEXEC) = 4\r\n:\u001b[K"
+    ],
+    [
+      0.272226,
+      "\r\u001b[Kopen(\"/sys/fs/selinux/enforce\", O_RDONLY) = 4\r\n:\u001b[K"
+    ],
+    [
+      0.215151,
+      "\r\u001b[Kstat(\"/sys/fs/selinux/class\", {st_mode=S_IFDIR|0555, st_size=0, ...}) = 0\r\n:\u001b[K"
+    ],
+    [
+      0.255771,
+      "\r\u001b[Kopen(\"/sys/fs/selinux/class/passwd/index\", O_RDONLY) = 5\r\n:\u001b[K"
+    ],
+    [
+      0.240755,
+      "\r\u001b[Kopenat(AT_FDCWD, \"/sys/fs/selinux/class/passwd/perms\", O_RDONLY|O_NONBLOCK|O_DIRECTORY|O_CLOEXEC) = 5\r\n:\u001b[K"
+    ],
+    [
+      0.215541,
+      "\r\u001b[Kopen(\"/sys/fs/selinux/class/passwd/perms/.\", O_RDONLY|O_CLOEXEC) = 6\r\n:\u001b[K"
+    ],
+    [
+      0.207837,
+      "\r\u001b[Kopen(\"/sys/fs/selinux/class/passwd/perms/..\", O_RDONLY|O_CLOEXEC) = 6\r\n:\u001b[K"
+    ],
+    [
+      0.264837,
+      "\r\u001b[Kopen(\"/sys/fs/selinux/class/passwd/perms/crontab\", O_RDONLY|O_CLOEXEC) = 6\r\n:\u001b[K"
+    ],
+    [
+      0.248032,
+      "\r\u001b[Kopen(\"/sys/fs/selinux/class/passwd/perms/rootok\", O_RDONLY|O_CLOEXEC) = 6\r\n:\u001b[K"
+    ],
+    [
+      0.248009,
+      "\r\u001b[Kopen(\"/sys/fs/selinux/class/passwd/perms/chsh\", O_RDONLY|O_CLOEXEC) = 6\r\n:\u001b[K"
+    ],
+    [
+      0.206976,
+      "\r\u001b[Kopen(\"/sys/fs/selinux/class/passwd/perms/chfn\", O_RDONLY|O_CLOEXEC) = 6\r\n:\u001b[K"
+    ],
+    [
+      0.200457,
+      "\r\u001b[Kopen(\"/sys/fs/selinux/class/passwd/perms/passwd\", O_RDONLY|O_CLOEXEC) = 6\r\n:\u001b[K"
+    ],
+    [
+      0.232271,
+      "\r\u001b[Kopen(\"/sys/fs/selinux/access\", O_RDWR)  = 5\r\n:\u001b[K"
+    ],
+    [
+      0.704943,
+      "\r\u001b[K...skipping...\r\nopen(\"/etc/passwd\", O_RDONLY|O_CLOEXEC) = 6\r\nopen(\"/proc/self/task/26462/attr/current\", O_RDONLY|O_CLOEXEC) = 6\r\n--- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=26465, si_status=0, si_utime=0, si_stime=0} ---\r\nopen(\"/dev/urandom\", O_RDONLY)          = 6\r\nopen(\"/lib64/libfreeblpriv3.so\", O_RDONLY|O_CLOEXEC) = 6\r\nopen(\"/etc/ld.so.cache\", O_RDONLY|O_CLOEXEC) = 6\r\nopen(\"/lib64/libnspr4.so\", O_RDONLY|O_CLOEXEC) = 6\r\nopen(\"/dev/urandom\", O_RDONLY)          = 6\r\nopen(\"/lib64/libfreeblpriv3.chk\", O_RDONLY) = 6\r\nopen(\"/lib64/libfreeblpriv3.so\", O_RDONLY) = 6\r\nopen(\"/etc/ld.so.cache\", O_RDONLY|O_CLOEXEC) = 6\r\nopen(\"/lib64/libnspr4.so\", O_RDONLY|O_CLOEXEC) = 6\r\nopen(\"/proc/sys/crypto/fips_enabled\", O_RDONLY) = 6\r\nopen(\"/etc/passwd\", O_RDONLY|O_CLOEXEC) = 6\r\nopen(\"/etc/passwd\", O_RDONLY)           = 6\r\nopen(\"/proc/self/task/26462/attr/current\", O_RDONLY|O_CLOEXEC) = 6\r\ngetxattr(\"/etc/shadow\", \"security.selinux\", \"system_u:object_r:shadow_t:s0\", 255) = 30\r\nopen(\"/proc/self/task/26462/attr/fscreate\", O_RDONLY|O_CLOEXEC) = 6\r\nopen(\"/proc/self/task/26462/attr/fscreate\", O_RDWR|O_CLOEXEC) = 6\r\nopen(\"/etc/nshadow\", O_WRONLY|O_CREAT|O_TRUNC, 0666) = 6\r\nopen(\"/etc/shadow\", O_RDONLY)           = 7\r\nrename(\"/etc/nshadow\", \"/etc/shadow\")   = 0\r\nopen(\"/etc/localtime\", O_RDONLY|O_CLOEXEC) = 6\r\nopen(\"/proc/self/task/26462/attr/current\", O_RDONLY|O_CLOEXEC) = 7\r\nopen(\"/proc/self/task/26462/attr/fscreate\", O_RDWR|O_CLOEXEC) = 7\r\nreadlink(\"/proc/self/exe\", \"/usr/bin/passwd\", 4096) = 15\r\nreadlink(\"/proc/self/fd/0\", \"/dev/pts/3\", 31) = 10\r\nstat(\"/dev/pts/3\", {st_mode=S_IFCHR|0620, st_rdev=makedev(136, 3), ...}) = 0\r\nlstat(\"/dev/pts/3\", {st_mode=S_IFCHR|0620, st_rdev=makedev(136, 3), ...}) = 0\r\n+++ exited with 0 +++\r\n\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      4.982885,
+      "\r\u001b[K\u001b[?1l\u001b\u003e\u001b[?1049l\u001b]0;root@server:~\u0007[root@server ~]# "
+    ],
+    [
+      1.976310,
+      "^C\r\n\u001b]0;root@server:~\u0007[root@server ~]# "
+    ],
+    [
+      1.000100,
+      "exit\r\n"
+    ]
+  ]
+}
