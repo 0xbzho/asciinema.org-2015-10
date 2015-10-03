@@ -1,0 +1,6138 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 38.817458,
+  "command": "scriptreplay -t script.EtWVw1L520.timing script.EtWVw1L520",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.009842,
+      "There are several suitable screens on:\r\r\r\n\u00099270.pts-19.stork"
+    ],
+    [
+      0.000222,
+      "\u0009(10/03/15 15:29:11)\u0009(Attached)\r\r\n\u00094216.pts-19.stork\u0009(10/03/15 11:29:19)\u0009(Detached)\r\r\n"
+    ],
+    [
+      0.000982,
+      "\u001b[r\u001b[m\u001b[2J\u001b[H\u001b[?7h\u001b[?1;4;6l\u001b[?1049h\u001b[4l\u001b[?1h\u001b=\u001b[0m\u001b(B\u001b[1;24r"
+    ],
+    [
+      0.000275,
+      "\u001b[H\u001b[2J\u001b]0;SCREEN 9270.pts-19.stork florian@stork: ~/git/lceu2015\u0007\u001b[H\u001b[2J\u001b[22;2t\u001b]2;SCREEN 9270.pts-19.stork florian@stork: ~/git/lceu2015\u0007florian@quokka:~$\u001b]0;\u0007\u001b]0;SCREEN 9270.pts-19.stork florian@stork: ~/git/lceu2015\u0007 "
+    ],
+    [
+      3.799254,
+      "c"
+    ],
+    [
+      0.141197,
+      "r"
+    ],
+    [
+      0.092820,
+      "m"
+    ],
+    [
+      0.498380,
+      "_"
+    ],
+    [
+      0.213699,
+      "m"
+    ],
+    [
+      0.119941,
+      "o"
+    ],
+    [
+      0.082572,
+      "n"
+    ],
+    [
+      0.648315,
+      "\r\r\n\u001b[H\u001b[H\u001b[2JAttempting connection to the cluster..."
+    ],
+    [
+      0.033786,
+      "\r\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:31 2015\r\r\nLast change: Sat Oct  3 15:11:01 2015 via cibadmin on wombat\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\n"
+    ],
+    [
+      0.000035,
+      "Version: 1.1.10-42f2063\r\r\n2 Nodes configured\r\r\n32 Resources configured\r\r\n\r\n\r\nOnline: [ quokka wombat ]\r\r\n\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_fence_wombat  (stonith:external/ipmi):\u001b[8CStarted quokka\r\r\n"
+    ],
+    [
+      0.000026,
+      "p_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\n"
+    ],
+    [
+      0.000015,
+      "p_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted "
+    ],
+    [
+      0.000046,
+      "quokka\r\r\n"
+    ],
+    [
+      0.000017,
+      " Resource Group: g_apache-projects\r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\n"
+    ],
+    [
+      0.000013,
+      "quokka\r\n"
+    ],
+    [
+      0.000012,
+      "\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted quokka\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka"
+    ],
+    [
+      0.000011,
+      "\r\n\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started quokka\r"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      " Resource Group: g_apache-staging\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[28Dp_fs_overlay-apache-staging\u001b[8C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\n"
+    ],
+    [
+      0.000013,
+      "quokka\u001b[6Cp_fs_lxc-apache-staging     (ocf::hastexo:Filesystem):\u001b[6CStarted"
+    ],
+    [
+      4.575330,
+      "\rConnection to the CIB terminated\r\r\nReconnecting...florian@quokka:~$ "
+    ],
+    [
+      2.346371,
+      "\r(reverse-i-search)`': "
+    ],
+    [
+      1.059951,
+      "\u0008\u0008\u0008s': crm node standby wombat; crm_mon; crm node online wombat\r(reverse-i-search)`s': crm node "
+    ],
+    [
+      0.109668,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008t': crm node standby wombat; crm_mon; crm node online wombat \u001b[Areverse-i-search)`st': crm node "
+    ],
+    [
+      0.109978,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008a': crm node standby wombat; crm_mon; crm node online wombat\u0008t\u001b[Areverse-i-search)`sta': crm node "
+    ],
+    [
+      2.558628,
+      "standby quokka; crm_mon; crm node online quokka\u001b[Areverse-i-search)`sta': crm node "
+    ],
+    [
+      2.303918,
+      "\r\u001b[6Pflorian@quokka:~$ crm node standby quokka; crm_mon; crm node online quokka\r\r\n\u001b[K\u001b[Aflorian@quokka:~$ crm node \r\r\n"
+    ],
+    [
+      0.156234,
+      "\u001b[H\u001b[H\u001b[2JAttempting connection to the cluster...\r\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:44 2015\r\r\nLast change: Sat Oct  3 15:29:44 2015 via crm_attribute on quokka\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r"
+    ],
+    [
+      0.000009,
+      "\r\n2 Nodes configured\r\r\n32 Resources configured\r\r\n\r\n\r\nNode quokka (1572674743): standby\r\r\n"
+    ],
+    [
+      0.023278,
+      "Online: [ wombat ]\r\r\n"
+    ],
+    [
+      0.000010,
+      "\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_fence_wombat  (stonith:external/ipmi):\u001b[8CStarted quokka\r\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\n Resource Group: g_apache-projects\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\n"
+    ],
+    [
+      0.000005,
+      "quokka\r\n"
+    ],
+    [
+      0.000004,
+      "\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted quokka\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokk"
+    ],
+    [
+      0.000016,
+      "a"
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started quokka\r\r\n"
+    ],
+    [
+      0.000005,
+      " Resource Group: g_apache-staging\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[28Dp_fs_overlay-apache-staging\u001b[8C(ocf::hastexo:Filesystem):\u001b[6CStarted"
+    ],
+    [
+      0.014313,
+      "\u0008.\u0008\u001b[1@d"
+    ],
+    [
+      0.008337,
+      "\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:44 2015\r\r\nLast change: Sat Oct  3 15:29:44 2015 via crm_attribute on quokka\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r\r\n"
+    ],
+    [
+      0.000011,
+      "2 Nodes configured\r\r\n32 Resources configured\r\r\n"
+    ],
+    [
+      0.000970,
+      "\r\n\r\nNode quokka (1572674743): standby\r\r\nOnline: [ wombat ]\r\r\n\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\n"
+    ],
+    [
+      0.000008,
+      "p_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\n Resource Group: g_apache-projects\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\nquokka\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted quokka\r\n\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started quokka\r"
+    ],
+    [
+      0.000005,
+      "\r\n Resource Group: g_apache-staging\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[28Dp_fs_overlay-apache-staging\u001b[8C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\n"
+    ],
+    [
+      0.000005,
+      "quokka\u001b[6Cp_fs_lxc-apache-staging     (ocf::hastexo:Filesystem):\u001b[6CStarted"
+    ],
+    [
+      0.016403,
+      "\u0008.\u0008\u001b[1@d\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:44 2015\r\r\nLast change: Sat Oct  3 15:29:44 2015 via crm_attribute on quokka\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r"
+    ],
+    [
+      0.000012,
+      "\r\n2 Nodes configured\r\r\n32 Resources configured\r\r\n\r\n\r\nNode quokka (1572674743): standby\r\r\nOnline: [ wombat ]\r\r\n\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\n Resource Group: g_apache-projects"
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\nquokka\r\n"
+    ],
+    [
+      0.000006,
+      "\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted quokka\r\n\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started quokka\r"
+    ],
+    [
+      0.000005,
+      "\r\n Resource Group: g_apache-staging\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[28Dp_fs_overlay-apache-staging\u001b[8C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\nquokka\u001b[6Cp_fs_lxc-apache-staging     (ocf::hastexo:Filesystem):\u001b[6CStarted"
+    ],
+    [
+      0.000005,
+      "\u0008.\u0008\u001b[1@d\u001b[H\u001b[H\u001b[2J"
+    ],
+    [
+      0.007948,
+      "Last updated: Sat Oct  3 15:29:44 2015\r\r\nLast change: Sat Oct  3 15:29:44 2015 via crm_attribute on quokka\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r\r\n"
+    ],
+    [
+      0.000011,
+      "2 Nodes configured\r\r\n32 Resources configured\r\r\n\r\n\r\nNode quokka (1572674743): standby\r\r\nOnline: [ wombat ]\r\r\n\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\n Resource Group: g_apache-projects\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\nquokka"
+    ],
+    [
+      0.000010,
+      "\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted quokka\r\n\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\n\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started quokka\r\r\n Resource Group: g_apache-staging"
+    ],
+    [
+      0.000004,
+      "\r\n\u001b[28Dp_fs_overlay-apache-staging\u001b[8C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\n"
+    ],
+    [
+      0.000004,
+      "quokka\u001b[6Cp_fs_lxc-apache-staging     (ocf::hastexo:Filesystem):\u001b[6CStarted\u0008.\u0008\u001b[1@d\u001b[H\u001b[H\u001b[2J"
+    ],
+    [
+      0.001028,
+      "Last updated: Sat Oct  3 15:29:44 2015\r\r\nLast change: Sat Oct  3 15:29:44 2015 via crm_attribute on quokka\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r"
+    ],
+    [
+      0.000009,
+      "\r\n2 Nodes configured\r\r\n32 Resources configured\r\r\n\r\n\r\nNode quokka (1572674743): standby\r\r\nOnline: [ wombat ]\r\r\n\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\n Resource Group: g_apache-p"
+    ],
+    [
+      0.000016,
+      "rojects\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\nquokka\r\n"
+    ],
+    [
+      0.000005,
+      "\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted quokka\r\n\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka"
+    ],
+    [
+      0.000004,
+      "\r\n\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started quokka\r\r\n"
+    ],
+    [
+      0.000004,
+      " Resource Group: g_apache-staging\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[28Dp_fs_overlay-apache-staging\u001b[8C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\nquokka\u001b[6Cp_fs_lxc-apache-staging     (ocf::hastexo:Filesystem):\u001b[6CStarted"
+    ],
+    [
+      0.543787,
+      "\u0008.\u0008\u001b[1@d\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:45 2015\r\r\nLast change: Sat Oct  3 15:29:44 2015"
+    ],
+    [
+      0.001305,
+      " via crm_attribute on quokka\r\r\nStack: corosync\r\r\n"
+    ],
+    [
+      0.001613,
+      "Current DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r\r\n"
+    ],
+    [
+      0.001915,
+      "2 Nodes configured\r\r\n32 Resources configured\r\r\n\r\n\r\n"
+    ],
+    [
+      0.001228,
+      "Node quokka (1572674743): standby\r\r\n"
+    ],
+    [
+      0.000007,
+      "Online: [ wombat ]\r\r\n\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\n"
+    ],
+    [
+      0.000005,
+      " Resource Group: g_apache-projects"
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\n"
+    ],
+    [
+      0.000005,
+      "quokka\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted quokka"
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[65Dp_virtdom_apache-p"
+    ],
+    [
+      0.000005,
+      "rojects  (ocf::heartbeat:VirtualDomain): Started quokka\r\r\n"
+    ],
+    [
+      0.000005,
+      " Resource Group: g_apache-staging\r\n\u001b[28Dp_fs_overlay-apache-staging\u001b[8C(ocf::hastexo:Filesystem):\u001b[6CStarted\r"
+    ],
+    [
+      0.000005,
+      "\r\nquokka\u001b[6Cp_fs_lxc-apache-staging     (ocf::hastexo:Filesystem):\u001b[6CStarted\u0008.\u0008\u001b[1@d\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:45 2015\r"
+    ],
+    [
+      0.000005,
+      "\r\nLast change: Sat Oct  3 15:29:44 2015 via crm_attribute on quokka\r\r\n"
+    ],
+    [
+      0.000005,
+      "Stack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\n"
+    ],
+    [
+      0.000005,
+      "Version: 1.1.10-42f2063\r\r\n2 Nodes configured\r"
+    ],
+    [
+      0.000005,
+      "\r\n32 Resources configured\r\r\n\r\n"
+    ],
+    [
+      0.000005,
+      "\r\nNode quokka (1572674743): standby\r"
+    ],
+    [
+      0.000005,
+      "\r\nOnline: [ wombat ]\r"
+    ],
+    [
+      0.000005,
+      "\r\n\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r"
+    ],
+    [
+      0.000005,
+      "\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r"
+    ],
+    [
+      0.000005,
+      "\r\n Resource Group: g_apach"
+    ],
+    [
+      0.000005,
+      "e-projects\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r"
+    ],
+    [
+      0.000005,
+      "\r\nquokka\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted quokka"
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[65Dp_virtdom_apache-p"
+    ],
+    [
+      0.000417,
+      "rojects  (ocf::heartbeat:VirtualDomain): Stopped\r\r\n Resource Group: g_apache-staging\r\n\u001b[28Dp_fs_overlay-apache-staging\u001b[8C(ocf::hastexo:Filesystem):\u001b[6CStarted\r"
+    ],
+    [
+      0.000007,
+      "\r\nquokka\u001b[6Cp_fs_lxc-apache-staging     (ocf::hastexo:Filesystem):\u001b[6CStarted\u0008.\u0008\u001b[1@d\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:45 2015\r\r\nLast change: Sat Oct  3 15:29:44 2015 via crm_attribute on quokka\r\r\nStack: corosync\r"
+    ],
+    [
+      0.000005,
+      "\r\nCurrent DC: quokka (1572674743) - partition with quorum\r"
+    ],
+    [
+      0.000004,
+      "\r\nVersion: 1.1.10-42f2063\r\r\n"
+    ],
+    [
+      0.000004,
+      "2 Nodes configured\r\r\n32 Resources configured\r"
+    ],
+    [
+      0.000059,
+      "\r\n\r\n\r\n"
+    ],
+    [
+      0.000012,
+      "Node quokka (1572674743): standby\r\r\nOnline: [ wombat ]\r\r\n\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\n Resource Group: g_apache-projects\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\nquokka\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted quokka\r\n\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\n\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Stopped\r\r\n Resource Group: g_apache-staging\r\n\u001b[28Dp_fs_overlay-apache-staging\u001b[8C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\nquokka\u001b[6Cp_fs_lxc-apache-staging     (ocf::hastexo:Filesystem):\u001b[6CStarted\u0008.\u0008\u001b[1@d\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:45 2015\r\r\nLast change: Sat Oct  3 15:29:44 2015 via crm_attribute on quokka\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r\r\n2 Nodes configured\r\r\n32 Resources configured\r"
+    ],
+    [
+      0.000008,
+      "\r\n\r\n\r\nNode quokka (1572674743): standby\r\r\nOnline: [ wombat ]\r"
+    ],
+    [
+      0.000004,
+      "\r\n\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r"
+    ],
+    [
+      0.000004,
+      "\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r"
+    ],
+    [
+      0.000004,
+      "\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r"
+    ],
+    [
+      0.000004,
+      "\r\n Resource Group: g_apache-projects"
+    ],
+    [
+      0.000004,
+      "\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r"
+    ],
+    [
+      0.000005,
+      "\r\nquokka"
+    ],
+    [
+      0.000004,
+      "\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted quokka"
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka"
+    ],
+    [
+      0.000004,
+      "\r\n\u001b[65Dp_virtdom_apache-projects  (ocf:"
+    ],
+    [
+      0.000004,
+      ":heartbeat:VirtualDomain): Stopped\r"
+    ],
+    [
+      0.000004,
+      "\r\n Resource Group: g_apache-staging"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[28Dp_fs_overlay-apache-staging\u001b[8C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\n"
+    ],
+    [
+      0.000004,
+      "quokka\u001b[6Cp_fs_lxc-apache-staging     (ocf::hastexo:Filesystem):\u001b[6CStarted"
+    ],
+    [
+      0.123414,
+      "\u0008.\u0008\u001b[1@d"
+    ],
+    [
+      0.004165,
+      "\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:45 2015\r\r\nLast change: Sat Oct  3 15:29:44 2015 via crm_attribute on quokka"
+    ],
+    [
+      0.000311,
+      "\r\r\n"
+    ],
+    [
+      0.000827,
+      "Stack: corosync\r\r\n"
+    ],
+    [
+      0.000008,
+      "Current DC: quokka (1572674743)"
+    ],
+    [
+      0.000765,
+      " - partition with quorum\r\r\n"
+    ],
+    [
+      0.000004,
+      "Version: 1.1.10-42f2063\r\r\n"
+    ],
+    [
+      0.000787,
+      "2 Nodes configured\r"
+    ],
+    [
+      0.000004,
+      "\r\n32 Resources configured\r\r\n"
+    ],
+    [
+      0.000414,
+      "\r\n\r\n"
+    ],
+    [
+      0.000479,
+      "Node quokka (1572674743): standby\r\r\n"
+    ],
+    [
+      0.016883,
+      "Online: [ wombat ]\r\r\n\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r"
+    ],
+    [
+      0.000011,
+      "\r\n Resource Group: g_apache-projects\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\nquokka\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted quokka\r\n\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\n\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Stopped\r"
+    ],
+    [
+      0.000004,
+      "\r\n Resource Group: g_apache-staging\r\n\u001b[28Dp_fs_overlay-apache-staging\u001b[8C(ocf::hastexo:Filesystem):\u001b[6CStarted\r"
+    ],
+    [
+      0.000004,
+      "\r\nquokka\u001b[6Cp_fs_lxc-apache-staging     (ocf::hastexo:Filesystem):\u001b[6CStarted\u0008.\u0008\u001b[1@d\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:45 2015\r"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "Last change: Sat Oct  3 15:29:44 2015 via crm_attribute on quokka\r\r\n"
+    ],
+    [
+      0.000003,
+      "Stack: corosync\r\r\n"
+    ],
+    [
+      0.000003,
+      "Current DC: quokka (1572674743) - partition with quorum\r"
+    ],
+    [
+      0.000003,
+      "\r\nVersion: 1.1.10-42f2063\r"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "2 Nodes configured\r\r\n"
+    ],
+    [
+      0.000003,
+      "32 Resources configured\r"
+    ],
+    [
+      0.000003,
+      "\r\n\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "Node quokka (1572674743): standby\r\r\n"
+    ],
+    [
+      0.000003,
+      "Online: [ wombat ]\r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r"
+    ],
+    [
+      0.000005,
+      "\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r"
+    ],
+    [
+      0.000005,
+      "\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r"
+    ],
+    [
+      0.000003,
+      "\r\n Resource Group: g_apache-projects"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[29Dp_fs_overlay-apache-projec"
+    ],
+    [
+      0.000024,
+      "ts\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r"
+    ],
+    [
+      0.000004,
+      "\r\nquokka\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted quokka\r\n\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStopped"
+    ],
+    [
+      0.000003,
+      "\r\n\u001b[58Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Stopped\r"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      " Resource Group: g_apache-staging\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[28Dp_fs_overlay-apache-staging\u001b[8C(ocf::hastexo:Filesystem):\u001b[6CStarted\r"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "quokka\u001b[6Cp_fs_lxc-apache-staging     (ocf::hastexo:Filesystem):\u001b[6CStarted"
+    ],
+    [
+      0.011068,
+      "\u0008.\u0008\u001b[1@d"
+    ],
+    [
+      0.006926,
+      "\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:45 2015\r\r\nLast change: Sat Oct  3 15:29:44 2015 via crm_attribute on quokka\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r"
+    ],
+    [
+      0.000009,
+      "\r\nVersion: 1.1.10-42f2063\r\r\n2 Nodes configured\r\r\n32 Resources configured\r\r\n\r\n\r\n"
+    ],
+    [
+      0.000722,
+      "Node quokka (1572674743): standby\r\r\n"
+    ],
+    [
+      0.000852,
+      "Online: [ wombat ]\r\r\n\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\n"
+    ],
+    [
+      0.000010,
+      " Resource Group: g_apache-projects\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\nquokka\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted quokka\r\n\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStopped\r\n\u001b[58Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Stopped\r\r\n Resource Group: g_apache-staging\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[28Dp_fs_overlay-apache-staging\u001b[8C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\n"
+    ],
+    [
+      0.000004,
+      "quokka\u001b[6Cp_fs_lxc-apache-staging     (ocf::hastexo:Filesystem):\u001b[6CStopped"
+    ],
+    [
+      0.003606,
+      "\u0008.\u0008\u001b[1@d\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:45 2015\r\r\nLast change: Sat Oct  3 15:29:44 2015 via crm_attribute on quokka\r\r\n"
+    ],
+    [
+      0.000854,
+      "Stack: corosync\r\r\n"
+    ],
+    [
+      0.010818,
+      "Current DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r\r\n2 Nodes configured\r\r\n32 Resources configured\r\r\n\r\n\r\n"
+    ],
+    [
+      0.000007,
+      "Node quokka (1572674743): standby\r\r\nOnline: [ wombat ]\r\r\n\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r"
+    ],
+    [
+      0.000006,
+      "\r\n Resource Group: g_apache-projects\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r"
+    ],
+    [
+      0.000004,
+      "\r\nquokka\r\n\u0008p_fs_lxc-apache-projects   (ocf:"
+    ],
+    [
+      0.000005,
+      ":hastexo:Filesystem):\u001b[6CStarted quokka"
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStopped\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[58Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Stopped\r\r\n Resource Group: g_apache-staging\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[28Dp_fs_overlay-apache-staging\u001b[8C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\nquokka\u001b[6Cp_fs_lxc-apache-staging     (ocf::hastexo:Filesystem):\u001b[6CStopped"
+    ],
+    [
+      0.020979,
+      "\u0008.\u0008\u001b[1@d"
+    ],
+    [
+      0.006776,
+      "\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:45 2015\r\r\nLast change: Sat Oct  3 15:29:44 2015 via crm_attribute on quokka\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r"
+    ],
+    [
+      0.000008,
+      "\r\nVersion: 1.1.10-42f2063\r\r\n2 Nodes configured\r\r\n32 Resources configured\r\r\n\r\n\r\nNode quokka (1572674743): standby\r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000405,
+      "Online: [ wombat ]\r\r\n\r\n"
+    ],
+    [
+      0.000834,
+      "p_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r"
+    ],
+    [
+      0.000005,
+      "\r\n Resource Group: g_apache-projects\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\nquokka\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStopped\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[66Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStopped\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[58Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Stopped\r\r\n"
+    ],
+    [
+      0.000004,
+      " Resource Group: g_a"
+    ],
+    [
+      0.000018,
+      "pache-staging"
+    ],
+    [
+      0.000004,
+      "\r\n\u001b[28Dp_fs_overlay-apache-staging\u001b[8C(ocf::hastexo:Filesystem):\u001b[6CStarted\r"
+    ],
+    [
+      0.000004,
+      "\r\nquokka\u001b[6Cp_fs_lxc-apache-staging     (ocf::hastexo:Filesystem):\u001b[6CStopped"
+    ],
+    [
+      0.004824,
+      "\u0008.\u0008\u001b[1@d"
+    ],
+    [
+      0.004879,
+      "\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:45 2015\r\r\nLast change: Sat Oct  3 15:29:44 2015 via crm_attribute on quokka\r\r\nStack: corosync\r\r\n"
+    ],
+    [
+      0.003341,
+      "Current DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r\r\n2 Nodes configured\r\r\n"
+    ],
+    [
+      0.004599,
+      "32 Resources configured\r\r\n\r\n\r\nNode quokka (1572674743): standby\r\r\nOnline: [ wombat ]\r\r\n\r\n"
+    ],
+    [
+      0.000007,
+      "p_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\n Resource Group: g_apache-projects\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\n"
+    ],
+    [
+      0.000006,
+      "quokka\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStopped\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[66Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStopped\r\n\u001b[58Dp_vir"
+    ],
+    [
+      0.000005,
+      "tdom_apache-projects  (ocf::heartbeat:VirtualDomain): Stopped\r\r\n"
+    ],
+    [
+      0.000005,
+      " Resource Group: g_apache-staging\r\n\u001b[28Dp_fs_overlay-apache-staging\u001b[8C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\n"
+    ],
+    [
+      0.000005,
+      "quokka\u001b[6Cp_fs_lxc-apache-staging     (ocf::hastexo:Filesystem):\u001b[6CStopped"
+    ],
+    [
+      0.061501,
+      "\u0008.\u0008\u001b[1@d"
+    ],
+    [
+      0.005228,
+      "\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:45 2015\r\r\nLast change: Sat Oct  3 15:29:44 2015 via crm_attribute on quokka\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\n"
+    ],
+    [
+      0.000009,
+      "Version: 1.1.10-42f2063\r\r\n2 Nodes configured\r\r\n32 Resources configured\r\r\n\r\n\r\n"
+    ],
+    [
+      0.000935,
+      "Node quokka (1572674743): standby\r\r\nOnline: [ wombat ]\r\r\n"
+    ],
+    [
+      0.000782,
+      "\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\n Resource Group: g_apache-staging\r\n\u001b[28Dp_fs_overlay-apache-staging\u001b[8C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\n"
+    ],
+    [
+      0.000007,
+      "quokka\r\n\u0008p_fs_lxc-apache-staging    (ocf::hastexo:Filesystem):\u001b[6CStopped\r\n\u001b[66Dp_virtdom_apache-staging   (ocf::heartbeat:VirtualDomain): Stopped\r\r\n Resource Group: g_apache-www\r\n\u001b[24Dp_fs_overlay-apache-www    (ocf::hastexo:File"
+    ],
+    [
+      0.000005,
+      "system):\u001b[6CStarted quokka\r\n\u001b[73Dp_fs_lxc-apache-www\u001b[8C(ocf::hastexo:Filesystem):\u001b[6CStopped\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[66Dp_virtdom_apache-www\u001b[7C(ocf::heartbeat:VirtualDomain): Stopped  Resour"
+    ],
+    [
+      0.031682,
+      "\u0008.\u0008\u001b[1@r\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:45 2015\r\r\nLast change: Sat Oct  3 15:29:44 2015 via crm_attribute on quokka\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\n"
+    ],
+    [
+      0.000009,
+      "Version: 1.1.10-42f2063\r\r\n"
+    ],
+    [
+      0.002487,
+      "2 Nodes configured\r\r\n32 Resources configured\r\r\n\r\n\r\nNode quokka (1572674743): standby\r\r\nOnline: [ wombat ]\r"
+    ],
+    [
+      0.000007,
+      "\r\n\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\n Resource Group: g_apache-staging\r\n\u001b[28Dp_fs_overlay-apache-staging\u001b[8C(ocf::hastexo:Filesystem):\u001b[6CStarted\r"
+    ],
+    [
+      0.000005,
+      "\r\nquokka\r\n\u0008p_fs_lxc-apache-staging    (ocf::hastexo:Filesystem):\u001b[6CStopped\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[66Dp_virtdom_apache-staging   (ocf::heartbeat:VirtualDomain): Stopped\r\r\n Resource Group: g_apache-www"
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[24Dp_fs_overlay-apache-www    (ocf::hastexo:Filesystem):\u001b[6CStarted quokka\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[73Dp_fs_lxc-apache-www\u001b[8C(ocf::hastexo:Filesystem):\u001b[6CStopped\r\n\u001b[66Dp_virtdom_apache-www\u001b[7C(ocf::heartbeat:VirtualDomain): "
+    ],
+    [
+      0.000006,
+      "Stopped  Resour"
+    ],
+    [
+      0.042768,
+      "\u0008.\u0008\u001b[1@r"
+    ],
+    [
+      0.003944,
+      "\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:45 2015\r\r\nLast change: Sat Oct  3 15:29:44 2015 via crm_attribute on quokka"
+    ],
+    [
+      0.002722,
+      "\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r\r\n2 Nodes configured\r\r\n32 Resources configured\r"
+    ],
+    [
+      0.000010,
+      "\r\n\r\n\r\nNode quokka (1572674743): standby\r\r\nOnline: [ wombat ]\r\r\n\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\n"
+    ],
+    [
+      0.000007,
+      "p_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\n"
+    ],
+    [
+      0.000007,
+      " Resource Group: g_apache-www\r\n\u001b[24Dp_fs_overlay-apache-www    (ocf::hastexo:Filesystem):\u001b[6CStarted quokka"
+    ],
+    [
+      0.000008,
+      "\r\n\u001b[73Dp_fs_lxc-apache-www\u001b[8C(ocf::hastexo:Filesystem):\u001b[6CStopped\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[66Dp_virtdom_apache-www\u001b[7C(ocf::heartbeat:VirtualDomain): Stopped\r\r\n Resource Group: g_mysql-staging\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[27Dp_fs_overlay-mysql-staging (ocf::hastexo:Filesystem):\u001b[6CStarted quokka\r\n\u001b[73Dp_fs_lxc-mysql-staging     (oc"
+    ],
+    [
+      0.000028,
+      "f::hastexo:Filesystem):\u001b[6CStarted quokka\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[73Dp_virtdom_mysql-staging    (ocf::heartbeat:VirtualDomain): Started quokka\r\r\n Resource Group: g_mysql-www     p_fs_overlay-mysql-www (ocf::hastexo:Filesyste"
+    ],
+    [
+      0.012624,
+      "\u0008.\u0008\u001b[1@e"
+    ],
+    [
+      0.005352,
+      "\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:45 2015\r\r\nLast change: Sat Oct  3 15:29:44 2015 via crm_attribute on quokka\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r\r\n"
+    ],
+    [
+      0.000010,
+      "2 Nodes configured\r\r\n32 Resources configured\r\r\n\r\n\r\nNode quokka (1572674743): standby\r\r\nOnline: [ wombat ]\r\r\n"
+    ],
+    [
+      0.000007,
+      "\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r"
+    ],
+    [
+      0.000007,
+      "\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\n"
+    ],
+    [
+      0.000008,
+      " Resource Group: g_apache-projects\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r"
+    ],
+    [
+      0.000007,
+      "\r\nwombat\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStopped"
+    ],
+    [
+      0.000007,
+      "\r\n\u001b[66Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStopped\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[58Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Stopped\r\r\n Resource Group: g_apache-www\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[24Dp_fs_overlay-apache-www    (ocf::hastexo:Filesystem):\u001b[6CStarted quokka\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[73Dp_fs_lxc-apache-www\u001b[8C(ocf::hastexo:Filesystem):\u001b[6CStopped\u001b[6Cp_"
+    ],
+    [
+      0.008838,
+      "\u0008.\u0008\u001b[1@_"
+    ],
+    [
+      0.004001,
+      "\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:45 2015\r\r\nLast change: Sat Oct  3 15:29:44 2015 via crm_attribute on quokka"
+    ],
+    [
+      0.002768,
+      "\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r\r\n2 Nodes configured\r\r\n32 Resources configured\r"
+    ],
+    [
+      0.000011,
+      "\r\n\r\n\r\nNode quokka (1572674743): standby\r\r\nOnline: [ wombat ]\r\r\n\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\n"
+    ],
+    [
+      0.000007,
+      "p_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\n"
+    ],
+    [
+      0.000007,
+      " Resource Group: g_apache-projects\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r"
+    ],
+    [
+      0.000007,
+      "\r\nwombat\r\n"
+    ],
+    [
+      0.000007,
+      "\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStopped"
+    ],
+    [
+      0.000007,
+      "\r\n\u001b[66Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStopped\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[58Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Stopped\r\r\n Resource Group: g_apache-www\r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[24Dp_fs_overlay-apache-www    (ocf::hastexo:Filesystem):\u001b[6CStarted quokka\r\n\u001b[73Dp_fs_lxc-apache-www\u001b[8C(ocf::hastexo:Filesystem):\u001b[6CStopped\u001b[6Cp_"
+    ],
+    [
+      0.010547,
+      "\u0008.\u0008\u001b[1@_"
+    ],
+    [
+      0.006495,
+      "\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:45 2015\r\r\nLast change: Sat Oct  3 15:29:44 2015 via crm_attribute on quokka\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r\r\n"
+    ],
+    [
+      0.000010,
+      "2 Nodes configured\r\r\n32 Resources configured\r\r\n\r\n\r\nNode quokka (1572674743): standby\r\r\n"
+    ],
+    [
+      0.000008,
+      "Online: [ wombat ]\r\r\n\r\n"
+    ],
+    [
+      0.000587,
+      "p_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\n Resource Group: g_apache-projects\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::ha"
+    ],
+    [
+      0.000011,
+      "stexo:Filesystem):\u001b[6CStarted\r\r\nwombat\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStopped\r\n\u001b[66Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStopped\r\n\u001b[58Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Stopped\r\r\n"
+    ],
+    [
+      0.000007,
+      " Resource Group: g_apache-www\r\n\u001b[24Dp_fs_overlay-apache-www    (ocf::hastexo:Filesystem):\u001b[6CStarted quokka\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[73Dp_fs_lxc-apache-www\u001b[8C(ocf::hastexo:Filesystem):\u001b[6CStopped\u001b[6Cp_"
+    ],
+    [
+      0.010913,
+      "\u0008.\u0008\u001b[1@_"
+    ],
+    [
+      0.003527,
+      "\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:45 2015\r\r\nLast change: Sat Oct  3 15:29:44 2015 via crm_attribute on quokka"
+    ],
+    [
+      0.001218,
+      "\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743)"
+    ],
+    [
+      0.000889,
+      " - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r\r\n"
+    ],
+    [
+      0.002419,
+      "2 Nodes configured\r\r\n32 Resources configured\r\r\n\r\n\r\nNode quokka (1572674743): standby\r\r\n"
+    ],
+    [
+      0.001109,
+      "Online: [ wombat ]\r\r\n"
+    ],
+    [
+      0.001604,
+      "\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r"
+    ],
+    [
+      0.000007,
+      "\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\n Resource Group: g_apache-projects\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r"
+    ],
+    [
+      0.000006,
+      "\r\nwombat\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStopped\r\n\u001b[58Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Stopped\r"
+    ],
+    [
+      0.000006,
+      "\r\n Resource Group: g_apache-www\r\n\u001b[24Dp_fs_overlay-apache-www    (ocf::hastexo:Filesystem):\u001b[6CStarted quokka"
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[73Dp_fs_lxc-apache-www\u001b[8C(ocf::hastexo:Filesystem):\u001b[6CStopped\u001b[6Cp_"
+    ],
+    [
+      0.016842,
+      "\u0008.\u0008\u001b[1@_"
+    ],
+    [
+      0.004414,
+      "\u001b[H\u001b[H\u001b[2J"
+    ],
+    [
+      0.002709,
+      "Last updated: Sat Oct  3 15:29:45 2015\r\r\nLast change: Sat Oct  3 15:29:44 2015 via crm_attribute on quokka\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r"
+    ],
+    [
+      0.000007,
+      "\r\n2 Nodes configured\r\r\n32 Resources configured\r\r\n\r\n\r\nNod"
+    ],
+    [
+      0.000005,
+      "e quokka (1572674743): standby\r\r\nOnline: [ wombat ]\r\r\n"
+    ],
+    [
+      0.001410,
+      "\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\n Resource Group: g_apache-projects\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\nwombat\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStopped\r\n\u001b[58Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Stopped\r\r\n"
+    ],
+    [
+      0.000005,
+      " Resource Group: g_apache-www\r\n\u001b[24Dp_fs_overlay-apache-www    (ocf::hastexo:Filesystem):\u001b[6CStarted quokka\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[73Dp_fs_lxc-apache-www\u001b[8C(ocf::hastexo:Filesystem):\u001b[6CStopped\u001b[6Cp_"
+    ],
+    [
+      0.005927,
+      "\u0008.\u0008\u001b[1@_"
+    ],
+    [
+      0.003911,
+      "\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:45 2015\r\r\nLast change: Sat Oct  3 15:29:44 2015 via crm_attribute on quokka"
+    ],
+    [
+      0.000456,
+      "\r\r\n"
+    ],
+    [
+      0.000297,
+      "Stack: corosync\r\r\n"
+    ],
+    [
+      0.000525,
+      "Current DC: quokka (1572674743)"
+    ],
+    [
+      0.000441,
+      " - partition with quorum\r\r\n"
+    ],
+    [
+      0.000441,
+      "Version: 1.1.10-42f2063\r\r\n"
+    ],
+    [
+      0.000485,
+      "2 Nodes configured\r\r\n"
+    ],
+    [
+      0.000403,
+      "32 Resources configured\r\r\n"
+    ],
+    [
+      0.000825,
+      "\r\n\r\n"
+    ],
+    [
+      0.000008,
+      "Node quokka (1572674743): standby\r\r\nOnline: [ wombat ]\r\r\n"
+    ],
+    [
+      0.000635,
+      "\r\n"
+    ],
+    [
+      0.001844,
+      "p_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r"
+    ],
+    [
+      0.000009,
+      "\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\n Resource Group: g_apache-projects"
+    ],
+    [
+      0.000007,
+      "\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::ha"
+    ],
+    [
+      0.000025,
+      "stexo:Filesystem):\u001b[6CStarted\r\r\n"
+    ],
+    [
+      0.000007,
+      "wombat\r\n"
+    ],
+    [
+      0.000007,
+      "\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Stopped\r"
+    ],
+    [
+      0.000010,
+      "\r\n Resource Group: g_apache-www\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[24Dp_fs_overlay-apache-www    (ocf::hastexo:Filesystem):\u001b[6CStarted quokka"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[73Dp_fs_lxc-apache-www\u001b[8C(ocf::hastexo:Filesystem):\u001b[6CStopped\u001b[6Cp_"
+    ],
+    [
+      0.018822,
+      "\u0008.\u0008\u001b[1@_"
+    ],
+    [
+      0.003573,
+      "\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:45 2015\r"
+    ],
+    [
+      0.000009,
+      "\r\nLast change: Sat Oct  3 15:29:44 2015 via crm_attribute on quokka\r\r\n"
+    ],
+    [
+      0.002921,
+      "Stack: corosync\r\r\n"
+    ],
+    [
+      0.000011,
+      "Current DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r\r\n2 Nodes configured\r\r\n32 Resources configured\r\r\n\r\n\r\nNode quokka (1572674743): standby\r"
+    ],
+    [
+      0.000007,
+      "\r\nOnline: [ wombat ]\r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "p_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\n"
+    ],
+    [
+      0.000007,
+      "p_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r"
+    ],
+    [
+      0.000006,
+      "\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      " Resource Group: g_apache-projects\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r"
+    ],
+    [
+      0.000007,
+      "\r\nwombat"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\u0008p_fs_lxc-apache"
+    ],
+    [
+      0.000031,
+      "-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat"
+    ],
+    [
+      0.000008,
+      "\r\n\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Stopped\r\r\n"
+    ],
+    [
+      0.000009,
+      " Resource Group: g_apache-www\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[24Dp_fs_overlay-apache-www    (ocf::hastexo:Filesystem):\u001b[6CStarted quokka\r\n"
+    ],
+    [
+      0.000018,
+      "\u001b[73Dp_fs_lxc-apache-www\u001b[8C(ocf::hastexo:Filesystem):\u001b[6CStopped\u001b[6Cp_"
+    ],
+    [
+      0.050969,
+      "\u0008.\u0008\u001b[1@_\u001b[H\u001b[H\u001b[2J"
+    ],
+    [
+      0.003011,
+      "Last updated: Sat Oct  3 15:29:46 2015\r\r\nLast change: Sat Oct  3 15:29:44 2015 via crm_attribute on quokka\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r"
+    ],
+    [
+      0.000022,
+      "\r\n2 Nodes configured\r\r\n32 Resources configured\r\r\n\r\n\r\nNode quokka (1572674743): standby\r\r\nOnline: [ wombat ]\r\r\n"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "p_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\n"
+    ],
+    [
+      0.000009,
+      "p_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "p_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\n"
+    ],
+    [
+      0.000008,
+      " Resource Group: g_apache-p"
+    ],
+    [
+      0.000040,
+      "rojects\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\n"
+    ],
+    [
+      0.000010,
+      "wombat"
+    ],
+    [
+      0.000009,
+      "\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[65Dp_virtdom_apache-proj"
+    ],
+    [
+      0.000009,
+      "ects  (ocf::heartbeat:VirtualDomain): Stopped\r"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      " Resource Group: g_mysql-staging"
+    ],
+    [
+      0.000010,
+      "\r\n\u001b[27Dp_fs_overlay-mysql-staging (ocf::hastexo:Filesystem):\u001b[6CStarted quokka"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[73Dp_fs_lxc-mysql-staging     (ocf::hastexo:Filesystem):\u001b[6CStarted quokka "
+    ],
+    [
+      0.056328,
+      "\u0008.\u0008\u001b[1@ \u001b[H\u001b[H\u001b[2J"
+    ],
+    [
+      0.001437,
+      "Last updated: Sat Oct  3 15:29:46 2015\r\r\nLast change: Sat Oct  3 15:29:44 2015 via crm_attribute on quokka\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r\r\n"
+    ],
+    [
+      0.000011,
+      "2 Nodes configured\r\r\n32 Resources configured\r\r\n\r\n\r\n"
+    ],
+    [
+      0.002017,
+      "Node quokka (1572674743): standby\r\r\nOnline: [ wombat ]\r\r\n\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r"
+    ],
+    [
+      0.000009,
+      "\r\n Resource Group: g_apache-projects\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\nwombat\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\n\u001b[65Dp_virtdom_apache-p"
+    ],
+    [
+      0.000006,
+      "rojects  (ocf::heartbeat:VirtualDomain): Stopped\r"
+    ],
+    [
+      0.000005,
+      "\r\n Resource Group: g_mysql-staging"
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[27Dp_fs_overlay-mysql-staging (ocf::hastexo:Filesystem):\u001b[6CStarted quokka"
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[73Dp_fs_lxc-mysql-staging     (ocf::hastexo:Filesystem):\u001b[6CStarted quokka "
+    ],
+    [
+      0.004267,
+      "\u0008.\u0008\u001b[1@ "
+    ],
+    [
+      0.006951,
+      "\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:46 2015\r\r\n"
+    ],
+    [
+      0.000014,
+      "Last change: Sat Oct  3 15:29:44 2015 via crm_attribute on quokka\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r\r\n2 Nodes configured\r"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.002112,
+      "32 Resources configured\r\r\n\r\n\r\n"
+    ],
+    [
+      0.000020,
+      "Node quokka (1572674743): standby\r\r\nOnline: [ wombat ]\r\r\n"
+    ],
+    [
+      0.001383,
+      "\r\n"
+    ],
+    [
+      0.001843,
+      "p_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\n"
+    ],
+    [
+      0.000009,
+      "p_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\n"
+    ],
+    [
+      0.000007,
+      " Resource Group: g_apache-projects"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\n"
+    ],
+    [
+      0.000007,
+      "wombat"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Stopped\r"
+    ],
+    [
+      0.000006,
+      "\r\n Resource Group: g_mysql-staging"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[27Dp_fs_overlay-mysql-staging (ocf::hastexo:Filesystem):\u001b[6CStarted quokka"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[73Dp_fs_lxc-mysql-staging     (ocf::hastexo:Filesystem):\u001b[6CStarted quokka \u0008.\u0008\u001b[1@ "
+    ],
+    [
+      0.001524,
+      "\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:46 2015\r\r\n"
+    ],
+    [
+      0.000008,
+      "Last change: Sat Oct  3 15:29:44 2015 via crm_attribute on quokka\r\r\nStack: corosync\r\r\n"
+    ],
+    [
+      0.000006,
+      "Current DC: quokka (1572674743)"
+    ],
+    [
+      0.007644,
+      " - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r"
+    ],
+    [
+      0.000017,
+      "\r\n2 Nodes configured\r\r\n32 Resources configured\r\r\n\r\n\r\n"
+    ],
+    [
+      0.000011,
+      "Node quokka (1572674743): standby\r\r\n"
+    ],
+    [
+      0.000012,
+      "Online: [ wombat ]\r\r\n"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "p_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r"
+    ],
+    [
+      0.000011,
+      "\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "p_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r"
+    ],
+    [
+      0.000010,
+      "\r\n Resource Group: g_apache-projects"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r"
+    ],
+    [
+      0.000010,
+      "\r\nwombat"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Stopped\r\r\n"
+    ],
+    [
+      0.000010,
+      " Resource Group: g_mysql-staging"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[27Dp_fs_overlay-mysql-staging (ocf::hastexo:Filesystem):\u001b[6CStarted quokka\r\n"
+    ],
+    [
+      0.000058,
+      "\u001b[73Dp_fs_lxc-mysql-staging     (ocf::hastexo:Filesystem):\u001b[6CStarted quokka "
+    ],
+    [
+      0.039353,
+      "\u0008.\u0008\u001b[1@ "
+    ],
+    [
+      0.008126,
+      "\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:46 2015\r\r\nLast change: Sat Oct  3 15:29:44 2015 via crm_attribute on quokka\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\n"
+    ],
+    [
+      0.000043,
+      "Version: 1.1.10-42f2063\r\r\n2 Nodes configured\r\r\n32 Resources configured\r\r\n\r\n\r\nNode quokka (1572674743): standby\r\r\nOnline: [ wombat ]\r"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "p_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\n"
+    ],
+    [
+      0.000007,
+      "p_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r"
+    ],
+    [
+      0.000007,
+      "\r\n Resource Group: g_apache-projects"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\n"
+    ],
+    [
+      0.000007,
+      "wombat"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[65Dp_virtdom_a"
+    ],
+    [
+      0.000047,
+      "pache-projects  (ocf::heartbeat:VirtualDomain): Stopped\r\r\n"
+    ],
+    [
+      0.000008,
+      " Resource Group: g_mysql-staging\r\n\u001b[27Dp_fs_overlay-mysql-staging (ocf::hastexo:Filesystem):\u001b[6CStarted quokka\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[73Dp_fs_lxc-mysql-staging     (ocf::hastexo:Filesystem):\u001b[6CStarted quokka "
+    ],
+    [
+      0.035298,
+      "\u0008.\u0008\u001b[1@ "
+    ],
+    [
+      0.004487,
+      "\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:46 2015\r\r\nLast change: Sat Oct  3 15:29:44 2015 via crm_attribute on quokka\r\r\n"
+    ],
+    [
+      0.001099,
+      "Stack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r\r\n2 Nodes configured\r\r\n32 Resources configured\r"
+    ],
+    [
+      0.000005,
+      "\r\n\r\n\r\n"
+    ],
+    [
+      0.001223,
+      "Node quokka (1572674743): standby\r\r\nOnline: [ wombat ]\r\r\n\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r"
+    ],
+    [
+      0.000006,
+      "\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\n Resource Group: g_apache-projects\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\nwombat\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat"
+    ],
+    [
+      0.000004,
+      "\r\n\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[65Dp_virtdom_apache-p"
+    ],
+    [
+      0.000011,
+      "rojects  (ocf::heartbeat:VirtualDomain): Stopped\r"
+    ],
+    [
+      0.000004,
+      "\r\n Resource Group: g_mysql-staging"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[27Dp_fs_overlay-mysql-staging (ocf::hastexo:Filesystem):\u001b[6CStarted quokka"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[73Dp_fs_lxc-mysql-staging     (ocf::hastexo:Filesystem):\u001b[6CStarted quokka "
+    ],
+    [
+      0.275166,
+      "\u0008.\u0008\u001b[1@ "
+    ],
+    [
+      0.010980,
+      "\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:46 2015\r\r\n"
+    ],
+    [
+      0.000991,
+      "Last change: Sat Oct  3 15:29:44 2015 via crm_attribute"
+    ],
+    [
+      0.004714,
+      " on quokka\r\r\n"
+    ],
+    [
+      0.004560,
+      "Stack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r\r\n2 Nodes configured\r\r\n32 Resources configured\r"
+    ],
+    [
+      0.000005,
+      "\r\n\r\n\r\nNode quokka (1572674743): standby\r\r\nOnline: [ wombat ]\r\r\n\r\n"
+    ],
+    [
+      0.001837,
+      "p_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\n Resource Group: g_apache-projects\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::ha"
+    ],
+    [
+      0.000006,
+      "stexo:Filesystem):\u001b[6CStarted\r\r\nwombat\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      " Resource Group: g_mysql-staging"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[27Dp_fs_overlay-mysql-staging (ocf::hastexo:Filesystem):\u001b[6CStarted quokka\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[73Dp_fs_lxc-mysql-staging     (ocf::hastexo:Filesystem):\u001b[6CStarted quokka "
+    ],
+    [
+      0.594263,
+      "\u0008.\u0008\u001b[1@ \u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:47 2015\r\r\nLast change: Sat Oct  3 15:29:44 2015 via crm_attribute on quokka\r"
+    ],
+    [
+      0.000038,
+      "\r\nStack: corosync\r\r\n"
+    ],
+    [
+      0.000284,
+      "Current DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r\r\n2 Nodes configured\r\r\n"
+    ],
+    [
+      0.000025,
+      "32 Resources configured\r\r\n\r\n\r\nNode quokka (1572674743): standby\r\r\n"
+    ],
+    [
+      0.002058,
+      "Online: [ wombat ]\r\r\n\r\n"
+    ],
+    [
+      0.021300,
+      "p_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\n Resource Group: g_apache-projects"
+    ],
+    [
+      0.000051,
+      "\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\nwombat\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\n\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r"
+    ],
+    [
+      0.000030,
+      "\r\n"
+    ],
+    [
+      0.000029,
+      " Resource Group: g_mysql-staging\r\n"
+    ],
+    [
+      0.000030,
+      "\u001b[27Dp_fs_overlay-mysql-staging (ocf::hastexo:Filesystem):\u001b[6CStarted quokka\r\n"
+    ],
+    [
+      0.000027,
+      "\u001b[73Dp_fs_lxc-mysql-staging     (ocf::hastexo:Filesystem):\u001b[6CStarted quokka "
+    ],
+    [
+      0.022068,
+      "\u0008.\u0008\u001b[1@ "
+    ],
+    [
+      0.005474,
+      "\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:47 2015\r\r\nLast change: Sat Oct  3 15:29:44 2015"
+    ],
+    [
+      0.000258,
+      " via crm_attribute on quokka\r\r\nStack: corosync\r\r\n"
+    ],
+    [
+      0.000017,
+      "Current DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r\r\n2 Nodes configured\r\r\n32 Resources configured\r\r\n\r\n"
+    ],
+    [
+      0.000013,
+      "\r\nNode quokka (1572674743): standby\r\r\nOnline: [ wombat ]\r"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000967,
+      "\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\n Resource Group: g_apache-projects\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\nwombat\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r\r\n"
+    ],
+    [
+      0.000012,
+      " Resource Group: g_mysql-staging\r\n\u001b[27Dp_fs_overlay-mysql-staging (ocf::hastexo:Filesystem):\u001b[6CStarted quokka\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[73Dp_fs_lxc-mysql-staging     (ocf::hastexo:Filesystem):\u001b[6CStarted quokka \u0008.\u0008\u001b[1@ "
+    ],
+    [
+      0.018592,
+      "\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:47 2015\r\r\nLast change: Sat Oct  3 15:29:44 2015 via crm_attribute on quokka\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r"
+    ],
+    [
+      0.000018,
+      "\r\n2 Nodes configured\r\r\n32 Resources configu"
+    ],
+    [
+      0.000191,
+      "red\r\r\n\r\n"
+    ],
+    [
+      0.000017,
+      "\r\nNode quokka (1572674743): standby\r\r\nOnline: [ wombat ]\r\r\n\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\n"
+    ],
+    [
+      0.000013,
+      " Resource Group: g_apache-projects\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\nwombat"
+    ],
+    [
+      0.000012,
+      "\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\n\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r"
+    ],
+    [
+      0.000012,
+      "\r\n Resource Group: g_mysql-staging\r\n\u001b[27Dp_fs_overlay-mysql-staging (ocf::hastexo:Filesystem):\u001b[6CStarted quokka"
+    ],
+    [
+      0.000011,
+      "\r\n\u001b[73Dp_fs_lxc-mysql-staging     (ocf::hastexo:Filesystem):\u001b[6CStarted quokka \u0008.\u0008\u001b[1@ \u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:47 2015\r\r\n"
+    ],
+    [
+      0.000013,
+      "Last change: Sat Oct  3 15:29:44 2015 via crm_attribute on quokka\r\r\n"
+    ],
+    [
+      0.000012,
+      "Stack: corosync\r\r\n"
+    ],
+    [
+      0.000012,
+      "Current DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r\r\n"
+    ],
+    [
+      0.000011,
+      "2 Nodes configured\r\r\n32 Resources conf"
+    ],
+    [
+      0.000012,
+      "igured\r\r\n"
+    ],
+    [
+      0.000012,
+      "\r\n\r\nNode quokka (1572674743): standby\r"
+    ],
+    [
+      0.000012,
+      "\r\nOnline: [ wombat ]\r\r\n\r\n"
+    ],
+    [
+      0.000012,
+      "p_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\n"
+    ],
+    [
+      0.000011,
+      "p_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\n"
+    ],
+    [
+      0.000011,
+      "p_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\n Resource Grou"
+    ],
+    [
+      0.000012,
+      "p: g_apache-projects\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\nwombat\r\n"
+    ],
+    [
+      0.000012,
+      "\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat"
+    ],
+    [
+      0.000012,
+      "\r\n\u001b[65Dp_virtdo"
+    ],
+    [
+      0.000012,
+      "m_apache-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r\r\n"
+    ],
+    [
+      0.000012,
+      " Resource Group: g_mysql-staging\r\n\u001b[27Dp_fs_overlay-mysql-staging (ocf::hastexo:Filesystem):\u001b[6CStarted quokka\r\n"
+    ],
+    [
+      0.000063,
+      "\u001b[73Dp_fs_lxc-mysql-staging     (ocf::hastexo:Filesystem):\u001b[6CStopped\u001b[6Cp_"
+    ],
+    [
+      0.005322,
+      "\u0008.\u0008\u001b[1@_"
+    ],
+    [
+      0.005130,
+      "\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:47 2015\r\r\nLast change: Sat Oct  3 15:29:44 2015"
+    ],
+    [
+      0.000440,
+      " via crm_attribute on quokka\r\r\n"
+    ],
+    [
+      0.000946,
+      "Stack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\n"
+    ],
+    [
+      0.000789,
+      "Version: 1.1.10-42f2063\r\r\n2 Nodes configured\r\r\n"
+    ],
+    [
+      0.001198,
+      "32 Resources configured\r\r\n\r\n\r\nNode quokka (1572674743): standby\r\r\nOnline: [ wombat ]\r\r\n\r\n"
+    ],
+    [
+      0.001018,
+      "p_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\n Resource Group: g_apache-projects\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::ha"
+    ],
+    [
+      0.000013,
+      "stexo:Filesystem):\u001b[6CStarted\r\r\nwombat\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\n\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r\r\n Resource Group: g_mysql-staging"
+    ],
+    [
+      0.000009,
+      "\r\n\u001b[27Dp_fs_overlay-mysql-staging (ocf::hastexo:Filesystem):\u001b[6CStarted quokka\r\n\u001b[73Dp_fs_lxc-mysql-staging     (ocf::hastexo:Filesystem):\u001b[6CStopped\u001b[6Cp_"
+    ],
+    [
+      0.010252,
+      "\u0008.\u0008\u001b[1@_\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:47 2015\r"
+    ],
+    [
+      0.000006,
+      "\r\nLast change: Sat Oct  3 15:29:44 2015 via crm_attribute on quokka\r\r\n"
+    ],
+    [
+      0.004220,
+      "Stack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r\r\n2 Nodes configured\r\r\n32 Resources configured\r\r\n\r\n\r\nNode quokka (1572674743): standby\r\r\nOnline: [ wombat ]\r\r\n\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\n Resource Group: g_apache-projects\r\n"
+    ],
+    [
+      0.000022,
+      "\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\nwombat\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\n\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r"
+    ],
+    [
+      0.000005,
+      "\r\n Resource Group: g_mysql-staging"
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[27Dp_fs_overlay-mysql-staging (ocf::hastexo:Filesystem):\u001b[6CStarted quokka"
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[73Dp_fs_lxc-mysql-staging     (ocf::hastexo:Filesystem):\u001b[6CStopped\u001b[6Cp_"
+    ],
+    [
+      0.044821,
+      "\u0008.\u0008\u001b[1@_\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:47 2015\r\r\n"
+    ],
+    [
+      0.000009,
+      "Last change: Sat Oct  3 15:29:44 2015 via crm_attribute on quokka\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\n"
+    ],
+    [
+      0.000687,
+      "Version: 1.1.10-42f2063\r\r\n"
+    ],
+    [
+      0.000481,
+      "2 Nodes configured\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000309,
+      "32 Resources configured\r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000791,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\r\nNode quokka (1572674743): standby\r\r\nOnline: [ wombat ]\r\r\n"
+    ],
+    [
+      0.000328,
+      "\r\n"
+    ],
+    [
+      0.000882,
+      "p_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\n"
+    ],
+    [
+      0.000007,
+      "p_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\n Resource Group: g_apache-projects\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r"
+    ],
+    [
+      0.000005,
+      "\r\nwombat\r\n"
+    ],
+    [
+      0.000005,
+      "\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r"
+    ],
+    [
+      0.000005,
+      "\r\n Resource Group: g_mysql-www"
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[23Dp_fs_overlay-mysql-www     (ocf::hastexo:Filesystem):\u001b[6CStarted quokka"
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[73Dp_fs_lxc-mysql-www (ocf::hastexo:Filesystem):\u001b[6CStarted quokka\u001b[6Cp_v\u0008.\u0008\u001b[1@v\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:47 2015\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000542,
+      "Last change: Sat Oct  3 15:29:44 2015 via crm_attribute"
+    ],
+    [
+      0.022619,
+      " on quokka\r\r\nStack: corosync\r"
+    ],
+    [
+      0.000011,
+      "\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r\r\n2 Nodes configured\r\r\n32 Resources configured\r\r\n\r\n\r\nNode quokka (1572674743): standby\r\r\nOnline: [ wombat ]\r\r\n\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r"
+    ],
+    [
+      0.000005,
+      "\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\n"
+    ],
+    [
+      0.000005,
+      "p_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\n"
+    ],
+    [
+      0.000005,
+      " Resource Group: g_apache-projects\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\n"
+    ],
+    [
+      0.000004,
+      "wombat\r\n"
+    ],
+    [
+      0.000004,
+      "\u0008p_f"
+    ],
+    [
+      0.000016,
+      "s_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat"
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r\r\n"
+    ],
+    [
+      0.000005,
+      " Resource Group: g_mysql-www\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[23Dp_fs_overlay-mysql-www     (ocf::hastexo:Filesystem):\u001b[6CStarted quokka\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[73Dp_fs_lxc-mysql-www (ocf::hastexo:Filesystem):\u001b[6CStarted quokka\u001b[6Cp_v\u0008.\u0008\u001b[1@v\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:47 2015\r\r\n"
+    ],
+    [
+      0.000005,
+      "Last change: Sat Oct  3 15:29:44 2015 via crm_attribute on quokka\r\r\n"
+    ],
+    [
+      0.000005,
+      "Stack: corosync\r\r\n"
+    ],
+    [
+      0.000005,
+      "Current DC: quokka (1572674743) - partition with quorum\r\r\n"
+    ],
+    [
+      0.000005,
+      "Version: 1.1.10-42f2063\r\r\n"
+    ],
+    [
+      0.000005,
+      "2 Nodes configured\r\r\n"
+    ],
+    [
+      0.000004,
+      "32 Resources configured\r\r\n"
+    ],
+    [
+      0.000005,
+      "\r\n\r\n"
+    ],
+    [
+      0.000005,
+      "Node quokka (1572674743): standby\r\r\n"
+    ],
+    [
+      0.000005,
+      "Online: [ wombat ]\r\r\n"
+    ],
+    [
+      0.000005,
+      "\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CS"
+    ],
+    [
+      0.000005,
+      "tarted wombat\r"
+    ],
+    [
+      0.000005,
+      "\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\n"
+    ],
+    [
+      0.000005,
+      "p_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r"
+    ],
+    [
+      0.000005,
+      "\r\n Resource Group: g_apache-projects\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r"
+    ],
+    [
+      0.000005,
+      "\r\nwombat"
+    ],
+    [
+      0.000005,
+      "\r\n\u0008p_fs_l"
+    ],
+    [
+      0.000005,
+      "xc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat"
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat"
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r"
+    ],
+    [
+      0.000005,
+      "\r\n Resource Group: g_mysql-www"
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[23Dp_fs_overl"
+    ],
+    [
+      0.000005,
+      "ay-mysql-www     (ocf::hastexo:Filesystem):\u001b[6CStarted quokka"
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[73Dp_fs_lxc-mysql-www (ocf::hastexo:Filesystem):\u001b[6CStarted quokka\u001b[6Cp_v\u0008.\u0008\u001b[1@v"
+    ],
+    [
+      0.003060,
+      "\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:47 2015\r\r\n"
+    ],
+    [
+      0.000007,
+      "Last change: Sat Oct  3 15:29:44 2015 via crm_attribute on quokka\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r"
+    ],
+    [
+      0.000005,
+      "\r\n2 Nodes configured\r\r\n"
+    ],
+    [
+      0.000005,
+      "32 Resources configured\r\r\n"
+    ],
+    [
+      0.000005,
+      "\r\n\r\n"
+    ],
+    [
+      0.000005,
+      "Node quokka (1572674743): standby\r\r\n"
+    ],
+    [
+      0.000005,
+      "Online: [ wombat ]\r\r\n"
+    ],
+    [
+      0.000005,
+      "\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r"
+    ],
+    [
+      0.000005,
+      "\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r"
+    ],
+    [
+      0.000005,
+      "\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r"
+    ],
+    [
+      0.000005,
+      "\r\n Resource Group: g_apache-projects"
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r"
+    ],
+    [
+      0.000005,
+      "\r\nwombat\r\n"
+    ],
+    [
+      0.000005,
+      "\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat"
+    ],
+    [
+      0.000004,
+      "\r\n\u001b[65Dp_virtdom_a"
+    ],
+    [
+      0.000019,
+      "pache-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r"
+    ],
+    [
+      0.000005,
+      "\r\n Resource Group: g_mysql-www\r\n\u001b[23Dp_fs_overlay-mysql-www     (ocf::hastexo:Filesystem):\u001b[6CStarted quokka\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[73Dp_fs_lxc-mysql-www (ocf::hastexo:Filesystem):\u001b[6CStarted quokka\u001b[6Cp_v"
+    ],
+    [
+      0.006135,
+      "\u0008.\u0008\u001b[1@v"
+    ],
+    [
+      0.003735,
+      "\u001b[H\u001b[H\u001b[2J"
+    ],
+    [
+      0.002718,
+      "Last updated: Sat Oct  3 15:29:47 2015\r\r\n"
+    ],
+    [
+      0.000009,
+      "Last change: Sat Oct  3 15:29:44 2015 via crm_attribute on quokka\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r\r\n2 Nodes configured\r\r\n32 Resources configured\r\r\n\r\n\r\n"
+    ],
+    [
+      0.000438,
+      "Node quokka (1572674743): standby\r\r\n"
+    ],
+    [
+      0.000006,
+      "Online: [ wombat ]\r\r\n"
+    ],
+    [
+      0.001064,
+      "\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r"
+    ],
+    [
+      0.000007,
+      "\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\n Resource Group: g_apache-projects\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\nwombat"
+    ],
+    [
+      0.000005,
+      "\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat"
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started wombat"
+    ],
+    [
+      0.000005,
+      "\r"
+    ],
+    [
+      0.000005,
+      "\r\n Resource Group: g_mysql-www"
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[23Dp_fs_overlay-mysql-www     (ocf::hastexo:Filesystem):\u001b[6CStarted quokka\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[73Dp_fs_lxc-mysql-www (ocf::hastexo:Filesystem):\u001b[6CStarted quokka\u001b[6Cp_v"
+    ],
+    [
+      0.000454,
+      "\u0008.\u0008\u001b[1@v"
+    ],
+    [
+      0.005974,
+      "\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:47 2015\r\r\n"
+    ],
+    [
+      0.000008,
+      "Last change: Sat Oct  3 15:29:44 2015 via crm_attribute on quokka\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r\r\n2 Nodes configured\r\r\n"
+    ],
+    [
+      0.000005,
+      "32 Resources configured\r\r\n\r\n"
+    ],
+    [
+      0.000005,
+      "\r\nNode quokka (1572674743): standby\r"
+    ],
+    [
+      0.000005,
+      "\r\nOnline: [ wombat ]\r"
+    ],
+    [
+      0.000005,
+      "\r\n\r\n"
+    ],
+    [
+      0.000005,
+      "p_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\n"
+    ],
+    [
+      0.000005,
+      "p_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\n"
+    ],
+    [
+      0.000005,
+      "p_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\n"
+    ],
+    [
+      0.000004,
+      " Resource Group: g_apache-projects\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\n"
+    ],
+    [
+      0.000005,
+      "wombat\r\n"
+    ],
+    [
+      0.000005,
+      "\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[65Dp_virtdom_a"
+    ],
+    [
+      0.000005,
+      "pache-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r\r\n"
+    ],
+    [
+      0.000005,
+      " Resource Group: g_mysql-www\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[23Dp_fs_overlay-mysql-www     (ocf::hastexo:Filesystem):\u001b[6CStarted quokka\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[73Dp_fs_lxc-mysql-www (ocf::hastexo:Filesystem):\u001b[6CStarted quokka\u001b[6Cp_v"
+    ],
+    [
+      0.043340,
+      "\u0008.\u0008\u001b[1@v"
+    ],
+    [
+      0.004319,
+      "\u001b[H\u001b[H\u001b[2J"
+    ],
+    [
+      0.001711,
+      "Last updated: Sat Oct  3 15:29:47 2015\r\r\n"
+    ],
+    [
+      0.000007,
+      "Last change: Sat Oct  3 15:29:44 2015 via crm_attribute on quokka\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000839,
+      "2 Nodes configured\r\r\n"
+    ],
+    [
+      0.001074,
+      "32 Resources configured\r\r\n"
+    ],
+    [
+      0.000007,
+      "\r\n\r\n"
+    ],
+    [
+      0.001338,
+      "Node quokka (1572674743): standby\r\r\n"
+    ],
+    [
+      0.000007,
+      "Online: [ wombat ]\r\r\n\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\n"
+    ],
+    [
+      0.000005,
+      "p_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\n Resource Group: g_apache-projects"
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r"
+    ],
+    [
+      0.000005,
+      "\r\nwombat"
+    ],
+    [
+      0.000005,
+      "\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat"
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat"
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[65Dp_virtdom_apache-p"
+    ],
+    [
+      0.000016,
+      "rojects  (ocf::heartbeat:VirtualDomain): Started wombat\r"
+    ],
+    [
+      0.000005,
+      "\r\n Resource Group: g_mysql-www\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[23Dp_fs_overlay-mysql-www     (ocf::hastexo:Filesystem):\u001b[6CStarted quokka\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[73Dp_fs_lxc-mysql-www (ocf::hastexo:Filesystem):\u001b[6CStarted quokka\u001b[6Cp_v"
+    ],
+    [
+      0.373082,
+      "\u0008.\u0008\u001b[1@v\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:47 2015\r\r\n"
+    ],
+    [
+      0.000011,
+      "Last change: Sat Oct  3 15:29:44 2015 via crm_attribute on quokka\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r\r\n"
+    ],
+    [
+      0.023210,
+      "2 Nodes configured\r\r\n"
+    ],
+    [
+      0.000013,
+      "32 Resources configured\r\r\n\r\n\r\nNode quokka (1572674743): standby\r\r\nOnline: [ wombat ]\r\r\n\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\n Resource Group: g_apache-projects\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\n"
+    ],
+    [
+      0.000005,
+      "wombat\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPad"
+    ],
+    [
+      0.000015,
+      "dr2):\u001b[7CStarted wombat\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r\r\n"
+    ],
+    [
+      0.000004,
+      " Resource Group: g_mysql-www\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[23Dp_fs_overlay-mysql-www     (ocf::hastexo:Filesystem):\u001b[6CStarted quokka\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[73Dp_fs_lxc-mysql-www (ocf::hastexo:Filesystem):\u001b[6CStarted quokka\u001b[6Cp_v"
+    ],
+    [
+      1.408156,
+      "\u0008.\u0008\u001b[1@v\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:48 2015\r\r\n"
+    ],
+    [
+      0.000045,
+      "Last change: Sat Oct  3 15:29:44 2015 via crm_attribute on quokka\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r\r\n2 Nodes configured\r\r\n32 Resources configured\r"
+    ],
+    [
+      0.000029,
+      "\r\n\r\n\r\n"
+    ],
+    [
+      0.000032,
+      "Node quokka (1572674743): standby\r\r\n"
+    ],
+    [
+      0.000027,
+      "Online: [ wombat ]\r\r\n"
+    ],
+    [
+      0.000031,
+      "\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r"
+    ],
+    [
+      0.000031,
+      "\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r"
+    ],
+    [
+      0.000033,
+      "\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r"
+    ],
+    [
+      0.000021,
+      "\r\n Resource"
+    ],
+    [
+      0.000260,
+      " Group: g_apache-projects\r\n"
+    ],
+    [
+      0.000020,
+      "\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\nwombat\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r\r\n"
+    ],
+    [
+      0.000017,
+      " Resource Group: g_mysql-www\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[23Dp_fs_overlay-mysql-www     (ocf::hastexo:Filesystem):\u001b[6CStarted quokka\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[73Dp_fs_lxc-mysql-www (ocf::hastexo:Filesystem):\u001b[6CStarted quokka\u001b[6Cp_v"
+    ],
+    [
+      0.027677,
+      "\u0008.\u0008\u001b[1@v\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:49 2015\r\r\n"
+    ],
+    [
+      0.000019,
+      "Last change: Sat Oct  3 15:29:44 2015 via crm_attribute on quokka\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r\r\n"
+    ],
+    [
+      0.000014,
+      "2 Nodes configured\r\r\n"
+    ],
+    [
+      0.000013,
+      "32 Resources configured\r\r\n"
+    ],
+    [
+      0.000013,
+      "\r\n\r\n"
+    ],
+    [
+      0.000013,
+      "Node quokka (1572674743): standby\r\r\n"
+    ],
+    [
+      0.000014,
+      "Online: [ wombat ]\r\r\n\r\n"
+    ],
+    [
+      0.000014,
+      "p_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\n"
+    ],
+    [
+      0.000013,
+      "p_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\n"
+    ],
+    [
+      0.000012,
+      " Resource Group: g_apache-projects\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[29Dp_fs_overlay-apache-project"
+    ],
+    [
+      0.000068,
+      "s\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\n"
+    ],
+    [
+      0.000015,
+      "wombat\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n"
+    ],
+    [
+      0.000234,
+      "\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\n\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r\r\n Resource Group: g_mysql-www\r\n\u001b[23Dp_fs_overlay-mysql-www     (ocf::hastexo:Filesystem):\u001b[6CStarted quokka\r\n\u001b[73Dp_fs_lxc-mysql-www (ocf::hastexo:Filesystem):\u001b[6CStarted quokka\r\n\u001b[65Dp_virtdom_mysql-www\u001b[8C(ocf::heartbeat:VirtualDomain): Stopped"
+    ],
+    [
+      0.000016,
+      "  Master\u0008.\u0008\u001b[1@r\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:49 2015\r\r\nLast change: Sat Oct  3 15:29:44 2015 via crm_attribute on quokka\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r\r\n2 Nodes configured\r\r\n32 Resources configured\r\r\n\r\n\r\nNode quokka (1572674743): standby\r\r\nOnline: [ wombat ]\r\r\n\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\n"
+    ],
+    [
+      0.000013,
+      "p_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\n "
+    ],
+    [
+      0.000038,
+      "Resource Group: g_apache-projects\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\nwombat"
+    ],
+    [
+      0.000013,
+      "\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat"
+    ],
+    [
+      0.000012,
+      "\r\n\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r\r\n"
+    ],
+    [
+      0.000012,
+      " Resource Group: g_mysql-www\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[23Dp_fs_overlay-mysql-www     (ocf::hastexo:Filesystem):\u001b[6CStarted quokka\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[73Dp_fs_lxc-mysql-www (ocf::hastexo:Filesystem):\u001b[6CStarted quokka\u001b["
+    ],
+    [
+      0.000015,
+      "6Cp_v\u0008.\u0008\u001b[1@v\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:49 2015\r\r\n"
+    ],
+    [
+      0.000013,
+      "Last change: Sat Oct  3 15:29:44 2015 via crm_attribute on quokka\r\r\n"
+    ],
+    [
+      0.000012,
+      "Stack: corosync\r\r\n"
+    ],
+    [
+      0.000012,
+      "Current DC: quokka (1572674743) - partition with quorum\r\r\n"
+    ],
+    [
+      0.000016,
+      "Version: 1.1.10-42f2063\r\r\n2 Nodes configured\r"
+    ],
+    [
+      0.000013,
+      "\r\n32 Reso"
+    ],
+    [
+      0.000013,
+      "urces configured\r"
+    ],
+    [
+      0.000013,
+      "\r\n\r\n"
+    ],
+    [
+      0.000013,
+      "\r\nNode quokka (1572674743): standby\r"
+    ],
+    [
+      0.000013,
+      "\r\nOnline: [ wombat ]\r"
+    ],
+    [
+      0.000013,
+      "\r\n\r\n"
+    ],
+    [
+      0.000013,
+      "p_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\n"
+    ],
+    [
+      0.000013,
+      "p_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\n"
+    ],
+    [
+      0.000013,
+      "p_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\n"
+    ],
+    [
+      0.000012,
+      " Resource Group: g_apache-projects"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\nwombat"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r"
+    ],
+    [
+      0.000012,
+      "\r\n Resource Group: g_mysql-www"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[23Dp_fs_overlay-mysql-www     (ocf::hastexo:Filesystem):\u001b[6CStarted quokka\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[73Dp_fs_lxc-mysql-www (ocf::hastexo:Filesystem):\u001b[6CStopped\u001b[6Cp_virtdo"
+    ],
+    [
+      0.000013,
+      "m_\u0008.\u0008\u001b[1@_\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:49 2015\r"
+    ],
+    [
+      0.000013,
+      "\r\nLast change: Sat Oct  3 15:29:44 2015 via crm_attribute on quokka\r"
+    ],
+    [
+      0.000012,
+      "\r\nStack: corosync\r"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "Current DC: quokka (1572674743) - partition with quorum\r\r\n"
+    ],
+    [
+      0.000013,
+      "Version: 1.1.10-42f2063\r\r\n"
+    ],
+    [
+      0.000012,
+      "2 Nodes configured\r\r\n"
+    ],
+    [
+      0.000012,
+      "32 Resourc"
+    ],
+    [
+      0.000012,
+      "es configured\r\r\n"
+    ],
+    [
+      0.000013,
+      "\r\n\r\n"
+    ],
+    [
+      0.000012,
+      "Node quokka (1572674743): standby\r\r\n"
+    ],
+    [
+      0.000013,
+      "Online: [ wombat ]\r\r\n"
+    ],
+    [
+      0.000013,
+      "\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r"
+    ],
+    [
+      0.000013,
+      "\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r"
+    ],
+    [
+      0.000013,
+      "\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r"
+    ],
+    [
+      0.000012,
+      "\r\n Resource Group: g_apache-projects"
+    ],
+    [
+      0.000013,
+      "\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r"
+    ],
+    [
+      0.000013,
+      "\r\nwombat"
+    ],
+    [
+      0.000013,
+      "\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat"
+    ],
+    [
+      0.000013,
+      "\r\n\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat"
+    ],
+    [
+      0.000012,
+      "\r\n\u001b[65Dp"
+    ],
+    [
+      0.000013,
+      "_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r\r\n"
+    ],
+    [
+      0.000012,
+      " Resource Group: g_mysql-www"
+    ],
+    [
+      0.000013,
+      "\r\n\u001b[23Dp_fs_overlay-mysql-www     (ocf::hastexo:Filesystem):\u001b[6CStarted quokka"
+    ],
+    [
+      0.000057,
+      "\r\n\u001b[73Dp_fs_lxc-mysql-www (ocf::hastexo:Filesystem):\u001b[6CStopped\u001b[6Cp_virtdom_\u0008.\u0008\u001b[1@_\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:49 2015\r\r\nLast change: Sat Oct  3 15:29:44 2015 via crm_attribute on quokka\r\r\nStack: corosync\r\r\n"
+    ],
+    [
+      0.000016,
+      "Current DC: quokka (1572674743) - partition with quorum\r\r\n"
+    ],
+    [
+      0.002452,
+      "Version: 1.1.10-42f2063\r\r\n"
+    ],
+    [
+      0.000017,
+      "2 Nodes configured\r\r\n32 Resources configured\r\r\n\r\n\r\nNode quokka (1572674743): standby\r\r\n"
+    ],
+    [
+      0.000013,
+      "Online: [ wombat ]\r\r\n"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.019628,
+      "p_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\n"
+    ],
+    [
+      0.000030,
+      "p_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\n Resource Group: g_apache-projects\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r"
+    ],
+    [
+      0.000018,
+      "\r\nwombat\r\n"
+    ],
+    [
+      0.000016,
+      "\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n"
+    ],
+    [
+      0.000017,
+      "\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r\r\n"
+    ],
+    [
+      0.000009,
+      " Resource Group: g_mysql-www\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[23Dp_fs_overlay-mysql-www     (ocf::hastexo:Filesystem):\u001b[6CStarted quokka\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[73Dp_fs_lxc-mysql-www (ocf::hastexo:Filesystem):\u001b[6CStopped\u001b[6Cp_virtdom_"
+    ],
+    [
+      0.000604,
+      "\u0008.\u0008\u001b[1@_"
+    ],
+    [
+      0.010032,
+      "\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:49 2015\r\r\nLast change: Sat Oct  3 15:29:44 2015 via crm_attribute on quokka\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743)"
+    ],
+    [
+      0.002511,
+      " - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r\r\n2 Nodes configured\r\r\n32 Resources configured\r\r\n\r\n\r\n"
+    ],
+    [
+      0.000031,
+      "Node quokka (1572674743): standby\r\r\nOnline: [ wombat ]\r\r\n\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\n Resource Group: g_apache-projects\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\nwombat\r\n"
+    ],
+    [
+      0.000012,
+      "\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat"
+    ],
+    [
+      0.000012,
+      "\r\n\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r\r\n"
+    ],
+    [
+      0.000009,
+      " Master/Slave Set: ms_drbd_apache-staging [p_drbd_apache-staging]\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[60DSlaves: [ wombat ]\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[18DStoppe"
+    ],
+    [
+      0.000011,
+      "d: [ quokka ] Master/Slave Set: ms_drbd_apache-www [p_drbd_apache-ww"
+    ],
+    [
+      0.023812,
+      "\u0008.\u0008\u001b[1@w"
+    ],
+    [
+      0.006275,
+      "\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:49 2015\r\r\nLast change: Sat Oct  3 15:29:44 2015 via crm_attribute on quokka\r\r\n"
+    ],
+    [
+      0.000015,
+      "Stack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r\r\n2 Nodes configured\r\r\n32 Resources configured\r\r\n"
+    ],
+    [
+      0.001730,
+      "\r\n\r\nNode quokka (1572674743): standby\r\r\nOnline: [ wombat ]\r\r\n\r\n"
+    ],
+    [
+      0.000701,
+      "p_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r"
+    ],
+    [
+      0.000012,
+      "\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\n Resource Group: g_apache-projects\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\nwombat"
+    ],
+    [
+      0.000009,
+      "\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat"
+    ],
+    [
+      0.000007,
+      "\r\n\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r\r\n"
+    ],
+    [
+      0.000007,
+      " Master/Slave Set: ms_drbd_apache-staging [p_drbd_apache-staging]\r\n\u001b[60DSlaves: [ wombat ]"
+    ],
+    [
+      0.000007,
+      "\r\n\u001b[18DStopped: [ quokka ] Master/Slave Set: ms_drbd_apache-www [p_drbd_apache-ww\u0008.\u0008\u001b[1@w"
+    ],
+    [
+      0.024141,
+      "\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:49 2015\r\r\nLast change: Sat Oct  3 15:29:44 2015 via crm_attribute on quokka\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r"
+    ],
+    [
+      0.000014,
+      "\r\n2 Nodes configured\r\r\n32 Resources configured\r\r\n\r\n\r\nNode quokka (1572674743): standby\r"
+    ],
+    [
+      0.000007,
+      "\r\nOnline: [ wombat ]\r\r\n"
+    ],
+    [
+      0.000008,
+      "\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\n"
+    ],
+    [
+      0.000008,
+      "p_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r"
+    ],
+    [
+      0.000024,
+      "\r\n Resource Group: g_apache-projects\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\nwombat\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat"
+    ],
+    [
+      0.000008,
+      "\r\n\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r\r\n"
+    ],
+    [
+      0.000008,
+      " Master/Slave Set: ms_drbd_apache-staging [p_drbd_apache-staging]\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[60DSlaves: [ wombat ]\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[18DStopped: [ quokka ] Master/Slave Set: ms_drbd_apache-www [p_drbd_apache-ww\u0008.\u0008\u001b[1@w\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:49 2015\r\r\nLast change: Sat Oct  3 15:29:44 2015 via crm_attribute on quokka\r"
+    ],
+    [
+      0.000008,
+      "\r\nStack: corosync\r\r\n"
+    ],
+    [
+      0.000009,
+      "Current DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r\r\n"
+    ],
+    [
+      0.000008,
+      "2 Nodes configured\r\r\n32 Resources configured\r"
+    ],
+    [
+      0.000009,
+      "\r\n\r\n\r\n"
+    ],
+    [
+      0.000008,
+      "Node quokka (1572674743): standby\r\r\nOnline: [ wombat ]\r\r\n"
+    ],
+    [
+      0.000008,
+      "\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\n"
+    ],
+    [
+      0.000008,
+      "p_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r"
+    ],
+    [
+      0.000008,
+      "\r\n Resource Group: g_apache-projec"
+    ],
+    [
+      0.000008,
+      "ts"
+    ],
+    [
+      0.000008,
+      "\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\n"
+    ],
+    [
+      0.000008,
+      "wombat\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat"
+    ],
+    [
+      0.000008,
+      "\r\n\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r\r\n"
+    ],
+    [
+      0.000008,
+      " Master/Slave Set: ms_drbd_apache-staging [p_drbd_apache-staging]\r\n\u001b[60DSlaves: [ wombat ]"
+    ],
+    [
+      0.000008,
+      "\r\n\u001b[18DStopped: [ quokka ] Master/Slave Set: ms_drbd_apache-www [p_drbd_apache-ww"
+    ],
+    [
+      0.032667,
+      "\u0008.\u0008\u001b[1@w"
+    ],
+    [
+      0.003970,
+      "\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:49 2015\r\r\nLast change: Sat Oct  3 15:29:44 2015 via crm_attribute on quokka\r\r\nStack: corosync\r\r\n"
+    ],
+    [
+      0.007346,
+      "Current DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r\r\n2 Nodes configured\r\r\n32 Resources configured\r\r\n\r\n\r\n"
+    ],
+    [
+      0.000254,
+      "Node quokka (1572674743): standby\r\r\n"
+    ],
+    [
+      0.001350,
+      "Online: [ wombat ]\r\r\n\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted quokka\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\n Resource Group: g_apache-projects\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\nwombat\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n"
+    ],
+    [
+      0.000017,
+      "\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\n\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r\r\n Master/Slave Set: ms_drbd_apache-staging [p_drbd_apache-staging]\r\n\u001b[60DSlaves: [ wombat ]\r\n\u001b[18DStopped: [ quokka ] Master/Slave Set: ms_drbd_apache-www [p_drbd_apache-ww"
+    ],
+    [
+      0.085855,
+      "\u0008.\u0008\u001b[1@w"
+    ],
+    [
+      0.006370,
+      "\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:49 2015\r\r\nLast change: Sat Oct  3 15:29:44 2015 via crm_attribute on quokka\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r"
+    ],
+    [
+      0.000014,
+      "\r\n2 Nodes configured\r\r\n32 Resources configured\r\r\n\r\n\r\nNode quokka (1572674743): standby\r\r\nOnline: [ wombat ]\r\r\n\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\n Resource Group: g_apache-projects\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(oc"
+    ],
+    [
+      0.000006,
+      "f::hastexo:Filesystem):\u001b[6CStarted\r\r\n"
+    ],
+    [
+      0.000005,
+      "wombat\r\n"
+    ],
+    [
+      0.000005,
+      "\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat"
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r\r\n"
+    ],
+    [
+      0.000005,
+      " Master/Slave Set: ms_drbd_apache-staging [p_drbd_apache-staging]"
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[60DSlaves: [ wombat ]"
+    ],
+    [
+      0.000008,
+      "\r\n\u001b[18DStopped: [ quokka ]\r"
+    ],
+    [
+      0.000007,
+      "\r\n Master/Slave Set: ms_drbd_apache-www [p_drbd_apache-www]     Slaves: [ wombat "
+    ],
+    [
+      0.034262,
+      "\u0008.\u0008\u001b[1@ "
+    ],
+    [
+      0.007069,
+      "\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:49 2015\r\r\nLast change: Sat Oct  3 15:29:44 2015 via crm_attribute on quokka\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r\r\n"
+    ],
+    [
+      0.000012,
+      "2 Nodes configured\r\r\n32 Resources configured\r\r\n\r\n\r\nNode quokka (1572674743): standby\r\r\nOnline: [ wombat ]\r\r\n\r\n"
+    ],
+    [
+      0.000342,
+      "p_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\n"
+    ],
+    [
+      0.000007,
+      "p_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\n Resource Group: g_apache-projects\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::ha"
+    ],
+    [
+      0.000016,
+      "stexo:Filesystem):\u001b[6CStarted\r"
+    ],
+    [
+      0.000005,
+      "\r\nwombat"
+    ],
+    [
+      0.000005,
+      "\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      " Master/Slave Set: ms_drbd_apache-staging [p_drbd_apache-staging]"
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[60DSlaves: [ wombat ]"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[18DStopped: [ quokka ] Master/Slave Set: ms_drbd_apache-www [p_drbd_apache-ww"
+    ],
+    [
+      0.018786,
+      "\u0008.\u0008\u001b[1@w"
+    ],
+    [
+      0.009488,
+      "\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:49 2015\r\r\nLast change: Sat Oct  3 15:29:44 2015 via crm_attribute on quokka\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r\r\n"
+    ],
+    [
+      0.000011,
+      "2 Nodes configured\r\r\n32 Resources configured\r\r\n"
+    ],
+    [
+      0.001070,
+      "\r\n\r\n"
+    ],
+    [
+      0.000579,
+      "Node quokka (1572674743): standby\r\r\n"
+    ],
+    [
+      0.006279,
+      "Online: [ wombat ]\r\r\n"
+    ],
+    [
+      0.000016,
+      "\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r"
+    ],
+    [
+      0.000012,
+      "\r\n Resource Group: g_apache-projects"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\n"
+    ],
+    [
+      0.000014,
+      "wombat"
+    ],
+    [
+      0.000015,
+      "\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat"
+    ],
+    [
+      0.000016,
+      "\r\n\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDom"
+    ],
+    [
+      0.000067,
+      "ain): Started wombat\r"
+    ],
+    [
+      0.000012,
+      "\r\n Master/Slave Set: ms_drbd_apache-staging [p_drbd_apache-staging]\r\n\u001b[60DSlaves: [ wombat ]\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[18DStopped: [ quokka ] Master/Slave Set: ms_drbd_apache-www [p_drbd_apache-ww"
+    ],
+    [
+      0.069088,
+      "\u0008.\u0008\u001b[1@w"
+    ],
+    [
+      0.003792,
+      "\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:49 2015\r\r\n"
+    ],
+    [
+      0.000010,
+      "Last change: Sat Oct  3 15:29:44 2015 via crm_attribute"
+    ],
+    [
+      0.002787,
+      " on quokka\r"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000421,
+      "Stack: corosync\r\r\n"
+    ],
+    [
+      0.002663,
+      "Current DC: quokka (1572674743) - partition with quorum\r"
+    ],
+    [
+      0.000008,
+      "\r\nVersion: 1.1.10-42f2063\r\r\n2 Nodes configured\r\r\n32 Resources configured\r\r\n\r\n"
+    ],
+    [
+      0.000006,
+      "\r\nNode quokka (1572674743): standby\r"
+    ],
+    [
+      0.000005,
+      "\r\nOnline: [ wombat ]\r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "p_ip_prod\u001b["
+    ],
+    [
+      0.000038,
+      "7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\n"
+    ],
+    [
+      0.000016,
+      "p_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\n Resource Group: g_apache-projects\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\nwombat\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat"
+    ],
+    [
+      0.000006,
+      "\r\n\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r"
+    ],
+    [
+      0.000005,
+      "\r\n Master/Slave Set: ms_drbd_apache-staging [p_drbd_apache-staging]"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[60"
+    ],
+    [
+      0.000018,
+      "DSlaves: [ wombat ]"
+    ],
+    [
+      0.000008,
+      "\r\n\u001b[18DStopped: [ quokka ] Master/Slave Set: ms_drbd_apache-www [p_drbd_apache-ww\u0008.\u0008\u001b[1@w"
+    ],
+    [
+      0.002417,
+      "\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:49 2015\r"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000506,
+      "Last change: Sat Oct  3 15:29:44 2015"
+    ],
+    [
+      0.020174,
+      " via crm_attribute on quokka\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r\r\n2 Nodes configured\r\r\n32 Resources configured\r\r\n\r\n\r\nNode quokka (1572674743): standby\r\r\nOnline: [ wombat ]\r\r\n"
+    ],
+    [
+      0.000026,
+      "\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\n Resource Group: g_apache-projects\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\nwombat\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\n\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r\r\n Master/Slave Set: ms_drbd_apache-staging [p_drbd_apache-staging]\r\n\u001b[60DSlaves: [ wombat ]\r\n\u001b[18DStopped: [ quokka ] Master/Slave Set: ms_drbd_apache-www [p_drbd_apache-ww\u0008.\u0008\u001b[1@w"
+    ],
+    [
+      0.006887,
+      "\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:49 2015\r\r\nLast change: Sat Oct  3 15:29:49 2015 via cibadmin on wombat\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r"
+    ],
+    [
+      0.000005,
+      "\r\n2 Nodes configured\r\r\n32 Resources configured\r\r\n\r\n\r\nNode quokka (1572674743): standby\r\r\n"
+    ],
+    [
+      0.000013,
+      "Online: [ wombat ]\r\r\n"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000497,
+      "p_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\n Resource Group: g_apache-projects\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::ha"
+    ],
+    [
+      0.000006,
+      "stexo:Filesystem):\u001b[6CStarted\r\r\nwombat\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r\r\n"
+    ],
+    [
+      0.000003,
+      " Master/Slave Set: ms_drbd_apache-staging [p_drbd_apache-staging]\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[60DSlaves: [ wombat ]"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[18DStopped: [ quokka ] Master/Slave Set: ms_drbd_apache-www [p_drbd_apache-ww"
+    ],
+    [
+      0.018274,
+      "\u0008.\u0008\u001b[1@w"
+    ],
+    [
+      0.003679,
+      "\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:49 2015\r\r\n"
+    ],
+    [
+      0.000008,
+      "Last change: Sat Oct  3 15:29:49 2015"
+    ],
+    [
+      0.001706,
+      " via cibadmin on wombat\r\r\n"
+    ],
+    [
+      0.006850,
+      "Stack: corosync\r"
+    ],
+    [
+      0.000006,
+      "\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r\r\n2 Nodes configured\r\r\n32 Resources configured\r"
+    ],
+    [
+      0.000004,
+      "\r\n\r\n"
+    ],
+    [
+      0.000003,
+      "\r\nNode quokka (1572674743): standby\r"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "Online: [ wombat ]\r\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "p_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r"
+    ],
+    [
+      0.000003,
+      "\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "p_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r"
+    ],
+    [
+      0.000003,
+      "\r\n Resource Group: g_apache-projects"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "wombat\r\n"
+    ],
+    [
+      0.000003,
+      "\u0008p_fs_lxc-apache"
+    ],
+    [
+      0.000022,
+      "-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\n\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r\r\n Master/Slave Set: ms_drbd_apache-staging [p_drbd_apache-staging]"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[60DSlaves: [ wombat ]\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[18DStopped: [ quokka ] Master/Slave Set: ms_drbd_apache-www [p_drbd_apache-ww"
+    ],
+    [
+      0.005404,
+      "\u0008.\u0008\u001b[1@w"
+    ],
+    [
+      0.006433,
+      "\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:49 2015\r"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.002640,
+      "Last change: Sat Oct  3 15:29:49 2015 via cibadmin on wombat\r\r\n"
+    ],
+    [
+      0.000005,
+      "Stack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r\r\n"
+    ],
+    [
+      0.000003,
+      "2 Nodes configured\r\r\n"
+    ],
+    [
+      0.000003,
+      "32 Resources configured\r\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\r\nNode quokka (1572674743): standby\r"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.001043,
+      "Online: [ wombat ]\r"
+    ],
+    [
+      0.000004,
+      "\r\n\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r"
+    ],
+    [
+      0.000004,
+      "\r\n Resource Group: g_apache-projects"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\n"
+    ],
+    [
+      0.000003,
+      "wombat"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDom"
+    ],
+    [
+      0.000022,
+      "ain): Started wombat\r\r\n"
+    ],
+    [
+      0.000004,
+      " Master/Slave Set: ms_drbd_apache-staging [p_drbd_apache-staging]\r\n\u001b[60DSlaves: [ wombat ]\r\n\u001b[18DStopped: [ quokka ] Master/Slave Set: ms_drbd_apache-www [p_drbd_apache-ww"
+    ],
+    [
+      0.037656,
+      "\u0008.\u0008\u001b[1@w"
+    ],
+    [
+      0.006216,
+      "\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:49 2015\r\r\nLast change: Sat Oct  3 15:29:49 2015 via cibadmin on wombat"
+    ],
+    [
+      0.002140,
+      "\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r\r\n"
+    ],
+    [
+      0.000007,
+      "2 Nodes configured\r\r\n32 Resources configured\r\r\n\r\n\r\n"
+    ],
+    [
+      0.005424,
+      "Node quokka (1572674743): standby\r\r\n"
+    ],
+    [
+      0.000005,
+      "Online: [ wombat ]\r\r\n\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\n"
+    ],
+    [
+      0.000003,
+      "p_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\n"
+    ],
+    [
+      0.000003,
+      " Resource Group: g_apache-projects"
+    ],
+    [
+      0.000003,
+      "\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "wombat\r\n"
+    ],
+    [
+      0.000003,
+      "\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[65Dp_virtdom_apache-p"
+    ],
+    [
+      0.000011,
+      "rojects  (ocf::heartbeat:VirtualDomain): Started wombat\r"
+    ],
+    [
+      0.000004,
+      "\r\n Master/Slave Set: ms_drbd_apache-staging [p_drbd_apache-staging]"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[60DSlaves: [ wombat ]\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[18DStopped: [ quokka ] Master/Slave Set: ms_drbd_apache-www [p_drbd_apache-ww"
+    ],
+    [
+      0.308272,
+      "\u0008.\u0008\u001b[1@w\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:49 2015\r\r\nLast change: Sat Oct  3 15:29:49 2015 via cibadmin on wombat\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r"
+    ],
+    [
+      0.000008,
+      "\r\n2 Nodes configured\r\r\n32 Resources configured\r\r\n\r\n\r\nNode quokka (1572674743): standby\r\r\nOnline: [ wombat ]\r\r\n"
+    ],
+    [
+      0.001186,
+      "\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\n Resource Group: g_apache-projects\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\nwombat\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\n\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r\r\n Master/Slave Set: ms_drbd_apache-staging [p_drbd_apache-staging]\r\n\u001b[60DSlaves: [ wombat ]"
+    ],
+    [
+      0.000006,
+      "\r\n\u001b[18DStopped: [ quokka ] Master/Slave Set: ms_drbd_apache-www [p_drbd_apache-ww"
+    ],
+    [
+      0.002574,
+      "\u0008.\u0008\u001b[1@w"
+    ],
+    [
+      0.001194,
+      "\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:49 2015\r\r\n"
+    ],
+    [
+      0.000005,
+      "Last change: Sat Oct  3 15:29:49 2015 via cibadmin on wombat\r\r\n"
+    ],
+    [
+      0.001391,
+      "Stack: corosync\r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.001835,
+      "Current DC: quokka (1572674743) - partition with quorum\r"
+    ],
+    [
+      0.000004,
+      "\r\nVersion: 1.1.10-42f2063\r\r\n2 Nodes configured\r\r\n32 Resources configured\r\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n\r\n"
+    ],
+    [
+      0.000003,
+      "Node quokka (1572674743): standby\r"
+    ],
+    [
+      0.000003,
+      "\r\nOnline: [ wombat ]\r"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "p_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r"
+    ],
+    [
+      0.000003,
+      "\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      " Resource Group: g_apache-projects"
+    ],
+    [
+      0.000003,
+      "\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "wombat"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r"
+    ],
+    [
+      0.000003,
+      "\r\n Resource Group: g_mysql-staging"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[27Dp_fs_overlay-mysql-staging (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n"
+    ],
+    [
+      0.000025,
+      "\u001b[73Dp_fs_lxc-mysql-staging     (ocf::hastexo:Filesystem):\u001b[6CStopped\u001b[6Cp_\u0008.\u0008\u001b[1@_\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:49 2015\r\r\nLast change: Sat Oct  3 15:29:49 2015 via cibadmin on wombat\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r"
+    ],
+    [
+      0.000004,
+      "\r\nVersion: 1.1.10-42f2063\r"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "2 Nodes configured\r\r\n"
+    ],
+    [
+      0.000003,
+      "32 Resources configured\r"
+    ],
+    [
+      0.000003,
+      "\r\n\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "Node quokka (1572674743): standby\r"
+    ],
+    [
+      0.000003,
+      "\r\nOnline: [ wombat ]\r"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "p_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\n"
+    ],
+    [
+      0.000003,
+      "p_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "p_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\n"
+    ],
+    [
+      0.000004,
+      " Resource Group: g_apache-projects"
+    ],
+    [
+      0.000003,
+      "\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "wombat\r\n"
+    ],
+    [
+      0.000003,
+      "\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r\r\n"
+    ],
+    [
+      0.000003,
+      " Resource Group: g_mysql-staging"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[27Dp_fs_overlay-mysql-staging (ocf::hastexo:Filesystem):\u001b[6CStarted wombat"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[73Dp_fs_lxc-mysql-staging     (ocf::hastexo:Filesystem):\u001b[6CStopped\u001b[6Cp_\u0008.\u0008\u001b[1@_\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:49 2015\r\r\n"
+    ],
+    [
+      0.000003,
+      "Last change: Sat Oct  3 15:29:49 2015 via cibadmin on wombat\r"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "Stack: corosync\r\r\n"
+    ],
+    [
+      0.000003,
+      "Current "
+    ],
+    [
+      0.000019,
+      "DC: quokka (1572674743) - partition with quorum\r\r\n"
+    ],
+    [
+      0.000004,
+      "Version: 1.1.10-42f2063\r\r\n2 Nodes configured\r\r\n"
+    ],
+    [
+      0.000003,
+      "32 Resources configured\r\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "Node quokka (1572674743): standby\r"
+    ],
+    [
+      0.000003,
+      "\r\nOnline: [ wombat ]\r"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "p_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r"
+    ],
+    [
+      0.000003,
+      "\r\np_ip_prod\u001b[7C(ocf::"
+    ],
+    [
+      0.000010,
+      "heartbeat:IPaddr2):\u001b[7CStarted wombat\r"
+    ],
+    [
+      0.000003,
+      "\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      " Resource Group: g_apache-projects"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\n"
+    ],
+    [
+      0.000006,
+      "wombat\r\n"
+    ],
+    [
+      0.000003,
+      "\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat"
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r"
+    ],
+    [
+      0.000003,
+      "\r\n Resource Group: g_mysql-staging"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[27Dp_fs_overlay-mysql-staging (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[73Dp_fs_lxc-mysql-staging     (ocf::hastexo:Filesystem):\u001b[6CStarted wombat "
+    ],
+    [
+      0.020683,
+      "\u0008.\u0008\u001b[1@ \u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:49 2015\r\r\nLast change: Sat Oct  3 15:29:49 2015 via cibadmin on wombat\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r"
+    ],
+    [
+      0.000009,
+      "\r\n2 Nodes configured\r\r\n32 Resources configured\r\r\n\r\n\r\nNode quokka (1572674743): standby\r\r\nOnline: [ wombat ]\r\r\n"
+    ],
+    [
+      0.000004,
+      "\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\n"
+    ],
+    [
+      0.000003,
+      "p_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\n"
+    ],
+    [
+      0.000003,
+      "p_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      " Resource Grou"
+    ],
+    [
+      0.000178,
+      "p: g_apache-projects\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\nwombat\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat"
+    ],
+    [
+      0.000003,
+      "\r\n\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r\r\n"
+    ],
+    [
+      0.000004,
+      " Resource Group: g_mysql-staging\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[27Dp_fs_overlay-mysql-staging (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[73Dp_fs_lxc-mysql-staging     (ocf::hastexo:Filesystem):\u001b[6CStarted wombat \u0008.\u0008\u001b[1@ \u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:49 2015\r"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "Last change: Sat Oct  3 15:29:49 2015 via cibadmin on wombat\r\r\n"
+    ],
+    [
+      0.000003,
+      "Stack: corosync\r"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "Current DC: quokka (1572674743) - partition with quorum\r"
+    ],
+    [
+      0.000003,
+      "\r\nVersion: 1.1.10-42f2063\r"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "2 Nodes configured\r"
+    ],
+    [
+      0.000003,
+      "\r\n32 Resources configured\r"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "Node quokka (1572674743): standby\r\r\n"
+    ],
+    [
+      0.000005,
+      "Online: [ wombat ]\r\r\n"
+    ],
+    [
+      0.000005,
+      "\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "p_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r"
+    ],
+    [
+      0.000003,
+      "\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      " Resource Group:"
+    ],
+    [
+      0.000010,
+      " g_apache-projects"
+    ],
+    [
+      0.000003,
+      "\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "wombat"
+    ],
+    [
+      0.000003,
+      "\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[65Dp_virtdom_"
+    ],
+    [
+      0.000003,
+      "apache-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      " Resource Group: g_mysql-staging\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[27Dp_fs_overlay-mysql-staging (ocf::hastexo:Filesystem):\u001b[6CStarted wombat"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[73Dp_fs_lxc-mysql-staging     (ocf::hastexo:Filesystem):\u001b[6CStarted wombat \u0008.\u0008\u001b"
+    ],
+    [
+      0.000004,
+      "[1@ \u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:49 2015\r\r\n"
+    ],
+    [
+      0.000003,
+      "Last change: Sat Oct  3 15:29:49 2015 via cibadmin on wombat\r\r\n"
+    ],
+    [
+      0.000003,
+      "Stack: corosync\r"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "Current DC: quokka (1572674743) - partition with quorum\r\r\n"
+    ],
+    [
+      0.000003,
+      "Version: 1.1.10-42f2063\r"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "2 Nodes configured\r\r\n"
+    ],
+    [
+      0.000003,
+      "32 Resources configur"
+    ],
+    [
+      0.000009,
+      "ed\r"
+    ],
+    [
+      0.000004,
+      "\r\n\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "Node quokka (1572674743): standby\r"
+    ],
+    [
+      0.000003,
+      "\r\nOnline: [ wombat ]\r"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "p_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\n"
+    ],
+    [
+      0.000003,
+      "p_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "p_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\n"
+    ],
+    [
+      0.000009,
+      " Resource Group: g_apache-projects\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\n"
+    ],
+    [
+      0.000003,
+      "wombat\r\n"
+    ],
+    [
+      0.000003,
+      "\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[65Dp_virtdom_ap"
+    ],
+    [
+      0.000003,
+      "ache-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r"
+    ],
+    [
+      0.000003,
+      "\r\n Resource Group: g_mysql-staging"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[27Dp_fs_overlay-mysql-staging (ocf::hastexo:Filesystem):\u001b[6CStarted wombat"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[73Dp_fs_lxc-mysql-staging     (ocf::hastexo:Filesystem):\u001b[6CStarted wombat \u0008.\u0008\u001b[1"
+    ],
+    [
+      0.000003,
+      "@ \u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:50 2015\r"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "Last change: Sat Oct  3 15:29:49 2015 via cibadmin on wombat\r"
+    ],
+    [
+      0.000003,
+      "\r\nStack: corosync\r"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "Current DC: quokka (1572674743) - partition with quorum\r"
+    ],
+    [
+      0.000004,
+      "\r\nVersion: 1.1.10-42f2063\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "2 Nodes configured\r\r\n"
+    ],
+    [
+      0.000003,
+      "32 Resources configured"
+    ],
+    [
+      0.000003,
+      "\r"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\r\nNode quokka (1572674743): standby\r"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "Online: [ wombat ]\r"
+    ],
+    [
+      0.000003,
+      "\r\n\r\n"
+    ],
+    [
+      0.000003,
+      "p_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "p_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r"
+    ],
+    [
+      0.000003,
+      "\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      " Resource Group: g_a"
+    ],
+    [
+      0.000003,
+      "pache-projects"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r"
+    ],
+    [
+      0.000003,
+      "\r\nwombat"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[65Dp_virtdom_apac"
+    ],
+    [
+      0.000003,
+      "he-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      " Resource Group: g_mysql-staging\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[27Dp_fs_overlay-mysql-staging (ocf::hastexo:Filesystem):\u001b[6CStarted wombat"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[73Dp_fs_lxc-mysql-staging     (ocf::hastexo:Filesystem):\u001b[6CStarted wombat "
+    ],
+    [
+      0.561838,
+      "\u0008.\u0008\u001b[1@ \u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:50 2015\r\r\nLast change: Sat Oct  3 15:29:49 2015 via cibadmin on wombat\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r"
+    ],
+    [
+      0.000010,
+      "\r\n2 Nodes configured\r\r\n32 Resources configured\r\r\n\r\n\r\nNode quokka (1572674743): standby\r\r\nOnline: [ wombat ]\r\r\n\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\n Resource Grou"
+    ],
+    [
+      0.000181,
+      "p: g_apache-projects\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\nwombat\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat"
+    ],
+    [
+      0.000003,
+      "\r\n\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r\r\n"
+    ],
+    [
+      0.000003,
+      " Resource Group: g_mysql-staging"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[27Dp_fs_overlay-mysql-staging (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[73Dp_fs_lxc-mysql-staging     (ocf::hastexo:Filesystem):\u001b[6CStarted wombat \u0008.\u0008\u001b[1@ \u001b[H\u001b[H\u001b[2J"
+    ],
+    [
+      0.000820,
+      "Last updated: Sat Oct  3 15:29:50 2015\r\r\n"
+    ],
+    [
+      0.000005,
+      "Last change: Sat Oct  3 15:29:49 2015 via cibadmin on wombat\r\r\n"
+    ],
+    [
+      0.002596,
+      "Stack: corosync\r\r\n"
+    ],
+    [
+      0.000005,
+      "Current DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r\r\n"
+    ],
+    [
+      0.021633,
+      "2 Nodes configured\r\r\n32 Resources configured\r\r\n\r\n\r\nNode quokka (1572674743): standby\r\r\nOnline: [ wombat ]\r\r\n"
+    ],
+    [
+      0.000011,
+      "\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\n Resource Group: g_apache-projects\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\nwombat\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\n\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r"
+    ],
+    [
+      0.000005,
+      "\r\n Resource Group: g_mysql-staging\r\n\u001b[27Dp_fs_overlay-mysql-staging (ocf::hastexo:Filesystem):\u001b[6CStarted wombat"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[73Dp_fs_lxc-mysql-staging     (ocf::hastexo:Filesystem):\u001b[6CStarted wombat \u0008.\u0008\u001b[1@ \u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:50 2015\r\r\n"
+    ],
+    [
+      0.000003,
+      "Last change: Sat Oct  3 15:29:49 2015 via cibadmin on wombat\r\r\n"
+    ],
+    [
+      0.000003,
+      "Stack: corosync\r\r\n"
+    ],
+    [
+      0.000004,
+      "Current DC: quokka (1572674743) - partition with quorum\r\r\n"
+    ],
+    [
+      0.000003,
+      "Version: 1.1.10-42f2063\r"
+    ],
+    [
+      0.000003,
+      "\r\n2 "
+    ],
+    [
+      0.000015,
+      "Nodes configured\r"
+    ],
+    [
+      0.000003,
+      "\r\n32 Resources configured\r"
+    ],
+    [
+      0.000005,
+      "\r\n\r\n"
+    ],
+    [
+      0.000005,
+      "\r\nNode quokka (1572674743): standby\r"
+    ],
+    [
+      0.000004,
+      "\r\nOnline: [ wombat ]\r"
+    ],
+    [
+      0.000003,
+      "\r\n\r\n"
+    ],
+    [
+      0.000003,
+      "p_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "p_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r"
+    ],
+    [
+      0.000003,
+      "\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      " Resource Group: g_apache-projects"
+    ],
+    [
+      0.000003,
+      "\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "wombat"
+    ],
+    [
+      0.000003,
+      "\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr"
+    ],
+    [
+      0.000011,
+      "2):\u001b[7CStarted wombat"
+    ],
+    [
+      0.000004,
+      "\r\n\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r"
+    ],
+    [
+      0.000003,
+      "\r\n Resource Group: g_mysql-staging"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[27Dp_fs_overlay-mysql-staging (ocf::hastexo:Filesystem):\u001b[6CStarted wombat"
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[73Dp_fs_lxc-mysql-staging     (ocf::hastex"
+    ],
+    [
+      0.000004,
+      "o:Filesystem):\u001b[6CStarted wombat "
+    ],
+    [
+      0.014356,
+      "\u0008.\u0008\u001b[1@ "
+    ],
+    [
+      0.010972,
+      "\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:50 2015\r\r\nLast change: Sat Oct  3 15:29:49 2015 via cibadmin on wombat\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r"
+    ],
+    [
+      0.000010,
+      "\r\n2 Nodes configured\r\r\n32 Resources configured\r\r\n\r\n\r\nNode quokka (1572674743): standby\r\r\nOnline: [ wombat ]\r\r\n\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\n"
+    ],
+    [
+      0.000008,
+      " Resource Group: g_apache-projects\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\nwombat"
+    ],
+    [
+      0.000004,
+      "\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat"
+    ],
+    [
+      0.000003,
+      "\r\n\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r\r\n"
+    ],
+    [
+      0.000003,
+      " Resource Group: g_mysql-staging\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[27Dp_fs_overlay-mysql-staging (ocf::hastexo:Filesystem):\u001b[6CStarted wombat"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[73Dp_fs_lxc-mysql-staging     (ocf::hastexo:Filesystem):\u001b[6CStarted wombat \u0008.\u0008\u001b[1@ "
+    ],
+    [
+      0.009813,
+      "\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:50 2015\r"
+    ],
+    [
+      0.000005,
+      "\r\nLast change: Sat Oct  3 15:29:49 2015 via cibadmin on wombat\r\r\nStack: corosync\r"
+    ],
+    [
+      0.000004,
+      "\r\nCurrent DC: quokka (1572674743)"
+    ],
+    [
+      0.004060,
+      " - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r\r\n"
+    ],
+    [
+      0.000020,
+      "2 Nodes configured\r\r\n32 Resources configured\r\r\n\r\n\r\nNode quokka (1572674743): standby\r\r\nOnline: [ wombat ]\r\r\n\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\n Resource Group: g_apache-projects\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\nwombat\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat"
+    ],
+    [
+      0.000009,
+      "\r\n\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r\r\n Resource Group: g_mysql-staging\r\n\u001b[27Dp_fs_overlay-mysql-staging (ocf::hastexo:Filesystem):\u001b[6CStarted wombat"
+    ],
+    [
+      0.000008,
+      "\r\n\u001b[73Dp_fs_lxc-mysql-staging     (ocf::hastexo:Filesystem):\u001b[6CStarted wombat \u0008.\u0008\u001b[1@ \u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:50 2015\r\r\nLast change: Sat Oct  3 15:29:49 2015 via cibadmin on wombat\r"
+    ],
+    [
+      0.000010,
+      "\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r"
+    ],
+    [
+      0.000011,
+      "\r\nVersion: 1.1.10-42f2063\r\r\n2 Nodes configured\r"
+    ],
+    [
+      0.000010,
+      "\r\n32 Resources configured\r\r\n\r\n\r\n"
+    ],
+    [
+      0.000007,
+      "Node quokka (1572674743): standby\r\r\nOnline: [ wombat ]\r\r\n"
+    ],
+    [
+      0.000008,
+      "\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r"
+    ],
+    [
+      0.000009,
+      "\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\n"
+    ],
+    [
+      0.000007,
+      " Resource Group: g_apache-projects\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\n"
+    ],
+    [
+      0.000008,
+      "wombat\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n"
+    ],
+    [
+      0.000149,
+      "\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\n\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r\r\n Resource Group: g_mysql-staging\r\n\u001b[27Dp_fs_overlay-mysql-staging (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n\u001b[73Dp_fs_lxc-mysql-staging     (ocf::hastexo:Filesystem):\u001b[6CStarted wombat "
+    ],
+    [
+      0.026094,
+      "\u0008.\u0008\u001b[1@ "
+    ],
+    [
+      0.007779,
+      "\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:50 2015\r\r\nLast change: Sat Oct  3 15:29:49 2015 via cibadmin on wombat"
+    ],
+    [
+      0.000367,
+      "\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r\r\n2 Nodes configured\r\r\n32 Resources configured\r\r\n\r\n\r\nNode quokka (1572674743): standby\r\r\nOnline: [ wombat ]\r\r\n\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted "
+    ],
+    [
+      0.000011,
+      "wombat\r\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\n Resource Group: g_apache-projects\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\nwombat\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\n\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r\r\n Resource Group: g_mysql-staging\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[27Dp_fs_overlay-mysql-staging (ocf::hastexo:Filesystem):\u001b[6CStarted wombat"
+    ],
+    [
+      0.000006,
+      "\r\n\u001b[73Dp_fs_lxc-mysql-staging     (ocf::hastexo:Filesystem):\u001b[6CStarted wombat "
+    ],
+    [
+      0.000729,
+      "\u0008.\u0008\u001b[1@ "
+    ],
+    [
+      0.006898,
+      "\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:50 2015\r\r\nLast change: Sat Oct  3 15:29:50 2015 via cibadmin on wombat\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\n"
+    ],
+    [
+      0.001129,
+      "Version: 1.1.10-42f2063\r\r\n2 Nodes configured\r\r\n32 Resources configured\r\r\n\r\n\r\n"
+    ],
+    [
+      0.000006,
+      "Node quokka (1572674743): standby\r\r\nOnline: [ wombat ]\r\r\n\r\n"
+    ],
+    [
+      0.007039,
+      "p_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\n Resource Group: g_apache-projects\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::ha"
+    ],
+    [
+      0.000194,
+      "stexo:Filesystem):\u001b[6CStarted\r\r\nwombat\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\n\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r\r\n Resource Group: g_mysql-staging\r\n\u001b[27Dp_fs_overlay-mysql-staging (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[73Dp_fs_lxc-mysql-staging     (ocf::hastexo:Filesystem):\u001b[6CStarted wombat "
+    ],
+    [
+      0.004263,
+      "\u0008.\u0008\u001b[1@ "
+    ],
+    [
+      0.003228,
+      "\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:50 2015\r\r\nLast change: Sat Oct  3 15:29:50 2015 via cibadmin on wombat\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r"
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.005772,
+      "2 Nodes configured\r\r\n"
+    ],
+    [
+      0.000009,
+      "32 Resources configured\r\r\n\r\n\r\nNode quokka (1572674743): standby\r\r\nOnline: [ wombat ]\r\r\n\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\n"
+    ],
+    [
+      0.000005,
+      "p_ip_test\u001b[7C(ocf::heartbeat:IPaddr"
+    ],
+    [
+      0.000005,
+      "2):\u001b[7CStarted wombat\r\r\n Resource Group: g_apache-projects"
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\nwombat"
+    ],
+    [
+      0.000013,
+      "\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\n\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r\r\n Resource Group: g_mysql-staging\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[27Dp_fs_overlay-mysql-staging (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n\u001b[73Dp_fs_lxc-mysql-staging     (ocf::hastexo:Filesystem):\u001b[6CStarted wombat "
+    ],
+    [
+      0.041924,
+      "\u0008.\u0008\u001b[1@ "
+    ],
+    [
+      0.008663,
+      "\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:50 2015\r\r\nLast change: Sat Oct  3 15:29:50 2015 via cibadmin on wombat\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r"
+    ],
+    [
+      0.000010,
+      "\r\n2 Nodes configured\r\r\n32 Resources configured\r\r\n\r\n\r\nNode quokka (1572674743): standby\r\r\nOnline: [ wombat ]\r\r\n\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r"
+    ],
+    [
+      0.000006,
+      "\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\n Resource Group: g_apache-projects"
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\n"
+    ],
+    [
+      0.000005,
+      "wombat\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[65Dp_virtdom_apache"
+    ],
+    [
+      0.000004,
+      "-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r\r\n Resource Group: g_mysql-staging"
+    ],
+    [
+      0.000004,
+      "\r\n\u001b[27Dp_fs_overlay-mysql-staging (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[73Dp_fs_lxc-mysql-staging     (ocf::hastexo:Filesystem):\u001b[6CStarted wombat "
+    ],
+    [
+      0.437018,
+      "\u0008.\u0008\u001b[1@ \u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:51 2015\r\r\nLast change: Sat Oct  3 15:29:50 2015 via cibadmin on wombat\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\n"
+    ],
+    [
+      0.000009,
+      "Version: 1.1.10-42f2063\r\r\n2 Nodes configured\r\r\n"
+    ],
+    [
+      0.001959,
+      "32 Resources configured\r\r\n\r\n\r\nNode quokka (1572674743): standby\r\r\n"
+    ],
+    [
+      0.021392,
+      "Online: [ wombat ]\r\r\n\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\n"
+    ],
+    [
+      0.000007,
+      " Resource Group: g_apache-projects\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\nwombat\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat"
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\n\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r"
+    ],
+    [
+      0.000005,
+      "\r\n Resource Group: g_mysql-staging\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[27Dp_fs_overlay-mysql-staging (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n\u001b[73Dp_fs_lxc-mysql-staging     (ocf::hastexo:Filesystem):\u001b[6CStarted wombat "
+    ],
+    [
+      0.043744,
+      "\u0008.\u0008\u001b[1@ "
+    ],
+    [
+      0.004561,
+      "\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:51 2015\r\r\nLast change: Sat Oct  3 15:29:50 2015 via cibadmin on wombat\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\n"
+    ],
+    [
+      0.001909,
+      "Version: 1.1.10-42f2063\r\r\n2 Nodes configured\r\r\n32 Resources configured\r\r\n\r\n\r\nNode quokka (1572674743): standby\r\r\n"
+    ],
+    [
+      0.000010,
+      "Online: [ wombat ]\r\r\n"
+    ],
+    [
+      0.000212,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "p_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\n Resource Group: g_apache-projects\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r"
+    ],
+    [
+      0.000010,
+      "\r\nwombat\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\n\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r"
+    ],
+    [
+      0.000011,
+      "\r\n Resource Group: g_mysql-staging\r\n\u001b[27Dp_fs_overlay-mysql-staging (ocf::hastexo:Filesystem):\u001b[6CStarted wombat"
+    ],
+    [
+      0.000010,
+      "\r\n\u001b[73Dp_fs_lxc-mysql-staging     (ocf::hastexo:Filesystem):\u001b[6CStarted wombat "
+    ],
+    [
+      0.089087,
+      "\u0008.\u0008\u001b[1@ "
+    ],
+    [
+      0.008844,
+      "\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:51 2015\r\r\nLast change: Sat Oct  3 15:29:50 2015 via cibadmin on wombat\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\n"
+    ],
+    [
+      0.000035,
+      "Version: 1.1.10-42f2063\r\r\n2 Nodes configured\r\r\n"
+    ],
+    [
+      0.000742,
+      "32 Resources configured\r\r\n"
+    ],
+    [
+      0.002308,
+      "\r\n\r\n"
+    ],
+    [
+      0.000020,
+      "Node quokka (1572674743): standby\r\r\n"
+    ],
+    [
+      0.000297,
+      "Online: [ wombat ]\r"
+    ],
+    [
+      0.000017,
+      "\r\n\r\n"
+    ],
+    [
+      0.000014,
+      "p_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\n"
+    ],
+    [
+      0.000014,
+      "p_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\n"
+    ],
+    [
+      0.000014,
+      "p_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\n"
+    ],
+    [
+      0.000013,
+      " Resource Group: g_apache-projects\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[29Dp_fs_overlay-apache"
+    ],
+    [
+      0.000014,
+      "-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r"
+    ],
+    [
+      0.000014,
+      "\r\nwombat"
+    ],
+    [
+      0.000013,
+      "\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat"
+    ],
+    [
+      0.000013,
+      "\r\n\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat"
+    ],
+    [
+      0.000017,
+      "\r\n\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r"
+    ],
+    [
+      0.000014,
+      "\r\n Resource Group: g_mysql-staging"
+    ],
+    [
+      0.000014,
+      "\r\n\u001b[27Dp_fs_overlay-mysql-staging (ocf::hastexo:Filesystem):\u001b[6CStarted wombat"
+    ],
+    [
+      0.000013,
+      "\r\n\u001b[73Dp_fs_lxc-mysql-staging     (ocf::hastexo:Filesystem):\u001b[6CStarted wombat "
+    ],
+    [
+      0.015712,
+      "\u0008.\u0008\u001b[1@ "
+    ],
+    [
+      0.008039,
+      "\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:51 2015\r\r\nLast change: Sat Oct  3 15:29:51 2015 via cibadmin on wombat\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743)"
+    ],
+    [
+      0.002353,
+      " - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r\r\n2 Nodes configured\r\r\n32 Resources configured\r\r\n"
+    ],
+    [
+      0.000009,
+      "\r\n\r\nNode quokka (1572674743): standby\r\r\nOnline: [ wombat ]\r\r\n\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\n Resource Group: g_apache-projects\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\nwombat\r\n"
+    ],
+    [
+      0.000005,
+      "\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat"
+    ],
+    [
+      0.000004,
+      "\r\n\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r\r\n"
+    ],
+    [
+      0.000004,
+      " Resource Group: g_mysql-staging\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[27Dp_fs_overlay-mysql-staging (ocf::hastexo:Filesystem):\u001b[6CStarte"
+    ],
+    [
+      0.000016,
+      "d wombat\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[73Dp_fs_lxc-mysql-staging     (ocf::hastexo:Filesystem):\u001b[6CStarted wombat "
+    ],
+    [
+      0.011353,
+      "\u0008.\u0008\u001b[1@ "
+    ],
+    [
+      0.003802,
+      "\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:51 2015\r\r\nLast change: Sat Oct  3 15:29:51 2015 via cibadmin on wombat\r\r\n"
+    ],
+    [
+      0.000748,
+      "Stack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r\r\n"
+    ],
+    [
+      0.000379,
+      "2 Nodes configured\r\r\n32 Resources configured\r\r\n\r\n\r\n"
+    ],
+    [
+      0.000359,
+      "Node quokka (1572674743): standby\r\r\n"
+    ],
+    [
+      0.005439,
+      "Online: [ wombat ]\r\r\n\r\n"
+    ],
+    [
+      0.000008,
+      "p_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\n Resource Group: g_apache-projects\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\n"
+    ],
+    [
+      0.000005,
+      "wombat\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\n\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDom"
+    ],
+    [
+      0.000005,
+      "ain): Started wombat\r\r\n"
+    ],
+    [
+      0.000006,
+      " Resource Group: g_mysql-staging\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[27Dp_fs_overlay-mysql-staging (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n\u001b[73Dp_fs_lxc-mysql-staging     (ocf::hastexo:Filesystem):\u001b[6CStarted wombat "
+    ],
+    [
+      0.048101,
+      "\u0008.\u0008\u001b[1@ "
+    ],
+    [
+      0.007870,
+      "\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:51 2015\r\r\nLast change: Sat Oct  3 15:29:51 2015 via cibadmin on wombat\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\n"
+    ],
+    [
+      0.000007,
+      "Version: 1.1.10-42f2063\r\r\n2 Nodes configured\r\r\n32 Resources configured\r\r\n\r\n"
+    ],
+    [
+      0.000006,
+      "\r\nNode quokka (1572674743): standby\r\r\nOnline: [ wombat ]\r"
+    ],
+    [
+      0.000005,
+      "\r\n\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\n"
+    ],
+    [
+      0.000005,
+      "p_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r"
+    ],
+    [
+      0.000005,
+      "\r\n Resource Group: g_apache-projects\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\nwombat"
+    ],
+    [
+      0.000005,
+      "\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat"
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[65Dp_virtdom_apache"
+    ],
+    [
+      0.000005,
+      "-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r\r\n Resource Group: g_mysql-staging"
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[27Dp_fs_overlay-mysql-staging (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[73Dp_fs_lxc-mysql-staging     (ocf::hastexo:Filesystem):\u001b[6CStarted wombat "
+    ],
+    [
+      0.102805,
+      "\u0008.\u0008\u001b[1@ "
+    ],
+    [
+      0.004345,
+      "\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:51 2015\r\r\nLast change: Sat Oct  3 15:29:51 2015 via cibadmin on wombat\r\r\nStack: corosync\r\r\n"
+    ],
+    [
+      0.000502,
+      "Current DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r\r\n2 Nodes configured\r\r\n32 Resources configured\r\r\n\r\n"
+    ],
+    [
+      0.000007,
+      "\r\nNode quokka (1572674743): standby\r\r\nOnline: [ wombat ]\r\r\n\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\n"
+    ],
+    [
+      0.000005,
+      "p_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\n Resource Group: g_apache-projects\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\nwombat\r\n"
+    ],
+    [
+      0.000005,
+      "\u0008p_fs_lxc-apache-projects   (ocf:"
+    ],
+    [
+      0.000005,
+      ":hastexo:Filesystem):\u001b[6CStarted wombat\r\n\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r\r\n Resource Group: g_apache-staging"
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[28Dp_fs_overlay-apache-staging\u001b[8C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\n"
+    ],
+    [
+      0.000005,
+      "wombat\u001b[6Cp_fs_lxc-apache-staging     (ocf::hastexo:Filesystem):\u001b[6CStopped"
+    ],
+    [
+      0.085427,
+      "\u0008.\u0008\u001b[1@d"
+    ],
+    [
+      0.001357,
+      "\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:51 2015\r\r\nLast change: Sat Oct  3 15:29:51 2015"
+    ],
+    [
+      0.000754,
+      " via cibadmin on wombat"
+    ],
+    [
+      0.001263,
+      "\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\n"
+    ],
+    [
+      0.000176,
+      "Version: 1.1.10-42f2063\r\r\n"
+    ],
+    [
+      0.002011,
+      "2 Nodes configured\r\r\n32 Resources configured\r\r\n\r\n\r\nNode quokka (1572674743): standby\r\r\nOnline: [ wombat ]\r"
+    ],
+    [
+      0.000008,
+      "\r\n\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\n Resource Group: g_apache-projects\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r"
+    ],
+    [
+      0.000012,
+      "\r\nwombat\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\n\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r\r\n"
+    ],
+    [
+      0.000006,
+      " Resource Group: g_apache-staging\r\n\u001b[28Dp_fs_overlay-apache-staging\u001b[8C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\n"
+    ],
+    [
+      0.000005,
+      "wombat\u001b[6Cp_fs_lxc-apache-staging     (ocf::hastexo:Filesystem):\u001b[6CStopped\u0008.\u0008\u001b[1@d"
+    ],
+    [
+      0.002583,
+      "\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:51 2015\r\r\nLast change: Sat Oct  3 15:29:51 2015 via cibadmin on wombat\r\r\n"
+    ],
+    [
+      0.016271,
+      "Stack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r\r\n2 Nodes configured\r\r\n32 Resources configured\r"
+    ],
+    [
+      0.000008,
+      "\r\n\r\n\r\nNode quokka (1572674743): standby\r\r\nOnline: [ wombat ]\r\r\n\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r"
+    ],
+    [
+      0.000005,
+      "\r\n Resource Group: g_apache-projects\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r"
+    ],
+    [
+      0.000005,
+      "\r\nwombat\r\n\u0008p_fs_lxc-apache"
+    ],
+    [
+      0.000015,
+      "-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\n\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r\r\n"
+    ],
+    [
+      0.000005,
+      " Resource Group: g_apache-staging\r\n\u001b[28Dp_fs_overlay-a"
+    ],
+    [
+      0.000005,
+      "pache-staging\u001b[8C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\nwombat\u001b[6Cp_fs_lxc-apache-staging     (ocf::hastexo:Filesystem):\u001b[6CStarted"
+    ],
+    [
+      0.021570,
+      "\u0008.\u0008\u001b[1@d"
+    ],
+    [
+      0.007987,
+      "\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:51 2015\r\r\nLast change: Sat Oct  3 15:29:51 2015 via cibadmin on wombat\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\n"
+    ],
+    [
+      0.000007,
+      "Version: 1.1.10-42f2063\r\r\n2 Nodes configured\r\r\n32 Resources configured\r\r\n\r\n\r\n"
+    ],
+    [
+      0.000614,
+      "Node quokka (1572674743): standby\r\r\n"
+    ],
+    [
+      0.000828,
+      "Online: [ wombat ]\r\r\n\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\n"
+    ],
+    [
+      0.000008,
+      " Resource Group: g_apache-projects\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\nwombat\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r\r\n"
+    ],
+    [
+      0.000005,
+      " Resource Group: g_apache-staging\r\n\u001b[28Dp_fs_overlay-apache-staging\u001b[8C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\n"
+    ],
+    [
+      0.000005,
+      "wombat\u001b[6Cp_fs_lxc-apache-staging     (ocf::hastexo:Filesystem):\u001b[6CStarted"
+    ],
+    [
+      0.003209,
+      "\u0008.\u0008\u001b[1@d"
+    ],
+    [
+      0.004651,
+      "\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:51 2015\r\r\nLast change: Sat Oct  3 15:29:51 2015 via cibadmin on wombat\r\r\nStack: corosync\r\r\n"
+    ],
+    [
+      0.005089,
+      "Current DC: quokka (1572674743)"
+    ],
+    [
+      0.004232,
+      " - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r\r\n2 Nodes configured\r\r\n32 Resources configured\r\r\n\r\n"
+    ],
+    [
+      0.000008,
+      "\r\nNode quokka (1572674743): standby\r\r\nOnline: [ wombat ]\r\r\n\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r"
+    ],
+    [
+      0.000005,
+      "\r\n Resource Group: g_apache-projects\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\n"
+    ],
+    [
+      0.000005,
+      "wombat\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarte"
+    ],
+    [
+      0.000005,
+      "d wombat"
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r\r\n Resource Group: g_apache-staging\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[28Dp_fs_overlay-apache-staging\u001b[8C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\nwombat\u001b[6Cp_fs_lxc-apache-staging     (ocf::hastexo:Filesystem):\u001b[6CStarted"
+    ],
+    [
+      0.484240,
+      "\u0008.\u0008\u001b[1@d\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:52 2015\r\r\nLast change: Sat Oct  3 15:29:51 2015 via cibadmin"
+    ],
+    [
+      0.000555,
+      " on wombat\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r\r\n2 Nodes configured\r"
+    ],
+    [
+      0.000007,
+      "\r\n32 Resources configured\r\r\n\r\n\r\nNode quokka (1572674743): standby\r\r\nOnline: [ wombat ]\r\r\n\r\n"
+    ],
+    [
+      0.000005,
+      "p_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r"
+    ],
+    [
+      0.000005,
+      "\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r"
+    ],
+    [
+      0.000005,
+      "\r\n Resource Group: g_apache-projects\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\nwombat"
+    ],
+    [
+      0.000005,
+      "\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat"
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r\r\n Resource Group: g_apache-staging\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[28Dp_fs_overlay-apache-staging\u001b[8C(ocf::hastexo:Filesystem):\u001b[6CStarted\r"
+    ],
+    [
+      0.000005,
+      "\r\nwombat\u001b[6Cp_fs_lxc-apache-staging     (ocf::hastexo:Filesystem):\u001b[6CStarted\u0008.\u0008\u001b[1@d"
+    ],
+    [
+      0.001625,
+      "\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:52 2015\r\r\nLast change: Sat Oct  3 15:29:51 2015 via cibadmin on wombat\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r"
+    ],
+    [
+      0.000007,
+      "\r\n2 Nodes configured\r\r\n32 Resources configured\r\r\n\r\n\r\nNode quokka (1572674743): standby\r\r\nOnline: [ wombat ]\r\r\n"
+    ],
+    [
+      0.000005,
+      "\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r"
+    ],
+    [
+      0.000004,
+      "\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\n"
+    ],
+    [
+      0.000005,
+      " Resource Group: g_apache-projects"
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\n"
+    ],
+    [
+      0.000005,
+      "wombat\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\n\u001b[65Dp_virtdom_apache"
+    ],
+    [
+      0.000005,
+      "-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r\r\n"
+    ],
+    [
+      0.000023,
+      " Resource Group: g_apache-staging\r\n\u001b[28Dp_fs_overlay-apache-staging\u001b[8C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\nwombat\u001b[6Cp_fs_lxc-apache-staging     (ocf::hastexo:Filesystem):\u001b[6CStarted\u0008.\u0008\u001b[1@d\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:52 2015\r\r\nLast change: Sat Oct  3 15:29:51 2015 via cibadmin on wombat\r\r\nStack: corosync\r"
+    ],
+    [
+      0.000006,
+      "\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r\r\n2 Nodes configured\r\r\n32 Resources configured\r\r\n\r\n"
+    ],
+    [
+      0.000005,
+      "\r\nNod"
+    ],
+    [
+      0.000005,
+      "e quokka (1572674743): standby\r\r\n"
+    ],
+    [
+      0.000005,
+      "Online: [ wombat ]\r\r\n\r\n"
+    ],
+    [
+      0.000005,
+      "p_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\n"
+    ],
+    [
+      0.000005,
+      "p_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\n Resource Group: g_apache-p"
+    ],
+    [
+      0.000005,
+      "rojects\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\nwombat\r\n"
+    ],
+    [
+      0.000005,
+      "\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat"
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r"
+    ],
+    [
+      0.000005,
+      "\r\n Resource Group: g_apache-staging\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[28Dp_fs_overlay-apache-staging\u001b[8C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\nwombat\u001b[6Cp_fs_lxc-apache-staging     (ocf::hastexo:Filesystem):\u001b[6CStarted\u0008.\u0008\u001b[1@d\u001b[H\u001b[H\u001b[2J"
+    ],
+    [
+      0.000005,
+      "Last updated: Sat Oct  3 15:29:52 2015\r\r\nLast change: Sat Oct  3 15:29:51 2015 via cibadmin on wombat\r"
+    ],
+    [
+      0.000005,
+      "\r\nStack: corosync\r\r\n"
+    ],
+    [
+      0.000005,
+      "Current DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r\r\n"
+    ],
+    [
+      0.000005,
+      "2 Nodes configured\r\r\n32 Resources configured\r"
+    ],
+    [
+      0.000005,
+      "\r\n\r\n"
+    ],
+    [
+      0.000005,
+      "\r\nNode quo"
+    ],
+    [
+      0.000015,
+      "kka (1572674743): standby\r\r\n"
+    ],
+    [
+      0.000005,
+      "Online: [ wombat ]\r\r\n\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\n"
+    ],
+    [
+      0.000005,
+      "p_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\n"
+    ],
+    [
+      0.000005,
+      " Resource Group: g_apache-projects"
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\nwombat"
+    ],
+    [
+      0.000005,
+      "\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\n\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r"
+    ],
+    [
+      0.000005,
+      "\r\n Resource Group: g_apache-staging\r\n\u001b[28Dp_fs_overlay-apache-staging\u001b[8C(ocf::hastexo:Filesystem):\u001b[6CStarted\r"
+    ],
+    [
+      0.000005,
+      "\r\nwombat\u001b[6Cp_fs_lxc-apache-staging     (ocf::hastexo:Filesystem):\u001b[6CStarted"
+    ],
+    [
+      0.067121,
+      "\u0008.\u0008\u001b[1@d"
+    ],
+    [
+      0.007777,
+      "\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:52 2015\r\r\nLast change: Sat Oct  3 15:29:51 2015 via cibadmin on wombat\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r"
+    ],
+    [
+      0.000007,
+      "\r\n2 Nodes configured\r\r\n32 Resources configured\r\r\n\r\n\r\nNode quokka (1572674743): standby\r"
+    ],
+    [
+      0.000005,
+      "\r\nOnline: [ wombat ]\r\r\n\r\n"
+    ],
+    [
+      0.000005,
+      "p_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\n"
+    ],
+    [
+      0.000005,
+      "p_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\n Resource Group: g_apa"
+    ],
+    [
+      0.000005,
+      "che-projects\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\nwombat\r\n"
+    ],
+    [
+      0.000005,
+      "\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat"
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[65Dp_virtdom_apache"
+    ],
+    [
+      0.000005,
+      "-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r\r\n Resource Group: g_apache-staging\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[28Dp_fs_overlay-apache-staging\u001b[8C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\nwombat\u001b[6Cp_fs_lxc-apache-staging     (ocf::hastexo:Filesystem):\u001b[6CStarted"
+    ],
+    [
+      0.127240,
+      "\u0008.\u0008\u001b[1@d\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:52 2015\r\r\nLast change: Sat Oct  3 15:29:51 2015 via cibadmin on wombat\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r"
+    ],
+    [
+      0.000009,
+      "\r\n2 Nodes configured\r\r\n32 Resources configured\r\r\n\r\n\r\n"
+    ],
+    [
+      0.001848,
+      "Node quokka (1572674743): standby\r\r\nOnline: [ wombat ]\r\r\n\r\np_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\n"
+    ],
+    [
+      0.000010,
+      "p_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\n Resource Group: g_apache-projects\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\nwombat\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\n\u001b[65Dp_virtdom_apache-p"
+    ],
+    [
+      0.000005,
+      "rojects  (ocf::heartbeat:VirtualDomain): Started wombat\r\r\n Resource Group: g_apache-staging\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[28Dp_fs_overlay-apache-staging\u001b[8C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\n"
+    ],
+    [
+      0.000004,
+      "wombat\u001b[6Cp_fs_lxc-apache-staging     (ocf::hastexo:Filesystem):\u001b[6CStarted"
+    ],
+    [
+      0.408599,
+      "\u0008.\u0008\u001b[1@d\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:52 2015\r\r\nLast change: Sat Oct  3 15:29:51 2015 via cibadmin on wombat\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r\r\n"
+    ],
+    [
+      0.000009,
+      "2 Nodes configured\r\r\n32 Resources configured\r\r\n\r\n\r\nNode quokka (1572674743): standby\r\r\nOnline: [ wombat ]\r\r\n\r\n"
+    ],
+    [
+      0.018732,
+      "p_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\n Resource Group: g_apache-projects\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::ha"
+    ],
+    [
+      0.000009,
+      "stexo:Filesystem):\u001b[6CStarted\r\r\nwombat\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\n\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r\r\n Resource Group: g_apache-staging"
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[28Dp_fs_overlay-apache-staging\u001b[8C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\nwombat\u001b[6Cp_fs_lxc-apache-staging     (ocf::hastexo:Filesystem):\u001b[6CStarted"
+    ],
+    [
+      0.009577,
+      "\u0008.\u0008\u001b[1@d"
+    ],
+    [
+      0.007435,
+      "\u001b[H\u001b[H\u001b[2JLast updated: Sat Oct  3 15:29:52 2015\r\r\nLast change: Sat Oct  3 15:29:51 2015 via cibadmin on wombat\r\r\nStack: corosync\r\r\nCurrent DC: quokka (1572674743) - partition with quorum\r\r\nVersion: 1.1.10-42f2063\r"
+    ],
+    [
+      0.000007,
+      "\r\n2 Nodes configured\r\r\n32 Resources configured\r\r\n\r\n\r\n"
+    ],
+    [
+      0.000777,
+      "Node quokka (1572674743): standby\r\r\n"
+    ],
+    [
+      0.000954,
+      "Online: [ wombat ]\r\r\n\r\n"
+    ],
+    [
+      0.001848,
+      "p_fence_quokka  (stonith:external/ipmi):\u001b[8CStarted wombat\r\r\np_ip_prod\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\np_ip_test\u001b[7C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\r\n Resource Group: g_apache-projects\r\n\u001b[29Dp_fs_overlay-apache-projects\u001b[7C(ocf::hastexo:Filesystem):\u001b[6CStarted\r"
+    ],
+    [
+      0.000006,
+      "\r\nwombat\r\n\u0008p_fs_lxc-apache-projects   (ocf::hastexo:Filesystem):\u001b[6CStarted wombat\r\n\u001b[73Dp_ip_projects\u001b[6C(ocf::heartbeat:IPaddr2):\u001b[7CStarted wombat\r\n\u001b[65Dp_virtdom_apache-projects  (ocf::heartbeat:VirtualDomain): Started wombat\r"
+    ],
+    [
+      0.000004,
+      "\r\n Resource Group: g_apache-staging"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[28Dp_fs_overlay-apache-staging\u001b[8C(ocf::hastexo:Filesystem):\u001b[6CStarted\r\r\n"
+    ],
+    [
+      0.000003,
+      "wombat\u001b[6Cp_fs_lxc-apache-staging     (ocf::hastexo:Filesystem):\u001b[6CStarted"
+    ],
+    [
+      5.051890,
+      "\rConnection to the CIB terminated\r\r\n"
+    ],
+    [
+      0.000025,
+      "Reconnecting..."
+    ],
+    [
+      0.095084,
+      "florian@quokka:~$ "
+    ],
+    [
+      6.740302,
+      "\u001b[?1l\u001b\u003e\u001b]0;\u0007\u001b]2;screen\u0007\u001b[23;2t\u001b[24;1H\r\r\n\u001b[?1049l"
+    ],
+    [
+      0.000022,
+      "[detached from 9270.pts-19.stork]\r\r\n"
+    ],
+    [
+      0.000073,
+      "\r\n"
+    ]
+  ]
+}
