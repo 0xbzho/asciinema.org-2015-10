@@ -1,0 +1,386 @@
+{
+  "version": 1,
+  "width": 100,
+  "height": 24,
+  "duration": 62.589660,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.054940,
+      "\u001b]0;diegoboot@diegoboot-ntb: ~\u0007diegoboot@diegoboot-ntb:~$ "
+    ],
+    [
+      2.829806,
+      "s"
+    ],
+    [
+      0.185027,
+      "u"
+    ],
+    [
+      0.103889,
+      "d"
+    ],
+    [
+      0.137940,
+      "o"
+    ],
+    [
+      1.145476,
+      " "
+    ],
+    [
+      0.317900,
+      "a"
+    ],
+    [
+      0.166101,
+      "p"
+    ],
+    [
+      0.589484,
+      "t"
+    ],
+    [
+      0.334191,
+      "-"
+    ],
+    [
+      1.961962,
+      "g"
+    ],
+    [
+      0.225022,
+      "e"
+    ],
+    [
+      0.157691,
+      "t"
+    ],
+    [
+      2.032434,
+      " "
+    ],
+    [
+      0.920186,
+      "i"
+    ],
+    [
+      0.213494,
+      "n"
+    ],
+    [
+      0.305139,
+      "s"
+    ],
+    [
+      0.632791,
+      "t"
+    ],
+    [
+      0.939711,
+      "a"
+    ],
+    [
+      0.133680,
+      "l"
+    ],
+    [
+      0.119863,
+      "l"
+    ],
+    [
+      0.976902,
+      " "
+    ],
+    [
+      1.178160,
+      "g"
+    ],
+    [
+      1.249047,
+      "d"
+    ],
+    [
+      0.188290,
+      "e"
+    ],
+    [
+      0.317313,
+      "b"
+    ],
+    [
+      0.165145,
+      "o"
+    ],
+    [
+      1.035052,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.454718,
+      "i"
+    ],
+    [
+      3.220931,
+      "\r\n"
+    ],
+    [
+      0.038296,
+      "[sudo] password for diegoboot: "
+    ],
+    [
+      6.706685,
+      "\r\n"
+    ],
+    [
+      0.011353,
+      "\rLendo listas de pacotes... 0%\r"
+    ],
+    [
+      0.006074,
+      "\rLendo listas de pacotes... 100%\r"
+    ],
+    [
+      0.000010,
+      "\rLendo listas de pacotes... Pronto\r\r\n"
+    ],
+    [
+      0.006212,
+      "\rConstruindo árvore de dependências... 0%\r"
+    ],
+    [
+      0.000011,
+      "\rConstruindo árvore de dependências... 0%\r"
+    ],
+    [
+      0.045233,
+      "\rConstruindo árvore de dependências... 50%\r\rConstruindo árvore de dependências... 50%\r"
+    ],
+    [
+      0.315157,
+      "\rConstruindo árvore de dependências       \r\r\n\rLendo informação de estado... 0%  \r"
+    ],
+    [
+      0.000010,
+      "\rLendo informação de estado... 0%\r"
+    ],
+    [
+      0.005873,
+      "\rLendo informação de estado... Pronto\r\r\n"
+    ],
+    [
+      0.460583,
+      "Os pacotes extra a seguir serão instalados:\r\n"
+    ],
+    [
+      0.000010,
+      "  gdebi-core\r\n"
+    ],
+    [
+      0.007415,
+      "Os NOVOS pacotes a seguir serão instalados:\r\n  gdebi gdebi-core\r\n"
+    ],
+    [
+      0.020393,
+      "0 pacotes atualizados, 2 pacotes novos instalados, 0 a serem removidos e 0 não atualizados.\r\n"
+    ],
+    [
+      0.084254,
+      "É preciso baixar 33,3 kB de arquivos.\r\n"
+    ],
+    [
+      0.000009,
+      "Depois desta operação, 340 kB adicionais de espaço em disco serão usados.\r\n"
+    ],
+    [
+      0.000029,
+      "Você quer continuar?"
+    ],
+    [
+      0.000100,
+      " [S/n] "
+    ],
+    [
+      2.108088,
+      "s"
+    ],
+    [
+      4.926268,
+      "\r\n"
+    ],
+    [
+      0.002962,
+      "\r\r0% [Trabalhando]"
+    ],
+    [
+      0.250300,
+      "\r                \rObter:1 http://br.archive.ubuntu.com/ubuntu/ trusty-updates/main gdebi-core all 0.9.5.3ubuntu2 [9.772 B]\r\n\r                \r29% [1 gdebi-core 9.772 B/9.772 B 100%]"
+    ],
+    [
+      0.000919,
+      "\r                                       \r29% [Trabalhando]"
+    ],
+    [
+      0.054121,
+      "\r                 \rObter:2 http://br.archive.ubuntu.com/ubuntu/ trusty-updates/universe gdebi all 0.9.5.3ubuntu2 [23,5 kB]\r\n\r                 \r33% [2 gdebi 1.193 B/23,5 kB 5%]"
+    ],
+    [
+      0.051665,
+      "\r                                \r100% [Trabalhando]\r                  \rBaixados 33,3 kB em 0s (93,3 kB/s)\r\n"
+    ],
+    [
+      2.228675,
+      "A seleccionar pacote anteriormente não seleccionado gdebi-core.\r\n(Lendo banco de dados ... \r"
+    ],
+    [
+      0.171638,
+      "(Lendo banco de dados ... 5%\r"
+    ],
+    [
+      0.000046,
+      "(Lendo banco de dados ... 10%\r(Lendo banco de dados ... 15%\r"
+    ],
+    [
+      0.000054,
+      "(Lendo banco de dados ... 20%\r"
+    ],
+    [
+      0.000043,
+      "(Lendo banco de dados ... 25%\r"
+    ],
+    [
+      0.000060,
+      "(Lendo banco de dados ... 30%\r"
+    ],
+    [
+      0.000056,
+      "(Lendo banco de dados ... 35%\r"
+    ],
+    [
+      0.000059,
+      "(Lendo banco de dados ... 40%\r"
+    ],
+    [
+      0.000055,
+      "(Lendo banco de dados ... 45%\r"
+    ],
+    [
+      0.000058,
+      "(Lendo banco de dados ... 50%\r"
+    ],
+    [
+      2.409364,
+      "(Lendo banco de dados ... 55%\r"
+    ],
+    [
+      1.164945,
+      "(Lendo banco de dados ... 60%\r"
+    ],
+    [
+      0.905109,
+      "(Lendo banco de dados ... 65%\r"
+    ],
+    [
+      0.199200,
+      "(Lendo banco de dados ... 70%\r"
+    ],
+    [
+      0.105980,
+      "(Lendo banco de dados ... 75%\r"
+    ],
+    [
+      0.096969,
+      "(Lendo banco de dados ... 80%\r"
+    ],
+    [
+      0.196143,
+      "(Lendo banco de dados ... 85%\r"
+    ],
+    [
+      0.163246,
+      "(Lendo banco de dados ... 90%\r"
+    ],
+    [
+      0.227320,
+      "(Lendo banco de dados ... 95%\r"
+    ],
+    [
+      1.141024,
+      "(Lendo banco de dados ... 100%\r(Lendo banco de dados ... 890085 ficheiros e directórios actualmente instalados.)\r\n"
+    ],
+    [
+      0.097269,
+      "Preparing to unpack .../gdebi-core_0.9.5.3ubuntu2_all.deb ...\r\n"
+    ],
+    [
+      0.078942,
+      "Unpacking gdebi-core (0.9.5.3ubuntu2) ...\r\n"
+    ],
+    [
+      0.689755,
+      "A seleccionar pacote anteriormente não seleccionado gdebi.\r\n"
+    ],
+    [
+      0.121710,
+      "Preparing to unpack .../gdebi_0.9.5.3ubuntu2_all.deb ...\r\n"
+    ],
+    [
+      0.061035,
+      "Unpacking gdebi (0.9.5.3ubuntu2) ...\r\n"
+    ],
+    [
+      0.599627,
+      "Processing triggers for man-db (2.6.7.1-1ubuntu1) ...\r\n"
+    ],
+    [
+      6.512491,
+      "Processing triggers for desktop-file-utils (0.22-1ubuntu1) ...\r\n"
+    ],
+    [
+      0.245335,
+      "Processing triggers for gnome-menus (3.10.1-0ubuntu2) ...\r\n"
+    ],
+    [
+      0.200883,
+      "Processing triggers for mime-support (3.54ubuntu1.1) ...\r\n"
+    ],
+    [
+      1.429133,
+      "Configurando gdebi-core (0.9.5.3ubuntu2) ...\r\n"
+    ],
+    [
+      0.583403,
+      "Configurando gdebi (0.9.5.3ubuntu2) ...\r\n"
+    ],
+    [
+      1.350808,
+      "\u001b]0;diegoboot@diegoboot-ntb: ~\u0007diegoboot@diegoboot-ntb:~$ "
+    ],
+    [
+      2.000391,
+      "e"
+    ],
+    [
+      0.289003,
+      "x"
+    ],
+    [
+      0.910368,
+      "i"
+    ],
+    [
+      0.154081,
+      "t"
+    ],
+    [
+      0.860812,
+      "\r\nexit\r\n"
+    ]
+  ]
+}
