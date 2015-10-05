@@ -1,0 +1,1038 @@
+{
+  "version": 1,
+  "width": 142,
+  "height": 53,
+  "duration": 86.953071,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      1.053799,
+      "\u001b]0;Terminator\u0007"
+    ],
+    [
+      0.004664,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                             \r \r"
+    ],
+    [
+      0.016934,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ VIDIA \u001b[32merlang \u001b[33m→ \u001b[00m\u001b[K"
+    ],
+    [
+      0.000059,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000058,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.014722,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ VIDIA \u001b[32merlang \u001b[33m→ \u001b[00m\u001b[K"
+    ],
+    [
+      0.000006,
+      "\u001b[?2004h"
+    ],
+    [
+      5.311055,
+      "\u001b[32mr\u001b[39m"
+    ],
+    [
+      0.191929,
+      "\u0008\u001b[1m\u001b[31mr\u001b[1m\u001b[31me\u001b[0m\u001b[39m"
+    ],
+    [
+      0.709601,
+      "\u0008\u0008\u001b[0m\u001b[32mr\u001b[0m\u001b[32me\u001b[32mv\u001b[39m"
+    ],
+    [
+      0.126687,
+      "\u0008\u0008\u0008\u001b[1m\u001b[31mr\u001b[1m\u001b[31me\u001b[1m\u001b[31mv\u001b[1m\u001b[31ma\u001b[0m\u001b[39m"
+    ],
+    [
+      0.578289,
+      "\u0008\u0008\u0008\u0008\u001b[0m\u001b[32mr\u001b[0m\u001b[32me\u001b[0m\u001b[32mv\u001b[39m\u001b[0m\u001b[39m \u0008"
+    ],
+    [
+      0.227857,
+      "\u0008\u0008\u0008\u001b[1m\u001b[31mr\u001b[1m\u001b[31me\u001b[0m\u001b[39m\u001b[39m \u0008"
+    ],
+    [
+      0.604720,
+      "\u0008\u0008\u001b[1m\u001b[31mr\u001b[1m\u001b[31me\u001b[1m\u001b[31mb\u001b[0m\u001b[39m"
+    ],
+    [
+      0.080159,
+      "\u0008\u001b[1m\u001b[31mb\u001b[1m\u001b[31ma\u001b[0m\u001b[39m"
+    ],
+    [
+      0.231034,
+      "\u0008\u001b[1m\u001b[31ma\u001b[1m\u001b[31mr\u001b[0m\u001b[39m"
+    ],
+    [
+      0.806029,
+      "\u0008\u0008\u0008\u0008\u0008\u001b[0m\u001b[32mr\u001b[0m\u001b[32me\u001b[0m\u001b[32mb\u001b[0m\u001b[32ma\u001b[0m\u001b[32mr\u001b[32m3\u001b[39m"
+    ],
+    [
+      0.758010,
+      " "
+    ],
+    [
+      1.289171,
+      "\u001b[4m\u001b[33mn\u001b[24m\u001b[39m"
+    ],
+    [
+      0.082394,
+      "\u0008\u001b[24m\u001b[39mne"
+    ],
+    [
+      0.197914,
+      "w"
+    ],
+    [
+      0.262720,
+      " "
+    ],
+    [
+      0.843819,
+      "\u001b[4m\u001b[33mr\u001b[24m\u001b[39m"
+    ],
+    [
+      0.222146,
+      "\u0008\u001b[24m\u001b[39mre"
+    ],
+    [
+      1.392162,
+      "l"
+    ],
+    [
+      0.160720,
+      "e"
+    ],
+    [
+      1.432951,
+      "a"
+    ],
+    [
+      0.530963,
+      "s"
+    ],
+    [
+      0.197691,
+      "e"
+    ],
+    [
+      0.282102,
+      " "
+    ],
+    [
+      2.067808,
+      "\u001b[4m\u001b[33ml\u001b[24m\u001b[39m"
+    ],
+    [
+      0.375408,
+      "\u0008\u001b[4m\u001b[33ml\u001b[4m\u001b[33mi\u001b[24m\u001b[39m"
+    ],
+    [
+      1.823448,
+      "\u0008\u001b[4m\u001b[33mi\u001b[4m\u001b[33mn\u001b[24m\u001b[39m"
+    ],
+    [
+      0.665436,
+      "\u0008\u0008\u001b[4m\u001b[33mi\u001b[24m\u001b[39m\u001b[24m\u001b[39m \u0008"
+    ],
+    [
+      0.642732,
+      "\u0008\u0008\u001b[24m\u001b[39ml\u001b[24m\u001b[39mim"
+    ],
+    [
+      0.252518,
+      "k"
+    ],
+    [
+      0.423540,
+      "o"
+    ],
+    [
+      0.553264,
+      "\u001b[?1h\u001b=\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.024670,
+      "\u001b[?2004l\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ VIDIA \u001b[32merlang \u001b[33m→ \u001b[00m\u001b[32mrebar3\u001b[39m new release limko\u001b[K"
+    ],
+    [
+      0.000149,
+      "\r\r\n"
+    ],
+    [
+      0.181690,
+      "local .erlang loaded\r\n"
+    ],
+    [
+      0.429091,
+      "\u001b[0;32m===\u003e Writing limko/apps/limko/src/limko_app.erl\r\n\u001b[0m"
+    ],
+    [
+      0.000237,
+      "\u001b[0;32m===\u003e Writing limko/apps/limko/src/limko_sup.erl"
+    ],
+    [
+      0.000003,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.000231,
+      "\u001b[0;32m===\u003e Writing limko/apps/limko/src/limko.app.src"
+    ],
+    [
+      0.000002,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.000227,
+      "\u001b[0;32m===\u003e Writing limko/rebar.config"
+    ],
+    [
+      0.000003,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.000233,
+      "\u001b[0;32m===\u003e Writing limko/config/sys.config"
+    ],
+    [
+      0.000002,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.000236,
+      "\u001b[0;32m===\u003e Writing limko/config/vm.args\r\n\u001b[0m"
+    ],
+    [
+      0.000179,
+      "\u001b[0;32m===\u003e Writing limko/.gitignore\r\n\u001b[0m"
+    ],
+    [
+      0.000186,
+      "\u001b[0;32m===\u003e Writing limko/LICENSE\r\n\u001b[0m"
+    ],
+    [
+      0.000188,
+      "\u001b[0;32m===\u003e Writing limko/README.md\r\n\u001b[0m"
+    ],
+    [
+      0.003016,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                             \r \r"
+    ],
+    [
+      0.008330,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ VIDIA \u001b[32merlang \u001b[33m→ \u001b[00m\u001b[K"
+    ],
+    [
+      0.000093,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000035,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.007442,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ VIDIA \u001b[32merlang \u001b[33m→ \u001b[00m\u001b[K"
+    ],
+    [
+      0.000022,
+      "\u001b[?2004h"
+    ],
+    [
+      3.057084,
+      "\u001b[4m\u001b[33mc\u001b[24m\u001b[39m"
+    ],
+    [
+      0.149706,
+      "\u0008\u001b[24m\u001b[32mc\u001b[32md\u001b[39m"
+    ],
+    [
+      0.228356,
+      " "
+    ],
+    [
+      1.946582,
+      "\u001b[4ml\u001b[24m"
+    ],
+    [
+      0.433056,
+      "\u0008\u001b[4ml\u001b[4mi\u001b[24m"
+    ],
+    [
+      1.366975,
+      "\u0008\u001b[4mi\u001b[4mm\u001b[24m"
+    ],
+    [
+      0.608096,
+      "\u0008\u001b[4mm\u001b[4mk\u001b[24m"
+    ],
+    [
+      0.164957,
+      "\u0008\u001b[4mk\u001b[4mo\u001b[24m"
+    ],
+    [
+      0.357227,
+      "\u001b[?1h\u001b=\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.011309,
+      "\u001b[?2004l\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ VIDIA \u001b[32merlang \u001b[33m→ \u001b[00m\u001b[32mcd\u001b[39m \u001b[4mlimko\u001b[24m\u001b[K"
+    ],
+    [
+      0.000013,
+      "\r\r\n"
+    ],
+    [
+      0.018839,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                             \r \r"
+    ],
+    [
+      0.011320,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ VIDIA \u001b[32mlimko \u001b[33m→ \u001b[00m\u001b[K"
+    ],
+    [
+      0.000012,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000047,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.005594,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ VIDIA \u001b[32mlimko \u001b[33m→ \u001b[00m\u001b[K"
+    ],
+    [
+      0.000006,
+      "\u001b[?2004h"
+    ],
+    [
+      2.061042,
+      "\u001b[32ml\u001b[39m"
+    ],
+    [
+      0.187956,
+      "\u0008\u001b[32ml\u001b[32ms\u001b[39m"
+    ],
+    [
+      0.185004,
+      "\u001b[?1h\u001b=\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.011944,
+      "\u001b[?2004l\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ VIDIA \u001b[32mlimko \u001b[33m→ \u001b[00m\u001b[32mls\u001b[39m\u001b[K"
+    ],
+    [
+      0.000011,
+      "\r\r\n"
+    ],
+    [
+      0.002854,
+      "\u001b[0m\u001b[01;34mapps\u001b[0m  \u001b[01;34mconfig\u001b[0m  LICENSE  README.md  rebar.config\r\n"
+    ],
+    [
+      0.000448,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                             \r \r"
+    ],
+    [
+      0.011839,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ VIDIA \u001b[32mlimko \u001b[33m→ \u001b[00m\u001b[K"
+    ],
+    [
+      0.000096,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000005,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.011676,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ VIDIA \u001b[32mlimko \u001b[33m→ \u001b[00m"
+    ],
+    [
+      0.000014,
+      "\u001b[K"
+    ],
+    [
+      0.000048,
+      "\u001b[?2004h"
+    ],
+    [
+      3.225066,
+      "\u001b[32mr\u001b[39m"
+    ],
+    [
+      0.103162,
+      "\u0008\u001b[39m\u001b[4mr\u001b[4me\u001b[24m"
+    ],
+    [
+      0.498010,
+      "\u0008\u0008\u001b[4mr\u001b[4me\u001b[4mb\u001b[24m"
+    ],
+    [
+      0.073784,
+      "\u0008\u001b[4mb\u001b[4ma\u001b[24m"
+    ],
+    [
+      0.215360,
+      "\u0008\u001b[4ma\u001b[4mr\u001b[24m"
+    ],
+    [
+      1.070742,
+      "\u0008\u0008\u0008\u0008\u0008\u001b[24m\u001b[32mr\u001b[24m\u001b[32me\u001b[24m\u001b[32mb\u001b[24m\u001b[32ma\u001b[24m\u001b[32mr\u001b[32m3\u001b[39m"
+    ],
+    [
+      0.212948,
+      " "
+    ],
+    [
+      0.373411,
+      "\u001b[4mc\u001b[24m"
+    ],
+    [
+      0.100792,
+      "\u0008\u001b[4mc\u001b[4mo\u001b[24m"
+    ],
+    [
+      0.229544,
+      "\u0008\u0008\u001b[4m\u001b[33mc\u001b[4m\u001b[33mo\u001b[4m\u001b[33mm\u001b[24m\u001b[39m"
+    ],
+    [
+      0.522856,
+      "\u0008\u0008\u0008\u001b[24m\u001b[39mc\u001b[24m\u001b[39mo\u001b[24m\u001b[39mmp"
+    ],
+    [
+      0.266120,
+      "i"
+    ],
+    [
+      0.225539,
+      "l"
+    ],
+    [
+      0.156363,
+      "e"
+    ],
+    [
+      0.481531,
+      "\u001b[?1h\u001b=\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.011772,
+      "\u001b[?2004l\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ VIDIA \u001b[32mlimko \u001b[33m→ \u001b[00m\u001b[32mrebar3\u001b[39m compile\u001b[K"
+    ],
+    [
+      0.000081,
+      "\r\r\n"
+    ],
+    [
+      0.163755,
+      "local .erlang loaded\r\n"
+    ],
+    [
+      0.289074,
+      "\u001b[0;32m===\u003e Verifying dependencies...\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[0m"
+    ],
+    [
+      0.002025,
+      "\u001b[0;32m===\u003e Compiling limko\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[0m"
+    ],
+    [
+      0.318786,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                             \r \r"
+    ],
+    [
+      0.008347,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ VIDIA \u001b[32mlimko \u001b[33m→ \u001b[00m\u001b[K"
+    ],
+    [
+      0.000025,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000015,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.008584,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ VIDIA \u001b[32mlimko \u001b[33m→ \u001b[00m\u001b[K"
+    ],
+    [
+      0.000005,
+      "\u001b[?2004h"
+    ],
+    [
+      1.800122,
+      "\u001b[32mrebar3\u001b[39m compile"
+    ],
+    [
+      0.526039,
+      "\u0008 \u0008"
+    ],
+    [
+      0.170601,
+      "\u0008 \u0008"
+    ],
+    [
+      0.154256,
+      "\u0008 \u0008"
+    ],
+    [
+      0.175965,
+      "\u0008\u0008\u0008\u0008\u001b[4m\u001b[33mc\u001b[4m\u001b[33mo\u001b[4m\u001b[33mm\u001b[24m\u001b[39m \u0008"
+    ],
+    [
+      0.173229,
+      "\u0008\u0008\u0008\u001b[39m\u001b[4mc\u001b[39m\u001b[4mo\u001b[24m\u001b[24m\u001b[39m \u0008"
+    ],
+    [
+      0.186768,
+      "\u0008\u0008\u001b[4mc\u001b[24m\u001b[24m \u0008"
+    ],
+    [
+      0.250575,
+      "\u0008\u001b[24m \u0008"
+    ],
+    [
+      1.759293,
+      "\u001b[4m\u001b[33ms\u001b[24m\u001b[39m"
+    ],
+    [
+      0.521644,
+      "\u0008\u001b[24m\u001b[39msh"
+    ],
+    [
+      0.207166,
+      "e"
+    ],
+    [
+      0.314027,
+      "l"
+    ],
+    [
+      0.139812,
+      "l"
+    ],
+    [
+      1.012608,
+      "\u001b[?1h\u001b=\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.011799,
+      "\u001b[?2004l\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ VIDIA \u001b[32mlimko \u001b[33m→ \u001b[00m\u001b[32mrebar3\u001b[39m shell\u001b[K"
+    ],
+    [
+      0.000011,
+      "\r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.180639,
+      "local .erlang loaded\r\n"
+    ],
+    [
+      0.286766,
+      "\u001b[0;32m===\u003e Verifying dependencies...\r\n\u001b[0m"
+    ],
+    [
+      0.001822,
+      "\u001b[0;32m===\u003e Compiling limko\r\n\u001b[0m"
+    ],
+    [
+      1.037287,
+      "Erlang/OTP 18 [erts-7.1] [source] [64-bit] [smp:8:8] [async-threads:0] [hipe] [kernel-poll:false]\r\n\r\n"
+    ],
+    [
+      0.026815,
+      "Eshell V7.1  (abort with ^G)\r\n"
+    ],
+    [
+      0.000008,
+      "1\u003e "
+    ],
+    [
+      0.071122,
+      "\u001b[0;35m===\u003e The rebar3 shell is a development tool; to deploy applications in production, consider using releases (http://www.rebar3.org/v3.0/docs/releases)\r\n\u001b[0m"
+    ],
+    [
+      0.030526,
+      "\u001b[0;32m===\u003e Booted limko\r\n\u001b[0m"
+    ],
+    [
+      0.000006,
+      "\u001b[0;32m===\u003e Booted sasl\r\n\u001b[0m"
+    ],
+    [
+      0.003941,
+      "\r\n=PROGRESS REPORT==== 5-Oct-2015::13:51:55 ===\r\n          supervisor: {local,sasl_safe_sup}\r\n             started: [{pid,\u003c0.107.0\u003e},\r\n                       {id,alarm_handler},\r\n                       {mfargs,{alarm_handler,start_link,[]}},\r\n                       {restart_type,permanent},\r\n                       {shutdown,2000},\r\n                       {child_type,worker}]\r\n"
+    ],
+    [
+      0.000123,
+      "\r\n=PROGRESS REPORT==== 5-Oct-2015::13:51:55 ===\r\n          supervisor: {local,sasl_safe_sup}\r\n             started: [{pid,\u003c0.108.0\u003e},\r\n                       {id,overload},\r\n                       {mfargs,{overload,start_link,[]}},\r\n                       {restart_type,permanent},\r\n                       {shutdown,2000},\r\n                       {child_type,worker}]\r\n"
+    ],
+    [
+      0.000115,
+      "\r\n=PROGRESS REPORT==== 5-Oct-2015::13:51:55 ===\r\n          supervisor: {local,sasl_sup}\r\n             started: [{pid,\u003c0.106.0\u003e},\r\n                       {id,sasl_safe_sup},\r\n                       {mfargs,\r\n                           {supervisor,start_link,\r\n                               [{local,sasl_safe_sup},sasl,safe]}},\r\n                       {restart_type,permanent},\r\n                       {shutdown,infinity},\r\n                       {child_type,supervisor}]\r\n"
+    ],
+    [
+      0.000073,
+      "\r\n=PROGRESS REPORT==== 5-Oct-2015::13:51:55 ===\r\n          supervisor: {local,sasl_sup}\r\n             started: [{pid,\u003c0.109.0\u003e},\r\n                       {id,release_handler},\r\n                       {mfargs,{release_handler,start_link,[]}},\r\n                       {restart_type,permanent},\r\n                       {shutdown,2000},\r\n                       {child_type,worker}]\r\n"
+    ],
+    [
+      0.000076,
+      "\r\n=PROGRESS REPORT==== 5-Oct-2015::13:51:55 ===\r\n         application: sasl\r\n          started_at: nonode@nohost\r\n"
+    ],
+    [
+      1.492813,
+      "\r\n1\u003e "
+    ],
+    [
+      1.878567,
+      "\r\nUser switch command\r\n --\u003e "
+    ],
+    [
+      0.580153,
+      "q"
+    ],
+    [
+      0.540965,
+      "\r\n"
+    ],
+    [
+      0.004817,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                             \r \r"
+    ],
+    [
+      0.010554,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ VIDIA \u001b[32mlimko \u001b[33m→ \u001b[00m\u001b[K"
+    ],
+    [
+      0.000029,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000018,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.008761,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ VIDIA \u001b[32mlimko \u001b[33m→ \u001b[00m\u001b[K"
+    ],
+    [
+      0.000029,
+      "\u001b[?2004h"
+    ],
+    [
+      1.176638,
+      "\u001b[32mrebar3\u001b[39m shell"
+    ],
+    [
+      0.829741,
+      "\u0008 \u0008"
+    ],
+    [
+      0.204238,
+      "\u0008 \u0008"
+    ],
+    [
+      0.169735,
+      "\u0008 \u0008"
+    ],
+    [
+      0.164514,
+      "\u0008\u0008\u001b[4m\u001b[33ms\u001b[24m\u001b[39m \u0008"
+    ],
+    [
+      0.251389,
+      "\u0008\u001b[24m\u001b[39m \u0008"
+    ],
+    [
+      1.559062,
+      "\u001b[4ma\u001b[24m"
+    ],
+    [
+      0.358839,
+      "\u0008\u001b[4m\u001b[33ma\u001b[4m\u001b[33mu\u001b[24m\u001b[39m"
+    ],
+    [
+      0.239292,
+      "\u0008\u0008\u001b[24m\u001b[39ma\u001b[24m\u001b[39mut"
+    ],
+    [
+      0.164170,
+      "o"
+    ],
+    [
+      0.415260,
+      "\u001b[?1h\u001b=\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.011315,
+      "\u001b[?2004l\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ VIDIA \u001b[32mlimko \u001b[33m→ \u001b[00m\u001b[32mrebar3\u001b[39m auto\u001b[K"
+    ],
+    [
+      0.000009,
+      "\r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.212095,
+      "local .erlang loaded\r\n"
+    ],
+    [
+      0.311028,
+      "Setting up watches.  Beware: since -r was given, this may take a while!\r\nWatches established.\r\n"
+    ],
+    [
+      1.007914,
+      "Erlang/OTP 18 [erts-7.1] [source] [64-bit] [smp:8:8] [async-threads:0] [hipe] [kernel-poll:false]\r\n\r\n"
+    ],
+    [
+      0.019146,
+      "Eshell V7.1  (abort with ^G)\r\n"
+    ],
+    [
+      0.000033,
+      "1\u003e "
+    ],
+    [
+      0.093949,
+      "\u001b[0;35m===\u003e The rebar3 shell is a development tool; to deploy applications in production, consider using releases (http://www.rebar3.org/v3.0/docs/releases)\r\n\u001b[0m"
+    ],
+    [
+      0.037885,
+      "\u001b[0;32m===\u003e Booted sasl\r\n\u001b[0m"
+    ],
+    [
+      0.000068,
+      "\u001b[0;31m===\u003e Failed to boot limko for reason {\"no such file or directory\",\r\n                                             \"limko.app\"}\r\n\u001b[0m"
+    ],
+    [
+      0.003547,
+      "\r\n=PROGRESS REPORT==== 5-Oct-2015::13:52:07 ===\r\n          supervisor: {local,sasl_safe_sup}\r\n             started: [{pid,\u003c0.103.0\u003e},\r\n                       {id,alarm_handler},\r\n                       {mfargs,{alarm_handler,start_link,[]}},\r\n                       {restart_type,permanent},\r\n                       {shutdown,2000},\r\n                       {child_type,worker}]\r\n"
+    ],
+    [
+      0.000164,
+      "\r\n=PROGRESS REPORT==== 5-Oct-2015::13:52:07 ===\r\n          supervisor: {local,sasl_safe_sup}\r\n             started: [{pid,\u003c0.104.0\u003e},\r\n                       {id,overload},\r\n                       {mfargs,{overload,start_link,[]}},\r\n                       {restart_type,permanent},\r\n                       {shutdown,2000},\r\n                       {child_type,worker}]\r\n"
+    ],
+    [
+      0.000161,
+      "\r\n=PROGRESS REPORT==== 5-Oct-2015::13:52:07 ===\r\n          supervisor: {local,sasl_sup}\r\n             started: [{pid,\u003c0.102.0\u003e},\r\n                       {id,sasl_safe_sup},\r\n                       {mfargs,\r\n                           {supervisor,start_link,\r\n                               [{local,sasl_safe_sup},sasl,safe]}},\r\n                       {restart_type,permanent},\r\n                       {shutdown,infinity},\r\n                       {child_type,supervisor}]\r\n"
+    ],
+    [
+      0.000164,
+      "\r\n=PROGRESS REPORT==== 5-Oct-2015::13:52:07 ===\r\n          supervisor: {local,sasl_sup}\r\n             started: [{pid,\u003c0.105.0\u003e},\r\n                       {id,release_handler},\r\n                       {mfargs,{release_handler,start_link,[]}},\r\n                       {restart_type,permanent},\r\n                       {shutdown,2000},\r\n                       {child_type,worker}]\r\n"
+    ],
+    [
+      0.000083,
+      "\r\n=PROGRESS REPORT==== 5-Oct-2015::13:52:07 ===\r\n         application: sasl\r\n          started_at: nonode@nohost\r\n"
+    ],
+    [
+      2.561179,
+      "\r\nUser switch command\r\n --\u003e "
+    ],
+    [
+      0.588778,
+      "q"
+    ],
+    [
+      0.407192,
+      "\r\n"
+    ],
+    [
+      0.004643,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                             \r \r"
+    ],
+    [
+      0.011550,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ VIDIA \u001b[32mlimko \u001b[33m→ \u001b[00m\u001b[K"
+    ],
+    [
+      0.000089,
+      "\u001b[?1h\u001b=\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.011338,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ VIDIA \u001b[32mlimko \u001b[33m→ \u001b[00m\u001b[K"
+    ],
+    [
+      0.000067,
+      "\u001b[?2004h"
+    ],
+    [
+      4.873947,
+      "\u001b[32ml\u001b[39m"
+    ],
+    [
+      0.133492,
+      "\u0008\u001b[32ml\u001b[32ms\u001b[39m"
+    ],
+    [
+      0.168596,
+      "\u001b[?1h\u001b=\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.007065,
+      "\u001b[?2004l\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ VIDIA \u001b[32mlimko \u001b[33m→ \u001b[00m\u001b[32mls\u001b[39m\u001b[K"
+    ],
+    [
+      0.000010,
+      "\r\r\n"
+    ],
+    [
+      0.001873,
+      "\u001b[0m\u001b[01;34mapps\u001b[0m  \u001b[01;34m_build\u001b[0m  \u001b[01;34mconfig\u001b[0m  LICENSE  README.md  rebar.config  rebar.lock\r\n"
+    ],
+    [
+      0.000222,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                             \r \r"
+    ],
+    [
+      0.006464,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ VIDIA \u001b[32mlimko \u001b[33m→ \u001b[00m"
+    ],
+    [
+      0.000005,
+      "\u001b[K"
+    ],
+    [
+      0.000055,
+      "\u001b[?1h\u001b=\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.004579,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ VIDIA \u001b[32mlimko \u001b[33m→ \u001b[00m\u001b[K"
+    ],
+    [
+      0.000004,
+      "\u001b[?2004h"
+    ],
+    [
+      0.549278,
+      "\u001b[4mc\u001b[24m"
+    ],
+    [
+      0.124231,
+      "\u0008\u001b[24m\u001b[32mc\u001b[32md\u001b[39m"
+    ],
+    [
+      0.148483,
+      " "
+    ],
+    [
+      1.697498,
+      "\u001b[4m_\u001b[24m"
+    ],
+    [
+      0.335191,
+      "\u001b[?7l\u001b[31m......\u001b[39m\u001b[?7h"
+    ],
+    [
+      0.009459,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ VIDIA \u001b[32mlimko \u001b[33m→ \u001b[00m\u001b[32mcd\u001b[39m \u001b[4m_build\u001b[1m\u001b[4m/\u001b[0m\u001b[24m\u001b[K"
+    ],
+    [
+      0.748662,
+      "\u001b[?7l"
+    ],
+    [
+      0.000009,
+      "\u001b[31m......\u001b[39m"
+    ],
+    [
+      0.000005,
+      "\u001b[?7h"
+    ],
+    [
+      0.012351,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ VIDIA \u001b[32mlimko \u001b[33m→ \u001b[00m"
+    ],
+    [
+      0.000011,
+      "\u001b[32mcd\u001b[39m \u001b[4m_build/default\u001b[1m\u001b[4m/\u001b[0m\u001b[24m\u001b[K"
+    ],
+    [
+      0.656744,
+      "\u001b[?7l"
+    ],
+    [
+      0.000009,
+      "\u001b[31m......\u001b[39m"
+    ],
+    [
+      0.000005,
+      "\u001b[?7h"
+    ],
+    [
+      0.012718,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ VIDIA \u001b[32mlimko \u001b[33m→ \u001b[00m"
+    ],
+    [
+      0.000013,
+      "\u001b[32mcd\u001b[39m \u001b[4m_build/default/lib\u001b[1m\u001b[4m/\u001b[0m\u001b[24m\u001b[K"
+    ],
+    [
+      0.440072,
+      "\u001b[?7l\u001b[31m......\u001b[39m\u001b[?7h"
+    ],
+    [
+      0.001948,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ VIDIA \u001b[32mlimko \u001b[33m→ \u001b[00m\u001b[32mcd\u001b[39m \u001b[4m_build/default/lib/limko\u001b[1m\u001b[4m/\u001b[0m\u001b[24m\u001b[K"
+    ],
+    [
+      0.917487,
+      "\u001b[?7l\u001b[31m......\u001b[39m\u001b[?7h\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ VIDIA \u001b[32mlimko \u001b[33m→ \u001b[00m\u001b[32mcd\u001b[39m \u001b[4m_build/default/lib/limko/\u001b[24m\u001b[K\r\r\n\u001b[1mlocal directory\u001b[0m\r\n\u001b[J\u001b[1;31mebin\u001b[0m/  \u001b[J\u001b[1;36msrc\u001b[0m@ \u001b[J\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[16C\u001b[32mcd\u001b[39m \u001b[4m_build/default/lib/limko/\u001b[24m\u001b[K"
+    ],
+    [
+      1.104804,
+      "\u001b[?7l\u001b[31m......\u001b[39m\u001b[?7h\u001b[25D\u001b[24m_\u001b[24mb\u001b[24mu\u001b[24mi\u001b[24ml\u001b[24md\u001b[24m/\u001b[24md\u001b[24me\u001b[24mf\u001b[24ma\u001b[24mu\u001b[24ml\u001b[24mt\u001b[24m/\u001b[24ml\u001b[24mi\u001b[24mb\u001b[24m/\u001b[24ml\u001b[24mi\u001b[24mm\u001b[24mk\u001b[24mo\u001b[24m/ebin\u001b[1m/\u001b[0m\r\r\n\u001b[1mlocal directory\u001b[0m\u001b[K\u001b[K\r\n\u001b[J\u001b[7mebin/\u001b[0m  \u001b[J\u001b[1;36msrc\u001b[0m@ \u001b[J\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[16C\u001b[32mcd\u001b[39m _build/default/lib/limko/ebin\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.563304,
+      "\r\r\n\u001b[1B\u001b[7mebin/\u001b[0m  \r\u001b[7mebin/\u001b[0m  \r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[16C\u001b[32mcd\u001b[39m _build/default/lib/limko/ebin\u001b[1m/\u001b[0m\u001b[K\r\r\n\u001b[J\u001b[A\u001b[49C"
+    ],
+    [
+      0.001955,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ VIDIA \u001b[32mlimko \u001b[33m→ \u001b[00m\u001b[32mcd\u001b[39m \u001b[4m_build/default/lib/limko/ebin\u001b[1m\u001b[4m/\u001b[0m\u001b[24m\u001b[K"
+    ],
+    [
+      0.407839,
+      "\u0008\u0008\u001b[4mn\u001b[24m\u001b[0m\u001b[24m \u0008\u001b[?1h\u001b=\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.017187,
+      "\u001b[?2004l\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ VIDIA \u001b[32mlimko \u001b[33m→ \u001b[00m\u001b[32mcd\u001b[39m \u001b[4m_build/default/lib/limko/ebin\u001b[24m\u001b[K\r\r\n"
+    ],
+    [
+      0.016898,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                             \r \r"
+    ],
+    [
+      0.010823,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ VIDIA \u001b[32mebin \u001b[33m→ \u001b[00m\u001b[K"
+    ],
+    [
+      0.000122,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000005,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.009548,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ VIDIA \u001b[32mebin \u001b[33m→ \u001b[00m\u001b[K"
+    ],
+    [
+      0.000032,
+      "\u001b[?2004h"
+    ],
+    [
+      0.668629,
+      "\u001b[32ml\u001b[39m"
+    ],
+    [
+      0.171507,
+      "\u0008\u001b[32ml\u001b[32ms\u001b[39m"
+    ],
+    [
+      0.343172,
+      "\u001b[?1h\u001b=\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.011075,
+      "\u001b[?2004l\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ VIDIA \u001b[32mebin \u001b[33m→ \u001b[00m\u001b[32mls\u001b[39m\u001b[K"
+    ],
+    [
+      0.000009,
+      "\r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.002438,
+      "limko.app  limko_app.beam  limko_sup.beam"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000366,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                             \r \r"
+    ],
+    [
+      0.011343,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ VIDIA \u001b[32mebin \u001b[33m→ \u001b[00m\u001b[K"
+    ],
+    [
+      0.000018,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000014,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.010621,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ VIDIA \u001b[32mebin \u001b[33m→ \u001b[00m\u001b[K"
+    ],
+    [
+      0.000046,
+      "\u001b[?2004h"
+    ],
+    [
+      3.028623,
+      "\u001b[4m\u001b[33me\u001b[24m\u001b[39m"
+    ],
+    [
+      0.300456,
+      "\u0008\u001b[24m\u001b[32me\u001b[32mx\u001b[39m"
+    ],
+    [
+      0.170882,
+      "\u0008\u0008\u001b[1m\u001b[31me\u001b[1m\u001b[31mx\u001b[1m\u001b[31mi\u001b[0m\u001b[39m"
+    ],
+    [
+      0.200505,
+      "\u0008\u0008\u0008\u001b[0m\u001b[32me\u001b[0m\u001b[32mx\u001b[0m\u001b[32mi\u001b[32mt\u001b[39m"
+    ],
+    [
+      0.203003,
+      "\u001b[?1h\u001b=\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.009222,
+      "\u001b[?2004l\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ VIDIA \u001b[32mebin \u001b[33m→ \u001b[00m\u001b[32mexit\u001b[39m\u001b[K\r\r\n"
+    ]
+  ]
+}
