@@ -1,0 +1,350 @@
+{
+  "version": 1,
+  "width": 102,
+  "height": 35,
+  "duration": 46.478358,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.024980,
+      "\u001b[?1034hbash-3.2$ "
+    ],
+    [
+      1.628234,
+      "\r\n"
+    ],
+    [
+      0.000095,
+      "bash-3.2$ "
+    ],
+    [
+      1.418637,
+      "l"
+    ],
+    [
+      0.067210,
+      "s"
+    ],
+    [
+      0.077764,
+      " "
+    ],
+    [
+      0.101369,
+      "-"
+    ],
+    [
+      0.135636,
+      "l"
+    ],
+    [
+      0.089178,
+      "\r\n"
+    ],
+    [
+      0.007755,
+      "total 64\r\n"
+    ],
+    [
+      0.000230,
+      "-rw-r--r--   1 Jhonathas  staff   396  7 Out 14:47 Dockerfile\r\n"
+    ],
+    [
+      0.000008,
+      "-rw-r--r--   1 Jhonathas  staff   811 29 Set 11:16 Gemfile\r\n-rw-r--r--   1 Jhonathas  staff  7745 29 Set 11:16 Gemfile.lock\r\n"
+    ],
+    [
+      0.000041,
+      "-rw-r--r--   1 Jhonathas  staff    15 29 Set 12:45 README.rdoc\r\n"
+    ],
+    [
+      0.000006,
+      "-rw-r--r--   1 Jhonathas  staff   249 29 Set 11:16 Rakefile\r\n"
+    ],
+    [
+      0.000016,
+      "drwxr-xr-x  13 Jhonathas  staff   442 29 Set 11:16 app\r\n"
+    ],
+    [
+      0.000005,
+      "drwxr-xr-x   7 Jhonathas  staff   238 29 Set 11:16 bin\r\n"
+    ],
+    [
+      0.000004,
+      "drwxr-xr-x  11 Jhonathas  staff   374 29 Set 11:16 config\r\n"
+    ],
+    [
+      0.000035,
+      "-rw-r--r--   1 Jhonathas  staff   153 29 Set 11:16 config.ru\r\ndrwxr-xr-x   6 Jhonathas  staff   204 29 Set 11:16 db\r\n-rw-r--r--   1 Jhonathas  staff   472  7 Out 13:43 docker-compose.yml\r\ndrwxr-xr-x   5 Jhonathas  staff   170 29 Set 11:16 lib\r\n"
+    ],
+    [
+      0.000005,
+      "drwxr-xr-x   4 Jhonathas  staff   136 29 Set 11:25 log\r\n"
+    ],
+    [
+      0.000020,
+      "drwxr-xr-x   8 Jhonathas  staff   272 29 Set 11:16 public\r\n"
+    ],
+    [
+      0.000006,
+      "drwxr-xr-x  10 Jhonathas  staff   340 29 Set 11:16 test\r\ndrwxr-xr-x   6 Jhonathas  staff   204 29 Set 12:05 tmp\r\n"
+    ],
+    [
+      0.000004,
+      "drwxr-xr-x   3 Jhonathas  staff   102 29 Set 11:16 vendor\r\n"
+    ],
+    [
+      0.000503,
+      "bash-3.2$ "
+    ],
+    [
+      1.960452,
+      "d"
+    ],
+    [
+      0.089754,
+      "o"
+    ],
+    [
+      0.112630,
+      "c"
+    ],
+    [
+      0.101126,
+      "k"
+    ],
+    [
+      0.101308,
+      "e"
+    ],
+    [
+      0.134975,
+      "r"
+    ],
+    [
+      0.157453,
+      " "
+    ],
+    [
+      0.179946,
+      "p"
+    ],
+    [
+      0.101243,
+      "s"
+    ],
+    [
+      0.112739,
+      "\r\n"
+    ],
+    [
+      7.349227,
+      "An error occurred trying to connect: Get https://192.168.59.103:2376/v1.20/containers/json: dial tcp 192.168.59.103:2376: network is unreachable\r\n"
+    ],
+    [
+      0.001169,
+      "bash-3.2$ "
+    ],
+    [
+      5.677318,
+      "e"
+    ],
+    [
+      0.179557,
+      "v"
+    ],
+    [
+      0.169036,
+      "a"
+    ],
+    [
+      0.135001,
+      "l"
+    ],
+    [
+      0.134814,
+      " "
+    ],
+    [
+      2.283867,
+      "\""
+    ],
+    [
+      0.214580,
+      "4"
+    ],
+    [
+      0.663121,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.418137,
+      "$"
+    ],
+    [
+      0.458989,
+      "("
+    ],
+    [
+      1.642760,
+      "d"
+    ],
+    [
+      0.101314,
+      "o"
+    ],
+    [
+      0.101363,
+      "c"
+    ],
+    [
+      0.101036,
+      "k"
+    ],
+    [
+      0.092282,
+      "e"
+    ],
+    [
+      0.145242,
+      "r"
+    ],
+    [
+      1.146091,
+      "-"
+    ],
+    [
+      0.214014,
+      "m"
+    ],
+    [
+      0.112464,
+      "a"
+    ],
+    [
+      0.158270,
+      "c"
+    ],
+    [
+      0.089972,
+      "h"
+    ],
+    [
+      0.112110,
+      "i"
+    ],
+    [
+      0.179748,
+      "n"
+    ],
+    [
+      0.112355,
+      "e"
+    ],
+    [
+      0.112232,
+      " "
+    ],
+    [
+      1.069004,
+      "e"
+    ],
+    [
+      0.134911,
+      "n"
+    ],
+    [
+      0.134938,
+      "v"
+    ],
+    [
+      0.136580,
+      " "
+    ],
+    [
+      0.180187,
+      "d"
+    ],
+    [
+      0.133235,
+      "e"
+    ],
+    [
+      0.179942,
+      "v"
+    ],
+    [
+      1.530336,
+      ")"
+    ],
+    [
+      3.150839,
+      "\""
+    ],
+    [
+      1.686463,
+      "\r\n"
+    ],
+    [
+      0.627946,
+      "bash-3.2$ "
+    ],
+    [
+      1.094578,
+      "eval \"$(docker-machine env dev)\""
+    ],
+    [
+      0.213987,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Cdocker ps\u001b[K"
+    ],
+    [
+      1.595949,
+      "\r\n"
+    ],
+    [
+      0.299619,
+      "CONTAINER ID        IMAGE        "
+    ],
+    [
+      0.000011,
+      "       COMMAND                  CREATED             STATUS              PORTS                      NAMES\r\n1ff2be4cdd2e        postgres:latest     \"/docker-entrypoint.s\"   51 minutes ago      "
+    ],
+    [
+      0.000030,
+      "Up 51 minutes       0.0.0.0:5432-\u003e5432/tcp     gp_postgres_1\r\n1865aab98232        memcached:latest    \"/entrypoint.sh memca\"   52 minutes ago      Up 52 minutes       0.0.0.0:11211-\u003e11211/tcp   gp_memcached_1"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000878,
+      "bash-3.2$ "
+    ],
+    [
+      1.668609,
+      "\r\n"
+    ],
+    [
+      0.000161,
+      "bash-3.2$ "
+    ],
+    [
+      0.224404,
+      "\r\n"
+    ],
+    [
+      0.000128,
+      "bash-3.2$ "
+    ],
+    [
+      3.703892,
+      "exit\r\n"
+    ]
+  ]
+}
