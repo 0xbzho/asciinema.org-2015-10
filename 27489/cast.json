@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "width": 128,
+  "height": 48,
+  "duration": 17.976223,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "linux",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.047325,
+      "root@zstack:/usr/local/src# "
+    ],
+    [
+      2.375424,
+      "z"
+    ],
+    [
+      0.305445,
+      "s"
+    ],
+    [
+      0.616732,
+      "ta"
+    ],
+    [
+      0.223282,
+      "c"
+    ],
+    [
+      0.890197,
+      "k"
+    ],
+    [
+      1.166109,
+      "-"
+    ],
+    [
+      0.309440,
+      "c"
+    ],
+    [
+      0.311691,
+      "\u0007"
+    ],
+    [
+      3.097562,
+      "t"
+    ],
+    [
+      0.138822,
+      "l "
+    ],
+    [
+      1.631711,
+      "s"
+    ],
+    [
+      0.076150,
+      "t"
+    ],
+    [
+      0.237165,
+      "a"
+    ],
+    [
+      0.592414,
+      "t"
+    ],
+    [
+      0.400108,
+      "u"
+    ],
+    [
+      0.264115,
+      "s"
+    ],
+    [
+      0.817357,
+      "\r\n"
+    ],
+    [
+      0.234595,
+      "ZSTACK_HOME: /usr/local/zstack/apache-tomcat/webapps/zstack"
+    ],
+    [
+      0.000098,
+      "\r\n"
+    ],
+    [
+      0.000203,
+      "zstack.properties: /usr/local/zstack/apache-tomcat/webapps/zstack/WEB-INF/classes/zstack.properties"
+    ],
+    [
+      0.000085,
+      "\r\n"
+    ],
+    [
+      0.000173,
+      "log4j2.xml: /usr/local/zstack/apache-tomcat/webapps/zstack/WEB-INF/classes/log4j2.xml"
+    ],
+    [
+      0.000087,
+      "\r\n"
+    ],
+    [
+      0.000143,
+      "PID file: /usr/local/zstack/management-server.pid"
+    ],
+    [
+      0.000082,
+      "\r\n"
+    ],
+    [
+      0.000184,
+      "log file: /usr/local/zstack/apache-tomcat/logs/management-server.log"
+    ],
+    [
+      0.000113,
+      "\r\n"
+    ],
+    [
+      0.000129,
+      "status: \u001b[32mRunning\u001b[0m"
+    ],
+    [
+      0.000083,
+      "\r\n"
+    ],
+    [
+      0.000120,
+      "version: 0.9"
+    ],
+    [
+      0.000076,
+      "\r\n"
+    ],
+    [
+      0.013723,
+      "root@zstack:/usr/local/src# "
+    ],
+    [
+      4.221709,
+      "exit"
+    ],
+    [
+      0.000120,
+      "\r\n"
+    ]
+  ]
+}
