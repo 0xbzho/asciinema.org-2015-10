@@ -1,0 +1,1362 @@
+{
+  "version": 1,
+  "width": 173,
+  "height": 42,
+  "duration": 57.756344,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.626790,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                            \r \r"
+    ],
+    [
+      0.000068,
+      "\u001b]2;prophet777@prophet777-Inspiron-7548: ~/Projects/WebsocketAppDemo\u0007"
+    ],
+    [
+      0.000018,
+      "\u001b]1;..socketAppDemo\u0007"
+    ],
+    [
+      0.056961,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[44m\u001b[30m ~/Projects/WebsocketAppDemo \u001b[43m\u001b[34m\u001b[30m  master ● \u001b[49m\u001b[33m\u001b[39m \u001b[K"
+    ],
+    [
+      0.000038,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.758781,
+      "c"
+    ],
+    [
+      0.092950,
+      "\u0008co"
+    ],
+    [
+      0.185510,
+      "m"
+    ],
+    [
+      0.119679,
+      "p"
+    ],
+    [
+      0.159982,
+      "o"
+    ],
+    [
+      0.100036,
+      "s"
+    ],
+    [
+      0.175086,
+      "e"
+    ],
+    [
+      0.160294,
+      "r"
+    ],
+    [
+      0.244609,
+      " "
+    ],
+    [
+      0.885601,
+      "i"
+    ],
+    [
+      0.155528,
+      "n"
+    ],
+    [
+      0.119158,
+      "s"
+    ],
+    [
+      0.165644,
+      "t"
+    ],
+    [
+      0.154319,
+      "a"
+    ],
+    [
+      0.095152,
+      "l"
+    ],
+    [
+      0.085449,
+      "l"
+    ],
+    [
+      1.166222,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;composer install\u0007\u001b]1;composer\u0007"
+    ],
+    [
+      0.095490,
+      "\u001b[32mLoading composer repositories with package information\u001b[39m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      5.181929,
+      "\u001b[32mInstalling dependencies (including require-dev)\u001b[39m\r\n"
+    ],
+    [
+      15.855364,
+      "  - Installing \u001b[32mpsr/log\u001b[39m (\u001b[33m1.0.0\u001b[39m)\r\n"
+    ],
+    [
+      0.003058,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.048108,
+      "\r\n"
+    ],
+    [
+      0.000577,
+      "  - Installing \u001b[32mtwig/twig\u001b[39m (\u001b[33mv1.22.2\u001b[39m)\r\n"
+    ],
+    [
+      0.000462,
+      "    Downloading: \u001b[33mConnecting...\u001b[39m"
+    ],
+    [
+      1.067874,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008    Downloading: \u001b[33m0%\u001b[39m           \u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.103227,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008    Downloading: \u001b[33m5%\u001b[39m"
+    ],
+    [
+      0.114325,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008    Downloading: \u001b[33m10%\u001b[39m"
+    ],
+    [
+      0.015336,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008    Downloading: \u001b[33m15%\u001b[39m"
+    ],
+    [
+      0.170378,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008    Downloading: \u001b[33m20%\u001b[39m"
+    ],
+    [
+      0.003183,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008    Downloading: \u001b[33m25%\u001b[39m"
+    ],
+    [
+      0.091500,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008    Downloading: \u001b[33m30%\u001b[39m"
+    ],
+    [
+      0.007402,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008    Downloading: \u001b[33m35%\u001b[39m"
+    ],
+    [
+      0.090512,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008    Downloading: \u001b[33m40%\u001b[39m"
+    ],
+    [
+      0.010781,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008    Downloading: \u001b[33m45%\u001b[39m"
+    ],
+    [
+      0.004084,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008    Downloading: \u001b[33m50%\u001b[39m"
+    ],
+    [
+      0.108199,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008    Downloading: \u001b[33m55%\u001b[39m\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008    Downloading: \u001b[33m60%\u001b[39m"
+    ],
+    [
+      0.099897,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008    Downloading: \u001b[33m65%\u001b[39m"
+    ],
+    [
+      0.004237,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008    Downloading: \u001b[33m70%\u001b[39m"
+    ],
+    [
+      0.091116,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008    Downloading: \u001b[33m75%\u001b[39m"
+    ],
+    [
+      0.009972,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008    Downloading: \u001b[33m80%\u001b[39m"
+    ],
+    [
+      0.009016,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008    Downloading: \u001b[33m85%\u001b[39m"
+    ],
+    [
+      0.191037,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008    Downloading: \u001b[33m90%\u001b[39m"
+    ],
+    [
+      0.013635,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008    Downloading: \u001b[33m95%\u001b[39m"
+    ],
+    [
+      0.267533,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008    Downloading: \u001b[33m100%\u001b[39m\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008    Downloading: \u001b[33m100%\u001b[39m\r\n"
+    ],
+    [
+      0.088925,
+      "\r\n"
+    ],
+    [
+      0.000640,
+      "  - Installing \u001b[32mdoctrine/lexer\u001b[39m (\u001b[33mv1.0.1\u001b[39m)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000666,
+      "    Loading from cache"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.039584,
+      "\r\n"
+    ],
+    [
+      0.001073,
+      "  - Installing \u001b[32mdoctrine/annotations\u001b[39m (\u001b[33mv1.2.7\u001b[39m)\r\n"
+    ],
+    [
+      0.000973,
+      "    Loading from cache"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.040842,
+      "\r\n"
+    ],
+    [
+      0.001378,
+      "  - Installing \u001b[32mdoctrine/collections\u001b[39m (\u001b[33mv1.3.0\u001b[39m)"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000925,
+      "    Loading from cache"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.032639,
+      "\r\n"
+    ],
+    [
+      0.000912,
+      "  - Installing \u001b[32mdoctrine/cache\u001b[39m (\u001b[33mv1.4.2\u001b[39m)\r\n"
+    ],
+    [
+      0.000831,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.031854,
+      "\r\n"
+    ],
+    [
+      0.002058,
+      "  - Installing \u001b[32mdoctrine/inflector\u001b[39m (\u001b[33mv1.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.001428,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.036193,
+      "\r\n"
+    ],
+    [
+      0.002054,
+      "  - Installing \u001b[32mdoctrine/common\u001b[39m (\u001b[33mv2.5.1\u001b[39m)"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.002072,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.045823,
+      "\r\n"
+    ],
+    [
+      0.001368,
+      "  - Installing \u001b[32msymfony/symfony\u001b[39m (\u001b[33mv2.6.11\u001b[39m)\r\n"
+    ],
+    [
+      0.022487,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.555054,
+      "\r\n"
+    ],
+    [
+      0.001414,
+      "  - Installing \u001b[32msensiolabs/security-checker\u001b[39m (\u001b[33mv3.0.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000632,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.034153,
+      "\r\n"
+    ],
+    [
+      0.000560,
+      "    Skipped installation of bin security-checker for package sensiolabs/security-checker: name conflicts with an existing file"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.003402,
+      "  - Installing \u001b[32msensio/distribution-bundle\u001b[39m (\u001b[33mv3.0.31\u001b[39m)\r\n"
+    ],
+    [
+      0.001099,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.044495,
+      "\r\n"
+    ],
+    [
+      0.002311,
+      "  - Installing \u001b[32mdoctrine/dbal\u001b[39m (\u001b[33mv2.4.4\u001b[39m)\r\n"
+    ],
+    [
+      0.002018,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.051427,
+      "\r\n"
+    ],
+    [
+      0.001423,
+      "  - Installing \u001b[32mdoctrine/orm\u001b[39m (\u001b[33mv2.4.8\u001b[39m)"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.003196,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.083935,
+      "\r\n"
+    ],
+    [
+      0.000313,
+      "    Skipped installation of bin bin/doctrine for package doctrine/orm: name conflicts with an existing file\r\n"
+    ],
+    [
+      0.000054,
+      "    Skipped installation of bin bin/doctrine.php for package doctrine/orm: name conflicts with an existing file"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.002367,
+      "  - Installing \u001b[32mdoctrine/doctrine-cache-bundle\u001b[39m (\u001b[33mv1.0.1\u001b[39m)"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.001234,
+      "    Loading from cache"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.049165,
+      "\r\n"
+    ],
+    [
+      0.002794,
+      "  - Installing \u001b[32mjdorn/sql-formatter\u001b[39m (\u001b[33mv1.2.17\u001b[39m)"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.001145,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.041331,
+      "\r\n"
+    ],
+    [
+      0.001735,
+      "  - Installing \u001b[32mdoctrine/doctrine-bundle\u001b[39m (\u001b[33mv1.5.2\u001b[39m)\r\n"
+    ],
+    [
+      0.000456,
+      "    Downloading: \u001b[33mConnecting...\u001b[39m"
+    ],
+    [
+      1.003661,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008    Downloading: \u001b[33m0%\u001b[39m           \u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.001047,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008    Downloading: \u001b[33m5%\u001b[39m"
+    ],
+    [
+      0.103227,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008    Downloading: \u001b[33m10%\u001b[39m"
+    ],
+    [
+      0.007325,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008    Downloading: \u001b[33m15%\u001b[39m\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008    Downloading: \u001b[33m20%\u001b[39m"
+    ],
+    [
+      0.000741,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008    Downloading: \u001b[33m25%\u001b[39m"
+    ],
+    [
+      0.096709,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008    Downloading: \u001b[33m30%\u001b[39m"
+    ],
+    [
+      0.002903,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008    Downloading: \u001b[33m35%\u001b[39m\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008    Downloading: \u001b[33m40%\u001b[39m"
+    ],
+    [
+      0.003759,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008    Downloading: \u001b[33m45%\u001b[39m\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008    Downloading: \u001b[33m50%\u001b[39m"
+    ],
+    [
+      0.008562,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008    Downloading: \u001b[33m55%\u001b[39m"
+    ],
+    [
+      0.001123,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008    Downloading: \u001b[33m60%\u001b[39m"
+    ],
+    [
+      0.074511,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008    Downloading: \u001b[33m65%\u001b[39m"
+    ],
+    [
+      0.013039,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008    Downloading: \u001b[33m70%\u001b[39m"
+    ],
+    [
+      0.004034,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008    Downloading: \u001b[33m75%\u001b[39m\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008    Downloading: \u001b[33m80%\u001b[39m"
+    ],
+    [
+      0.007037,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008    Downloading: \u001b[33m85%\u001b[39m\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008    Downloading: \u001b[33m90%\u001b[39m"
+    ],
+    [
+      0.001933,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008    Downloading: \u001b[33m95%\u001b[39m"
+    ],
+    [
+      0.069893,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008    Downloading: \u001b[33m100%\u001b[39m\r\n"
+    ],
+    [
+      0.051477,
+      "\r\n"
+    ],
+    [
+      0.003050,
+      "  - Installing \u001b[32mtwig/extensions\u001b[39m (\u001b[33mv1.3.0\u001b[39m)\r\n"
+    ],
+    [
+      0.000941,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.035482,
+      "\r\n"
+    ],
+    [
+      0.003193,
+      "  - Installing \u001b[32mkriswallsmith/assetic\u001b[39m (\u001b[33mv1.3.0\u001b[39m)\r\n"
+    ],
+    [
+      0.001286,
+      "    Loading from cache"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.045905,
+      "\r\n"
+    ],
+    [
+      0.003516,
+      "  - Installing \u001b[32msymfony/assetic-bundle\u001b[39m (\u001b[33mv2.7.0\u001b[39m)\r\n"
+    ],
+    [
+      0.001108,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.041374,
+      "\r\n"
+    ],
+    [
+      0.004543,
+      "  - Installing \u001b[32mswiftmailer/swiftmailer\u001b[39m (\u001b[33mv5.4.1\u001b[39m)\r\n"
+    ],
+    [
+      0.002576,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.071586,
+      "\r\n"
+    ],
+    [
+      0.003441,
+      "  - Installing \u001b[32msymfony/swiftmailer-bundle\u001b[39m (\u001b[33mv2.3.8\u001b[39m)\r\n"
+    ],
+    [
+      0.000935,
+      "    Loading from cache"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.040566,
+      "\r\n"
+    ],
+    [
+      0.003432,
+      "  - Installing \u001b[32mmonolog/monolog\u001b[39m (\u001b[33m1.17.1\u001b[39m)\r\n"
+    ],
+    [
+      0.001910,
+      "    Loading from cache"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.044372,
+      "\r\n"
+    ],
+    [
+      0.005680,
+      "  - Installing \u001b[32msymfony/monolog-bundle\u001b[39m (\u001b[33m2.8.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000892,
+      "    Downloading: \u001b[33mConnecting...\u001b[39m"
+    ],
+    [
+      1.945535,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008    Downloading: \u001b[33m0%\u001b[39m           \u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.002056,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008    Downloading: \u001b[33m5%\u001b[39m\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008    Downloading: \u001b[33m15%\u001b[39m"
+    ],
+    [
+      0.001912,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008    Downloading: \u001b[33m20%\u001b[39m"
+    ],
+    [
+      0.092038,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008    Downloading: \u001b[33m50%\u001b[39m"
+    ],
+    [
+      0.000182,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008    Downloading: \u001b[33m55%\u001b[39m"
+    ],
+    [
+      0.093344,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008    Downloading: \u001b[33m85%\u001b[39m"
+    ],
+    [
+      0.000801,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008    Downloading: \u001b[33m90%\u001b[39m"
+    ],
+    [
+      0.003824,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.009017,
+      "    Downloading: \u001b[33m95%\u001b[39m\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008    Downloading: \u001b[33m100%\u001b[39m\r\n"
+    ],
+    [
+      0.040997,
+      "\r\n"
+    ],
+    [
+      0.003428,
+      "  - Installing \u001b[32msensio/framework-extra-bundle\u001b[39m (\u001b[33mv3.0.10\u001b[39m)\r\n"
+    ],
+    [
+      0.001030,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.044146,
+      "\r\n"
+    ],
+    [
+      0.003349,
+      "  - Installing \u001b[32mincenteev/composer-parameter-handler\u001b[39m (\u001b[33mv2.1.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000772,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.040214,
+      "\r\n"
+    ],
+    [
+      0.002979,
+      "  - Installing \u001b[32mguzzle/common\u001b[39m (\u001b[33mv3.9.2\u001b[39m)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000649,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.034558,
+      "\r\n"
+    ],
+    [
+      0.003539,
+      "  - Installing \u001b[32mguzzle/stream\u001b[39m (\u001b[33mv3.9.2\u001b[39m)\r\n"
+    ],
+    [
+      0.000636,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.031339,
+      "\r\n  - Installing \u001b[32mguzzle/parser\u001b[39m (\u001b[33mv3.9.2\u001b[39m)\r\n"
+    ],
+    [
+      0.000560,
+      "    Loading from cache"
+    ],
+    [
+      0.000038,
+      "\r\n"
+    ],
+    [
+      0.035293,
+      "\r\n"
+    ],
+    [
+      0.005119,
+      "  - Installing \u001b[32mguzzle/http\u001b[39m (\u001b[33mv3.9.2\u001b[39m)"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.001896,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.042001,
+      "\r\n"
+    ],
+    [
+      0.003045,
+      "  - Installing \u001b[32mevenement/evenement\u001b[39m (\u001b[33mv2.0.0\u001b[39m)\r\n"
+    ],
+    [
+      0.000700,
+      "    Loading from cache"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.028810,
+      "\r\n"
+    ],
+    [
+      0.004153,
+      "  - Installing \u001b[32mreact/stream\u001b[39m (\u001b[33mv0.4.3\u001b[39m)\r\n"
+    ],
+    [
+      0.001044,
+      "    Downloading: \u001b[33mConnecting...\u001b[39m"
+    ],
+    [
+      1.179826,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008    Downloading: \u001b[33m0%\u001b[39m           \u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.003151,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008    Downloading: \u001b[33m25%\u001b[39m\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008    Downloading: \u001b[33m45%\u001b[39m"
+    ],
+    [
+      0.086621,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008    Downloading: \u001b[33m70%\u001b[39m"
+    ],
+    [
+      0.012086,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008    Downloading: \u001b[33m95%\u001b[39m\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008    Downloading: \u001b[33m100%\u001b[39m\r\n"
+    ],
+    [
+      0.040229,
+      "\r\n"
+    ],
+    [
+      0.003374,
+      "  - Installing \u001b[32mreact/event-loop\u001b[39m (\u001b[33mv0.4.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000658,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.032559,
+      "\r\n"
+    ],
+    [
+      0.004378,
+      "  - Installing \u001b[32mreact/socket\u001b[39m (\u001b[33mv0.4.2\u001b[39m)\r\n"
+    ],
+    [
+      0.000696,
+      "    Loading from cache"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.026218,
+      "\r\n"
+    ],
+    [
+      0.006982,
+      "  - Installing \u001b[32mgos/ratchet\u001b[39m (\u001b[33mv0.3.4\u001b[39m)\r\n"
+    ],
+    [
+      0.001487,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.045726,
+      "\r\n"
+    ],
+    [
+      0.003570,
+      "  - Installing \u001b[32mgos/pnctl-event-loop-emitter\u001b[39m (\u001b[33mv0.1.2\u001b[39m)\r\n"
+    ],
+    [
+      0.000634,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.030599,
+      "\r\n"
+    ],
+    [
+      0.007281,
+      "  - Installing \u001b[32mgos/ratchet-stack\u001b[39m (\u001b[33mv0.1.0\u001b[39m)\r\n"
+    ],
+    [
+      0.001057,
+      "    Loading from cache"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.029010,
+      "\r\n"
+    ],
+    [
+      0.007375,
+      "  - Installing \u001b[32mgos/websocket-client\u001b[39m (\u001b[33mv0.1.2\u001b[39m)\r\n"
+    ],
+    [
+      0.000653,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.031885,
+      "\r\n"
+    ],
+    [
+      0.004767,
+      "  - Installing \u001b[32mgos/pubsub-router-bundle\u001b[39m (\u001b[33mv0.1.7\u001b[39m)\r\n"
+    ],
+    [
+      0.000965,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.036074,
+      "\r\n"
+    ],
+    [
+      0.003634,
+      "  - Installing \u001b[32mgos/web-socket-bundle\u001b[39m (\u001b[33mv1.6.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000828,
+      "    Downloading: \u001b[33mConnecting...\u001b[39m"
+    ],
+    [
+      1.347355,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008    Downloading: \u001b[33m100%\u001b[39m         \u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\r\n"
+    ],
+    [
+      0.043589,
+      "\r\n"
+    ],
+    [
+      0.005615,
+      "  - Installing \u001b[32msensio/generator-bundle\u001b[39m (\u001b[33mv2.5.3\u001b[39m)\r\n"
+    ],
+    [
+      0.001247,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.044521,
+      "\r\n"
+    ],
+    [
+      0.466439,
+      "kriswallsmith/assetic suggests installing leafo/lessphp (Assetic provides the integration with the lessphp LESS compiler)\r\n"
+    ],
+    [
+      0.000572,
+      "kriswallsmith/assetic suggests installing leafo/scssphp (Assetic provides the integration with the scssphp SCSS compiler)\r\n"
+    ],
+    [
+      0.000601,
+      "kriswallsmith/assetic suggests installing ptachoire/cssembed (Assetic provides the integration with phpcssembed to embed data uris)\r\n"
+    ],
+    [
+      0.000550,
+      "kriswallsmith/assetic suggests installing leafo/scssphp-compass (Assetic provides the integration with the SCSS compass plugin)"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000573,
+      "kriswallsmith/assetic suggests installing patchwork/jsqueeze (Assetic provides the integration with the JSqueeze JavaScript compressor)\r\n"
+    ],
+    [
+      0.000419,
+      "symfony/assetic-bundle suggests installing kriswallsmith/spork (to be able to dump assets in parallel)"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000185,
+      "monolog/monolog suggests installing graylog2/gelf-php (Allow sending log messages to a GrayLog2 server)"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000189,
+      "monolog/monolog suggests installing raven/raven (Allow sending log messages to a Sentry server)\r\n"
+    ],
+    [
+      0.000176,
+      "monolog/monolog suggests installing doctrine/couchdb (Allow sending log messages to a CouchDB server)\r\n"
+    ],
+    [
+      0.000180,
+      "monolog/monolog suggests installing ruflin/elastica (Allow sending log messages to an Elastic Search server)\r\n"
+    ],
+    [
+      0.000161,
+      "monolog/monolog suggests installing videlalvaro/php-amqplib (Allow sending log messages to an AMQP server using php-amqplib)"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000157,
+      "monolog/monolog suggests installing ext-amqp (Allow sending log messages to an AMQP server (1.0+ required))"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000161,
+      "monolog/monolog suggests installing ext-mongo (Allow sending log messages to a MongoDB server)"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000170,
+      "monolog/monolog suggests installing aws/aws-sdk-php (Allow sending log messages to AWS services like DynamoDB)\r\n"
+    ],
+    [
+      0.000162,
+      "monolog/monolog suggests installing rollbar/rollbar (Allow sending log messages to Rollbar)\r\n"
+    ],
+    [
+      0.000169,
+      "monolog/monolog suggests installing php-console/php-console (Allow sending log messages to Google Chrome)"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000148,
+      "sensio/framework-extra-bundle suggests installing symfony/psr-http-message-bridge (To use the PSR-7 converters)"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000275,
+      "guzzle/http suggests installing ext-curl (*)"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000205,
+      "react/stream suggests installing react/promise (^2.0)"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000166,
+      "react/event-loop suggests installing ext-libevent (\u003e=0.1.0)\r\n"
+    ],
+    [
+      0.000167,
+      "react/event-loop suggests installing ext-event (~1.0)"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000143,
+      "react/event-loop suggests installing ext-libev (*)"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000184,
+      "gos/web-socket-bundle suggests installing ext-libevent (\u003e=0.0.5)"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000161,
+      "gos/web-socket-bundle suggests installing ext-libev (*)\r\n"
+    ],
+    [
+      0.000148,
+      "gos/web-socket-bundle suggests installing ext-zmq (*)\r\n"
+    ],
+    [
+      0.000154,
+      "gos/web-socket-bundle suggests installing ext-amqp (*)\r\n"
+    ],
+    [
+      0.000184,
+      "gos/web-socket-bundle suggests installing ocramius/proxy-manager (~1.0)\r\n"
+    ],
+    [
+      0.000074,
+      "\u001b[30;43mPackage guzzle/common is abandoned, you should avoid using it. Use guzzle/guzzle instead.\u001b[39;49m\r\n"
+    ],
+    [
+      0.000045,
+      "\u001b[30;43mPackage guzzle/stream is abandoned, you should avoid using it. Use guzzle/guzzle instead.\u001b[39;49m\r\n"
+    ],
+    [
+      0.000037,
+      "\u001b[30;43mPackage guzzle/parser is abandoned, you should avoid using it. Use guzzle/guzzle instead.\u001b[39;49m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000033,
+      "\u001b[30;43mPackage guzzle/http is abandoned, you should avoid using it. Use guzzle/guzzle instead.\u001b[39;49m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.034741,
+      "\u001b[32mWriting lock file\u001b[39m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000046,
+      "\u001b[32mGenerating autoload files\u001b[39m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.010971,
+      "\u003e Incenteev\\ParameterHandler\\ScriptHandler::buildParameters\r\n"
+    ],
+    [
+      0.001274,
+      "\u001b[32mUpdating the \"app/config/parameters.yml\" file\u001b[39m\r\n"
+    ],
+    [
+      0.003895,
+      "\u001b[37;41mScript Incenteev\\ParameterHandler\\ScriptHandler::buildParameters handling the post-install-cmd event terminated with an exception\u001b[39;49m\r\n"
+    ],
+    [
+      0.036074,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "\r\n\u001b[37;41m                                                                                          \u001b[39;49m\r\n\u001b[37;41m  [ErrorException]                                                                        \u001b[39;49m\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[37;41m  file_put_contents(app/config/parameters.yml): failed to open stream: Permission denied  \u001b[39;49m\r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[37;41m                                                                                          \u001b[39;49m\r\n"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000192,
+      "\u001b[32minstall [--prefer-source] [--prefer-dist] [--dry-run] [--dev] [--no-dev] [--no-plugins] [--no-custom-installers] [--no-autoloader] [--no-scripts] [--no-progress] [-v|vv|vvv|--verbose] [-o|--optimize-autoloader] [--ignore-platform-reqs] [packages1] ... [packagesN]\u001b[39m\r\n"
+    ],
+    [
+      0.000071,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.179365,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                            \r \r"
+    ],
+    [
+      0.000062,
+      "\u001b]2;prophet777@prophet777-Inspiron-7548: ~/Projects/WebsocketAppDemo\u0007"
+    ],
+    [
+      0.000014,
+      "\u001b]1;..socketAppDemo\u0007"
+    ],
+    [
+      0.050926,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m \u001b[31m✘ \u001b[44m\u001b[30m\u001b[30m ~/Projects/WebsocketAppDemo \u001b[43m\u001b[34m\u001b[30m  master ● \u001b[49m\u001b[33m\u001b[39m "
+    ],
+    [
+      0.000006,
+      "\u001b[K"
+    ],
+    [
+      0.000021,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      4.756304,
+      "l"
+    ],
+    [
+      0.069249,
+      "\u0008ls"
+    ],
+    [
+      0.106973,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;ls --color=tty\u0007\u001b]1;ls\u0007"
+    ],
+    [
+      0.005356,
+      "\u001b[0m\u001b[01;34mapp\u001b[0m  \u001b[01;34mbin\u001b[0m  \u001b[01;32mcomposer.json\u001b[0m  composer.lock  \u001b[01;32mLICENSE\u001b[0m  \u001b[01;32mREADME.md\u001b[0m  \u001b[01;34msrc\u001b[0m  \u001b[01;34mvendor\u001b[0m  \u001b[01;34mweb\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000306,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                            \r \r"
+    ],
+    [
+      0.000198,
+      "\u001b]2;prophet777@prophet777-Inspiron-7548: ~/Projects/WebsocketAppDemo\u0007"
+    ],
+    [
+      0.000050,
+      "\u001b]1;..socketAppDemo\u0007"
+    ],
+    [
+      0.039477,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[44m\u001b[30m ~/Projects/WebsocketAppDemo \u001b[43m\u001b[34m\u001b[30m  master ● \u001b[49m\u001b[33m\u001b[39m "
+    ],
+    [
+      0.000006,
+      "\u001b[K"
+    ],
+    [
+      0.000020,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.342437,
+      "c"
+    ],
+    [
+      0.090156,
+      "\u0008cd"
+    ],
+    [
+      0.114942,
+      " "
+    ],
+    [
+      0.329299,
+      "v"
+    ],
+    [
+      0.175716,
+      "e"
+    ],
+    [
+      0.110045,
+      "n"
+    ],
+    [
+      0.165373,
+      "dor\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.611586,
+      "\u0008\u001b[0m \u0008\u001b[?1l\u001b\u003e\r\r\n\u001b]2;cd vendor\u0007\u001b]1;cd\u0007\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                            \r \r\u001b]2;prophet777@prophet777-Inspiron-7548: ~/Projects/WebsocketAppDemo/vendor\u0007\u001b]1;..ppDemo/vendor\u0007"
+    ],
+    [
+      0.046526,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[44m\u001b[30m ~/Projects/WebsocketAppDemo/vendor \u001b[43m\u001b[34m\u001b[30m  master ● \u001b[49m\u001b[33m\u001b[39m \u001b[K"
+    ],
+    [
+      0.000022,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.471902,
+      "c"
+    ],
+    [
+      0.095185,
+      "\u0008cd"
+    ],
+    [
+      0.120037,
+      " "
+    ],
+    [
+      1.029987,
+      "c"
+    ],
+    [
+      0.119352,
+      "b"
+    ],
+    [
+      0.135788,
+      "\u0007"
+    ],
+    [
+      0.409744,
+      "\u0007"
+    ],
+    [
+      0.129720,
+      "\u0007"
+    ],
+    [
+      0.135710,
+      "\u0007"
+    ],
+    [
+      0.144347,
+      "\u0007"
+    ],
+    [
+      0.115644,
+      "\u0008 \u0008"
+    ],
+    [
+      0.135384,
+      "\u0008 \u0008"
+    ],
+    [
+      0.629597,
+      "\u0008"
+    ],
+    [
+      0.130414,
+      "\u0008\u0008c \u0008"
+    ],
+    [
+      0.104732,
+      "\u0008 \u0008"
+    ],
+    [
+      0.620090,
+      "l"
+    ],
+    [
+      0.065299,
+      "\u0008ls"
+    ],
+    [
+      0.111103,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;ls --color=tty\u0007\u001b]1;ls\u0007"
+    ],
+    [
+      0.002535,
+      "autoload.php  \u001b[0m\u001b[01;34mcomposer\u001b[0m  \u001b[01;34mdoctrine\u001b[0m  \u001b[01;34mevenement\u001b[0m  \u001b[01;34mgos\u001b[0m  \u001b[01;34mguzzle\u001b[0m  \u001b[01;34mincenteev\u001b[0m  \u001b[01;34mjdorn\u001b[0m  \u001b[01;34mkriswallsmith\u001b[0m  \u001b[01;34mmonolog\u001b[0m  \u001b[01;34mpsr\u001b[0m  \u001b[01;34mreact\u001b[0m  \u001b[01;34msensio\u001b[0m  \u001b[01;34msensiolabs\u001b[0m  \u001b[01;34mswiftmailer\u001b[0m  \u001b[01;34msymfony\u001b[0m  \u001b[01;34mtwig\u001b[0m\r\n"
+    ],
+    [
+      0.000854,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                            \r \r\u001b]2;prophet777@prophet777-Inspiron-7548: ~/Projects/WebsocketAppDemo/vendor\u0007\u001b]1;..ppDemo/vendor\u0007"
+    ],
+    [
+      0.059216,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[44m\u001b[30m ~/Projects/WebsocketAppDemo/vendor \u001b[43m\u001b[34m\u001b[30m  master ● \u001b[49m\u001b[33m\u001b[39m "
+    ],
+    [
+      0.000006,
+      "\u001b[K"
+    ],
+    [
+      0.000087,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.712353,
+      "c"
+    ],
+    [
+      0.110196,
+      "\u0008cd"
+    ],
+    [
+      0.184535,
+      " "
+    ],
+    [
+      0.149575,
+      "\u0008"
+    ],
+    [
+      0.140576,
+      "\u0008\u0008c \u0008"
+    ],
+    [
+      0.110050,
+      "\u0008 \u0008"
+    ],
+    [
+      2.124270,
+      "\r\r\n"
+    ]
+  ]
+}
