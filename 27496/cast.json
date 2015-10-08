@@ -1,0 +1,162 @@
+{
+  "version": 1,
+  "width": 128,
+  "height": 48,
+  "duration": 40.119012,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "linux",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.045580,
+      "root@zstack:/usr/local/src# "
+    ],
+    [
+      1.584944,
+      "g"
+    ],
+    [
+      0.239815,
+      "l"
+    ],
+    [
+      0.144055,
+      "a"
+    ],
+    [
+      0.266186,
+      "n"
+    ],
+    [
+      0.241793,
+      "c"
+    ],
+    [
+      1.703382,
+      "es "
+    ],
+    [
+      1.269127,
+      "-"
+    ],
+    [
+      0.662802,
+      "t"
+    ],
+    [
+      0.765392,
+      " "
+    ],
+    [
+      0.602317,
+      "2"
+    ],
+    [
+      0.443583,
+      "\r\n"
+    ],
+    [
+      0.189251,
+      "\u001b[1;48r\u001b[0;10m\u001b[4l\u001b[?7h\u001b[39;49m\u001b[?25l\u001b[?1c"
+    ],
+    [
+      0.208501,
+      "\u001b[39;49m\u001b[0;10m\u001b[H\u001b[J\u001b[1;37H\u001b[0;10;4mUbuntu 14.04 64bit with Linux 3.19.0-25-generic on zstack\r\n\n\u001b[0;10;1mCPU\u001b[3;18HLoad\u001b[0;10m   4-core   \u001b[0;10;1mMem\u001b[0;10m    16.4%  active:   2.12G   \u001b[0;10;1mSwap\u001b[0;10m    0.0%\r\nCompute data...  1 min:   0.00   total: 7.80G  inactive:  598M   total: 8.00G\u001b[5;18H5 min:  \u001b[0;10;1m\u001b[37m\u001b[42m 0.01\u001b[39;49m\u001b[0;10m   used:  \u001b[0;10;1m\u001b[37m\u001b[42m1.28G\u001b[39;49m\u001b[0;10m  buffers:   105M   used:  \u001b[0;10;1m\u001b[37m\u001b[42m    0\u001b[6;18H\u001b[39;49m\u001b[0;10m15 min: \u001b[0;10;1m\u001b[37m\u001b[42m 0.09\u001b[39;49m\u001b[0;10m   free:  6.52G  cached:   1.50G   free:  8.00G\r\n\n\u001b[0;10;1mNetwork\u001b[0;10m    Rx/s    Tx/s\r\nCompute data...\r\n\n\u001b[0;10;1mDisk I/O\u001b[0;10m   In/s   Out/s\r\nCompute data...\r\n\n\u001b[0;10;1mMount\u001b[12G\u001b[0;10mUsed   Total\r\n/\u001b[15;10H\u001b[0;10;1m\u001b[32m 4.23G\u001b[39m\u001b[0;10m    189G\r\n/boot    \u001b[0;10;1m\u001b[32m 37.9M\u001b[39m\u001b[0;10m    235M\r\n_fs/nfsd \u001b[37m     0\u001b[23G\u001b[39m\u001b[0;10m0\r\n/run     \u001b[0;10;1m\u001b[32m  384K\u001b[39m\u001b[0;10m    798M\r\n__pipefs \u001b[37m     0\u001b[23G\u001b[39m\u001b[0;10m0\r\n_systemd \u001b[37m     0\u001b[23G\u001b[39m\u001b[0;10m0\r\u001b[48dPress 'h' for help\u001b[48;109H2015-10-08 20:33:05"
+    ],
+    [
+      2.187915,
+      "\u001b[3;11H2.6%\u001b[19X\u001b[3;34H\u001b[0;10;1mLoad\u001b[0;10m   4-core   \u001b[0;10;1mMem\u001b[0;10m    16.4%  active:   2.13G   \u001b[0;10;1mSwap\u001b[0;10m    0.0%\r\nuser:   \u001b[0;10;1m\u001b[37m\u001b[42m  1.0%\u001b[39;49m\u001b[0;10m  nice:  \u001b[30G%   1 min:   0.00   total: 7.80G  inactive:  598M   total: 8.00G\r\nsystem: \u001b[0;10;1m\u001b[37m\u001b[42m  1.6%\u001b[39;49m\u001b[0;10m  iowait: \u001b[0;10;1m\u001b[37m\u001b[42m  0.0%\u001b[39;49m\u001b[0;10m   5 min:  \u001b[0;10;1m\u001b[37m\u001b[42m 0.01\u001b[39;49m\u001b[0;10m   used:  \u001b[0;10;1m\u001b[37m\u001b[42m1.28G\u001b[39;49m\u001b[0;10m  buffers:   105M   used:  \u001b[0;10;1m\u001b[37m\u001b[42m    0\r\n\u001b[39;49m\u001b[0;10midle:    97.4%  irq:      0.0%   15 min: \u001b[0;10;1m\u001b[37m\u001b[42m 0.09\u001b[39;49m\u001b[0;10m   free:  6.52G  cached:   1.50G   free:  8.00G\u001b[8;27H\u001b[0;10;1mProcesses\u001b[0;10m 135,  1 running, 134 sleeping,  0 other sorted automatically\r\neth0         0b\u001b[22G0b\r\nlo\u001b[10;13H7Kb     7Kb    VIRT   RES \u001b[0;10;4m CPU%\u001b[0;10m  MEM%   PID USER\u001b[10;69HNI S    TIME+ IOR/s IOW/s NAME\r\nvirbr0       0b      0b     80M   19M \u001b[0;10;1m\u001b[32m  8.7\u001b[39m\u001b[0;10m \u001b[0;10;1m\u001b[32m  0.2\u001b[39m\u001b[0;10m  3145 root\u001b[11;70H0 R  0:00.51     0     0 glances\u001b[12;30H\u001b[1K 0     0 \u001b[0;10;1m\u001b[32m  0.5\u001b[39m\u001b[0;10m \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m     7 root\u001b[12;70H0 S  0:04.38     0     0 rcu_sched\r\n\u001b[0;10;1mDisk I/O\u001b[0;10m   In/s   Out/s\u001b[31G0     0 \u001b[0;10;1m\u001b[32m  0.5\u001b[39m\u001b[0;10m \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m    18 root\u001b[13;70H0 S  0:00.69     0     0 rcuos/1\r\ndm-0 \u001b[12G   0       0\u001b[31G0     0 \u001b[0;10;1m\u001b[32m  0.5\u001b[39m\u001b[0;10m \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m    25 root\u001b[14;70H0 S  0:01.56     0     0 rcuos/2\r\ndm-1          0       0    2.1G   55M \u001b[0;10;1m\u001b[32m  0.5\u001b[39m\u001b[0;10m \u001b[0;10;1m\u001b[32m  0.7\u001b[39m\u001b[0;10m   592 rabbitmq     0 S  0:15.39     0     0 beam.smp\r\nsr0           0       0    4.5G  979M \u001b[0;10;1m\u001b[32m  0.5\u001b[39m\u001b[0;10m \u001b[0;10;1m\u001b[32m 12.3\u001b[39m\u001b[0;10m   993 zstack\u001b[70G0 S  1:36.64     0     0 java\r\nvda1          0\u001b[17;29H33M    4M \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m     1 root\u001b[17;70H0 S  0:04.85     0     0 /sbin/init\r\nvda2          0       0\u001b[31G0     0 \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b["
+    ],
+    [
+      0.002092,
+      "0;10m     2 root\u001b[18;70H0 S  0:00.10     0     0 kthreadd\r\nvda5          0\u001b[23G\u001b[19;31H0     0 \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m     3 root\u001b[19;70H0 S  0:00.40     0     0 ksoftirqd/0\u001b[20;30H\u001b[1K 0     0 \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m     4 root\u001b[20;70H0 S  0:00.00     0     0 kworker/0:0\r\n\u001b[0;10;1mMount\u001b[12G\u001b[0;10mUsed   Total\u001b[31G0     0 \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m     5 root\u001b[68G-20 S  0:00.00     0     0 kworker/0:0H\r\n/\u001b[22;10H\u001b[0;10;1m\u001b[32m 4.23G\u001b[39m\u001b[0;10m    189G\u001b[31G0     0 \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m     8 root\u001b[22;70H0 S  0:00.00     0     0 rcu_bh\r\n/boot    \u001b[0;10;1m\u001b[32m 37.9M\u001b[39m\u001b[0;10m    235M\u001b[31G0     0 \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m     9 root\u001b[23;70H0 S  0:01.73     0     0 rcuos/0\r\n_fs/nfsd \u001b[37m     0\u001b[23G\u001b[39m\u001b[0;10m0\u001b[31G0     0 \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m    10 root\u001b[24;70H0 S  0:00.00     0     0 rcuob/0\r\n/run     \u001b[0;10;1m\u001b[32m  384K\u001b[39m\u001b[0;10m    798M\u001b[31G0     0 \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m    11 root\u001b[25;70H0 S  0:00.31     0     0 migration/0\r\n__pipefs \u001b[37m     0\u001b[23G\u001b[39m\u001b[0;10m0\u001b[31G0     0 \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m    12 root\u001b[26;70H0 S  0:00.60     0     0 watchdog/0\r\n_systemd \u001b[37m     0\u001b[23G\u001b[39m\u001b[0;10m0\u001b[31G0     0 \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m    13 root\u001b[27;70H0 S  0:00.60     0     0 watchdog/1\u001b[28;31H0     0 \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m    14 root\u001b[28;70H0 S  0:00.32     0     0 migration/1\u001b[29;31H0     0 \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m    15 root\u001b[29;70H0 S  0:00.13     0     0 ksoftirqd/1\u001b[30;31H0     0 \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m    16 root\u001b[30;70H0 S  0:00.00     0     0 kworker/1:0\u001b[31;31H0     0 \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m    17 root\u001b[68G-20 S  0:00.00     0     0 kworker/1:0H\u001b[32;31H0     0 \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m    19 root\u001b[32;70H0 S  0:00.00     0     0 rcuob/1\u001b[33;31H0     0 \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m    20 root\u001b[33;70H0 S  0:00.80     0     0 watchdog/2\u001b[34;31H0     0 \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m    21 root\u001b[34;70H0 S  0:00.30     0     0 migration/2\u001b[35;31H0     0 \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m    22 root\u001b[35;70H0 S  0:00.30     0     0 ksoftirqd/2\u001b[36;31H0     0 \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m    24 root\u001b[68G-20 S  0:00.00     0     0 kworker/2:0H\u001b[37;31H0     0 \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m    26 root\u001b[37;70H0 S  0:00.00     0     0 rcuob/2\u001b[38;31H0     0 \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m    27 root\u001b[38;70H0 S  0:00.60     0     0 watchdog/3\u001b[39;31H0     0 \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m    28 root\u001b[39;70H0 S  0:00.32     0     0 migration/3\u001b[40;31H0     0 \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m    29 root\u001b[40;70H0 S  0:00.20     0     0 ksoftirqd/3\u001b[41;31H0     0 \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m    31 root\u001b[68G-20 S  0:00.00     0     0 kworker/3:0H\u001b[42;31H0     0 \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m    32 root\u001b[42;70H0 S  0:00.72     0     0 rcuos/3\u001b[43;31H0     0 \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m    33 root\u001b[43;70H0 S  0:00.00     0     0 rcuob/3\u001b[44;31H0     0 \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m    34 root\u001b[68G-20 S  0:00.00     0     0 khelper\u001b[45;31H0     0 \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m    35 root\u001b[45;70H0 S  0:00.10     0     0 kdevtmpfs\u001b[46;31H0     0 \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m    36 root\u001b[68G-20 S  0:00.00     0     0 netns\n\n\u001b[127G8"
+    ],
+    [
+      2.184732,
+      "\u001b[37;46r\u001b[37;1H\u001b[5L\u001b[1;48r\u001b[32;41r\u001b[32;1H\u001b[4L\u001b[1;48r\u001b[28;35r\u001b[28;1H\u001b[3L\u001b[1;48r\u001b[3;13H7\n\u0008\u0008\u0008\u001b[0;10;1m\u001b[37m\u001b[42m0.8\n\u00088\u001b[5;29H1\u001b[6;13H\u001b[39;49m\u001b[0;10m3\n\n\n\n\u00088\u001b[21G8\u001b[11;80H70\u001b[12;53H548\u001b[12;78H0.29\u001b[12;95Hkworker/3:2\u001b[13;28H2.1G   55M\u001b[13;49H\u001b[0;10;1m\u001b[32m7\u001b[39m\u001b[0;10m   592 rabbitmq\u001b[13;77H15.40\u001b[13;95Hbeam.smp\u001b[14;12H108K\u001b[14;28H4.5G  979M\u001b[14;46H\u001b[0;10;1m\u001b[32m12.3\u001b[39m\u001b[0;10m   993 zstack\u001b[14;75H1:36.65\u001b[14;95Hjava\u001b[K\u001b[15;28H   0     0\u001b[15;49H\u001b[0;10;1m\u001b[32m0\u001b[39m\u001b[0;10m  3055 root    \u001b[15;77H00.15\u001b[15;95Hkworker/u8:1\u001b[16;28H  8M    5\u001b[16;46H\u001b[0;10;1m\u001b[32m 0.1\u001b[39m\u001b[0;10m  3126 root  \u001b[16;75H0:00.30\u001b[16;95Hasciinema rec\u001b[17;28H352M    6\u001b[43G\u001b[0;10;1m\u001b[32m5\u001b[39m\u001b[0;10m \u001b[0;10;1m\u001b[32m  0.1\u001b[39m\u001b[0;10m 27072 www-data\u001b[17;78H1.1\u001b[17;96Husr/sbin/apache2 -k start\u001b[18;28H1.5G   71M \u001b[0;10;1m\u001b[32m  0.5\u001b[39m\u001b[0;10m \u001b[0;10;1m\u001b[32m  0.9\u001b[39m\u001b[0;10m 31136 mysql\u001b[18;78H8.63\u001b[18;91H84K /usr/sbin/mysqld\u001b[19;12H108K\u001b[19;29H33M    4M\u001b[19;55H1\u001b[19;78H4.85\u001b[19;95H/sbin/init\u001b[K\u001b[20;55H2\u001b[20;80H1\u001b[20;96Hthreadd\u001b[K\u001b[21;55H3\u001b[21;68H  \u001b[21;80H4\u001b[21;96Hsoftirqd/0\u001b[K\u001b[22;55H4\u001b[22;95Hkworker/0:0\u001b[23;55H5\u001b[23;68H-2\u001b[23;78H0.00\u001b[23;95Hkworker/0:0H\u001b[24;54H 7\u001b[24;78H4.38\u001b[24;98H_sched\u001b[25;54H 8\u001b[25;80H00\u001b[25;95Hrcu_bh\u001b[K\u001b[26;54H 9\u001b[26;78H1.73\u001b[26;95Hrcuos/0\u001b[K\u001b[27;55H0\u001b[27;80H0\u001b[27;95Hrcuob/0\u001b[K\u001b[28;31H0     0 \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m    11 root\u001b[28;70H0 S  0:00.31     0     0 migration/0\u001b[29;31H0     0 \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m    12 root\u001b[29;70H0 S  0:00.60     0     0 watchdog/0\u001b[30;31H0     0 \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m    13 root\u001b[30;70H0 S  0:00.60     0     0 watchdog/1\u001b[35;31H0     0 \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m    18 root\u001b[35;70H0 S  0:00.69     0     0 rcuos/1\u001b[41;31H0     0 \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m    25 root\u001b[41;70H0 S  0:01.56     0     0 rcuos/2\u001b[48;126H10"
+    ],
+    [
+      2.183425,
+      "\u001b[28;47r\u001b[28;1H\u001b[6M\u001b[1;48r\u001b[3;13H4\n\u0008\u001b[0;10;1m\u001b[37m\u001b[42m7\n\u00087\u001b[5;29H0\u001b[6;13H\u001b[39;49m\u001b[0;10m6\n\n\n\n\u0008 0\u001b[21G 0\u001b[11;43H\u001b[0;10;1m\u001b[32m3\u001b[11;80H\u001b[39m\u001b[0;10m88\u001b[12;28H2.1G   55M \u001b[0;10;1m\u001b[32m  0.9\u001b[39m\u001b[0;10m \u001b[0;10;1m\u001b[32m  0.7\u001b[39m\u001b[0;10m   592 rabbitmq\u001b[12;77H15.42\u001b[12;95Hbeam.smp\u001b[K\u001b[13;28H 33M    4\u001b[43G\u001b[0;10;1m\u001b[32m0\u001b[39m\u001b[0;10m \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m     1 root    \u001b[13;77H04.85\u001b[13;95H/sbin/init\u001b[14;12H   0\u001b[14;28H   0     0 \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m     2 root  \u001b[14;75H0:00.10\u001b[14;95Hkthreadd\u001b[15;43H\u001b[0;10;1m\u001b[32m0\u001b[15;52H\u001b[39m\u001b[0;10m   3\u001b[15;80H40\u001b[15;96Hsoftirqd/0\u001b[K\u001b[16;30H 0     0 \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m     4\u001b[16;80H0\u001b[16;95Hkworker/0:0\u001b[K\u001b[17;28H   0     0 \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m     5 root       -2\u001b[17;78H0.00\u001b[17;95Hkworker/0:0H\u001b[K\u001b[18;28H   0     0 \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m     7 root \u001b[18;78H4.38\u001b[18;91H  0 rcu_sched\u001b[K\u001b[19;12H   0\u001b[19;29H  0     0\u001b[19;55H8\u001b[19;78H0.00\u001b[19;95Hrcu_bh\u001b[K\u001b[20;55H9\u001b[20;78H1.73\u001b[20;95Hrcuos/0\u001b[K\u001b[21;54H10\u001b[21;80H0\u001b[21;95Hrcuob/0\u001b[K\u001b[22;54H11\u001b[22;80H31\u001b[22;95Hmigration/\u001b[23;54H12\u001b[23;68H  \u001b[23;80H6\u001b[23;95Hwatchdog/0\u001b[K\u001b[24;54H13\u001b[24;78H0.60\u001b[24;95Hwatchdog/1\u001b[25;54H14\u001b[25;80H32\u001b[25;95Hmigration/1\u001b[26;54H15\u001b[26;78H0.1\u001b[26;95Hksoftirqd/1\u001b[27;55H6\u001b[27;95Hkworker/1:0\u001b[41;31H0     0 \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m    32 root\u001b[41;70H0 S  0:00.72     0     0 rcuos/3\u001b[42;31H0     0 \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m    33 root\u001b[42;70H0 S  0:00.00     0     0 rcuob/3\u001b[43;31H0     0 \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m    34 root\u001b[68G-20 S  0:00.00     0     0 khelper\u001b[44;31H0     0 \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m    35 root\u001b[44;70H0 S  0:00.10     0     0 kdevtmpfs\u001b[45;31H0     0 \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m    36 root\u001b[68G-20 S  0:00.00     0     0 netns\u001b[46;31H0     0 \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m    37 root\u001b[68G-20 S  0:00.00     0     0 perf\n\n\u001b[127G2"
+    ],
+    [
+      2.181993,
+      "\u001b[28;46r\u001b[28;1H\u001bM\u001b[1;48r\u001b[3;13H1\n\u0008\u001b[0;10;1m\u001b[37m\u001b[42m5\n\u00086\n\u0008\u001b[39;49m\u001b[0;10m9\n\n\n\n\u00088K\u001b[21G8K\u001b[11;78H1.60\u001b[12;28H4.5G  979\u001b[43G\u001b[0;10;1m\u001b[32m5\u001b[39m\u001b[0;10m \u001b[0;10;1m\u001b[32m 12.3\u001b[39m\u001b[0;10m   993 zstack  \u001b[12;75H1:36.66\u001b[12;95Hjava\u001b[K\u001b[13;28H1.5G   71\u001b[43G\u001b[0;10;1m\u001b[32m5\u001b[39m\u001b[0;10m \u001b[0;10;1m\u001b[32m  0.9\u001b[39m\u001b[0;10m 31136 mysql\u001b[13;78H8.64\u001b[13;92H2K /usr/sbin/mysqld\u001b[14;14H8K\u001b[14;29H33M    4M\u001b[14;55H1\u001b[14;78H4.85\u001b[14;95H/sbin/init\u001b[15;55H2\u001b[15;80H1\u001b[15;96Hthreadd\u001b[K\u001b[16;55H3\u001b[16;80H4\u001b[16;96Hsoftirqd/\u001b[17;55H4\u001b[17;68H  \u001b[17;106H\u001b[K\u001b[18;55H5\u001b[18;68H-2\u001b[18;78H0.00\u001b[18;95Hkworker/0:0H\u001b[19;14H8K\u001b[19;55H7\u001b[19;78H4.38\u001b[19;99Hsched\u001b[20;55H8\u001b[20;78H0.00\u001b[20;98H_bh\u001b[K\u001b[21;54H 9\u001b[21;78H1.73\u001b[21;99Hs\u001b[22;55H0\u001b[22;80H00\u001b[22;95Hrcuob/0\u001b[K\u001b[23;55H1\u001b[23;80H31\u001b[23;95Hmigration/0\u001b[24;55H2\u001b[24;104H0\u001b[25;55H3\u001b[25;80H60\u001b[25;95Hwatchdog/1\u001b[K\u001b[26;55H4\u001b[26;80H32\u001b[26;95Hmigration\u001b[27;55H5\u001b[27;80H13\u001b[27;96Hsoftirqd/1\u001b[28;31H0     0 \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m \u001b[0;10;1m\u001b[32m  0.0\u001b[39m\u001b[0;10m    16 root\u001b[28;70H0 S  0:00.00     0     0 kworker/1:0\u001b[48;127H4"
+    ],
+    [
+      2.181918,
+      "\u001b[3;13H2\n\u0008\u001b[0;10;1m\u001b[37m\u001b[42m9\n\u00083\n\u0008\u001b[39;49m\u001b[0;10m8\n\n\n\n\u0008 0\u001b[21G 0\u001b[11;80H24\u001b[12;28H2.1G   55\u001b[12;46H\u001b[0;10;1m\u001b[32m 0.7\u001b[39m\u001b[0;10m   592 rabbitmq\u001b[12;75H0:15.43\u001b[12;95Hbeam.smp\u001b[13;28H4.5G  979\u001b[13;46H\u001b[0;10;1m\u001b[32m12.3\u001b[39m\u001b[0;10m   993 zstack\u001b[13;75H1:36.67\u001b[13;92H4K java\u001b[K\u001b[48;127H6"
+    ],
+    [
+      2.188339,
+      "\u001b[3;13H3\n\u0008\u001b[0;10;1m\u001b[37m\u001b[42m7\n\u00086\n\u0008\u001b[39;49m\u001b[0;10m7\u001b[11;43H\u001b[0;10;1m\u001b[32m7\u001b[11;80H\u001b[39m\u001b[0;10m43\u001b[12;43H\u001b[0;10;1m\u001b[32m9\u001b[12;81H\u001b[39m\u001b[0;10m5\u001b[13;28H1.5G   71\u001b[13;46H\u001b[0;10;1m\u001b[32m 0.9\u001b[39m\u001b[0;10m 31136 mysql \u001b[13;75H0:08.65\u001b[13;91H82K /usr/sbin/mysqld\u001b[14;14H 0\u001b[19d\u0008\u0008 0\u001b[48;127H8"
+    ],
+    [
+      0.205053,
+      "\u001b[H\u001b[0;10;1mGlances 1.7.3 with PsUtil 1.2.1\u001b[0;10m\u001b[K\u001b[2;19H\u001b[0;10;1m\u001b[37m\u001b[42m   OK   \u001b[37m\u001b[44mCAREFUL \u001b[37m\u001b[45mWARNING \u001b[37m\u001b[41mCRITICAL\r\n\u001b[39;49m\u001b[0;10m  CPU user %  \u001b[3;23H0    50.0    70.0    90.0\u001b[K\r\n  CPU system %        0    50.0    70.0    90.0\u001b[K\r\n  CPU iowait %        0    40.0    60.0    80.0\u001b[K\r\n  Load\u001b[16X\u001b[6;23H0     2.8     4.0    20.0\u001b[K\r\n  RAM memory %\u001b[7;23H0    50.0    70.0    90.0\r\n  Swap memory %       0    50.0    70.0    90.0\u001b[K\r\n  Temp °C      \u001b[22G 0    60.0    70.0    80.0\r\n  HDD Temp °C  \u001b[22G 0    45.0    52.0    60.0\u001b[K\r\n  Filesystem % \u001b[22G 0    50.0    70.0    90.0\u001b[K\r\n  CPU process %\u001b[23G0   200.0   280.0   360.0\u001b[K\r\n  MEM process %       0    50.0    70.0    90.0\u001b[K\r\n\u001b[K\n  a  Sort processes automatically     l  Show/hide logs\u001b[K\r\n  c  Sort processes by CPU%           b  Bytes or bits for network I/O\u001b[K\r\n  m  Sort processes by MEM%           w  Delete warning logs\u001b[K\r\n  p  Sort processes by name           x  Delete warning and critical logs\u001b[K\r\n  i  Sort processes by I/O rate       1  Global CPU or per-CPU stats\u001b[K\r\n  d  Show/hide disk I/O stats         h  Show/hide this help screen\u001b[K\r\n  f  Show/hide file system stats      t  View network I/O as combination\u001b[K\r\n  n  Show/hide network stats          u  View cumulative network I/O\u001b[K\r\n  s  Show/hide sensors stats          q  Quit (Esc and Ctrl-C also work)\u001b[K\r\n  y  Show/hide hddtemp stats\u001b[K\r\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[48;108H\u001b[1K\u001b[128G"
+    ],
+    [
+      1.980777,
+      "\u0008\u000821"
+    ],
+    [
+      2.183170,
+      "\u00083"
+    ],
+    [
+      0.801980,
+      "\u001b[?25h\u001b[?0c"
+    ],
+    [
+      0.000179,
+      "\u001b[48;1H\r"
+    ],
+    [
+      0.023071,
+      "root@zstack:/usr/local/src# "
+    ],
+    [
+      10.376481,
+      "c"
+    ],
+    [
+      0.196256,
+      "l"
+    ],
+    [
+      0.425140,
+      "e"
+    ],
+    [
+      0.108355,
+      "a"
+    ],
+    [
+      0.091656,
+      "r"
+    ],
+    [
+      0.464453,
+      "\r\n"
+    ],
+    [
+      0.006358,
+      "\u001b[H\u001b[J"
+    ],
+    [
+      0.000060,
+      "root@zstack:/usr/local/src# "
+    ],
+    [
+      1.775909,
+      "exit"
+    ],
+    [
+      0.000106,
+      "\r\n"
+    ]
+  ]
+}
