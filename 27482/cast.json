@@ -1,0 +1,286 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 25,
+  "duration": 27.463988,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.049058,
+      "\u001b]7;file://foobar.fritz.box/Users/michal/workspace/betty-backend\u0007"
+    ],
+    [
+      0.043566,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000032,
+      "\u001b]2;michal@foobar\u0007"
+    ],
+    [
+      0.000017,
+      "\u001b]1;..betty-backend\u0007"
+    ],
+    [
+      0.002811,
+      "\u001b]7;file://foobar.fritz.box/Users/michal/workspace/betty-backend\u0007"
+    ],
+    [
+      0.037234,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mbetty-backend \u001b[01;34mgit:(\u001b[31mdevelop\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000097,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.780382,
+      "g"
+    ],
+    [
+      0.110940,
+      "\u0008gi"
+    ],
+    [
+      0.423752,
+      "t"
+    ],
+    [
+      0.136066,
+      "t"
+    ],
+    [
+      0.672088,
+      " "
+    ],
+    [
+      0.383967,
+      "p"
+    ],
+    [
+      0.378025,
+      "u"
+    ],
+    [
+      0.000351,
+      "p"
+    ],
+    [
+      0.037539,
+      "u"
+    ],
+    [
+      0.439890,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000052,
+      "\r\r\n"
+    ],
+    [
+      0.000881,
+      "\u001b]2;gitt pupu\u0007"
+    ],
+    [
+      0.000013,
+      "\u001b]1;gitt\u0007"
+    ],
+    [
+      0.001481,
+      "zsh: command not found: gitt\r\n"
+    ],
+    [
+      0.000649,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000111,
+      "\u001b]2;michal@foobar\u0007"
+    ],
+    [
+      0.000025,
+      "\u001b]1;..betty-backend\u0007"
+    ],
+    [
+      0.003673,
+      "\u001b]7;file://foobar.fritz.box/Users/michal/workspace/betty-backend\u0007"
+    ],
+    [
+      0.043530,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;31m➜ \u001b[27m\u001b[01;32m \u001b[36mbetty-backend \u001b[01;34mgit:(\u001b[31mdevelop\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000008,
+      "\u001b[K"
+    ],
+    [
+      0.000059,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.134045,
+      "f"
+    ],
+    [
+      0.055526,
+      "\u0008fu"
+    ],
+    [
+      0.320259,
+      "c"
+    ],
+    [
+      0.128016,
+      "k"
+    ],
+    [
+      0.567694,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000030,
+      "\r\r\n"
+    ],
+    [
+      0.000722,
+      "\u001b]2;eval $(thefuck $(fc -ln -1 | tail -n 1)); fc -R\u0007\u001b]1;fuck\u0007"
+    ],
+    [
+      0.262475,
+      "\u001b[1K\r\u001b[1mgit pupu\u001b[0m [\u001b[32menter\u001b[0m/\u001b[34m↑\u001b[0m/\u001b[34m↓\u001b[0m/\u001b[31mctrl+c\u001b[0m]"
+    ],
+    [
+      1.259938,
+      "\u001b[1K\r\u001b[1mgit pull\u001b[0m [\u001b[32menter\u001b[0m/\u001b[34m↑\u001b[0m/\u001b[34m↓\u001b[0m/\u001b[31mctrl+c\u001b[0m]"
+    ],
+    [
+      0.628912,
+      "\u001b[1K\r\u001b[1mgit pupu\u001b[0m [\u001b[32menter\u001b[0m/\u001b[34m↑\u001b[0m/\u001b[34m↓\u001b[0m/\u001b[31mctrl+c\u001b[0m]"
+    ],
+    [
+      0.664262,
+      "\u001b[1K\r\u001b[1mgit pull\u001b[0m [\u001b[32menter\u001b[0m/\u001b[34m↑\u001b[0m/\u001b[34m↓\u001b[0m/\u001b[31mctrl+c\u001b[0m]"
+    ],
+    [
+      0.367980,
+      "\u001b[1K\r\u001b[1mgit pupu\u001b[0m [\u001b[32menter\u001b[0m/\u001b[34m↑\u001b[0m/\u001b[34m↓\u001b[0m/\u001b[31mctrl+c\u001b[0m]"
+    ],
+    [
+      0.887743,
+      "\r\n"
+    ],
+    [
+      0.022378,
+      "git: 'pupu' is not a git command. See 'git --help'.\r\n\r\nDid you mean one of these?\r\n\tpull\r\n\tpush\r\n"
+    ],
+    [
+      0.001065,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000049,
+      "\u001b]2;michal@foobar\u0007"
+    ],
+    [
+      0.000066,
+      "\u001b]1;..betty-backend\u0007"
+    ],
+    [
+      0.002606,
+      "\u001b]7;file://foobar.fritz.box/Users/michal/workspace/betty-backend\u0007"
+    ],
+    [
+      0.040579,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mbetty-backend \u001b[01;34mgit:(\u001b[31mdevelop\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000008,
+      "\u001b[K"
+    ],
+    [
+      0.000048,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      3.621855,
+      "f"
+    ],
+    [
+      0.103160,
+      "\u0008fu"
+    ],
+    [
+      0.176643,
+      "c"
+    ],
+    [
+      0.192026,
+      "k"
+    ],
+    [
+      0.271769,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000009,
+      "\r\r\n"
+    ],
+    [
+      0.002306,
+      "\u001b]2;eval $(thefuck $(fc -ln -1 | tail -n 1)); fc -R\u0007"
+    ],
+    [
+      0.000012,
+      "\u001b]1;fuck\u0007"
+    ],
+    [
+      0.193718,
+      "\u001b[1K\r\u001b[1mgit push\u001b[0m [\u001b[32menter\u001b[0m/\u001b[34m↑\u001b[0m/\u001b[34m↓\u001b[0m/\u001b[31mctrl+c\u001b[0m]"
+    ],
+    [
+      0.992034,
+      "\u001b[1K\r\u001b[1mgit pull\u001b[0m [\u001b[32menter\u001b[0m/\u001b[34m↑\u001b[0m/\u001b[34m↓\u001b[0m/\u001b[31mctrl+c\u001b[0m]"
+    ],
+    [
+      0.843839,
+      "\r\n"
+    ],
+    [
+      2.036230,
+      "Already up-to-date.\r\n"
+    ],
+    [
+      0.001204,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000062,
+      "\u001b]2;michal@foobar\u0007"
+    ],
+    [
+      0.000022,
+      "\u001b]1;..betty-backend\u0007"
+    ],
+    [
+      0.002834,
+      "\u001b]7;file://foobar.fritz.box/Users/michal/workspace/betty-backend\u0007"
+    ],
+    [
+      0.038921,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mbetty-backend \u001b[01;34mgit:(\u001b[31mdevelop\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000053,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      7.081365,
+      "\r\r\n"
+    ]
+  ]
+}
