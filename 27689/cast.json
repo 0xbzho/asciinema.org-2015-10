@@ -1,0 +1,5170 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 520.387173,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.120014,
+      "failed to connect to server: Connection refused\r\n"
+    ],
+    [
+      0.011608,
+      "\u001b]0;imiell@rothko: /space/git/shutit-criu\u0007imiell@rothko:/space/git/shutit-criu$ "
+    ],
+    [
+      3.286605,
+      "."
+    ],
+    [
+      0.055524,
+      "/"
+    ],
+    [
+      0.255759,
+      "r"
+    ],
+    [
+      0.152223,
+      "un.sh "
+    ],
+    [
+      0.343844,
+      "\r\n"
+    ],
+    [
+      1.218383,
+      " export SHUTIT_BACKUP_PS1_origin_prompt=$PS1 \u0026\u0026 PS1='SHUTIT_ORIGIN_ENV#NB10iDoE\u003e' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r\r\n"
+    ],
+    [
+      0.055886,
+      "failed to connect to server: Connection refused\r\r\n"
+    ],
+    [
+      0.011781,
+      "\u001b]0;imiell@rothko: /space/git/shutit-criu\u0007imiell@rothko:/space/git/shutit-criu$  "
+    ],
+    [
+      0.000172,
+      "export SHUTI"
+    ],
+    [
+      0.000175,
+      "T_BACKUP_"
+    ],
+    [
+      0.000174,
+      "PS1_orig"
+    ],
+    [
+      0.000170,
+      "in_promp"
+    ],
+    [
+      0.000172,
+      "t=$P \rS1 \u0026\u0026 PS1="
+    ],
+    [
+      0.000171,
+      "'SHUTIT_ORIGIN_EN"
+    ],
+    [
+      0.000170,
+      "V#NB10iDoE\u003e' \u0026"
+    ],
+    [
+      0.000169,
+      "\u0026 unset PRO"
+    ],
+    [
+      0.000171,
+      "MPT_COMMAN"
+    ],
+    [
+      0.000169,
+      "D \u0026\u0026 stty"
+    ],
+    [
+      0.000170,
+      " cols 32"
+    ],
+    [
+      0.000169,
+      "0 \r\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[K0\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000545,
+      "SHUTIT_ORIGIN_ENV#NB10iDoE\u003e"
+    ],
+    [
+      0.100724,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1444560309.64.641607/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\nFILNEXIST-FILFIN\r\r\nSHUTIT_ORIGIN_ENV#NB10iDoE\u003e"
+    ],
+    [
+      0.100716,
+      "mkdir -p /tmp/shutit_imiell/rothko_imiell_1444560309.64.641607/environment_id\r\r\n"
+    ],
+    [
+      0.001109,
+      "SHUTIT_ORIGIN_ENV#NB10iDoE\u003e"
+    ],
+    [
+      0.050267,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.050100,
+      "\r\n"
+    ],
+    [
+      0.000077,
+      " echo EXIT_CODE:$?\r\r\n"
+    ],
+    [
+      0.000218,
+      "EXIT_CODE:0\r\r\nSHUTIT_ORIGIN_ENV#NB10iDoE\u003e"
+    ],
+    [
+      0.100684,
+      "chmod -R 777 /tmp/shutit_imiell\r\r\n"
+    ],
+    [
+      0.089215,
+      "SHUTIT_ORIGIN_ENV#NB10iDoE\u003e"
+    ],
+    [
+      0.050260,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.050096,
+      "\r\n"
+    ],
+    [
+      0.000098,
+      " echo EXIT_CODE:$?\r\r\n"
+    ],
+    [
+      0.000160,
+      "EXIT_CODE:0\r"
+    ],
+    [
+      0.000015,
+      "\r\nSHUTIT_ORIGIN_ENV#NB10iDoE\u003e"
+    ],
+    [
+      0.100518,
+      "touch /tmp/shutit_imiell/rothko_imiell_1444560309.64.641607/environment_id/ORIGIN_ENV\r\r\n"
+    ],
+    [
+      0.000885,
+      "SHUTIT_ORIGIN_ENV#NB10iDoE\u003e"
+    ],
+    [
+      0.050269,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.050084,
+      "\r\n"
+    ],
+    [
+      0.000061,
+      " echo EXIT_CODE:$?\r\r\n"
+    ],
+    [
+      0.000197,
+      "EXIT_CODE:0\r\r\nSHUTIT_ORIGIN_ENV#NB10iDoE\u003e"
+    ],
+    [
+      0.100727,
+      " export SHUTIT_BACKUP_PS1_root=$PS1 \u0026\u0026 PS1 \r='SHUTIT_default#96vvI3Zb\u003e' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r\r\n"
+    ],
+    [
+      0.000880,
+      "SHUTIT_default#96vvI3Zb\u003e"
+    ],
+    [
+      0.100635,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1444560309.64.641607/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\nFILEXIST-FILFIN\r\r\nSHUTIT_default#96vvI3Zb\u003e"
+    ],
+    [
+      0.100450,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1444560309.64.641607/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000187,
+      "FILEXIST-FILFIN\r\r\nSHUTIT_default#96vvI3Zb\u003e"
+    ],
+    [
+      0.100445,
+      " ls /tmp/shutit_imiell/rothko_imiell_1444560309.64.641607/environment_id\r\r\n"
+    ],
+    [
+      0.001000,
+      "ORIGIN_ENV\r\r\n"
+    ],
+    [
+      0.000174,
+      "SHUTIT_default#96vvI3Zb\u003e"
+    ],
+    [
+      0.100469,
+      " test -a /etc/issue \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000193,
+      "FILEXIST-FILFIN\r\r\nSHUTIT_default#96vvI3Zb\u003e"
+    ],
+    [
+      0.100460,
+      " cat /etc/issue\r\r\n"
+    ],
+    [
+      0.015897,
+      "Ubuntu 15.04 \\n \\l\r\r\n\r\r\n"
+    ],
+    [
+      0.000207,
+      "SHUTIT_default#96vvI3Zb\u003e"
+    ],
+    [
+      0.100571,
+      "mkdir -p /tmp/shutit_imiell/rothko_imiell_1444560309.64.641607/environment_id\r\r\n"
+    ],
+    [
+      0.001163,
+      "SHUTIT_default#96vvI3Zb\u003e"
+    ],
+    [
+      0.050261,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.050082,
+      "\r\n"
+    ],
+    [
+      0.000062,
+      " echo EXIT_CODE:$?\r\r\n"
+    ],
+    [
+      0.000213,
+      "EXIT_CODE:0\r\r\nSHUTIT_default#96vvI3Zb\u003e"
+    ],
+    [
+      0.100545,
+      "chmod -R 777 /tmp/shutit_imiell\r\r\n"
+    ],
+    [
+      0.001643,
+      "SHUTIT_default#96vvI3Zb\u003e"
+    ],
+    [
+      0.050260,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.050086,
+      "\r\n"
+    ],
+    [
+      0.000064,
+      " echo EXIT_CODE:$?\r\r\n"
+    ],
+    [
+      0.000203,
+      "EXIT_CODE:0\r\r\nSHUTIT_default#96vvI3Zb\u003e"
+    ],
+    [
+      0.100511,
+      "touch /tmp/shutit_imiell/rothko_imiell_1444560309.64.641607/environment_id/Gh4Do797\r\r\n"
+    ],
+    [
+      0.000964,
+      "SHUTIT_default#96vvI3Zb\u003e"
+    ],
+    [
+      0.050286,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.050104,
+      "\r\n"
+    ],
+    [
+      0.000063,
+      " echo EXIT_CODE:$?\r\r\n"
+    ],
+    [
+      0.000203,
+      "EXIT_CODE:0\r\r\nSHUTIT_default#96vvI3Zb\u003e"
+    ],
+    [
+      0.101767,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1444560309.64.641607/build_db/module_record \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000190,
+      "FILNEXIST-FILFIN\r\r\nSHUTIT_default#96vvI3Zb\u003e"
+    ],
+    [
+      0.100514,
+      " test -a /root/start_ssh_server.sh \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000191,
+      "FILNEXIST-FILFIN\r\r\nSHUTIT_default#96vvI3Zb\u003e"
+    ],
+    [
+      0.055157,
+      "bash"
+    ],
+    [
+      0.050084,
+      "\r\n"
+    ],
+    [
+      0.000618,
+      "bash\r\r\n"
+    ],
+    [
+      0.111710,
+      "failed to connect to server: Connection refused\r\r\n"
+    ],
+    [
+      0.011511,
+      "\u001b]0;imiell@rothko: /space/git/shutit-criu\u0007imiell@rothko:/space/git/shutit-criu$ "
+    ],
+    [
+      0.100732,
+      " export SHUTIT_BACKUP_PS1_HTTXLOLG=$PS1 \u0026\u0026 PS1='SHUTIT_shutit.tk.setup#2fj072XS\u003e' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r\r\n"
+    ],
+    [
+      0.000824,
+      "SHUTIT_shutit.tk.setup#2fj072XS\u003e"
+    ],
+    [
+      0.100643,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1444560309.64.641607/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\nFILEXIST-FILFIN\r\r\nSHUTIT_shutit.tk.setup#2fj072XS\u003e"
+    ],
+    [
+      0.100476,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1444560309.64.641607/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000186,
+      "FILEXIST-FILFIN\r\r\nSHUTIT_shutit.tk.setup#2fj072XS\u003e"
+    ],
+    [
+      0.100430,
+      " ls /tmp/shutit_imiell/rothko_imiell_1444560309.64.641607/environment_id\r\r\n"
+    ],
+    [
+      0.000991,
+      "Gh4Do797  \u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m\r\r\n"
+    ],
+    [
+      0.000188,
+      "SHUTIT_shutit.tk.setup#2fj072XS\u003e"
+    ],
+    [
+      0.100530,
+      "cd\r\r\n"
+    ],
+    [
+      0.000180,
+      "SHUTIT_shutit.tk.setup#2fj072XS\u003e"
+    ],
+    [
+      0.100507,
+      "cd /usr/local/lib/python2.7/dist-packages\r\r\n"
+    ],
+    [
+      0.000194,
+      "SHUTIT_shutit.tk.setup#2fj072XS\u003e"
+    ],
+    [
+      0.050274,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.050081,
+      "\r\n"
+    ],
+    [
+      0.000050,
+      " echo EXIT_CODE:$?\r\r\n"
+    ],
+    [
+      0.000201,
+      "EXIT_CODE:0\r\r\nSHUTIT_shutit.tk.setup#2fj072XS\u003e"
+    ],
+    [
+      0.100517,
+      "exit\r\r\n"
+    ],
+    [
+      0.000180,
+      "exit\r\r\n"
+    ],
+    [
+      0.000396,
+      "SHUTIT_default#96vvI3Zb\u003e"
+    ],
+    [
+      0.100507,
+      "cd /space/git/shutit-criu\r\r\n"
+    ],
+    [
+      0.000197,
+      "SHUTIT_default#96vvI3Zb\u003e"
+    ],
+    [
+      0.050276,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.050085,
+      "\r\n"
+    ],
+    [
+      0.000054,
+      " echo EXIT_CODE:$?\r\r\n"
+    ],
+    [
+      0.000204,
+      "EXIT_CODE:0\r\r\nSHUTIT_default#96vvI3Zb\u003e"
+    ],
+    [
+      0.051102,
+      "bash"
+    ],
+    [
+      0.050095,
+      "\r\n"
+    ],
+    [
+      0.000077,
+      "bash\r"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.110875,
+      "failed to connect to server: Connection refused\r\r\n"
+    ],
+    [
+      0.011639,
+      "\u001b]0;imiell@rothko: /space/git/shutit-criu\u0007imiell@rothko:/space/git/shutit-criu$ "
+    ],
+    [
+      0.100933,
+      " export SHUTIT_BACKUP_PS1_SxyNal9F=$PS1 \u0026\u0026 PS1='SHUTIT_tk.shutit.vagrant.vagrant.vagrant#uWZsjEGK\u003e' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r\r\n"
+    ],
+    [
+      0.000843,
+      "SHUTIT_tk.shutit.vagrant.vagrant.vagrant#uWZsjEGK\u003e"
+    ],
+    [
+      0.100706,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1444560309.64.641607/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\nFILEXIST-FILFIN\r\r\nSHUTIT_tk.shutit.vagrant.vagrant.vagrant#uWZsjEGK\u003e"
+    ],
+    [
+      0.100473,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1444560309.64.641607/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000164,
+      "FILEXIST-FILFIN\r\r\nSHUTIT_tk.shutit.vagrant.vagrant.vagrant#uWZsjEGK\u003e"
+    ],
+    [
+      0.100486,
+      " ls /tmp/shutit_imiell/rothko_imiell_1444560309.64.641607/environment_id\r\r\n"
+    ],
+    [
+      0.001007,
+      "Gh4Do797  \u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m\r\r\n"
+    ],
+    [
+      0.000175,
+      "SHUTIT_tk.shutit.vagrant.vagrant.vagrant#uWZsjEGK\u003e"
+    ],
+    [
+      0.100539,
+      "cd\r\r\n"
+    ],
+    [
+      0.000165,
+      "SHUTIT_tk.shutit.vagrant.vagrant.vagrant#uWZsjEGK\u003e"
+    ],
+    [
+      0.100492,
+      "cd /space/git/shutit-criu/shutit-library/vagrant\r\r\n"
+    ],
+    [
+      0.000173,
+      "SHUTIT_tk.shutit.vagrant.vagrant.vagrant#uWZsjEGK\u003e"
+    ],
+    [
+      0.050303,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.050075,
+      "\r\n"
+    ],
+    [
+      0.000238,
+      " echo EXIT_CODE:$?\r\r\n"
+    ],
+    [
+      0.000048,
+      "EXIT_CODE:0\r\r\n"
+    ],
+    [
+      0.000006,
+      "SHUTIT_tk.shutit.vagrant.vagrant.vagrant#uWZsjEGK\u003e"
+    ],
+    [
+      0.100545,
+      "exit\r\r\n"
+    ],
+    [
+      0.000179,
+      "exit\r\r\n"
+    ],
+    [
+      0.000417,
+      "SHUTIT_default#96vvI3Zb\u003e"
+    ],
+    [
+      0.100517,
+      "cd /space/git/shutit-criu\r\r\n"
+    ],
+    [
+      0.000168,
+      "SHUTIT_default#96vvI3Zb\u003e"
+    ],
+    [
+      0.050288,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.050097,
+      "\r\n"
+    ],
+    [
+      0.000100,
+      " echo EXIT_CODE:$?\r\r\n"
+    ],
+    [
+      0.000189,
+      "EXIT_CODE:0\r\r\n"
+    ],
+    [
+      0.000006,
+      "SHUTIT_default#96vvI3Zb\u003e"
+    ],
+    [
+      0.050530,
+      "bash"
+    ],
+    [
+      0.050094,
+      "\r\n"
+    ],
+    [
+      0.000117,
+      "bash\r\r\n"
+    ],
+    [
+      0.110857,
+      "failed to connect to server: Connection refused\r"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.012456,
+      "\u001b]0;imiell@rothko: /space/git/shutit-criu\u0007imiell@rothko:/space/git/shutit-criu$ "
+    ],
+    [
+      0.100755,
+      " export SHUTIT_BACKUP_PS1_AOzHa1sm=$PS1 \u0026\u0026 PS1='SHUTIT_shutit.criu.criu.criu#bc0AL1MM\u003e' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000795,
+      "SHUTIT_shutit.criu.criu.criu#bc0AL1MM\u003e"
+    ],
+    [
+      0.100626,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1444560309.64.641607/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\nFILEXIST-FILFIN\r\r\nSHUTIT_shutit.criu.criu.criu#bc0AL1MM\u003e"
+    ],
+    [
+      0.100460,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1444560309.64.641607/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000170,
+      "FILEXIST-FILFIN\r\r\nSHUTIT_shutit.criu.criu.criu#bc0AL1MM\u003e"
+    ],
+    [
+      0.100498,
+      " ls /tmp/shutit_imiell/rothko_imiell_1444560309.64.641607/environment_id\r\r\n"
+    ],
+    [
+      0.000933,
+      "Gh4Do797  \u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m\r\r\n"
+    ],
+    [
+      0.000256,
+      "SHUTIT_shutit.criu.criu.criu#bc0AL1MM\u003e"
+    ],
+    [
+      0.100574,
+      "cd\r\r\n"
+    ],
+    [
+      0.000189,
+      "SHUTIT_shutit.criu.criu.criu#bc0AL1MM\u003e"
+    ],
+    [
+      0.100534,
+      "cd /space/git/shutit-criu\r\r\n"
+    ],
+    [
+      0.000158,
+      "SHUTIT_shutit.criu.criu.criu#bc0AL1MM\u003e"
+    ],
+    [
+      0.050277,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.050102,
+      "\r\n"
+    ],
+    [
+      0.000084,
+      " echo EXIT_CODE:$?\r\r\n"
+    ],
+    [
+      0.000179,
+      "EXIT_CODE:0\r"
+    ],
+    [
+      0.000006,
+      "\r\nSHUTIT_shutit.criu.criu.criu#bc0AL1MM\u003e"
+    ],
+    [
+      0.100558,
+      "exit\r\r\n"
+    ],
+    [
+      0.000157,
+      "exit\r\r\n"
+    ],
+    [
+      0.000401,
+      "SHUTIT_default#96vvI3Zb\u003e"
+    ],
+    [
+      0.100542,
+      "cd /space/git/shutit-criu\r\r\n"
+    ],
+    [
+      0.000202,
+      "SHUTIT_default#96vvI3Zb\u003e"
+    ],
+    [
+      0.050230,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.050094,
+      "\r\n"
+    ],
+    [
+      0.000050,
+      " echo EXIT_CODE:$?\r\r\n"
+    ],
+    [
+      0.000213,
+      "EXIT_CODE:0\r\r\nSHUTIT_default#96vvI3Zb\u003e"
+    ],
+    [
+      0.104704,
+      "cd /usr/local/lib/python2.7/dist-packages\r\r\n"
+    ],
+    [
+      0.000187,
+      "SHUTIT_default#96vvI3Zb\u003e"
+    ],
+    [
+      0.050273,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.050093,
+      "\r\n"
+    ],
+    [
+      0.000048,
+      " echo EXIT_CODE:$?\r\r\n"
+    ],
+    [
+      0.000214,
+      "EXIT_CODE:0\r\r\nSHUTIT_default#96vvI3Zb\u003e"
+    ],
+    [
+      0.050418,
+      "bash"
+    ],
+    [
+      0.050102,
+      "\r\n"
+    ],
+    [
+      0.000074,
+      "bash\r\r\n"
+    ],
+    [
+      0.111349,
+      "failed to connect to server: Connection refused\r\r\n"
+    ],
+    [
+      0.011512,
+      "\u001b]0;imiell@rothko: /usr/local/lib/python2.7/dist-packages\u0007imiell@rothko:/usr/local/lib/python2.7/dist-packages$ "
+    ],
+    [
+      0.100741,
+      " export SHUTIT_BACKUP_PS1_V277Boyk=$PS1 \u0026\u0026 PS1='SHUTIT_shutit.tk.setup#AkR2xCwI\u003e' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r\r\n"
+    ],
+    [
+      0.000874,
+      "SHUTIT_shutit.tk.setup#AkR2xCwI\u003e"
+    ],
+    [
+      0.100633,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1444560309.64.641607/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\nFILEXIST-FILFIN\r\r\nSHUTIT_shutit.tk.setup#AkR2xCwI\u003e"
+    ],
+    [
+      0.100408,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1444560309.64.641607/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000176,
+      "FILEXIST-FILFIN\r\r\nSHUTIT_shutit.tk.setup#AkR2xCwI\u003e"
+    ],
+    [
+      0.100451,
+      " ls /tmp/shutit_imiell/rothko_imiell_1444560309.64.641607/environment_id\r\r\n"
+    ],
+    [
+      0.001038,
+      "Gh4Do797  \u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m\r\r\n"
+    ],
+    [
+      0.000185,
+      "SHUTIT_shutit.tk.setup#AkR2xCwI\u003e"
+    ],
+    [
+      0.100542,
+      "cd\r\r\n"
+    ],
+    [
+      0.000200,
+      "SHUTIT_shutit.tk.setup#AkR2xCwI\u003e"
+    ],
+    [
+      0.100571,
+      "exit\r\r\n"
+    ],
+    [
+      0.000173,
+      "exit\r\r\n"
+    ],
+    [
+      0.000452,
+      "SHUTIT_default#96vvI3Zb\u003e"
+    ],
+    [
+      0.100526,
+      "cd /space/git/shutit-criu\r\r\n"
+    ],
+    [
+      0.000156,
+      "SHUTIT_default#96vvI3Zb\u003e"
+    ],
+    [
+      0.050295,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.050077,
+      "\r\n"
+    ],
+    [
+      0.000066,
+      " echo EXIT_CODE:$?\r\r\n"
+    ],
+    [
+      0.000196,
+      "EXIT_CODE:0\r\r\nSHUTIT_default#96vvI3Zb\u003e"
+    ],
+    [
+      0.101308,
+      "cd /space/git/shutit-criu/shutit-library/vagrant\r\r\n"
+    ],
+    [
+      0.000142,
+      "SHUTIT_default#96vvI3Zb\u003e"
+    ],
+    [
+      0.050328,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.050083,
+      "\r\n"
+    ],
+    [
+      0.000090,
+      " echo EXIT_CODE:$?\r\r\n"
+    ],
+    [
+      0.000191,
+      "EXIT_CODE:0\r\r\nSHUTIT_default#96vvI3Zb\u003e"
+    ],
+    [
+      0.050420,
+      "bash"
+    ],
+    [
+      0.050084,
+      "\r\n"
+    ],
+    [
+      0.000088,
+      "bash\r\r\n"
+    ],
+    [
+      0.112032,
+      "failed to connect to server: Connection refused\r\r\n"
+    ],
+    [
+      0.012000,
+      "\u001b]0;imiell@rothko: /space/git/shutit-criu/shutit-library/vagrant\u0007imiell@rothko:/space/git/shutit-criu/shutit-library/vagrant$ "
+    ],
+    [
+      0.100831,
+      " export SHUTIT_BACKUP_PS1_4ED8LSsI=$PS1 \u0026\u0026 PS1='SHUTIT_tk.shutit.vagrant.vagrant.vagrant#rrOWiql1\u003e' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r\r\n"
+    ],
+    [
+      0.000889,
+      "SHUTIT_tk.shutit.vagrant.vagrant.vagrant#rrOWiql1\u003e"
+    ],
+    [
+      0.100725,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1444560309.64.641607/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\nFILEXIST-FILFIN\r\r\nSHUTIT_tk.shutit.vagrant.vagrant.vagrant#rrOWiql1\u003e"
+    ],
+    [
+      0.100456,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1444560309.64.641607/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000199,
+      "FILEXIST-FILFIN\r\r\nSHUTIT_tk.shutit.vagrant.vagrant.vagrant#rrOWiql1\u003e"
+    ],
+    [
+      0.100441,
+      " ls /tmp/shutit_imiell/rothko_imiell_1444560309.64.641607/environment_id\r\r\n"
+    ],
+    [
+      0.001061,
+      "Gh4Do797  \u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m\r\r\n"
+    ],
+    [
+      0.000168,
+      "SHUTIT_tk.shutit.vagrant.vagrant.vagrant#rrOWiql1\u003e"
+    ],
+    [
+      0.100528,
+      "cd\r\r\n"
+    ],
+    [
+      0.000191,
+      "SHUTIT_tk.shutit.vagrant.vagrant.vagrant#rrOWiql1\u003e"
+    ],
+    [
+      0.100470,
+      "command -v vagrant\r\r\n"
+    ],
+    [
+      0.000197,
+      "/usr/bin/vagrant\r\r\nSHUTIT_tk.shutit.vagrant.vagrant.vagrant#rrOWiql1\u003e"
+    ],
+    [
+      0.100533,
+      "exit\r"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000146,
+      "exit\r\r\n"
+    ],
+    [
+      0.000421,
+      "SHUTIT_default#96vvI3Zb\u003e"
+    ],
+    [
+      0.100522,
+      "cd /space/git/shutit-criu\r\r\n"
+    ],
+    [
+      0.000168,
+      "SHUTIT_default#96vvI3Zb\u003e"
+    ],
+    [
+      0.050286,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.050106,
+      "\r\n"
+    ],
+    [
+      0.000073,
+      " echo EXIT_CODE:$?\r\r\n"
+    ],
+    [
+      0.000188,
+      "EXIT_CODE:0\r\r\nSHUTIT_default#96vvI3Zb\u003e"
+    ],
+    [
+      0.100666,
+      "cd /space/git/shutit-criu\r\r\n"
+    ],
+    [
+      0.000155,
+      "SHUTIT_default#96vvI3Zb\u003e"
+    ],
+    [
+      0.050287,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.050102,
+      "\r\n"
+    ],
+    [
+      0.000086,
+      " echo EXIT_CODE:$?\r\r\n"
+    ],
+    [
+      0.000197,
+      "EXIT_CODE:0\r\r\nSHUTIT_default#96vvI3Zb\u003e"
+    ],
+    [
+      0.050430,
+      "bash"
+    ],
+    [
+      0.050092,
+      "\r\n"
+    ],
+    [
+      0.000109,
+      "bash\r\r\n"
+    ],
+    [
+      0.110520,
+      "failed to connect to server: Connection refused\r\r\n"
+    ],
+    [
+      0.011171,
+      "\u001b]0;imiell@rothko: /space/git/shutit-criu\u0007imiell@rothko:/space/git/shutit-criu$ "
+    ],
+    [
+      0.100728,
+      " export SHUTIT_BACKUP_PS1_ooXRMv0U=$PS1 \u0026\u0026 PS1='SHUTIT_shutit.criu.criu.criu#0uefc4z6\u003e' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r\r\n"
+    ],
+    [
+      0.000854,
+      "SHUTIT_shutit.criu.criu.criu#0uefc4z6\u003e"
+    ],
+    [
+      0.100630,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1444560309.64.641607/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\nFILEXIST-FILFIN\r\r\nSHUTIT_shutit.criu.criu.criu#0uefc4z6\u003e"
+    ],
+    [
+      0.100467,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1444560309.64.641607/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000211,
+      "FILEXIST-FILFIN\r\r\nSHUTIT_shutit.criu.criu.criu#0uefc4z6\u003e"
+    ],
+    [
+      0.100440,
+      " ls /tmp/shutit_imiell/rothko_imiell_1444560309.64.641607/environment_id\r\r\n"
+    ],
+    [
+      0.001057,
+      "Gh4Do797  \u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m\r\r\n"
+    ],
+    [
+      0.000191,
+      "SHUTIT_shutit.criu.criu.criu#0uefc4z6\u003e"
+    ],
+    [
+      0.100583,
+      "cd\r\r\n"
+    ],
+    [
+      0.000212,
+      "SHUTIT_shutit.criu.criu.criu#0uefc4z6\u003e"
+    ],
+    [
+      0.100583,
+      "rm -rf /tmp/vg-*\r\r\n"
+    ],
+    [
+      0.048912,
+      "SHUTIT_shutit.criu.criu.criu#0uefc4z6\u003e"
+    ],
+    [
+      0.050263,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.050090,
+      "\r\n"
+    ],
+    [
+      0.000048,
+      " echo EXIT_CODE:$?\r\r\n"
+    ],
+    [
+      0.000213,
+      "EXIT_CODE:0\r\r\nSHUTIT_shutit.criu.criu.criu#0uefc4z6\u003e"
+    ],
+    [
+      0.100473,
+      "vagrant box list 2\u003e/dev/null | grep kimh/criu"
+    ],
+    [
+      0.000142,
+      "\r\r\n"
+    ],
+    [
+      1.872072,
+      "\u001b[01;31m\u001b[Kkimh/criu\u001b[m\u001b[K                                  (virtualbox, 0.03)\r\r\n"
+    ],
+    [
+      0.132085,
+      "SHUTIT_shutit.criu.criu.criu#0uefc4z6\u003e"
+    ],
+    [
+      0.100704,
+      "mkdir /tmp/vg-1\r\r\n"
+    ],
+    [
+      0.001795,
+      "SHUTIT_shutit.criu.criu.criu#0uefc4z6\u003e"
+    ],
+    [
+      0.050328,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.050090,
+      "\r\n"
+    ],
+    [
+      0.000072,
+      " echo EXIT_CODE:$?\r\r\n"
+    ],
+    [
+      0.000189,
+      "EXIT_CODE:0\r"
+    ],
+    [
+      0.000027,
+      "\r\nSHUTIT_shutit.criu.criu.criu#0uefc4z6\u003e"
+    ],
+    [
+      0.100523,
+      "cd /tmp/vg-1\r\r\n"
+    ],
+    [
+      0.000172,
+      "SHUTIT_shutit.criu.criu.criu#0uefc4z6\u003e"
+    ],
+    [
+      0.050303,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.050054,
+      "\r\n"
+    ],
+    [
+      0.000114,
+      " echo EXIT_CODE:$?\r\r\nEXIT_CODE:0\r\r\n"
+    ],
+    [
+      0.000197,
+      "SHUTIT_shutit.criu.criu.criu#0uefc4z6\u003e"
+    ],
+    [
+      0.100533,
+      "vagrant init kimh/criu\r\r\n"
+    ],
+    [
+      0.104331,
+      "/opt/vagrant/bin/../embedded/gems/gems/vagrant-1.7.2/lib/vagrant/pre-rubygems.rb:31: warning: Insecure world writable dir /space in PATH, mode 040777\r\r\n"
+    ],
+    [
+      0.380650,
+      "/opt/vagrant/embedded/gems/gems/bundler-1.7.11/lib/bundler/runtime.rb:222: warning: Insecure world writable dir /space in PATH, mode 040777\r\r\n"
+    ],
+    [
+      0.577458,
+      "\u001b[0mA `Vagrantfile` has been placed in this directory. You are now\r\r\nready to `vagrant up` your first virtual environment! Please read\r\r\nthe comments in the Vagrantfile as well as documentation on\r\r\n`vagrantup.com` for more information on using Vagrant.\u001b[0m\r\r\n"
+    ],
+    [
+      0.068126,
+      "SHUTIT_shutit.criu.criu.criu#0uefc4z6\u003e"
+    ],
+    [
+      0.050265,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.050092,
+      "\r\n"
+    ],
+    [
+      0.000089,
+      " echo EXIT_CODE:$?\r\r\n"
+    ],
+    [
+      0.000212,
+      "EXIT_CODE:0\r\r\nSHUTIT_shutit.criu.criu.criu#0uefc4z6\u003e"
+    ],
+    [
+      0.000253,
+      "\r\n\u001b[31m\r\n================================================================================\r\nSet up the criu VM\r\n================================================================================\r\n\r\n"
+    ],
+    [
+      0.000007,
+      "Command is: vagrant up\r\n\u001b[0m\u001b[31m\u001b[31m\r\nYou can now type in commands and alter the state of the target.\r\nHit return to see the prompt\r\nHit CTRL and ] at the same time to continue with build\r\n\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      4.911291,
+      "vagrant up\r\r\n"
+    ],
+    [
+      0.150198,
+      "/opt/vagrant/bin/../embedded/gems/gems/vagrant-1.7.2/lib/vagrant/pre-rubygems.rb:31: warning: Insecure world writable dir /space in PATH, mode 040777\r\r\n"
+    ],
+    [
+      0.387367,
+      "/opt/vagrant/embedded/gems/gems/bundler-1.7.11/lib/bundler/runtime.rb:222: warning: Insecure world writable dir /space in PATH, mode 040777\r\r\n"
+    ],
+    [
+      1.251857,
+      "\u001b[0mBringing machine 'default' up with 'virtualbox' provider...\u001b[0m\r\r\n"
+    ],
+    [
+      0.250831,
+      "\u001b[1m==\u003e default: Importing base box 'kimh/criu'...\u001b[0m\r\r\n"
+    ],
+    [
+      15.148635,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000223,
+      "\u001b[0mProgress: 10%\u001b[0m"
+    ],
+    [
+      24.050518,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000182,
+      "\u001b[0mProgress: 20%\u001b[0m"
+    ],
+    [
+      32.125035,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000201,
+      "\u001b[0mProgress: 30%\u001b[0m"
+    ],
+    [
+      19.016430,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000201,
+      "\u001b[0mProgress: 40%\u001b[0m"
+    ],
+    [
+      0.806986,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000213,
+      "\u001b[0mProgress: 50%\u001b[0m"
+    ],
+    [
+      0.605239,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000179,
+      "\u001b[0mProgress: 60%\u001b[0m"
+    ],
+    [
+      0.201510,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000258,
+      "\u001b[0mProgress: 70%\u001b[0m"
+    ],
+    [
+      0.100845,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000182,
+      "\u001b[0mProgress: 90%\u001b[0m"
+    ],
+    [
+      8.636258,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000337,
+      "\u001b[1m==\u003e default: Matching MAC address for NAT networking...\u001b[0m\r\r\n"
+    ],
+    [
+      0.211038,
+      "\u001b[1m==\u003e default: Checking if box 'kimh/criu' is up to date...\u001b[0m\r\r\n"
+    ],
+    [
+      0.976302,
+      "\u001b[1m==\u003e default: Setting the name of the VM: vg-1_default_1444560433197_17634\u001b[0m\r\r\n"
+    ],
+    [
+      0.848028,
+      "\u001b[1m==\u003e default: Clearing any previously set network interfaces...\u001b[0m\r\r\n"
+    ],
+    [
+      0.099523,
+      "\u001b[1m==\u003e default: Preparing network interfaces based on configuration...\u001b[0m\r"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000272,
+      "\u001b[0m    default: Adapter 1: nat\u001b[0m\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.082072,
+      "\u001b[1m==\u003e default: Forwarding ports...\u001b[0m\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.072883,
+      "\u001b[0m    default: 22 =\u003e 2222 (adapter 1)\u001b[0m\r\r\n"
+    ],
+    [
+      0.388239,
+      "\u001b[1m==\u003e default: Booting VM...\u001b[0m\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.367611,
+      "\u001b[1m==\u003e default: Waiting for machine to boot. This may take a few minutes...\u001b[0m"
+    ],
+    [
+      0.002920,
+      "\r"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.236230,
+      "\u001b[0m    default: SSH address: 127.0.0.1:2222\u001b[0m\r"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000350,
+      "\u001b[0m    default: SSH username: vagrant\u001b[0m\r\r\n"
+    ],
+    [
+      0.000155,
+      "\u001b[0m    default: SSH auth method: private key\u001b[0m\r\r\n"
+    ],
+    [
+      15.107424,
+      "\u001b[0m    default: Warning: Connection timeout. Retrying...\u001b[0m\r\r\n"
+    ],
+    [
+      1.663041,
+      "\u001b[1m==\u003e default: Machine booted and ready!\u001b[0m\r"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000606,
+      "\u001b[1m==\u003e default: Checking for guest additions in VM...\u001b[0m\r"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.135605,
+      "\u001b[1m==\u003e default: Mounting shared folders...\u001b[0m\r\r\n"
+    ],
+    [
+      0.000490,
+      "\u001b[0m    default: /vagrant =\u003e /tmp/vg-1\u001b[0m\r"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      1.720992,
+      "SHUTIT_shutit.criu.criu.criu#0uefc4z6\u003e"
+    ],
+    [
+      0.050366,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.050142,
+      "\r\n"
+    ],
+    [
+      0.000157,
+      " echo EXIT_CODE:$?\r\r\n"
+    ],
+    [
+      0.000235,
+      "EXIT_CODE:0\r\r\nSHUTIT_shutit.criu.criu.criu#0uefc4z6\u003e"
+    ],
+    [
+      0.000294,
+      "\r\n\u001b[31m\r\n================================================================================\r\nLog into the criu VM\r\n================================================================================\r\n\r\n\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[0m\u001b[31m\u001b[31m\r\nYou can now type in commands and alter the state of the target.\r\nHit return to see the prompt\r\nHit CTRL and ] at the same time to continue with build\r\n\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      4.543405,
+      "vagrant ssh"
+    ],
+    [
+      0.050135,
+      "\r\n"
+    ],
+    [
+      0.000164,
+      "vagrant ssh\r\r\n"
+    ],
+    [
+      0.335021,
+      "/opt/vagrant/bin/../embedded/gems/gems/vagrant-1.7.2/lib/vagrant/pre-rubygems.rb:31: warning: Insecure world writable dir /space in PATH, mode 040777\r\r\n"
+    ],
+    [
+      0.471100,
+      "/opt/vagrant/embedded/gems/gems/bundler-1.7.11/lib/bundler/runtime.rb:222: warning: Insecure world writable dir /space in PATH, mode 040777\r\r\n"
+    ],
+    [
+      2.613801,
+      "Welcome to Ubuntu 14.04.2 LTS (GNU/Linux 3.13.11-ckt22 x86_64)\r\r\n\r\r\n * Documentation:  https://help.ubuntu.com/\r\r\n\r\r\n  System information as of Sun Oct 11 10:47:29 UTC 2015\r\r\n\r\r\n  System load:  0.63               Processes:              103\r\r\n  Usage of /:   21.0% of 39.34GB   Users logged in:        0\r\r\n  Memory usage: 5%                 IP address for eth0:    10.0.2.15\r"
+    ],
+    [
+      0.000015,
+      "\r\n  Swap usage:   0%                 IP address for docker0: 172.17.42.1\r\r\n\r\r\n  Graph this data and manage this system at:\r\r\n    https://landscape.canonical.com/\r\r\n\r\r\n  Get cloud support with Ubuntu Advantage Cloud Guest:\r\r\n    http://www.ubuntu.com/business/services/cloud\r\r\n\r\r\n\r\r\nLast login: Sat Sep  5 12:23:08 2015 from 10.0.2.2\r\r\r\n"
+    ],
+    [
+      0.183173,
+      "\u001b]0;vagrant@vagrant-ubuntu-trusty-64: ~\u0007vagrant@vagrant-ubuntu-trusty-64:~$ "
+    ],
+    [
+      0.100839,
+      " export SHUTIT_BACKUP_PS1_LY9vaXjH=$PS1 \u0026\u0026 PS1='SHUTIT_LY9vaXjH#YeumlKI6\u003e' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320"
+    ],
+    [
+      0.000553,
+      "\r\r\n"
+    ],
+    [
+      0.039337,
+      "SHUTIT_LY9vaXjH#YeumlKI6\u003e"
+    ],
+    [
+      0.100674,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1444560309.64.641607/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN"
+    ],
+    [
+      0.000356,
+      "\r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000251,
+      "FILNEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000221,
+      "SHUTIT_LY9vaXjH#YeumlKI6\u003e"
+    ],
+    [
+      0.100500,
+      " test -a /etc/issue \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN"
+    ],
+    [
+      0.000612,
+      "\r\r\n"
+    ],
+    [
+      0.000201,
+      "FILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000187,
+      "SHUTIT_LY9vaXjH#YeumlKI6\u003e"
+    ],
+    [
+      0.100496,
+      " cat /etc/issue"
+    ],
+    [
+      0.000561,
+      "\r\r\n"
+    ],
+    [
+      0.002512,
+      "Ubuntu 14.04.2 LTS \\n \\l\r\r\n"
+    ],
+    [
+      0.000007,
+      "\r\r\n"
+    ],
+    [
+      0.000589,
+      "SHUTIT_LY9vaXjH#YeumlKI6\u003e"
+    ],
+    [
+      0.100560,
+      "mkdir -p /tmp/shutit_imiell/rothko_imiell_1444560309.64.641607/environment_id"
+    ],
+    [
+      0.000407,
+      "\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.003766,
+      "SHUTIT_LY9vaXjH#YeumlKI6\u003e"
+    ],
+    [
+      0.050345,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.050060,
+      "\r\n"
+    ],
+    [
+      0.000084,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.000940,
+      "\r\r\nEXIT_CODE:0\r\r\nSHUTIT_LY9vaXjH#YeumlKI6\u003e"
+    ],
+    [
+      0.100603,
+      "chmod -R 777 /tmp/shutit_imiell"
+    ],
+    [
+      0.001256,
+      "\r\r\n"
+    ],
+    [
+      0.002779,
+      "SHUTIT_LY9vaXjH#YeumlKI6\u003e"
+    ],
+    [
+      0.050311,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.050086,
+      "\r\n"
+    ],
+    [
+      0.000104,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.000775,
+      "\r\r\n"
+    ],
+    [
+      0.000159,
+      "EXIT_CODE:0\r"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000246,
+      "SHUTIT_LY9vaXjH#YeumlKI6\u003e"
+    ],
+    [
+      0.100578,
+      "touch /tmp/shutit_imiell/rothko_imiell_1444560309.64.641607/environment_id/YOwri3ej"
+    ],
+    [
+      0.000689,
+      "\r\r\n"
+    ],
+    [
+      0.003279,
+      "SHUTIT_LY9vaXjH#YeumlKI6\u003e"
+    ],
+    [
+      0.050323,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.050099,
+      "\r\n"
+    ],
+    [
+      0.000066,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.000673,
+      "\r\r\n"
+    ],
+    [
+      0.000175,
+      "EXIT_CODE:0\r\r\n"
+    ],
+    [
+      0.000188,
+      "SHUTIT_LY9vaXjH#YeumlKI6\u003e"
+    ],
+    [
+      0.100611,
+      "cd"
+    ],
+    [
+      0.000583,
+      "\r\r\n"
+    ],
+    [
+      0.000408,
+      "SHUTIT_LY9vaXjH#YeumlKI6\u003e"
+    ],
+    [
+      0.000251,
+      "\r\n\u001b[31m\r\n================================================================================\r\nStart a container which runs for 999 days, and get its id\r\n================================================================================\r\n\r\n"
+    ],
+    [
+      0.000023,
+      "Command is: docker run -d --name criu busybox sleep 999d\r\n\u001b[0m\u001b[31m\u001b[31m\r\nYou can now type in commands and alter the state of the target.\r\nHit return to see the prompt\r\nHit CTRL and ] at the same time to continue with build\r\n\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      10.428214,
+      "docker run -d --name criu busybox sleep 999d"
+    ],
+    [
+      0.001141,
+      "\r\r\n"
+    ],
+    [
+      0.066688,
+      "Unable to find image 'busybox:latest' locally"
+    ],
+    [
+      0.000230,
+      "\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      2.115159,
+      "latest: Pulling from library/busybox\r\r\n\u001b[0B\r\r\n\u001b[0A\u001b[2K\rcfa753dfea5e: Pulling fs layer \r\u001b[0B"
+    ],
+    [
+      0.000354,
+      "\r\r\n"
+    ],
+    [
+      0.000696,
+      "\u001b[0A"
+    ],
+    [
+      0.000210,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000711,
+      "d7057cb02084: Pulling fs layer \r\u001b[0B"
+    ],
+    [
+      1.401566,
+      "\u001b[1A\u001b[2K\rd7057cb02084: Downloading [==================================================\u003e]     32 B/32 B\r\u001b[1B"
+    ],
+    [
+      0.000606,
+      "\u001b[1A\u001b[2K\rd7057cb02084: Verifying Checksum \r\u001b[1B"
+    ],
+    [
+      0.000692,
+      "\u001b[1A\u001b[2K\rd7057cb02084: Download complete \r\u001b[1B"
+    ],
+    [
+      0.002793,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Downloading [=\u003e                                                 ] 15.93 kB/666.8 kB\r\u001b[2B"
+    ],
+    [
+      0.004085,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Downloading [=\u003e                                                 ] 23.17 kB/666.8 kB\r\u001b[2B"
+    ],
+    [
+      0.001608,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Downloading [==\u003e                                                ] 39.55 kB/666.8 kB\r\u001b[2B"
+    ],
+    [
+      0.004447,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Downloading [====\u003e                                              ] 55.94 kB/666.8 kB\r\u001b[2B"
+    ],
+    [
+      0.007243,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Downloading [=====\u003e                                             ] 72.32 kB/666.8 kB\r\u001b[2B"
+    ],
+    [
+      0.002159,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Downloading [======\u003e                                            ]  88.7 kB/666.8 kB\r\u001b[2B"
+    ],
+    [
+      0.002616,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Downloading [=======\u003e                                           ] 105.1 kB/666.8 kB\r\u001b[2B"
+    ],
+    [
+      0.004565,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Downloading [=========\u003e                                         ] 121.5 kB/666.8 kB\r\u001b[2B"
+    ],
+    [
+      0.000862,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Downloading [==========\u003e                                        ] 137.9 kB/666.8 kB\r\u001b[2B"
+    ],
+    [
+      0.002694,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Downloading [===========\u003e                                       ] 154.2 kB/666.8 kB\r\u001b[2B"
+    ],
+    [
+      0.001991,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Downloading [============\u003e                                      ] 170.6 kB/666.8 kB\r\u001b[2B"
+    ],
+    [
+      0.001930,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Downloading [==============\u003e                                    ]   187 kB/666.8 kB\r\u001b[2B"
+    ],
+    [
+      0.002103,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Downloading [===============\u003e                                   ] 203.4 kB/666.8 kB\r\u001b[2B"
+    ],
+    [
+      0.001766,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Downloading [================\u003e                                  ] 219.8 kB/666.8 kB\r\u001b[2B"
+    ],
+    [
+      0.001684,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Downloading [=================\u003e                                 ] 236.2 kB/666.8 kB\r\u001b[2B"
+    ],
+    [
+      0.001788,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Downloading [==================\u003e                                ] 252.5 kB/666.8 kB\r\u001b[2B"
+    ],
+    [
+      0.001546,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Downloading [====================\u003e                              ] 268.9 kB/666.8 kB\r\u001b[2B"
+    ],
+    [
+      0.001670,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Downloading [=====================\u003e                             ] 285.3 kB/666.8 kB\r\u001b[2B"
+    ],
+    [
+      0.002067,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: "
+    ],
+    [
+      0.000586,
+      "Downloading [======================\u003e                            ] 301.7 kB/666.8 kB\r"
+    ],
+    [
+      0.000681,
+      "\u001b[2B"
+    ],
+    [
+      0.001311,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Downloading [=======================\u003e                           ] 318.1 kB/666.8 kB\r\u001b[2B"
+    ],
+    [
+      0.002004,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Downloading [=========================\u003e                         ] 334.5 kB/666.8 kB\r\u001b[2B"
+    ],
+    [
+      0.001995,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Downloading [==========================\u003e                        ] 350.8 kB/666.8 kB\r\u001b[2B"
+    ],
+    [
+      0.002005,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Downloading [===========================\u003e                       ] 367.2 kB/666.8 kB\r\u001b[2B"
+    ],
+    [
+      0.000733,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Downloading [============================\u003e                      ] 383.6 kB/666.8 kB\r\u001b[2B"
+    ],
+    [
+      0.001756,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Downloading [=============================\u003e                     ]   400 kB/666.8 kB\r\u001b[2B"
+    ],
+    [
+      0.002266,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Downloading [===============================\u003e                   ] 416.4 kB/666.8 kB\r\u001b[2B"
+    ],
+    [
+      0.002350,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Downloading [================================\u003e                  ] 432.8 kB/666.8 kB\r\u001b[2B"
+    ],
+    [
+      0.001770,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Downloading [=================================\u003e                 ] 449.2 kB/666.8 kB\r"
+    ],
+    [
+      0.000188,
+      "\u001b[2B"
+    ],
+    [
+      0.001668,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Downloading [==================================\u003e                ] 465.5 kB/666.8 kB\r\u001b[2B"
+    ],
+    [
+      0.002025,
+      "\u001b[2A"
+    ],
+    [
+      0.000327,
+      "\u001b[2K\rcfa753dfea5e: Downloading [====================================\u003e              ] 481.9 kB/666.8 kB\r\u001b[2B"
+    ],
+    [
+      0.001921,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Downloading [=====================================\u003e             ] 498.3 kB/666.8 kB\r"
+    ],
+    [
+      0.000220,
+      "\u001b[2B"
+    ],
+    [
+      0.002036,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Downloading [======================================\u003e            ] 514.7 kB/666.8 kB\r"
+    ],
+    [
+      0.000205,
+      "\u001b[2B"
+    ],
+    [
+      0.001397,
+      "\u001b[2A"
+    ],
+    [
+      0.000292,
+      "\u001b[2K\rcfa753dfea5e: Downloading [=======================================\u003e           ] 531.1 kB/666.8 kB\r"
+    ],
+    [
+      0.000427,
+      "\u001b[2B"
+    ],
+    [
+      0.001378,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Downloading [=========================================\u003e         ] 547.5 kB/666.8 kB\r\u001b[2B"
+    ],
+    [
+      0.002087,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Downloading [==========================================\u003e        ] 563.8 kB/666.8 kB\r\u001b[2B"
+    ],
+    [
+      0.002125,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Downloading [===========================================\u003e       ] 580.2 kB/666.8 kB\r"
+    ],
+    [
+      0.000171,
+      "\u001b[2B"
+    ],
+    [
+      0.002100,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: "
+    ],
+    [
+      0.000231,
+      "Downloading [============================================\u003e      ] 596.6 kB/666.8 kB\r\u001b[2B"
+    ],
+    [
+      0.005523,
+      "\u001b[2A"
+    ],
+    [
+      0.000211,
+      "\u001b[2K\rcfa753dfea5e: Downloading [=============================================\u003e     ]   613 kB/666.8 kB\r"
+    ],
+    [
+      0.000204,
+      "\u001b[2B"
+    ],
+    [
+      0.001875,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Downloading [===============================================\u003e   ] 629.4 kB/666.8 kB\r\u001b[2B"
+    ],
+    [
+      0.001931,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Downloading [================================================\u003e  ] 645.8 kB/666.8 kB\r\u001b[2B"
+    ],
+    [
+      0.001974,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Downloading [=================================================\u003e ] 662.1 kB/666.8 kB\r\u001b[2B"
+    ],
+    [
+      0.000981,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Downloading [==================================================\u003e] 666.8 kB/666.8 kB\r\u001b[2B\u001b[2A\u001b[2K\rcfa753dfea5e: Verifying Checksum \r\u001b[2B\u001b[2A\u001b[2K\rcfa753dfea5e: Download complete \r\u001b[2B"
+    ],
+    [
+      0.002761,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Extracting [==\u003e                                                ] 32.77 kB/666.8 kB\r\u001b[2B"
+    ],
+    [
+      0.006016,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Extracting [====\u003e                                              ] 65.54 kB/666.8 kB\r\u001b[2B"
+    ],
+    [
+      0.008034,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Extracting [=======\u003e                                           ]  98.3 kB/666.8 kB\r\u001b[2B"
+    ],
+    [
+      0.045520,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Extracting [=========\u003e                                         ] 131.1 kB/666.8 kB\r\u001b[2B"
+    ],
+    [
+      0.001836,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Extracting [============\u003e                                      ] 163.8 kB/666.8 kB\r\u001b[2B"
+    ],
+    [
+      0.001849,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Extracting [==============\u003e                                    ] 196.6 kB/666.8 kB\r\u001b[2B"
+    ],
+    [
+      0.001775,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Extracting [=================\u003e                                 ] 229.4 kB/666.8 kB\r\u001b[2B"
+    ],
+    [
+      0.001727,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Extracting [===================\u003e                               ] 262.1 kB/666.8 kB\r\u001b[2B"
+    ],
+    [
+      0.001644,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Extracting [======================\u003e                            ] 294.9 kB/666.8 kB\r\u001b[2B"
+    ],
+    [
+      0.004391,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Extracting [========================\u003e                          ] 327.7 kB/666.8 kB\r\u001b[2B"
+    ],
+    [
+      0.001666,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Extracting [===========================\u003e                       ] 360.4 kB/666.8 kB\r\u001b[2B"
+    ],
+    [
+      0.001644,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Extracting [=============================\u003e                     ] 393.2 kB/666.8 kB\r\u001b[2B"
+    ],
+    [
+      0.001619,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Extracting [===============================\u003e                   ]   426 kB/666.8 kB\r\u001b[2B"
+    ],
+    [
+      0.001629,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Extracting [==================================\u003e                ] 458.8 kB/666.8 kB\r\u001b[2B"
+    ],
+    [
+      0.001614,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Extracting [====================================\u003e              ] 491.5 kB/666.8 kB\r\u001b[2B"
+    ],
+    [
+      0.002195,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Extracting [=======================================\u003e           ] 524.3 kB/666.8 kB\r\u001b[2B"
+    ],
+    [
+      0.001699,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Extracting [=========================================\u003e         ] 557.1 kB/666.8 kB\r\u001b[2B"
+    ],
+    [
+      0.000791,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Extracting [============================================\u003e      ] 589.8 kB/666.8 kB\r\u001b[2B"
+    ],
+    [
+      0.001707,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Extracting [==============================================\u003e    ] 622.6 kB/666.8 kB\r\u001b[2B"
+    ],
+    [
+      0.002180,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Extracting [=================================================\u003e ] 655.4 kB/666.8 kB\r\u001b[2B"
+    ],
+    [
+      0.008669,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Extracting [==================================================\u003e] 666.8 kB/666.8 kB\r\u001b[2B"
+    ],
+    [
+      0.019619,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Extracting [==================================================\u003e] 666.8 kB/666.8 kB\r\u001b[2B"
+    ],
+    [
+      0.000469,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Extracting [==================================================\u003e] 666.8 kB/666.8 kB\r\u001b[2B"
+    ],
+    [
+      0.014453,
+      "\u001b[2A\u001b[2K\rcfa753dfea5e: Pull complete \r\u001b[2B"
+    ],
+    [
+      0.001016,
+      "\u001b[1A\u001b[2K\rd7057cb02084: Extracting [==================================================\u003e]     32 B/32 B\r\u001b[1B"
+    ],
+    [
+      0.002939,
+      "\u001b[1A\u001b[2K\rd7057cb02084: Extracting [==================================================\u003e]     32 B/32 B\r\u001b[1B\u001b[1A\u001b[2K\rd7057cb02084: Extracting [==================================================\u003e]     32 B/32 B\r\u001b[1B"
+    ],
+    [
+      0.054264,
+      "\u001b[1A\u001b[2K\rd7057cb02084: Pull complete \r\u001b[1B"
+    ],
+    [
+      0.001393,
+      "Digest: sha256:16a2a52884c2a9481ed267c2d46483eac7693b813a63132368ab098a71303f8a\r\r\n"
+    ],
+    [
+      0.000523,
+      "Status: Downloaded newer image for busybox:latest\r\r\n"
+    ],
+    [
+      0.046639,
+      "b6f32c5137ff12640be2c57730e27310d20de37499945c557403dfaea0e8d85c\r\r\n"
+    ],
+    [
+      0.166470,
+      "SHUTIT_LY9vaXjH#YeumlKI6\u003e"
+    ],
+    [
+      0.050393,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.050126,
+      "\r\n"
+    ],
+    [
+      0.000144,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.001593,
+      "\r\r\nEXIT_CODE:0\r\r\nSHUTIT_LY9vaXjH#YeumlKI6\u003e"
+    ],
+    [
+      0.000351,
+      "\r\n\u001b[31m\r\n================================================================================\r\nConfirm it is now running\r\n================================================================================\r\n\r\nCommand is: docker ps"
+    ],
+    [
+      0.000024,
+      "\r\n\u001b[0m\u001b[31m\u001b[31m\r\nYou can now type in commands and alter the state of the target.\r\nHit return to see the prompt\r\nHit CTRL and ] at the same time to continue with build\r\n\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      2.881600,
+      "docker ps"
+    ],
+    [
+      0.002023,
+      "\r"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.094602,
+      "CONTAINER ID        IMAGE               "
+    ],
+    [
+      0.000143,
+      "COMMAND             "
+    ],
+    [
+      0.000195,
+      "CREATED"
+    ],
+    [
+      0.000204,
+      "        "
+    ],
+    [
+      0.000198,
+      "     STATUS"
+    ],
+    [
+      0.000266,
+      "        "
+    ],
+    [
+      0.000187,
+      "      PORTS"
+    ],
+    [
+      0.000182,
+      "        "
+    ],
+    [
+      0.000186,
+      "       "
+    ],
+    [
+      0.000189,
+      "NAMES\r"
+    ],
+    [
+      0.000008,
+      "\r\nb6f32c5137ff"
+    ],
+    [
+      0.000271,
+      "        "
+    ],
+    [
+      0.000184,
+      "busybox        "
+    ],
+    [
+      0.000180,
+      "     \"sleep 999d\""
+    ],
+    [
+      0.000264,
+      "        4 seconds ago       "
+    ],
+    [
+      0.000215,
+      "Up 3 seconds                "
+    ],
+    [
+      0.000261,
+      "        "
+    ],
+    [
+      0.000178,
+      "    criu"
+    ],
+    [
+      0.000256,
+      "\r"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.001415,
+      "SHUTIT_LY9vaXjH#YeumlKI6\u003e"
+    ],
+    [
+      0.050323,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.050102,
+      "\r\n"
+    ],
+    [
+      0.000078,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.000666,
+      "\r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000200,
+      "EXIT_CODE:0\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000196,
+      "SHUTIT_LY9vaXjH#YeumlKI6\u003e"
+    ],
+    [
+      0.000263,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[31m\r\n================================================================================\r\nNow we checkpoint that container, which stops it (use --leave-running=true) to leave it running.\r\n"
+    ],
+    [
+      0.000006,
+      "================================================================================\r\n"
+    ],
+    [
+      0.000007,
+      "\r\nCommand is: docker checkpoint criu\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[0m\u001b[31m\u001b[31m\r\nYou can now type in commands and alter the state of the target."
+    ],
+    [
+      0.000005,
+      "\r\nHit return to see the prompt"
+    ],
+    [
+      0.000005,
+      "\r\nHit CTRL and ] at the same time to continue with build"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      7.852335,
+      "docker checkpoint criu"
+    ],
+    [
+      0.001344,
+      "\r\r\n"
+    ],
+    [
+      0.473981,
+      "criu\r"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000717,
+      "SHUTIT_LY9vaXjH#YeumlKI6\u003e"
+    ],
+    [
+      0.050302,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.050108,
+      "\r\n"
+    ],
+    [
+      0.000145,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.000902,
+      "\r\r\nEXIT_CODE:0\r\r\nSHUTIT_LY9vaXjH#YeumlKI6\u003e"
+    ],
+    [
+      0.000245,
+      "\r\n\u001b[31m\r\n================================================================================\r\nConfirm it is NOT running\r\n================================================================================\r\n\r\nCommand is: docker ps\r\n\u001b[0m\u001b[31m\u001b[31m\r\nYou can now type in commands and alter the state of the target.\r\nHit return to see the prompt\r\n"
+    ],
+    [
+      0.000018,
+      "Hit CTRL and ] at the same time to continue with build\r\n\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      3.134123,
+      "docker ps"
+    ],
+    [
+      0.001911,
+      "\r\r\n"
+    ],
+    [
+      0.066444,
+      "CONTAINER ID        IMAGE               "
+    ],
+    [
+      0.000193,
+      "COMMAND             CREATED"
+    ],
+    [
+      0.000213,
+      "             "
+    ],
+    [
+      0.000166,
+      "STATUS        "
+    ],
+    [
+      0.000190,
+      "      "
+    ],
+    [
+      0.000235,
+      "PORTS               NAMES"
+    ],
+    [
+      0.000164,
+      "\r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000828,
+      "SHUTIT_LY9vaXjH#YeumlKI6\u003e"
+    ],
+    [
+      0.050338,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.050098,
+      "\r\n"
+    ],
+    [
+      0.000079,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.000684,
+      "\r\r\n"
+    ],
+    [
+      0.000183,
+      "EXIT_CODE:0\r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000415,
+      "SHUTIT_LY9vaXjH#YeumlKI6\u003e"
+    ],
+    [
+      0.000234,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[31m\r\n================================================================================\r\n"
+    ],
+    [
+      0.000004,
+      "Restore the container with the process running\r\n"
+    ],
+    [
+      0.000004,
+      "================================================================================\r\n"
+    ],
+    [
+      0.000003,
+      "\r\nCommand is: docker restore criu"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[0m\u001b[31m\u001b[31m\r\n"
+    ],
+    [
+      0.000004,
+      "You can now type in commands and alter the state of the target."
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "Hit return to see the prompt\r\n"
+    ],
+    [
+      0.000003,
+      "Hit CTRL and ] at the same time to continue with build"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      6.491886,
+      "docker restore criu"
+    ],
+    [
+      0.001274,
+      "\r\r\n"
+    ],
+    [
+      0.307161,
+      "criu\r\r\n"
+    ],
+    [
+      0.001179,
+      "SHUTIT_LY9vaXjH#YeumlKI6\u003e"
+    ],
+    [
+      0.050368,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.050141,
+      "\r\n"
+    ],
+    [
+      0.000120,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.001553,
+      "\r\r\nEXIT_CODE:0\r\r\nSHUTIT_LY9vaXjH#YeumlKI6\u003e"
+    ],
+    [
+      0.000337,
+      "\r\n\u001b[31m\r\n================================================================================\r\nIt is running again!\r\n================================================================================\r\n\r\nCommand is: docker ps"
+    ],
+    [
+      0.000015,
+      "\r\n\u001b[0m\u001b[31m\u001b[31m\r\nYou can now type in commands and alter the state of the target.\r\nHit return to see the prompt\r\nHit CTRL and ] at the same time to continue with build\r\n\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      3.187614,
+      "docker ps"
+    ],
+    [
+      0.001949,
+      "\r\r\n"
+    ],
+    [
+      0.070516,
+      "CONTAINER ID        IMAGE"
+    ],
+    [
+      0.000207,
+      "               COMMAND"
+    ],
+    [
+      0.000173,
+      "             CREATED             STATUS              PORTS        "
+    ],
+    [
+      0.000181,
+      "       NAMES\r"
+    ],
+    [
+      0.000006,
+      "\r\nb6f32c5137ff        busybox             "
+    ],
+    [
+      0.000232,
+      "\"sleep 999d\"        26 seconds ago      Up 3 seconds        "
+    ],
+    [
+      0.000175,
+      "                    criu\r\r\n"
+    ],
+    [
+      0.000724,
+      "SHUTIT_LY9vaXjH#YeumlKI6\u003e"
+    ],
+    [
+      0.050328,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.050072,
+      "\r\n"
+    ],
+    [
+      0.000081,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.000560,
+      "\r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000192,
+      "EXIT_CODE:0\r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000251,
+      "SHUTIT_LY9vaXjH#YeumlKI6\u003e"
+    ],
+    [
+      0.000252,
+      "\r\n\u001b[31m"
+    ],
+    [
+      0.000006,
+      "\r\n================================================================================\r\nNow a more sophisticated example, where we stop a process with state and restore it.\r\n"
+    ],
+    [
+      0.000007,
+      "================================================================================\r\n\r\n"
+    ],
+    [
+      0.000005,
+      "Command is: docker rm -f criu\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[0m\u001b[31m\u001b[31m\r\nYou can now type in commands and alter the state of the target."
+    ],
+    [
+      0.000006,
+      "\r\nHit return to see the prompt"
+    ],
+    [
+      0.000005,
+      "\r\nHit CTRL and ] at the same time to continue with build"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      5.999860,
+      "docker rm -f criu"
+    ],
+    [
+      0.001013,
+      "\r\r\n"
+    ],
+    [
+      0.241454,
+      "criu\r\r\n"
+    ],
+    [
+      0.000658,
+      "SHUTIT_LY9vaXjH#YeumlKI6\u003e"
+    ],
+    [
+      0.050289,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.050128,
+      "\r\n"
+    ],
+    [
+      0.000086,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.000819,
+      "\r\r\nEXIT_CODE:0\r\r\nSHUTIT_LY9vaXjH#YeumlKI6\u003e"
+    ],
+    [
+      0.000265,
+      "\r\n\u001b[31m\r\n================================================================================\r\nStart a container that outputs an incrementing number per second\r\n================================================================================\r\n\r\nCommand is: docker run --name np --rm busybox:latest /bin/sh -c 'i=0; while true; do echo -n \"$i \"; i=$(expr $i + 1); sleep 1; done' \u0026\r\n\u001b[0m\u001b[31m\u001b[31m\r\n"
+    ],
+    [
+      0.000010,
+      "You can now type in commands and alter the state of the target.\r\nHit return to see the prompt\r\nHit CTRL and ] at the same time to continue with build\r\n\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      7.903294,
+      "docker run --name np --rm busybox:latest /bin/sh -c 'i=0; while true; do echo -n \"$i \"; i=$(expr $i + 1); sleep 1; done' \u0026"
+    ],
+    [
+      0.002126,
+      "\r\r\n[1] 1643\r"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000711,
+      "SHUTIT_LY9vaXjH#YeumlKI6\u003e"
+    ],
+    [
+      0.050313,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.050138,
+      "\r\n"
+    ],
+    [
+      0.000088,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.001052,
+      "\r\r\n"
+    ],
+    [
+      0.000596,
+      "EXIT_CODE:0\r"
+    ],
+    [
+      0.000006,
+      "\r\nSHUTIT_LY9vaXjH#YeumlKI6\u003e"
+    ],
+    [
+      0.000234,
+      "\r\n\u001b[31m"
+    ],
+    [
+      0.000006,
+      "\r\n================================================================================\r\nwait 10 seconds\r\n"
+    ],
+    [
+      0.000005,
+      "================================================================================\r\n\r\n"
+    ],
+    [
+      0.000005,
+      "Command is: sleep 10\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[0m\u001b[31m\u001b[31m\r\n"
+    ],
+    [
+      0.000006,
+      "You can now type in commands and alter the state of the target.\r\nHit return to see the prompt"
+    ],
+    [
+      0.000005,
+      "\r\nHit CTRL and ] at the same time to continue with build\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.173129,
+      "0 "
+    ],
+    [
+      1.003000,
+      "1 "
+    ],
+    [
+      1.006458,
+      "2 "
+    ],
+    [
+      1.003359,
+      "3 "
+    ],
+    [
+      1.003648,
+      "4 "
+    ],
+    [
+      1.004658,
+      "5 "
+    ],
+    [
+      1.002914,
+      "6 "
+    ],
+    [
+      1.004870,
+      "7 "
+    ],
+    [
+      1.005375,
+      "8 "
+    ],
+    [
+      1.002158,
+      "9 "
+    ],
+    [
+      1.006824,
+      "10 "
+    ],
+    [
+      1.002175,
+      "11 "
+    ],
+    [
+      1.004427,
+      "12 "
+    ],
+    [
+      1.004853,
+      "13 "
+    ],
+    [
+      1.004378,
+      "14 "
+    ],
+    [
+      1.004865,
+      "15 "
+    ],
+    [
+      1.005005,
+      "16 "
+    ],
+    [
+      1.004080,
+      "17 "
+    ],
+    [
+      0.136093,
+      "sleep 10"
+    ],
+    [
+      0.002317,
+      "\r\r\n"
+    ],
+    [
+      0.867638,
+      "18 "
+    ],
+    [
+      1.003983,
+      "19 "
+    ],
+    [
+      1.005282,
+      "20 "
+    ],
+    [
+      1.004292,
+      "21 "
+    ],
+    [
+      1.003142,
+      "22 "
+    ],
+    [
+      1.004323,
+      "23 "
+    ],
+    [
+      1.005601,
+      "24 "
+    ],
+    [
+      1.005077,
+      "25 "
+    ],
+    [
+      1.005259,
+      "26 "
+    ],
+    [
+      1.004747,
+      "27 "
+    ],
+    [
+      0.096671,
+      "SHUTIT_LY9vaXjH#YeumlKI6\u003e"
+    ],
+    [
+      0.050258,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.050133,
+      "\r\n"
+    ],
+    [
+      0.000045,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.000964,
+      "\r\r\nEXIT_CODE:0\r\r\nSHUTIT_LY9vaXjH#YeumlKI6\u003e"
+    ],
+    [
+      0.000247,
+      "\r\n\u001b[31m\r\n================================================================================\r\nStop the container and save its state.\r\n================================================================================\r\n\r\nCommand is: docker checkpoint np\r\n\u001b[0m\u001b[31m\u001b[31m\r\nYou can now type in commands and alter the state of the target.\r\nHit return to see the prompt\r\nHit CTRL and ] at the same time to continue with build\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.805606,
+      "28 "
+    ],
+    [
+      1.004140,
+      "29 "
+    ],
+    [
+      1.004022,
+      "30 "
+    ],
+    [
+      1.004316,
+      "31 "
+    ],
+    [
+      0.695959,
+      "docker checkpoint np"
+    ],
+    [
+      0.001174,
+      "\r\r\n"
+    ],
+    [
+      0.393498,
+      "np\r\r\n"
+    ],
+    [
+      0.001079,
+      "SHUTIT_LY9vaXjH#YeumlKI6\u003e"
+    ],
+    [
+      0.050289,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.050265,
+      "\r\n"
+    ],
+    [
+      0.000157,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.001277,
+      "\r\r\nEXIT_CODE:0\r\r\nSHUTIT_LY9vaXjH#YeumlKI6\u003e"
+    ],
+    [
+      0.000398,
+      "\r\n\u001b[31m\r\n================================================================================\r\nwait 10 seconds\r\n================================================================================\r\n\r\nCommand is: sleep 10"
+    ],
+    [
+      0.000011,
+      "\r\n\u001b[0m\u001b[31m\u001b[31m\r\nYou can now type in commands and alter the state of the target.\r\nHit return to see the prompt\r\nHit CTRL and ] at the same time to continue with build\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      2.597500,
+      "sleep 10"
+    ],
+    [
+      0.002074,
+      "\r"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      10.005839,
+      "SHUTIT_LY9vaXjH#YeumlKI6\u003e"
+    ],
+    [
+      0.050362,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.050084,
+      "\r\n"
+    ],
+    [
+      0.000077,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.000915,
+      "\r\r\nEXIT_CODE:0\r\r\nSHUTIT_LY9vaXjH#YeumlKI6\u003e"
+    ],
+    [
+      0.000254,
+      "\r\n\u001b[31m\r\n================================================================================\r\nRestore the state where we were\r\n================================================================================\r\n\r\nCommand is: docker restore np\r\n\u001b[0m\u001b[31m\u001b[31m\r\nYou can now type in commands and alter the state of the target.\r\nHit return to see the prompt\r\nHit CTRL and ] at the same time to continue with build"
+    ],
+    [
+      0.000008,
+      "\r\n\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      2.274450,
+      "docker restore np"
+    ],
+    [
+      0.001125,
+      "\r\r\n"
+    ],
+    [
+      0.364050,
+      "np\r\r\n"
+    ],
+    [
+      0.001040,
+      "SHUTIT_LY9vaXjH#YeumlKI6\u003e"
+    ],
+    [
+      0.050304,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.050119,
+      "\r\n"
+    ],
+    [
+      0.000078,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.000985,
+      "\r\r\nEXIT_CODE:0\r\r\nSHUTIT_LY9vaXjH#YeumlKI6\u003e"
+    ],
+    [
+      0.000244,
+      "\r\n\u001b[31m\r\n================================================================================\r\nlog out of the first VM\r\n================================================================================\r\n\r\n\r\n\u001b[0m\u001b[31m\u001b[31m\r\nYou can now type in commands and alter the state of the target.\r\nHit return to see the prompt\r\nHit CTRL and ] at the same time to continue with build"
+    ],
+    [
+      0.000010,
+      "\r\n\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.086851,
+      "32 "
+    ],
+    [
+      1.002804,
+      "33 "
+    ],
+    [
+      1.002672,
+      "34 "
+    ],
+    [
+      1.003982,
+      "35 "
+    ],
+    [
+      1.001519,
+      "36 "
+    ],
+    [
+      1.006286,
+      "37 "
+    ],
+    [
+      1.002755,
+      "38 "
+    ],
+    [
+      1.004224,
+      "39 "
+    ],
+    [
+      1.003567,
+      "40 "
+    ],
+    [
+      1.004226,
+      "41 "
+    ],
+    [
+      1.084887,
+      "42 exit"
+    ],
+    [
+      0.002589,
+      "\r\r\nlogout\r\r\n"
+    ],
+    [
+      0.016179,
+      "Connection to 127.0.0.1 closed.\r\r"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.001100,
+      "SHUTIT_shutit.criu.criu.criu#0uefc4z6\u003e"
+    ],
+    [
+      0.000268,
+      "\r\n\u001b[31m\r\n================================================================================\r\nCreate the second VM\r\n================================================================================"
+    ],
+    [
+      0.000015,
+      "\r\n\r\nCommand is: mkdir /tmp/vg-2\r\n\u001b[0m\u001b[31m\u001b[31m\r\nYou can now type in commands and alter the state of the target.\r\nHit return to see the prompt\r\nHit CTRL and ] at the same time to continue with build\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      5.819794,
+      "mkdir /tmp/vg-2\r\r\n"
+    ],
+    [
+      0.001991,
+      "SHUTIT_shutit.criu.criu.criu#0uefc4z6\u003e"
+    ],
+    [
+      0.050373,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.050136,
+      "\r\n"
+    ],
+    [
+      0.000123,
+      " echo EXIT_CODE:$?\r\r\n"
+    ],
+    [
+      0.000252,
+      "EXIT_CODE:0\r\r\nSHUTIT_shutit.criu.criu.criu#0uefc4z6\u003e"
+    ],
+    [
+      0.100609,
+      "cd /tmp/vg-2\r\r\n"
+    ],
+    [
+      0.000194,
+      "SHUTIT_shutit.criu.criu.criu#0uefc4z6\u003e"
+    ],
+    [
+      0.050294,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.050123,
+      "\r\n"
+    ],
+    [
+      0.000047,
+      " echo EXIT_CODE:$?\r\r\n"
+    ],
+    [
+      0.000209,
+      "EXIT_CODE:0\r\r\nSHUTIT_shutit.criu.criu.criu#0uefc4z6\u003e"
+    ],
+    [
+      0.000243,
+      "\r\n\u001b[31m\r\n================================================================================\r\nInitialise second VM\r\n================================================================================\r\n\r\n"
+    ],
+    [
+      0.000018,
+      "Command is: vagrant init kimh/criu\r\n\u001b[0m\u001b[31m\u001b[31m\r\nYou can now type in commands and alter the state of the target.\r\nHit return to see the prompt\r\nHit CTRL and ] at the same time to continue with build\r\n\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      2.535550,
+      "vagrant init kimh/criu\r\r\n"
+    ],
+    [
+      0.114924,
+      "/opt/vagrant/bin/../embedded/gems/gems/vagrant-1.7.2/lib/vagrant/pre-rubygems.rb:31: warning: Insecure world writable dir /space in PATH, mode 040777\r\r\n"
+    ],
+    [
+      0.388717,
+      "/opt/vagrant/embedded/gems/gems/bundler-1.7.11/lib/bundler/runtime.rb:222: warning: Insecure world writable dir /space in PATH, mode 040777\r\r\n"
+    ],
+    [
+      0.549900,
+      "\u001b[0mA `Vagrantfile` has been placed in this directory. You are now\r\r\nready to `vagrant up` your first virtual environment! Please read\r\r\nthe comments in the Vagrantfile as well as documentation on\r\r\n`vagrantup.com` for more information on using Vagrant.\u001b[0m\r\r\n"
+    ],
+    [
+      0.064204,
+      "SHUTIT_shutit.criu.criu.criu#0uefc4z6\u003e"
+    ],
+    [
+      0.050273,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.050073,
+      "\r\n"
+    ],
+    [
+      0.000061,
+      " echo EXIT_CODE:$?\r\r\n"
+    ],
+    [
+      0.000194,
+      "EXIT_CODE:0\r\r\nSHUTIT_shutit.criu.criu.criu#0uefc4z6\u003e"
+    ],
+    [
+      0.100522,
+      "vagrant up\r\r\n"
+    ],
+    [
+      0.105736,
+      "/opt/vagrant/bin/../embedded/gems/gems/vagrant-1.7.2/lib/vagrant/pre-rubygems.rb:31: warning: Insecure world writable dir /space in PATH, mode 040777\r\r\n"
+    ],
+    [
+      0.386974,
+      "/opt/vagrant/embedded/gems/gems/bundler-1.7.11/lib/bundler/runtime.rb:222: warning: Insecure world writable dir /space in PATH, mode 040777\r\r\n"
+    ],
+    [
+      1.139153,
+      "\u001b[0mBringing machine 'default' up with 'virtualbox' provider...\u001b[0m\r\r\n"
+    ],
+    [
+      0.189135,
+      "\u001b[1m==\u003e default: Importing base box 'kimh/criu'...\u001b[0m\r\r\n"
+    ],
+    [
+      18.475104,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000193,
+      "\u001b[0mProgress: 10%\u001b[0m"
+    ],
+    [
+      23.860314,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000224,
+      "\u001b[0mProgress: 20%\u001b[0m"
+    ],
+    [
+      32.377044,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000214,
+      "\u001b[0mProgress: 30%\u001b[0m"
+    ],
+    [
+      19.414067,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000224,
+      "\u001b[0mProgress: 40%\u001b[0m"
+    ],
+    [
+      2.022153,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000411,
+      "\u001b[0mProgress: 50%\u001b[0m"
+    ],
+    [
+      1.109638,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000185,
+      "\u001b[0mProgress: 60%\u001b[0m"
+    ],
+    [
+      0.404708,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000213,
+      "\u001b[0mProgress: 90%\u001b[0m"
+    ],
+    [
+      5.630579,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000333,
+      "\u001b[1m==\u003e default: Matching MAC address for NAT networking...\u001b[0m\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.278691,
+      "\u001b[1m==\u003e default: Checking if box 'kimh/criu' is up to date...\u001b[0m\r\r\n"
+    ],
+    [
+      0.921523,
+      "\u001b[1m==\u003e default: Setting the name of the VM: vg-2_default_1444560691930_63967\u001b[0m\r"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.636511,
+      "\u001b[1m==\u003e default: Fixed port collision for 22 =\u003e 2222. Now on port 2200.\u001b[0m\r\r\n"
+    ],
+    [
+      0.273442,
+      "\u001b[1m==\u003e default: Clearing any previously set network interfaces...\u001b[0m\r\r\n"
+    ],
+    [
+      0.132494,
+      "\u001b[1m==\u003e default: Preparing network interfaces based on configuration...\u001b[0m\r\r\n"
+    ],
+    [
+      0.000201,
+      "\u001b[0m    default: Adapter 1: nat\u001b[0m"
+    ],
+    [
+      0.000176,
+      "\r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.125602,
+      "\u001b[1m==\u003e default: Forwarding ports...\u001b[0m\r"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.052158,
+      "\u001b[0m    default: 22 =\u003e 2200 (adapter 1)\u001b[0m\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.399963,
+      "\u001b[1m==\u003e default: Booting VM...\u001b[0m\r\r\n"
+    ],
+    [
+      0.478482,
+      "\u001b[1m==\u003e default: Waiting for machine to boot. This may take a few minutes...\u001b[0m"
+    ],
+    [
+      0.001418,
+      "\r\r\n"
+    ],
+    [
+      0.222334,
+      "\u001b[0m    default: SSH address: 127.0.0.1:2200\u001b[0m\r\r\n"
+    ],
+    [
+      0.000240,
+      "\u001b[0m    default: SSH username: vagrant\u001b[0m\r\r\n"
+    ],
+    [
+      0.000181,
+      "\u001b[0m    default: SSH auth method: private key\u001b[0m\r\r\n"
+    ],
+    [
+      15.104511,
+      "\u001b[0m    default: Warning: Connection timeout. Retrying...\u001b[0m\r\r\n"
+    ],
+    [
+      1.676068,
+      "\u001b[1m==\u003e default: Machine booted and ready!\u001b[0m\r\r\n"
+    ],
+    [
+      0.000903,
+      "\u001b[1m==\u003e default: Checking for guest additions in VM...\u001b[0m\r\r\n"
+    ],
+    [
+      0.159333,
+      "\u001b[1m==\u003e default: Mounting shared folders...\u001b[0m\r\r\n"
+    ],
+    [
+      0.000323,
+      "\u001b[0m    default: /vagrant =\u003e /tmp/vg-2\u001b[0m\r\r\n"
+    ],
+    [
+      1.581761,
+      "SHUTIT_shutit.criu.criu.criu#0uefc4z6\u003e"
+    ],
+    [
+      0.050373,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.050147,
+      "\r\n"
+    ],
+    [
+      0.000153,
+      " echo EXIT_CODE:$?\r\r\n"
+    ],
+    [
+      0.000282,
+      "EXIT_CODE:0\r\r\nSHUTIT_shutit.criu.criu.criu#0uefc4z6\u003e"
+    ],
+    [
+      0.000316,
+      "\r\n\u001b[31m\r\n================================================================================\r\nRequired due to a bug in CRIU\r\n================================================================================\r\n\r\n\r\n"
+    ],
+    [
+      0.000027,
+      "\u001b[0m\u001b[31m\u001b[31m\r\nYou can now type in commands and alter the state of the target.\r\nHit return to see the prompt\r\nHit CTRL and ] at the same time to continue with build\r\n\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      2.604812,
+      "vagrant ssh -- 'docker run --name=foo -d busybox tail -f /dev/null \u0026\u0026 docker rm -f foo'"
+    ],
+    [
+      0.050119,
+      "\r\n"
+    ],
+    [
+      0.000130,
+      "vagrant ssh -- 'docker run --name=foo -d busybox tail -f /dev/null \u0026\u0026 docker rm -f foo'\r\r\n"
+    ],
+    [
+      0.156476,
+      "/opt/vagrant/bin/../embedded/gems/gems/vagrant-1.7.2/lib/vagrant/pre-rubygems.rb:31: warning: Insecure world writable dir /space in PATH, mode 040777\r\r\n"
+    ],
+    [
+      0.412686,
+      "/opt/vagrant/embedded/gems/gems/bundler-1.7.11/lib/bundler/runtime.rb:222: warning: Insecure world writable dir /space in PATH, mode 040777\r\r\n"
+    ],
+    [
+      7.405368,
+      "Unable to find image 'busybox:latest' locally\r"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      2.692588,
+      "latest: "
+    ],
+    [
+      0.000314,
+      "Pulling from library/busybox\r"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000569,
+      "cfa753dfea5e: "
+    ],
+    [
+      0.000288,
+      "Pulling fs layer\r"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000409,
+      "d7057cb02084: "
+    ],
+    [
+      0.000410,
+      "Pulling fs layer\r"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      1.760238,
+      "d7057cb02084: Verifying Checksum\r\r\n"
+    ],
+    [
+      0.000029,
+      "d7057cb02084: Download complete\r\r\n"
+    ],
+    [
+      0.106641,
+      "cfa753dfea5e: "
+    ],
+    [
+      0.000254,
+      "Verifying Checksum\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000240,
+      "cfa753dfea5e: "
+    ],
+    [
+      0.000249,
+      "Download complete\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.117636,
+      "cfa753dfea5e: "
+    ],
+    [
+      0.000342,
+      "Pull complete\r\r\n"
+    ],
+    [
+      0.057269,
+      "d7057cb02084: "
+    ],
+    [
+      0.000363,
+      "Pull complete\r\r\n"
+    ],
+    [
+      0.001084,
+      "Digest: sha256:16a2a52884c2a9481ed267c2d46483eac7693b813a63132368ab098a71303f8a\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000368,
+      "Status: Downloaded newer image for busybox:latest\r"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.039196,
+      "1965c0dc1fc0b101a4348bb59230f25c1631a008a7d51a641552015f5acac822\r\r\n"
+    ],
+    [
+      0.365630,
+      "foo\r\r\n"
+    ],
+    [
+      0.001957,
+      "SHUTIT_shutit.criu.criu.criu#0uefc4z6\u003e"
+    ],
+    [
+      0.100910,
+      " export SHUTIT_BACKUP_PS1_gNpRWl1I=$PS1 \u0026\u0026 PS1='SHUTIT_gNpRWl1I#GJoXrHIX\u003e' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r\r\n"
+    ],
+    [
+      0.010016,
+      "SHUTIT_gNpRWl1I#GJoXrHIX\u003e"
+    ],
+    [
+      0.100694,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1444560309.64.641607/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\nFILEXIST-FILFIN\r\r\nSHUTIT_gNpRWl1I#GJoXrHIX\u003e"
+    ],
+    [
+      0.100463,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1444560309.64.641607/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000194,
+      "FILEXIST-FILFIN\r\r\nSHUTIT_gNpRWl1I#GJoXrHIX\u003e"
+    ],
+    [
+      0.100491,
+      " ls /tmp/shutit_imiell/rothko_imiell_1444560309.64.641607/environment_id\r\r\n"
+    ],
+    [
+      0.020870,
+      "Gh4Do797  \u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m\r\r\n"
+    ],
+    [
+      0.000190,
+      "SHUTIT_gNpRWl1I#GJoXrHIX\u003e"
+    ],
+    [
+      0.115631,
+      "cd\r\r\n"
+    ],
+    [
+      0.000196,
+      "SHUTIT_gNpRWl1I#GJoXrHIX\u003e"
+    ],
+    [
+      0.000194,
+      "\r\n\u001b[31m\r\n"
+    ],
+    [
+      0.000006,
+      "================================================================================\r\nGet the helper migrate script\r\n================================================================================\r\n"
+    ],
+    [
+      0.000005,
+      "\r\nCommand is: curl -L -o /tmp/docker-migrate.sh https://gist.githubusercontent.com/kimh/79f7bcb195466acea39a/raw/ca0965d90c850dcbe54654a6002678fff333d408\r\n\u001b[0m\u001b[31m\u001b[31m"
+    ],
+    [
+      0.000005,
+      "\r\nYou can now type in commands and alter the state of the target.\r\nHit return to see the prompt"
+    ],
+    [
+      0.000005,
+      "\r\nHit CTRL and ] at the same time to continue with build\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      3.183998,
+      "curl -L -o /tmp/docker-migrate.sh https://gist.githubusercontent.com/kimh/79f7bcb195466acea39a/raw/ca0965d90c850dcbe54654a6002678fff333d408\r\r\n"
+    ],
+    [
+      0.005271,
+      "  % Total    % Rece"
+    ],
+    [
+      0.000179,
+      "ived % Xferd  Average Speed   Time    Time     Time  Current\r\r\n                 "
+    ],
+    [
+      0.000187,
+      "                Dload  Upload   Total   Spent    Left  Speed\r\r\n\r  0     0 "
+    ],
+    [
+      0.000187,
+      "   0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0"
+    ],
+    [
+      0.188936,
+      "\r100  1616  100  161"
+    ],
+    [
+      0.000194,
+      "6    0     0   8526      0 --:--:-- --:--:-- --:--:--  8550\r\r\n"
+    ],
+    [
+      0.000861,
+      "SHUTIT_gNpRWl1I#GJoXrHIX\u003e"
+    ],
+    [
+      0.050349,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.050096,
+      "\r\n"
+    ],
+    [
+      0.000093,
+      " echo EXIT_CODE:$?\r\r\n"
+    ],
+    [
+      0.000173,
+      "EXIT_CODE:0\r\r\nSHUTIT_gNpRWl1I#GJoXrHIX\u003e"
+    ],
+    [
+      0.100600,
+      "chmod +x /tmp/docker-migrate.sh\r\r\n"
+    ],
+    [
+      0.016884,
+      "SHUTIT_gNpRWl1I#GJoXrHIX\u003e"
+    ],
+    [
+      0.050261,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.050084,
+      "\r\n"
+    ],
+    [
+      0.000070,
+      " echo EXIT_CODE:$?\r\r\n"
+    ],
+    [
+      0.000228,
+      "EXIT_CODE:0\r\r\nSHUTIT_gNpRWl1I#GJoXrHIX\u003e"
+    ],
+    [
+      0.000228,
+      "\r\n\u001b[31m\r\n================================================================================\r\nMigrate the container from vg-1 to vg-2\r\n================================================================================\r\n\r\n"
+    ],
+    [
+      0.000007,
+      "Command is: /tmp/docker-migrate.sh np /tmp/vg-1 /tmp/vg-2\r\n\u001b[0m\u001b[31m\u001b[31m\r\nYou can now type in commands and alter the state of the target.\r\nHit return to see the prompt\r\nHit CTRL and ] at the same time to continue with build\r\n\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      10.013778,
+      "/tmp/docker-migrate.sh np /tmp/vg-1 /tmp/vg-2\r\r\n"
+    ],
+    [
+      0.037957,
+      "/tmp/vg-1 /tmp/docker-migration\r\r\n"
+    ],
+    [
+      0.107503,
+      "/opt/vagrant/bin/../embedded/gems/gems/vagrant-1.7.2/lib/vagrant/pre-rubygems.rb:31: warning: Insecure world writable dir /space in PATH, mode 040777\r\r\n"
+    ],
+    [
+      0.386271,
+      "/opt/vagrant/embedded/gems/gems/bundler-1.7.11/lib/bundler/runtime.rb:222: warning: Insecure world writable dir /space in PATH, mode 040777\r\r\n"
+    ],
+    [
+      7.577432,
+      "/tmp/docker-migration\r\r\n"
+    ],
+    [
+      0.000187,
+      "/tmp/vg-2 /tmp/docker-migration\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.131823,
+      "/opt/vagrant/bin/../embedded/gems/gems/vagrant-1.7.2/lib/vagrant/pre-rubygems.rb:31: warning: Insecure world writable dir /space in PATH, mode 040777\r\r\n"
+    ],
+    [
+      0.385166,
+      "/opt/vagrant/embedded/gems/gems/bundler-1.7.11/lib/bundler/runtime.rb:222: warning: Insecure world writable dir /space in PATH, mode 040777\r\r\n"
+    ],
+    [
+      7.479011,
+      "/tmp/docker-migration\r\r\n"
+    ],
+    [
+      0.000218,
+      "/tmp/vg-1 /tmp/docker-migration\r\r\n"
+    ],
+    [
+      0.152496,
+      "/opt/vagrant/bin/../embedded/gems/gems/vagrant-1.7.2/lib/vagrant/pre-rubygems.rb:31: warning: Insecure world writable dir /space in PATH, mode 040777\r\r\n"
+    ],
+    [
+      0.389480,
+      "/opt/vagrant/embedded/gems/gems/bundler-1.7.11/lib/bundler/runtime.rb:222: warning: Insecure world writable dir /space in PATH, mode 040777\r\r\n"
+    ],
+    [
+      1.340199,
+      "/tmp/docker-migration\r\r\n"
+    ],
+    [
+      0.000200,
+      "/tmp/vg-2 /tmp/docker-migration\r\r\n"
+    ],
+    [
+      0.125477,
+      "/opt/vagrant/bin/../embedded/gems/gems/vagrant-1.7.2/lib/vagrant/pre-rubygems.rb:31: warning: Insecure world writable dir /space in PATH, mode 040777\r\r\n"
+    ],
+    [
+      0.404333,
+      "/opt/vagrant/embedded/gems/gems/bundler-1.7.11/lib/bundler/runtime.rb:222: warning: Insecure world writable dir /space in PATH, mode 040777\r\r\n"
+    ],
+    [
+      1.321669,
+      "/tmp/docker-migration\r\r\n"
+    ],
+    [
+      0.000165,
+      "/tmp/vg-1 /tmp/docker-migration\r\r\n"
+    ],
+    [
+      0.136001,
+      "/opt/vagrant/bin/../embedded/gems/gems/vagrant-1.7.2/lib/vagrant/pre-rubygems.rb:31: warning: Insecure world writable dir /space in PATH, mode 040777\r\r\n"
+    ],
+    [
+      0.392528,
+      "/opt/vagrant/embedded/gems/gems/bundler-1.7.11/lib/bundler/runtime.rb:222: warning: Insecure world writable dir /space in PATH, mode 040777\r\r\n"
+    ],
+    [
+      2.628929,
+      "np\r\r\n"
+    ],
+    [
+      0.002242,
+      "/tmp/docker-migration\r\r\n"
+    ],
+    [
+      0.000206,
+      "/tmp/vg-1 /tmp/docker-migration\r"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.535960,
+      "\rpages-2.img                                                                                                                                                                                                                                                                                     0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.052934,
+      "\rpages-2.img                                                                                                                                                                                                                                                                                   100%   40KB  40.0KB/s   00:00    \r\r\n"
+    ],
+    [
+      0.000818,
+      "\rcreds-469.img                                                                                                                                                                                                                                                                                   0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000533,
+      "\rcreds-469.img                                                                                                                                                                                                                                                                                 100%   80     0.1KB/s   00:00    \r\r\n"
+    ],
+    [
+      0.000574,
+      "\rreg-files.img                                                                                                                                                                                                                                                                                   0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000452,
+      "\rreg-files.img                                                                                                                                                                                                                                                                                 100%  103     0.1KB/s   00:00    \r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000492,
+      "\rpages-1.img                                                                                                                                                                                                                                                                                     0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.037116,
+      "\rpages-1.img                                                                                                                                                                                                                                                                                   100%   60KB  60.0KB/s   00:00    \r\r\n"
+    ],
+    [
+      0.000766,
+      "\rfdinfo-2.img                                                                                                                                                                                                                                                                                    0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000582,
+      "\rfdinfo-2.img                                                                                                                                                                                                                                                                                  100%   44     0.0KB/s   00:00    \r"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.000612,
+      "\rfs-1.img                                                                                                                                                                                                                                                                                        0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000547,
+      "\rfs-1.img                                                                                                                                                                                                                                                                                      100%   18     0.0KB/s   00:00    \r\r\n"
+    ],
+    [
+      0.000576,
+      "\rcore-469.img                                                                                                                                                                                                                                                                                    0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000517,
+      "\rcore-469.img                                                                                                                                                                                                                                                                                  100%  720     0.7KB/s   00:00    \r\r\n"
+    ],
+    [
+      0.003406,
+      "\rpagemap-469.img                                                                                                                                                                                                                                                                                 0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.004147,
+      "\rpagemap-469.img                                                                                                                                                                                                                                                                               100%   86     0.1KB/s   00:00    \r\r\n"
+    ],
+    [
+      0.000576,
+      "\rmountpoints-11.img                                                                                                                                                                                                                                                                              0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.040126,
+      "\rmountpoints-11.img                                                                                                                                                                                                                                                                            100% 2117     2.1KB/s   00:00    \r\r\n"
+    ],
+    [
+      0.000919,
+      "\rifaddr-8.img                                                                                                                                                                                                                                                                                    0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000725,
+      "\rifaddr-8.img                                                                                                                                                                                                                                                                                  100%  272     0.3KB/s   00:00    \r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000637,
+      "\rinventory.img                                                                                                                                                                                                                                                                                   0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000470,
+      "\rinventory.img                                                                                                                                                                                                                                                                                 100%   38     0.0KB/s   00:00    \r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000550,
+      "\rfdinfo-3.img                                                                                                                                                                                                                                                                                    0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000473,
+      "\rfdinfo-3.img                                                                                                                                                                                                                                                                                  100%   44     0.0KB/s   00:00    \r"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000524,
+      "\rcreds-1.img                                                                                                                                                                                                                                                                                     0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000417,
+      "\rcreds-1.img                                                                                                                                                                                                                                                                                   100%   80     0.1KB/s   00:00    \r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000534,
+      "\rtmpfs-dev-40.tar.gz.img                                                                                                                                                                                                                                                                         0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000515,
+      "\rtmpfs-dev-40.tar.gz.img                                                                                                                                                                                                                                                                       100%  246     0.2KB/s   00:00    \r\r\n"
+    ],
+    [
+      0.000479,
+      "\rpagemap-1.img                                                                                                                                                                                                                                                                                   0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000509,
+      "\rpagemap-1.img                                                                                                                                                                                                                                                                                 100%   86     0.1KB/s   00:00    \r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.038149,
+      "\rutsns-10.img                                                                                                                                                                                                                                                                                    0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000611,
+      "\rutsns-10.img                                                                                                                                                                                                                                                                                  100%   34     0.0KB/s   00:00    \r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000616,
+      "\rsigacts-469.img                                                                                                                                                                                                                                                                                 0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000589,
+      "\rsigacts-469.img                                                                                                                                                                                                                                                                               100%  752     0.7KB/s   00:00    \r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000531,
+      "\rcore-1.img                                                                                                                                                                                                                                                                                      0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000448,
+      "\rcore-1.img                                                                                                                                                                                                                                                                                    100%  720     0.7KB/s   00:00    \r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000570,
+      "\rsigacts-1.img                                                                                                                                                                                                                                                                                   0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000491,
+      "\rsigacts-1.img                                                                                                                                                                                                                                                                                 100%  816     0.8KB/s   00:00    \r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000470,
+      "\ripcns-var-9.img                                                                                                                                                                                                                                                                                 0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000441,
+      "\ripcns-var-9.img                                                                                                                                                                                                                                                                               100%   59     0.1KB/s   00:00    \r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000466,
+      "\rids-1.img                                                                                                                                                                                                                                                                                       0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000520,
+      "\rids-1.img                                                                                                                                                                                                                                                                                     100%   32     0.0KB/s   00:00    \r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000466,
+      "\rdescriptors.json                                                                                                                                                                                                                                                                                0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000382,
+      "\rdescriptors.json                                                                                                                                                                                                                                                                              100%   43     0.0KB/s   00:00    \r"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000448,
+      "\rpipes.img                                                                                                                                                                                                                                                                                       0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000350,
+      "\rpipes.img                                                                                                                                                                                                                                                                                     100%   58     0.1KB/s   00:00    \r\r\n"
+    ],
+    [
+      0.000423,
+      "\rtmpfs-dev-41.tar.gz.img                                                                                                                                                                                                                                                                         0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000353,
+      "\rtmpfs-dev-41.tar.gz.img                                                                                                                                                                                                                                                                       100%  406     0.4KB/s   00:00    \r\r\n"
+    ],
+    [
+      0.000423,
+      "\rmm-469.img                                                                                                                                                                                                                                                                                      0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000351,
+      "\rmm-469.img                                                                                                                                                                                                                                                                                    100%  411     0.4KB/s   00:00    \r\r\n"
+    ],
+    [
+      0.000423,
+      "\rfs-469.img                                                                                                                                                                                                                                                                                      0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000406,
+      "\rfs-469.img                                                                                                                                                                                                                                                                                    100%   18     0.0KB/s   00:00    \r\r\n"
+    ],
+    [
+      0.000466,
+      "\rcgroup.img                                                                                                                                                                                                                                                                                      0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.036793,
+      "\rcgroup.img                                                                                                                                                                                                                                                                                    100% 2176     2.1KB/s   00:00    \r\r\n"
+    ],
+    [
+      0.000885,
+      "\rroute-8.img                                                                                                                                                                                                                                                                                     0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000626,
+      "\rroute-8.img                                                                                                                                                                                                                                                                                   100%  116     0.1KB/s   00:00    \r\r\n"
+    ],
+    [
+      0.000648,
+      "\rids-469.img                                                                                                                                                                                                                                                                                     0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000617,
+      "\rids-469.img                                                                                                                                                                                                                                                                                   100%   32     0.0KB/s   00:00    \r\r\n"
+    ],
+    [
+      0.000597,
+      "\rmm-1.img                                                                                                                                                                                                                                                                                        0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000451,
+      "\rmm-1.img                                                                                                                                                                                                                                                                                      100%  411     0.4KB/s   00:00    \r\r\n"
+    ],
+    [
+      0.000441,
+      "\rnetdev-8.img                                                                                                                                                                                                                                                                                    0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000379,
+      "\rnetdev-8.img                                                                                                                                                                                                                                                                                  100%  168     0.2KB/s   00:00    \r\r\n"
+    ],
+    [
+      0.000434,
+      "\riptables-8.img                                                                                                                                                                                                                                                                                  0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000461,
+      "\riptables-8.img                                                                                                                                                                                                                                                                                100%  392     0.4KB/s   00:00    \r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000495,
+      "\rpstree.img                                                                                                                                                                                                                                                                                      0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000471,
+      "\rpstree.img                                                                                                                                                                                                                                                                                    100%   38     0.0KB/s   00:00    \r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000584,
+      "\rnetns-8.img                                                                                                                                                                                                                                                                                     0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000358,
+      "\rnetns-8.img                                                                                                                                                                                                                                                                                   100%  124     0.1KB/s   00:00    \r"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000406,
+      "\rtmpfs-dev-43.tar.gz.img                                                                                                                                                                                                                                                                         0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000373,
+      "\rtmpfs-dev-43.tar.gz.img                                                                                                                                                                                                                                                                       100%   98     0.1KB/s   00:00    \r\r\n"
+    ],
+    [
+      0.001758,
+      "/tmp/docker-migration\r\r\n"
+    ],
+    [
+      0.000191,
+      "/tmp/vg-2 /tmp/docker-migration\r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.524027,
+      "\rsigacts-1.img                                                                                                                                                                                                                                                                                   0%    0     0.0KB/s   --:-- ETA\rsigacts-1.img                                                                                                                                                                                                                                                                                 100%  816     0.8KB/s   00:00    \r\r\n"
+    ],
+    [
+      0.001296,
+      "\rpipes.img                                                                                                                                                                                                                                                                                       0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000194,
+      "\rpipes.img                                                                                                                                                                                                                                                                                     100%   58     0.1KB/s   00:00    \r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.001085,
+      "\ripcns-var-9.img                                                                                                                                                                                                                                                                                 0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000194,
+      "\ripcns-var-9.img                                                                                                                                                                                                                                                                               100%   59     0.1KB/s   00:00    \r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.001013,
+      "\rpagemap-469.img                                                                                                                                                                                                                                                                                 0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000182,
+      "\rpagemap-469.img                                                                                                                                                                                                                                                                               100%   86     0.1KB/s   00:00    \r"
+    ],
+    [
+      0.000035,
+      "\r\n"
+    ],
+    [
+      0.000932,
+      "\rnetns-8.img                                                                                                                                                                                                                                                                                     0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000185,
+      "\rnetns-8.img                                                                                                                                                                                                                                                                                   100%  124     0.1KB/s   00:00    \r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000771,
+      "\rcore-1.img                                                                                                                                                                                                                                                                                      0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000172,
+      "\rcore-1.img                                                                                                                                                                                                                                                                                    100%  720     0.7KB/s   00:00    \r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000845,
+      "\rcgroup.img                                                                                                                                                                                                                                                                                      0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000169,
+      "\rcgroup.img                                                                                                                                                                                                                                                                                    100% 2176     2.1KB/s   00:00    \r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.001118,
+      "\rmountpoints-11.img                                                                                                                                                                                                                                                                              0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000211,
+      "\rmountpoints-11.img                                                                                                                                                                                                                                                                            100% 2117     2.1KB/s   00:00    \r\r\n"
+    ],
+    [
+      0.000893,
+      "\rreg-files.img                                                                                                                                                                                                                                                                                   0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000216,
+      "\rreg-files.img                                                                                                                                                                                                                                                                                 100%  103     0.1KB/s   00:00    \r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.002994,
+      "\rpagemap-1.img                                                                                                                                                                                                                                                                                   0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000188,
+      "\rpagemap-1.img                                                                                                                                                                                                                                                                                 100%   86     0.1KB/s   00:00    \r\r\n"
+    ],
+    [
+      0.001086,
+      "\rinventory.img                                                                                                                                                                                                                                                                                   0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000198,
+      "\rinventory.img                                                                                                                                                                                                                                                                                 100%   38     0.0KB/s   00:00    \r"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.000967,
+      "\rids-1.img                                                                                                                                                                                                                                                                                       0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000177,
+      "\rids-1.img                                                                                                                                                                                                                                                                                     100%   32     0.0KB/s   00:00    \r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000734,
+      "\rfs-469.img                                                                                                                                                                                                                                                                                      0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000187,
+      "\rfs-469.img                                                                                                                                                                                                                                                                                    100%   18     0.0KB/s   00:00    \r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000852,
+      "\rtmpfs-dev-43.tar.gz.img                                                                                                                                                                                                                                                                         0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000212,
+      "\rtmpfs-dev-43.tar.gz.img                                                                                                                                                                                                                                                                       100%   98     0.1KB/s   00:00    \r\r\n"
+    ],
+    [
+      0.000778,
+      "\rpstree.img                                                                                                                                                                                                                                                                                      0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000205,
+      "\rpstree.img                                                                                                                                                                                                                                                                                    100%   38     0.0KB/s   00:00    \r\r\n"
+    ],
+    [
+      0.000798,
+      "\rnetdev-8.img                                                                                                                                                                                                                                                                                    0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000186,
+      "\rnetdev-8.img                                                                                                                                                                                                                                                                                  100%  168     0.2KB/s   00:00    \r\r\n"
+    ],
+    [
+      0.000755,
+      "\rids-469.img                                                                                                                                                                                                                                                                                     0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000178,
+      "\rids-469.img                                                                                                                                                                                                                                                                                   100%   32     0.0KB/s   00:00    \r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000846,
+      "\rtmpfs-dev-40.tar.gz.img                                                                                                                                                                                                                                                                         0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000184,
+      "\rtmpfs-dev-40.tar.gz.img                                                                                                                                                                                                                                                                       100%  246     0.2KB/s   00:00    \r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000791,
+      "\rfdinfo-3.img                                                                                                                                                                                                                                                                                    0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000189,
+      "\rfdinfo-3.img                                                                                                                                                                                                                                                                                  100%   44     0.0KB/s   00:00    \r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000735,
+      "\rmm-469.img                                                                                                                                                                                                                                                                                      0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000181,
+      "\rmm-469.img                                                                                                                                                                                                                                                                                    100%  411     0.4KB/s   00:00    \r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000718,
+      "\rcreds-469.img                                                                                                                                                                                                                                                                                   0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000189,
+      "\rcreds-469.img                                                                                                                                                                                                                                                                                 100%   80     0.1KB/s   00:00    \r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000808,
+      "\rsigacts-469.img                                                                                                                                                                                                                                                                                 0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000190,
+      "\rsigacts-469.img                                                                                                                                                                                                                                                                               100%  752     0.7KB/s   00:00    \r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000741,
+      "\rfs-1.img                                                                                                                                                                                                                                                                                        0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000188,
+      "\rfs-1.img                                                                                                                                                                                                                                                                                      100%   18     0.0KB/s   00:00    \r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000782,
+      "\rpages-2.img                                                                                                                                                                                                                                                                                     0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000181,
+      "\rpages-2.img                                                                                                                                                                                                                                                                                   100%   40KB  40.0KB/s   00:00    \r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.002348,
+      "\rmm-1.img                                                                                                                                                                                                                                                                                        0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000181,
+      "\rmm-1.img                                                                                                                                                                                                                                                                                      100%  411     0.4KB/s   00:00    \r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000939,
+      "\rfdinfo-2.img                                                                                                                                                                                                                                                                                    0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000186,
+      "\rfdinfo-2.img                                                                                                                                                                                                                                                                                  100%   44     0.0KB/s   00:00    \r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000929,
+      "\rutsns-10.img                                                                                                                                                                                                                                                                                    0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000177,
+      "\rutsns-10.img                                                                                                                                                                                                                                                                                  100%   34     0.0KB/s   00:00    \r\r\n"
+    ],
+    [
+      0.001013,
+      "\rcreds-1.img                                                                                                                                                                                                                                                                                     0%    0     0.0KB/s   --:-- ETA\rcreds-1.img                                                                                                                                                                                                                                                                                   100%   80     0.1KB/s   00:00    \r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000916,
+      "\rtmpfs-dev-41.tar.gz.img                                                                                                                                                                                                                                                                         0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000173,
+      "\rtmpfs-dev-41.tar.gz.img                                                                                                                                                                                                                                                                       100%  406     0.4KB/s   00:00    \r\r\n"
+    ],
+    [
+      0.000803,
+      "\rcore-469.img                                                                                                                                                                                                                                                                                    0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000171,
+      "\rcore-469.img                                                                                                                                                                                                                                                                                  100%  720     0.7KB/s   00:00    \r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000779,
+      "\riptables-8.img                                                                                                                                                                                                                                                                                  0%    0     0.0KB/s   --:-- ETA\riptables-8.img                                                                                                                                                                                                                                                                                100%  392     0.4KB/s   00:00    \r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000913,
+      "\rdescriptors.json                                                                                                                                                                                                                                                                                0%    0     0.0KB/s   --:-- ETA\rdescriptors.json                                                                                                                                                                                                                                                                              100%   43     0.0KB/s   00:00    \r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.001008,
+      "\rroute-8.img                                                                                                                                                                                                                                                                                     0%    0     0.0KB/s   --:-- ETA\rroute-8.img                                                                                                                                                                                                                                                                                   100%  116     0.1KB/s   00:00    \r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000908,
+      "\rpages-1.img                                                                                                                                                                                                                                                                                     0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000183,
+      "\rpages-1.img                                                                                                                                                                                                                                                                                   100%   60KB  60.0KB/s   00:00    \r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.040144,
+      "\rifaddr-8.img                                                                                                                                                                                                                                                                                    0%    0     0.0KB/s   --:-- ETA\rifaddr-8.img                                                                                                                                                                                                                                                                                  100%  272     0.3KB/s   00:00    \r"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.002483,
+      "/tmp/docker-migration\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000182,
+      "/tmp/vg-2 /tmp/docker-migration\r\r\n"
+    ],
+    [
+      0.106042,
+      "/opt/vagrant/bin/../embedded/gems/gems/vagrant-1.7.2/lib/vagrant/pre-rubygems.rb:31: warning: Insecure world writable dir /space in PATH, mode 040777\r\r\n"
+    ],
+    [
+      0.388208,
+      "/opt/vagrant/embedded/gems/gems/bundler-1.7.11/lib/bundler/runtime.rb:222: warning: Insecure world writable dir /space in PATH, mode 040777\r\r\n"
+    ],
+    [
+      7.674756,
+      "e65a15fb7963df16ba1ee6a533c7de21bc1e34dcbea3ac2a828e348450876671\r\r\n"
+    ],
+    [
+      0.001791,
+      "/tmp/docker-migration\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000242,
+      "SHUTIT_gNpRWl1I#GJoXrHIX\u003e"
+    ],
+    [
+      0.050453,
+      " echo EXIT_CODE:$?"
+    ],
+    [
+      0.050131,
+      "\r\n"
+    ],
+    [
+      0.000097,
+      " echo EXIT_CODE:$?\r\r\n"
+    ],
+    [
+      0.000241,
+      "EXIT_CODE:0\r\r\nSHUTIT_gNpRWl1I#GJoXrHIX\u003e"
+    ],
+    [
+      0.000243,
+      "\r\n\u001b[32m\u001b[0m\u001b[32m\u001b[32m\r\nYou can now type in commands and alter the state of the target.\r\nHit return to see the prompt\r\nHit CTRL and ] at the same time to continue with build\r\n"
+    ],
+    [
+      0.000021,
+      "\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      2.967201,
+      "d"
+    ],
+    [
+      0.135051,
+      "o"
+    ],
+    [
+      0.143960,
+      "c"
+    ],
+    [
+      0.128048,
+      "k"
+    ],
+    [
+      0.191700,
+      "e"
+    ],
+    [
+      0.048237,
+      "r"
+    ],
+    [
+      0.184446,
+      " "
+    ],
+    [
+      0.320212,
+      "p"
+    ],
+    [
+      0.183985,
+      "s"
+    ],
+    [
+      0.944335,
+      "\r\n"
+    ],
+    [
+      0.449631,
+      "CONTAINER ID        IMAGE                                      COMMAND"
+    ],
+    [
+      0.000015,
+      "                CREATED             STATUS              PORTS                     NAMES\r\nca4044af9b66        themortgagemeter/themortgagemeter:latest"
+    ],
+    [
+      0.000009,
+      "   \"/root/start_themort   11 hours ago        Up 11 hours"
+    ],
+    [
+      0.000023,
+      "         0.0.0.0:40001-\u003e80/tcp     themortgagemeter"
+    ],
+    [
+      0.000023,
+      "           \r\ne5340694e2ea        land_registry:latest"
+    ],
+    [
+      0.000037,
+      "                       \"/bin/sh -c '/root/s   34 hours ago"
+    ],
+    [
+      0.000009,
+      "        Up 34 hours         0.0.0.0:15433-\u003e5432/tcp   "
+    ],
+    [
+      0.000013,
+      "land_registry              "
+    ],
+    [
+      0.000022,
+      "\r\nedcddceca086        phppgadmin:latest"
+    ],
+    [
+      0.000038,
+      "                          \"/bin/sh -c '/bin/sh   7 days ago"
+    ],
+    [
+      0.000009,
+      "          Up 4 days           "
+    ],
+    [
+      0.000008,
+      "0.0.0.0:15430-\u003e80/tcp     land_registry_phppgadmin   "
+    ],
+    [
+      0.000023,
+      "\r\n0baa703b8cf8        land_registry_haproxy:latest"
+    ],
+    [
+      0.000042,
+      "               \"haproxy -f /usr/loc   7 days ago          Up 4 days                   "
+    ],
+    [
+      0.000009,
+      "                  land_registry_haproxy"
+    ],
+    [
+      0.000027,
+      "      \r\n"
+    ],
+    [
+      0.000918,
+      "SHUTIT_gNpRWl1I#GJoXrHIX\u003e"
+    ],
+    [
+      3.125128,
+      "p"
+    ],
+    [
+      0.039706,
+      "w"
+    ],
+    [
+      0.071170,
+      "d"
+    ],
+    [
+      0.200686,
+      "\r\n"
+    ],
+    [
+      0.000145,
+      "/home/imiell\r\n"
+    ],
+    [
+      0.000011,
+      "SHUTIT_gNpRWl1I#GJoXrHIX\u003e"
+    ],
+    [
+      1.376213,
+      "c"
+    ],
+    [
+      0.054875,
+      "d"
+    ],
+    [
+      0.072057,
+      " "
+    ],
+    [
+      0.184629,
+      "/"
+    ],
+    [
+      1.584369,
+      "t"
+    ],
+    [
+      0.120009,
+      "m"
+    ],
+    [
+      0.055779,
+      "p"
+    ],
+    [
+      0.111148,
+      "/"
+    ],
+    [
+      0.632847,
+      "v"
+    ],
+    [
+      0.287442,
+      "g"
+    ],
+    [
+      0.320443,
+      "-"
+    ],
+    [
+      0.103767,
+      "2"
+    ],
+    [
+      0.416274,
+      "\r\n"
+    ],
+    [
+      0.000297,
+      "SHUTIT_gNpRWl1I#GJoXrHIX\u003e"
+    ],
+    [
+      0.880032,
+      "v"
+    ],
+    [
+      0.192005,
+      "a"
+    ],
+    [
+      0.062872,
+      "g"
+    ],
+    [
+      0.232830,
+      "r"
+    ],
+    [
+      0.055135,
+      "a"
+    ],
+    [
+      0.184667,
+      "n"
+    ],
+    [
+      0.144074,
+      "t"
+    ],
+    [
+      0.104112,
+      " "
+    ],
+    [
+      0.144091,
+      "s"
+    ],
+    [
+      0.151342,
+      "s"
+    ],
+    [
+      0.079762,
+      "h"
+    ],
+    [
+      0.376755,
+      "\r\n"
+    ],
+    [
+      0.142907,
+      "/opt/vagrant/bin/../embedded/gems/gems/vagrant-1.7.2/lib/vagrant/pre-rubygems.rb:31: warning: Insecure world writable dir /space in PATH, mode 040777\r\n"
+    ],
+    [
+      0.396253,
+      "/opt/vagrant/embedded/gems/gems/bundler-1.7.11/lib/bundler/runtime.rb:222: warning: Insecure world writable dir /space in PATH, mode 040777\r\n"
+    ],
+    [
+      2.242449,
+      "Welcome to Ubuntu 14.04.2 LTS (GNU/Linux 3.13.11-ckt22 x86_64)\r\n\r\n * Documentation:  https://help.ubuntu.com/\r\n\r\n  System information as of Sun Oct 11 10:52:54 UTC 2015\r\n\r\n  System load:  0.24               Processes:              86\r\n  Usage of /:   21.0% of 39.34GB   Users logged in:        0\r\n  Memory usage: 4%                 IP address for eth0:    10.0.2.15\r\n  Swap usage:   0%                 IP address for docker0: 172.17.42.1\r\n\r\n  Graph this data and manage this system at:\r\n    https://landscape.canonical.com/\r\n\r\n  Get cloud support with Ubuntu Advantage Cloud Guest:\r\n    http://www.ubuntu.com/business/services/cloud\r\n\r\n\r\nLast login: Sat Sep  5 12:23:08 2015 from 10.0.2.2\r\r\n"
+    ],
+    [
+      0.186383,
+      "\u001b]0;vagrant@vagrant-ubuntu-trusty-64: ~\u0007vagrant@vagrant-ubuntu-trusty-64:~$ "
+    ],
+    [
+      1.305737,
+      "d"
+    ],
+    [
+      0.127403,
+      "o"
+    ],
+    [
+      0.110879,
+      "c"
+    ],
+    [
+      0.095756,
+      "k"
+    ],
+    [
+      0.112143,
+      "e"
+    ],
+    [
+      0.039985,
+      "r"
+    ],
+    [
+      0.136068,
+      " "
+    ],
+    [
+      0.087794,
+      "p"
+    ],
+    [
+      0.168443,
+      "s"
+    ],
+    [
+      0.257062,
+      " "
+    ],
+    [
+      0.150942,
+      "-"
+    ],
+    [
+      0.135815,
+      "a"
+    ],
+    [
+      0.184495,
+      "\r\n"
+    ],
+    [
+      0.066913,
+      "CONTAINER ID        IMAGE"
+    ],
+    [
+      0.000084,
+      "               "
+    ],
+    [
+      0.000140,
+      "COMMAND             CREATED             STATUS"
+    ],
+    [
+      0.000163,
+      "              PORTS               NAMES"
+    ],
+    [
+      0.000141,
+      "\r\ne65a15fb7963        busybox             "
+    ],
+    [
+      0.000162,
+      "\"sh\"                23 seconds ago      Up 23 seconds"
+    ],
+    [
+      0.001121,
+      "                           np"
+    ],
+    [
+      0.000129,
+      "\r\n\u001b]0;vagrant@vagrant-ubuntu-trusty-64: ~\u0007vagrant@vagrant-ubuntu-trusty-64:~$ "
+    ],
+    [
+      3.276129,
+      "d"
+    ],
+    [
+      0.079765,
+      "o"
+    ],
+    [
+      0.158816,
+      "c"
+    ],
+    [
+      0.047644,
+      "k"
+    ],
+    [
+      0.152201,
+      "e"
+    ],
+    [
+      0.039790,
+      "r"
+    ],
+    [
+      0.072000,
+      " "
+    ],
+    [
+      0.096165,
+      "l"
+    ],
+    [
+      0.120206,
+      "o"
+    ],
+    [
+      0.111926,
+      "g"
+    ],
+    [
+      0.063805,
+      "s"
+    ],
+    [
+      0.112116,
+      " "
+    ],
+    [
+      0.329055,
+      "n"
+    ],
+    [
+      0.344199,
+      "p"
+    ],
+    [
+      0.304040,
+      "\r\n"
+    ],
+    [
+      0.092356,
+      "\u001b]0;vagrant@vagrant-ubuntu-trusty-64: ~\u0007vagrant@vagrant-ubuntu-trusty-64:~$ "
+    ],
+    [
+      10.332874,
+      "logout\r\n"
+    ],
+    [
+      0.040845,
+      "Connection to 127.0.0.1 closed.\r\r\n"
+    ],
+    [
+      0.001142,
+      "SHUTIT_gNpRWl1I#GJoXrHIX\u003e"
+    ],
+    [
+      2.511831,
+      "exit\r\r\n"
+    ],
+    [
+      0.000239,
+      "exit\r\r\n"
+    ],
+    [
+      0.000742,
+      "SHUTIT_default#96vvI3Zb\u003e"
+    ],
+    [
+      1.338378,
+      "^]"
+    ],
+    [
+      0.864028,
+      "\u0008 \u0008\u0008 \u0008"
+    ],
+    [
+      0.471674,
+      "^C"
+    ],
+    [
+      0.032077,
+      "\r\n********************************************************************************\r\nCTRL-c caught\r\n"
+    ],
+    [
+      0.000016,
+      "You may need to wait for the command to complete for a pause point\r\nCTRL-c twice to quit.\r\n********************************************************************************\r\n"
+    ],
+    [
+      0.345845,
+      "^C"
+    ],
+    [
+      0.000224,
+      "\r\r\nSHUTIT_default#96vvI3Zb\u003e"
+    ],
+    [
+      2.052125,
+      "Error caught: CTRL-C sent by ShutIt following a timeout, and could not recover\r\n\r\n"
+    ],
+    [
+      0.000035,
+      "\r\n\u001b[32mFAIL: CTRL-C sent by ShutIt following a timeout, and could not recover\u001b[0m\u001b[32m\u001b[32m"
+    ],
+    [
+      0.000010,
+      "\r\nYou can now type in commands and alter the state of the target.\r\nHit return to see the prompt\r\nHit CTRL and ] at the same time to continue with build"
+    ],
+    [
+      0.000009,
+      "\r\n\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000028,
+      "exit\r"
+    ],
+    [
+      0.000008,
+      "\r\nexit\r\r\nSHUTIT_default#96vvI3Zb\u003e^C\r\r\n"
+    ],
+    [
+      0.000022,
+      "SHUTIT_default#96vvI3Zb\u003e"
+    ],
+    [
+      1.745889,
+      "exit\r\n"
+    ],
+    [
+      0.018828,
+      "Error caught: Failed to interact, probably because this is run non-interactively,\r\nor was previously CTRL-C'd\r\n[Errno 5] Input/output error\r\n\r\n"
+    ],
+    [
+      0.000032,
+      "\r\n\u001b[32mFAIL: Failed to interact, probably because this is run non-interactively,"
+    ],
+    [
+      0.000010,
+      "\r\nor was previously CTRL-C'd\r\n[Errno 5] Input/output error\u001b[0m\u001b[32m\u001b[32m\r\nYou can now type in commands and alter the state of the target.\r\n"
+    ],
+    [
+      0.000008,
+      "Hit return to see the prompt\r\nHit CTRL and ] at the same time to continue with build\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000157,
+      "\r\n\u001b[32mCTRL-C sent by ShutIt following a timeout; the command has been cancelled\u001b[0m\u001b[32m\u001b[32m\r\nYou can now type in commands and alter the state of the target.\r\nHit return to see the prompt\r\nHit CTRL and ] at the same time to continue with build\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.100560,
+      "cd /space/git/shutit-criu\r\r\n"
+    ],
+    [
+      0.001034,
+      "Traceback (most recent call last):\r\n  File \"/usr/local/bin/shutit\", line 11, in \u003cmodule\u003e\r\n"
+    ],
+    [
+      0.000033,
+      "    sys.exit(main())"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "  File \"/usr/local/lib/python2.7/dist-packages/shutit_main.py\", line 956, in main"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.022007,
+      "    do_build(shutit)\r\n"
+    ],
+    [
+      0.000011,
+      "  File \"/usr/local/lib/python2.7/dist-packages/shutit_main.py\", line 745, in do_build\r\n"
+    ],
+    [
+      0.000191,
+      "    shutit.chdir(revert_dir)\r\n  File \"/usr/local/lib/python2.7/dist-packages/shutit_global.py\", line 896, in chdir\r\n"
+    ],
+    [
+      0.004935,
+      "    self.send('cd ' + path, expect=expect, child=child, timeout=timeout)\r\n"
+    ],
+    [
+      0.000011,
+      "  File \"/usr/local/lib/python2.7/dist-packages/shutit_global.py\", line 535, in send\r\n"
+    ],
+    [
+      0.000143,
+      "    expect_res = self._expect_allow_interrupt(child, expect, timeout)\r\n  File \"/usr/local/lib/python2.7/dist-packages/shutit_global.py\", line 643, in _expect_allow_interrupt\r\n"
+    ],
+    [
+      0.000155,
+      "    res = child.expect(expect + [pexpect.TIMEOUT], timeout=iteration_s)\r\n  File \"/home/imiell/.local/lib/python2.7/site-packages/pexpect.py\", line 1316, in expect\r\n"
+    ],
+    [
+      0.000298,
+      "    return self.expect_list(compiled_pattern_list, timeout, searchwindowsize)\r\n  File \"/home/imiell/.local/lib/python2.7/site-packages/pexpect.py\", line 1330, in expect_list\r\n"
+    ],
+    [
+      0.000279,
+      "    return self.expect_loop(searcher_re(pattern_list), timeout, searchwindowsize)\r\n  File \"/home/imiell/.local/lib/python2.7/site-packages/pexpect.py\", line 1401, in expect_loop\r\n"
+    ],
+    [
+      0.013119,
+      "    raise EOF (str(e) + '\\n' + str(self))\r\n"
+    ],
+    [
+      0.000011,
+      "pexpect."
+    ],
+    [
+      0.000008,
+      "EOF"
+    ],
+    [
+      0.000008,
+      ": "
+    ],
+    [
+      0.000006,
+      "End Of File (EOF) in read_nonblocking(). Exception style platform.\r\n"
+    ],
+    [
+      0.000006,
+      "\u003cpexpect.spawn object at 0x7f8eb65bf590\u003e\r\nversion: 2.4 ($Revision: 516 $)"
+    ],
+    [
+      0.000006,
+      "\r\ncommand: /bin/bash\r\n"
+    ],
+    [
+      0.000006,
+      "args: ['/bin/bash']\r\nsearcher: searcher_re:"
+    ],
+    [
+      0.000006,
+      "\r\n    0: re.compile(\"SHUTIT_shutit.criu.criu.criu#0uefc4z6\u003e\")\r\n"
+    ],
+    [
+      0.000007,
+      "    1: TIMEOUT\r\nbuffer (last 100 chars): "
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "before (last 100 chars): cd /space/git/shutit-criu\r\r\n"
+    ],
+    [
+      0.000006,
+      "\r\nafter: \u003cclass 'pexpect.EOF'\u003e"
+    ],
+    [
+      0.000006,
+      "\r\nmatch: None"
+    ],
+    [
+      0.000006,
+      "\r\nmatch_index: None\r\n"
+    ],
+    [
+      0.000052,
+      "exitstatus: 130\r\nflag_eof: True\r\npid: 23679\r\nchild_fd: 4\r\nclosed: False\r\ntimeout: 30\r\ndelimiter: \u003cclass 'pexpect.EOF'\u003e\r\nlogfile: None\r\nlogfile_read: \u003copen file '\u003cstdout\u003e', mode 'w' at 0x7f8eb663d150\u003e\r\nlogfile_send: None\r\nmaxread: 2000\r\nignorecase: False"
+    ],
+    [
+      0.000006,
+      "\r\nsearchwindowsize: 1024\r\n"
+    ],
+    [
+      0.000006,
+      "delaybeforesend: 0.05\r\n"
+    ],
+    [
+      0.000006,
+      "delayafterclose: 0.1\r\ndelayafterterminate: 0.1"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.328353,
+      "\u001b]0;imiell@rothko: /space/git/shutit-criu\u0007imiell@rothko:/space/git/shutit-criu$ "
+    ],
+    [
+      1.493317,
+      "exit"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ]
+  ]
+}
