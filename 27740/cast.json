@@ -1,0 +1,478 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 26.996894,
+  "command": "emacs -q",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/usr/local/bin/fish"
+  },
+  "stdout": [
+    [
+      0.034688,
+      "\u001b[?1049h\u001b[?12;25h\u001b[?1h\u001b="
+    ],
+    [
+      0.014110,
+      "\u001b[H\u001b[2J"
+    ],
+    [
+      0.000037,
+      "\u001b[24d\u001b[K\u001b[?1l\u001b\u003e\u001b[?12l\u001b[?25h\u001b[?1049l\u001b[39;49m\r"
+    ],
+    [
+      0.000085,
+      "\u001b[?1049h\u001b[?12;25h\u001b[?1h\u001b="
+    ],
+    [
+      0.032530,
+      "\u001b[\u003e0c"
+    ],
+    [
+      0.000028,
+      "\u001b[H\u001b[2J"
+    ],
+    [
+      0.007095,
+      "\u001b[24d\u001b[K\u001b[H\u001b[?25l\u001b[7mFile Edit Options Buffers Tools Lisp-Interaction Help                           \u001b[0m\u001b[39;49m\u001b[27m\r\n\u001b[A\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K"
+    ],
+    [
+      0.000025,
+      "\n\u001b[K\n\u001b[30m\u001b[48;5;250m-UUU:----F1  \u001b[39;49m\u001b[1m\u001b[30m\u001b[48;5;250m*scratch*   \u001b[0m\u001b[39;49m\u001b[30m\u001b[48;5;250m   All L1     (Lisp Interaction) ----------------------\u001b[39;49m\r\n\u001b[A\u001b[2d\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.000598,
+      "\u001b[24d\u001b[?25lFor information about GNU Emacs and the GNU system, type C-h C-a.\u001b[H\n\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.027141,
+      "\u001b[24d\u001b[?25lFor information about GNU Emacs and the GNU system, type C-h C-a.\u001b[K\u001b[H\u001b[7mFile Edit Options Buffers Tools Help                                            \u001b[0m\u001b[39;49m\u001b[27m\r\n\u001b[A"
+    ],
+    [
+      0.000028,
+      "\nWelcome to GNU Emacs, a part of the GNU operating system.\u001b[K\r\n\u001b[K\nGet help           C-h  (Hold down CTRL and press h)\u001b[K\r\n\u001b[4m\u001b[38;5;62mEmacs manual\u001b[0m\u001b[39;49m       C-h r        \u001b[4m\u001b[38;5;62mBrowse manuals\u001b[0m\u001b[39;49m     C-h i\u001b[K\r\n\u001b[4m\u001b[38;5;62mEmacs tutorial\u001b[0m\u001b[39;49m     C-h t        Undo changes       C-x u\u001b[K\r\n\u001b[4m\u001b[38;5;62mBuy manuals\u001b[0m\u001b[39;49m        C-h RET      Exit Emacs         C-x C-c\u001b[K\r\n\u001b[4m\u001b[38;5;62mActivate menubar\u001b[0m\u001b[39;49m   M-`\u001b[K\r\n(`C-' means use the CTRL key.  `M-' means use the Meta (or Alt) key.\u001b[K\r\nIf you have no Meta key, you may instead type ESC followed by the character.)\u001b[K\r\nUseful tasks:\u001b[K"
+    ],
+    [
+      0.000062,
+      "\r\n\u001b[4m\u001b[38;5;62mVisit New File\u001b[0m\u001b[39;49m                  \u001b[4m\u001b[38;5;62mOpen Home Directory\u001b[0m\u001b[39;49m\u001b[K\r\n\u001b[4m\u001b[38;5;62mCustomize Startup\u001b[0m\u001b[39;49m               \u001b[4m\u001b[38;5;62mOpen *scratch* buffer\u001b[0m\u001b[39;49m\u001b[K\r\n\u001b[K\nGNU Emacs 24.5.1 (x86_64-apple-darwin14.4.0, NS apple-appkit-1348.17)\u001b[K\r\n of 2015-07-12 on localhost\u001b[K"
+    ],
+    [
+      0.000024,
+      "\r\nCopyright (C) 2015 Free Software Foundation, Inc.\u001b[K\r\n\u001b[K\nGNU Emacs comes with ABSOLUTELY NO WARRANTY; type C-h C-w for \u001b[4m\u001b[38;5;62mfull details\u001b[0m\u001b[39;49m.\u001b[K\r\nEmacs is Free Software--Free as in Freedom--so you can redistribute copies\u001b[K\r\nof Emacs and modify it; type C-h C-c to see \u001b[4m\u001b[38;5;62mthe conditions\u001b[0m\u001b[39;49m.\u001b[K"
+    ],
+    [
+      0.000058,
+      "\r\nType C-h C-o for information on \u001b[4m\u001b[38;5;62mgetting the latest version\u001b[0m\u001b[39;49m.\u001b[K\r\n\u001b[30m\u001b[48;5;250m-UUU:%%--F1  \u001b[39;49m\u001b[1m\u001b[30m\u001b[48;5;250m*GNU Emacs* \u001b[0m\u001b[39;49m\u001b[30m\u001b[48;5;250m   Top L1     (Fundamental) ---------------------------\u001b[39;49m\r\n\u001b[A\u001b[2d\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      1.646621,
+      "\u001b[24d\u001b[K\u001b[2d"
+    ],
+    [
+      0.177694,
+      "\u001b[24d\u001b[?25l\u001b[38;5;20mFind file: \u001b[39;49m~/\u001b[1;33H\u001b[7mMinibuf Help\u001b[0m\u001b[39;49m\u001b[27m"
+    ],
+    [
+      0.000029,
+      "\u001b[24;14H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.679940,
+      "\u001b[C\u001b[?25l[Complete, but not unique]\u001b[24;14H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.357192,
+      "\r\u001b[?25lMaking completion list...\u001b[K\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.026882,
+      "\r\u001b[?25l\u001b[38;5;20mFind file: \u001b[39;49m~/ [Complete, but not unique]"
+    ],
+    [
+      0.000051,
+      "\u001b[12;1H\u001b[30m\u001b[48;5;250m-UUU:%%--F1  \u001b[39;49m\u001b[1m\u001b[30m\u001b[48;5;250m*GNU Emacs* \u001b[0m\u001b[39;49m\u001b[30m\u001b[48;5;250m   Top L1     (Fundamental) ---------------------------\u001b[39;49m\r\nIn this buffer, type RET to select the completion near point.\r\n\nPossible completions are:\u001b[K\r\n\u001b[1m.\u001b[0m#foo                                  \u001b[1m.\u001b[0m./\r\n\u001b[1m.\u001b[0m/                                     \u001b[1m.\u001b[0mCFUserTextEncoding\r\n\u001b[1m.\u001b[0mDS_Store                              \u001b[1m.\u001b[0mFontForge/\r\n\u001b[1m.\u001b[0mTrash/                                \u001b[1m.\u001b[0mXauthority\u001b[K\r\n\u001b[1m.\u001b[0mactivator/                            \u001b[1m.\u001b[0mandroid/\u001b[K\r\n\u001b[1m.\u001b[0mappcfg_cookies                        \u001b[1m.\u001b[0mappcfg_nag\u001b[K"
+    ],
+    [
+      0.000011,
+      "\r\n\u001b[1m.\u001b[0mappcfg_oauth2_tokens                  \u001b[1m.\u001b[0mappcfg_oauth2_tokens_java\r\n\u001b[38;5;236m\u001b[47m-UUU:%%--F1  \u001b[39;49m\u001b[1m\u001b[38;5;236m\u001b[47m*Completions*\u001b[0m\u001b[39;49m\u001b[38;5;236m\u001b[47m   Top L1     (Completion List) ----------------------\u001b[39;49m\r\n\u001b[24;14H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      1.102156,
+      "\u001b[?25ls\u001b[K\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.127299,
+      "\u001b[?25lc\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.344483,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.192315,
+      "\u001b[?25la\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.177118,
+      "\u001b[?25lndbox/\u001b[12;1H\u001b[4m\u001b[38;5;62mVisit New File\u001b[0m\u001b[39;49m                  \u001b[4m\u001b[38;5;62mOpen Home Directory\u001b[0m\u001b[39;49m\u001b[K\r\n\u001b[4m\u001b[38;5;62mCustomize Startup\u001b[0m\u001b[39;49m               \u001b[4m\u001b[38;5;62mOpen *scratch* buffer\u001b[0m\u001b[39;49m\u001b[K\r\n\nGNU Emacs 24.5.1 (x86_64-apple-darwin14.4.0, NS apple-appkit-1348.17)\r\n of 2015-07-12 on localhost\u001b[K"
+    ],
+    [
+      0.000040,
+      "\r\nCopyright (C) 2015 Free Software Foundation, Inc.\u001b[K\r\n\u001b[K\nGNU Emacs comes with ABSOLUTELY NO WARRANTY; type C-h C-w for \u001b[4m\u001b[38;5;62mfull details\u001b[0m\u001b[39;49m.\r\nEmacs is Free Software--Free as in Freedom--so you can redistribute copies\r\nof Emacs and modify it; type C-h C-c to see \u001b[4m\u001b[38;5;62mthe conditions\u001b[0m\u001b[39;49m."
+    ],
+    [
+      0.000028,
+      "\r\nType C-h C-o for information on \u001b[4m\u001b[38;5;62mgetting the latest version\u001b[0m\u001b[39;49m.\u001b[K\r\n\u001b[30m\u001b[48;5;250m-UUU:%%--F1  \u001b[39;49m\u001b[1m\u001b[30m\u001b[48;5;250m*GNU Emacs* \u001b[0m\u001b[39;49m\u001b[30m\u001b[48;5;250m   Top L1     (Fundamental) ---------------------------\u001b[39;49m\r\n\u001b[24;22H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      1.510729,
+      "\u001b[?25lb\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.249474,
+      "\u001b[?25llog/\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      1.774130,
+      "\u0007"
+    ],
+    [
+      0.001517,
+      "\r\u001b[?25lQuit\u001b[K\u001b[1;33H\u001b[7mHelp        \u001b[0m\u001b[39;49m\u001b[27m"
+    ],
+    [
+      0.000046,
+      "\r\n\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.534564,
+      "\u001b[24d\u001b[K\u001b[2d"
+    ],
+    [
+      0.135984,
+      "\u001b[24d\u001b[?25l\u001b[38;5;20mSwitch to buffer (default *scratch*): \u001b[39;49m\u001b[1;33H\u001b[7mMinibuf Help\u001b[0m\u001b[39;49m\u001b[27m"
+    ],
+    [
+      0.000025,
+      "\u001b[24;39H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.127424,
+      "\u001b[?25ls\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.144061,
+      "\u001b[?25lc\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.192049,
+      "\u001b[?25lr\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.040340,
+      "\u001b[?25la\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.192072,
+      "\u0008\u0008\u0008\u0008\u001b[?25l*scratch*\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.607895,
+      "\r"
+    ],
+    [
+      0.001555,
+      "\u001b[K\u001b[1;33H\u001b[?25l\u001b[7mLisp-Interaction Help\u001b[0m\u001b[39;49m\u001b[27m"
+    ],
+    [
+      0.000043,
+      "\r\n\u001b[38;5;124m;; This buffer is for notes you don't want to save, and for Lisp evaluation.    \u001b[39;49m\r\n\u001b[38;5;124m;; If you want to create a file, visit that file with C-x C-f,                  \u001b[39;49m\r\n\u001b[38;5;124m;; then enter the text in that file's own buffer.                               \u001b[39;49m\r\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\n\u001b[K\n\u001b[K"
+    ],
+    [
+      0.000033,
+      "\n\u001b[K\n\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[23;6H\u001b[30m\u001b[48;5;250m----F1  \u001b[39;49m\u001b[1m\u001b[30m\u001b[48;5;250m*scratch*   \u001b[0m\u001b[39;49m\u001b[30m\u001b[48;5;250m   All L5     (Lisp Interaction) \u001b[39;49m\u001b[6;1H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.846787,
+      "\u001b[?25l(\u001b[23;6H\u001b[30m\u001b[48;5;250m**\u001b[39;49m\u001b[6;2H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.487942,
+      "\u001b[?25lr\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.048076,
+      "\u001b[?25le\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.047924,
+      "\u001b[?25lq\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.048050,
+      "\u001b[?25lu\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.135809,
+      "\u001b[?25li\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.064081,
+      "\u001b[?25lr\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.064513,
+      "\r\u001b[C\u001b[?25l\u001b[38;5;129mrequire\u001b[39;49m"
+    ],
+    [
+      0.000008,
+      "\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.047598,
+      "\u001b[C"
+    ],
+    [
+      0.095563,
+      "\u001b[?25l'\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.217089,
+      "\u001b[?25l\u001b[38;5;30mi\u001b[39;49m"
+    ],
+    [
+      0.000007,
+      "\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.094506,
+      "\u001b[?25l\u001b[38;5;30md\u001b[39;49m"
+    ],
+    [
+      0.000009,
+      "\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.128127,
+      "\u001b[?25l\u001b[38;5;30mo\u001b[39;49m"
+    ],
+    [
+      0.000007,
+      "\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.224887,
+      "\r\u001b[?25l\u001b[48;5;80m(\u001b[39;49m\u001b[38;5;129mrequire\u001b[39;49m '\u001b[38;5;30mido\u001b[39;49m)"
+    ],
+    [
+      0.000007,
+      "\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.463399,
+      "\r\u001b[?25l(\t\t\u0008\u0008\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.241808,
+      "\u001b[24;1H\u001b[?25lido\u001b[K\u001b[H\u001b[7mFile Edit Options Buffers Tools Lisp-Interaction Help                           \u001b[0m\u001b[39;49m\u001b[27m\r\n\u001b[A"
+    ],
+    [
+      0.000010,
+      "\n\u001b[38;5;124m;; This buffer is for notes you don't want to save, and for Lisp evaluation.    \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;124m;; If you want to create a file, visit that file with C-x C-f,                  \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;124m;; then enter the text in that file's own buffer.                               \u001b[39;49m\r\n\u001b[A\n\u001b[K\n(\u001b[38;5;129mrequire\u001b[39;49m '\u001b[38;5;30mido\u001b[39;49m)\u001b[K\r\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K"
+    ],
+    [
+      0.000022,
+      "\n\u001b[K\n\u001b[30m\u001b[48;5;250m-UUU:**--F1  \u001b[39;49m\u001b[1m\u001b[30m\u001b[48;5;250m*scratch*   \u001b[0m\u001b[39;49m\u001b[30m\u001b[48;5;250m   All L5     (Lisp Interaction) ----------------------\u001b[39;49m\r\n\u001b[A\u001b[6;15H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.278655,
+      "\u001b[24;1H\u001b[K\u001b[23;34H\u001b[?25l\u001b[30m\u001b[48;5;250m6\u001b[39;49m\u001b[7;1H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.375023,
+      "\u001b[?25l(\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.328626,
+      "\u001b[?25li\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.080097,
+      "\u001b[?25ld\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.103825,
+      "\u001b[?25lo\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.184091,
+      "\u001b[?25l-\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.160059,
+      "\u001b[?25lm\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.056126,
+      "\u001b[?25lo\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.055745,
+      "\u001b[?25ld\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.055625,
+      "\u001b[?25le\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.337528,
+      "\r\u001b[?25l\u001b[48;5;80m(\u001b[39;49mido-mode)"
+    ],
+    [
+      0.000008,
+      "\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.302749,
+      "\r\u001b[?25l(\u001b[7;11H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.207372,
+      "\u001b[24;1H\u001b[?25lnil\u001b[7;11H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      1.240499,
+      "\u001b[24;1H\u001b[K\u001b[7;11H"
+    ],
+    [
+      0.234824,
+      "\u001b[1;23r\u001b[21;1H\u001b[2M\u001b[1;24r\u001b[24;1H\u001b[?25l..}\u001b[1;33H\u001b[7mMinibuf Help         \u001b[0m\u001b[39;49m\u001b[27m"
+    ],
+    [
+      0.000010,
+      "\u001b[22;1H\u001b[38;5;20mFind file: ~/\u001b[39;49m{\u001b[1msandbox/\u001b[0m | \u001b[91mApplications/\u001b[39;49m | \u001b[91mDesktop/\u001b[39;49m | \u001b[91mDocuments/\u001b[39;49m | \u001b[91mDownloads/\u001b[39;49m | \u001b[91mD\u001b[39;49m\\\r\n\u001b[A\n\u001b[91mropbox/\u001b[39;49m | \u001b[91mGoogle Drive/\u001b[39;49m | \u001b[91mLibrary/\u001b[39;49m | \u001b[91mMovies/\u001b[39;49m | \u001b[91mMusic/\u001b[39;49m | \u001b[91mPictures/\u001b[39;49m | \u001b[91mPublic/\u001b[39;49m | .\\\r\n\u001b[A\u001b[22;14H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      1.213027,
+      "\r"
+    ],
+    [
+      0.003261,
+      "\n\n\u001b[?25l\u001b[91meme-darktooth/\u001b[39;49m | \u001b[91mensime-server/\u001b[39;49m | \u001b[91mevil/\u001b[39;49m | ...}"
+    ],
+    [
+      0.000044,
+      "\u001b[22;14H\u001b[38;5;20msandbox/\u001b[39;49m{\u001b[1mblog/\u001b[0m | \u001b[91mcas/\u001b[39;49m | \u001b[91mchibi-scheme/\u001b[39;49m | \u001b[91mdocker-urweb/\u001b[39;49m | \u001b[91mdot-emacs/\u001b[39;49m\r\n | \u001b[91med/\u001b[39;49m | \u001b[91melasticsearch/\u001b[39;49m | \u001b[91melm-architecture-tutorial/\u001b[39;49m | \u001b[91melm-socketio/\u001b[39;49m | \u001b[91memacs-th\u001b[39;49m\u001b[22;22H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.996136,
+      "\r"
+    ],
+    [
+      0.001625,
+      "\n\n\u001b[?25l}\u001b[K\u001b[22;22H\u001b[38;5;20mblog/\u001b[39;49m{\u001b[1mtemplates/\u001b[0m | LICENSE | README.md | \u001b[91m_cache/\u001b[39;49m | \u001b[91m_site/\u001b[39;49m \r\n| about.org | blog.cabal | \u001b[91mcss/\u001b[39;49m | index.html | \u001b[91mposts/\u001b[39;49m | \u001b[91msrc/\u001b[39;49m | stack.yaml | ...\\\r\n\u001b[22;27H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      1.551102,
+      "\u0007"
+    ],
+    [
+      0.001239,
+      "\u001b[1;23r\u001b[21;1H\u001b[2L\u001b[1;24r\u001b[24;1H\u001b[?25lQuit\u001b[1;33H\u001b[7mLisp-Interaction Help\u001b[0m\u001b[39;49m\u001b[27m"
+    ],
+    [
+      0.000032,
+      "\u001b[21;1H\u001b[K\n\u001b[K\u001b[7;11H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      1.302777,
+      "\u001b[24;1H\u001b[K\u001b[7;11H"
+    ],
+    [
+      0.184573,
+      "\u001b[24;1H\u001b[?25l\u001b[38;5;20mBuffer: \u001b[39;49m{\u001b[1m*GNU Emacs*\u001b[0m | *Messages* | *Completions* | *scratch*}\u001b[1;33H\u001b[7mMinibuf Help         \u001b[0m\u001b[39;49m\u001b[27m\u001b[24;9H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.414715,
+      "\u001b[?25lm{\u001b[1m*GNU Emacs*\u001b[0m | *Messages* | *Completions*}\u001b[K\u001b[24;10H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.096309,
+      "\u001b[?25le[\u001b[38;5;28m*Messages*\u001b[39;49m]\u001b[K\u001b[24;11H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.159818,
+      "\u001b[?25l\u001b[1@s\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.272180,
+      "\r"
+    ],
+    [
+      0.000527,
+      "\u001b[K\u001b[1;33H\u001b[?25l\u001b[7mHelp        \u001b[0m\u001b[39;49m\u001b[27m"
+    ],
+    [
+      0.000006,
+      "\r\nFor information about GNU Emacs and the GNU system, type C-h C-a.\u001b[K\r\nMaking completion list...\u001b[K\r\nQuit\u001b[K\r\nido\r\nnil\u001b[K"
+    ],
+    [
+      0.000057,
+      "\r\nQuit\u001b[K\u001b[23;6H\u001b[30m\u001b[48;5;250m%*--F1  \u001b[39;49m\u001b[1m\u001b[30m\u001b[48;5;250m*Messages*  \u001b[0m\u001b[39;49m\u001b[30m\u001b[48;5;250m   All L6     (Messages) --------\u001b[39;49m\u001b[7;5H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.400081,
+      "\u001b[24;1H\u001b[?25l\u001b[38;5;20mBuffer: \u001b[39;49m{\u001b[1m*scratch*\u001b[0m | *GNU Emacs* | *Completions* | *Messages*}\u001b[1;33H\u001b[7mMinibuf Help\u001b[0m\u001b[39;49m\u001b[27m"
+    ],
+    [
+      0.000035,
+      "\u001b[24;9H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.175020,
+      "\u001b[?25l\u001b[1@s\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.112482,
+      "\u001b[?25lc[\u001b[38;5;28m*scratch*\u001b[39;49m]\u001b[K\u001b[24;11H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      1.079855,
+      "\r"
+    ],
+    [
+      0.000588,
+      "\u001b[K\u001b[1;33H\u001b[?25l\u001b[7mLisp-Interaction Help\u001b[0m\u001b[39;49m\u001b[27m"
+    ],
+    [
+      0.000048,
+      "\r\n\u001b[38;5;124m;; This buffer is for notes you don't want to save, and for Lisp evaluation.    \u001b[39;49m\r\n\u001b[38;5;124m;; If you want to create a file, visit that file with C-x C-f,                  \u001b[39;49m\r\n\u001b[38;5;124m;; then enter the text in that file's own buffer.                               \u001b[39;49m\r\n\u001b[K\n(\u001b[38;5;129mrequire\u001b[39;49m '\u001b[38;5;30mido\u001b[39;49m)"
+    ],
+    [
+      0.000031,
+      "\r\n(ido-mode)\u001b[23;6H\u001b[30m\u001b[48;5;250m**--F1  \u001b[39;49m\u001b[1m\u001b[30m\u001b[48;5;250m*scratch*   \u001b[0m\u001b[39;49m\u001b[30m\u001b[48;5;250m   All L6     (Lisp Interaction) \u001b[39;49m\u001b[7;11H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      1.150752,
+      "\u001b[24;1H\u001b[?25l(No files need saving)\u001b[7;11H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.013827,
+      "\u001b[24;1H\u001b[?25lSaving file /Users/bogdan/.ido.last...\u001b[7;11H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.139118,
+      "\u001b[24;1H\u001b[?25lWrote /Users/bogdan/.ido.last\u001b[K\u001b[7;11H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.000861,
+      "\u001b[24;1H\u001b[K"
+    ],
+    [
+      0.000005,
+      "\u001b[?1l\u001b\u003e\u001b[?12l\u001b[?25h\u001b[?1049l\u001b[39;49m\r"
+    ]
+  ]
+}
