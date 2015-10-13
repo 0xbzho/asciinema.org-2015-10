@@ -1,0 +1,310 @@
+{
+  "version": 1,
+  "width": 133,
+  "height": 34,
+  "duration": 47.688543,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.469906,
+      "\u001b[?1034hbash-3.2$ "
+    ],
+    [
+      6.526173,
+      "d"
+    ],
+    [
+      0.000097,
+      "ock"
+    ],
+    [
+      0.000026,
+      "vi"
+    ],
+    [
+      0.000286,
+      "z imag"
+    ],
+    [
+      0.000031,
+      "e"
+    ],
+    [
+      0.000104,
+      "s -t"
+    ],
+    [
+      0.827837,
+      " "
+    ],
+    [
+      0.383760,
+      "\r\n"
+    ],
+    [
+      0.369161,
+      "├─e2a4fb18da48 Virtual Size: 125.2 MB\r\n│ └─58016a5acc80 Virtual Size: 125.2 MB Tags: debian:jessie\r\n│   └─1e4339af2528 Virtual Size: 125.2 MB\r\n│     └─95d86089c42d Virtual Size: 125.5 MB\r\n│       └─294fef12f9ab Virtual Size: 125.5 MB\r\n│         └─15f755eb71df Virtual Size: 158.3 MB\r\n│           └─e6023e7e6aae Virtual Size: 158.3 MB\r\n│             └─32f21c8458c0 Virtual Size: 158.3 MB\r\n│               ├─1fcc009fd809 Virtual Size: 158.3 MB\r\n│               │ └─9f8afb4e5f87 Virtual Size: 158.3 MB\r\n│               │   └─f5ff692e9cd8 Virtual Size: 324.3 MB\r\n│               │     └─3fe9f3168164 Virtual Size: 324.3 MB\r\n│               │       └─e7d721d027af Virtual Size: 324.3 MB\r\n│               │         └─4f588a302e89 Virtual Size: 324.3 MB\r\n│               │           └─4c1fde5a3a00 Virtual Size: 324.3 MB\r\n│               │             └─863e1cd05256 Virtual Size: 324.3 MB Tags: parana/mysql:latest\r\n│   "
+    ],
+    [
+      0.000049,
+      "            └─c935ce45bb68 Virtual Size: 158.3 MB\r\n│                 └─c7d1cf2017b2 Virtual Size: 158.3 MB\r\n├─9fac34c3eea5 Virtual Size: 0.0 B Tags: my-scratch:latest\r\n└─31f630c65071 Virtual Size: 5.3 MB Tags: alpine:latest, alpine:3.2\r\n"
+    ],
+    [
+      0.001892,
+      "bash-3.2$ "
+    ],
+    [
+      4.588812,
+      "d"
+    ],
+    [
+      0.176081,
+      "o"
+    ],
+    [
+      0.255679,
+      "c"
+    ],
+    [
+      0.256142,
+      "k"
+    ],
+    [
+      0.095768,
+      "e"
+    ],
+    [
+      0.223950,
+      "r"
+    ],
+    [
+      0.128391,
+      " "
+    ],
+    [
+      0.271811,
+      "i"
+    ],
+    [
+      0.240254,
+      "m"
+    ],
+    [
+      0.079328,
+      "a"
+    ],
+    [
+      0.304481,
+      "g"
+    ],
+    [
+      0.128159,
+      "e"
+    ],
+    [
+      0.207365,
+      "s"
+    ],
+    [
+      0.288342,
+      "\r\n"
+    ],
+    [
+      0.557832,
+      "REPOSITORY        "
+    ],
+    [
+      0.000012,
+      "  TAG                 IMAGE ID            CREATED        "
+    ],
+    [
+      0.000005,
+      "     "
+    ],
+    [
+      0.000004,
+      "VIRTUAL SIZE\r\n"
+    ],
+    [
+      0.000005,
+      "parana/mysql"
+    ],
+    [
+      0.000004,
+      "        "
+    ],
+    [
+      0.000004,
+      "latest        "
+    ],
+    [
+      0.000031,
+      "      863e1cd05256        4 minutes ago       324.3 MB\r\n\u003cnone\u003e              \u003cnone\u003e"
+    ],
+    [
+      0.000019,
+      "              c7d1cf2017b2        12 minutes ago      158.3 MB\r\ndebian"
+    ],
+    [
+      0.000013,
+      "              jessie              "
+    ],
+    [
+      0.000013,
+      "58016a5acc80        4 days ago          125.2 MB\r\n"
+    ],
+    [
+      0.000004,
+      "my-scratch        "
+    ],
+    [
+      0.000004,
+      "  latest"
+    ],
+    [
+      0.000005,
+      "              "
+    ],
+    [
+      0.000004,
+      "9fac34c3eea5        10 weeks ago"
+    ],
+    [
+      0.000004,
+      "        0 B"
+    ],
+    [
+      0.000004,
+      "\r\nalpine"
+    ],
+    [
+      0.000004,
+      "              "
+    ],
+    [
+      0.000003,
+      "3.2        "
+    ],
+    [
+      0.000004,
+      "         "
+    ],
+    [
+      0.000004,
+      "31f630c65071        "
+    ],
+    [
+      0.000004,
+      "4 months ago        "
+    ],
+    [
+      0.000004,
+      "5.254 MB\r\n"
+    ],
+    [
+      0.000004,
+      "alpine        "
+    ],
+    [
+      0.000004,
+      "      latest"
+    ],
+    [
+      0.000004,
+      "              "
+    ],
+    [
+      0.000005,
+      "31f630c65071        4 months ago"
+    ],
+    [
+      0.000004,
+      "        5.254 MB"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000955,
+      "bash-3.2$ "
+    ],
+    [
+      19.921044,
+      "docker images"
+    ],
+    [
+      0.687947,
+      " "
+    ],
+    [
+      0.559991,
+      "|"
+    ],
+    [
+      0.319906,
+      " "
+    ],
+    [
+      0.223693,
+      "g"
+    ],
+    [
+      0.176188,
+      "r"
+    ],
+    [
+      0.111966,
+      "e"
+    ],
+    [
+      0.239954,
+      "p"
+    ],
+    [
+      0.287955,
+      " "
+    ],
+    [
+      0.304084,
+      "m"
+    ],
+    [
+      0.400198,
+      "y"
+    ],
+    [
+      0.495807,
+      "s"
+    ],
+    [
+      0.400100,
+      "q"
+    ],
+    [
+      0.207743,
+      "l"
+    ],
+    [
+      1.327556,
+      "\r\n"
+    ],
+    [
+      0.230777,
+      "parana/mysql        latest              863e1cd05256        4 minutes ago       324.3 MB\r\n"
+    ],
+    [
+      0.028317,
+      "bash-3.2$ "
+    ],
+    [
+      5.261282,
+      "exit\r\n"
+    ]
+  ]
+}
