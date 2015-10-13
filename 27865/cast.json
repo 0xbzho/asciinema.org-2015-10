@@ -1,0 +1,1430 @@
+{
+  "version": 1,
+  "width": 86,
+  "height": 17,
+  "duration": 62.776258,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.008400,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000016,
+      "bash-3.2$ "
+    ],
+    [
+      2.774870,
+      "g"
+    ],
+    [
+      0.143821,
+      "i"
+    ],
+    [
+      0.080212,
+      "t"
+    ],
+    [
+      0.095934,
+      " "
+    ],
+    [
+      0.216277,
+      "c"
+    ],
+    [
+      0.119674,
+      "l"
+    ],
+    [
+      0.191988,
+      "o"
+    ],
+    [
+      0.048178,
+      "n"
+    ],
+    [
+      0.103783,
+      "e"
+    ],
+    [
+      0.104097,
+      " "
+    ],
+    [
+      0.689098,
+      "htt"
+    ],
+    [
+      0.000011,
+      "ps:/"
+    ],
+    [
+      0.000005,
+      "/"
+    ],
+    [
+      0.000048,
+      "gi"
+    ],
+    [
+      0.000046,
+      "thu"
+    ],
+    [
+      0.000067,
+      "b.com/i"
+    ],
+    [
+      0.000065,
+      "tsl"
+    ],
+    [
+      0.000006,
+      "i"
+    ],
+    [
+      0.000014,
+      "g"
+    ],
+    [
+      0.000017,
+      "o"
+    ],
+    [
+      0.000005,
+      "/"
+    ],
+    [
+      0.000017,
+      "c"
+    ],
+    [
+      0.000048,
+      "l"
+    ],
+    [
+      0.000006,
+      "ass"
+    ],
+    [
+      0.000003,
+      "R"
+    ],
+    [
+      0.000017,
+      "e"
+    ],
+    [
+      0.000041,
+      "s"
+    ],
+    [
+      0.000007,
+      "u"
+    ],
+    [
+      0.000004,
+      "l"
+    ],
+    [
+      0.000019,
+      "t"
+    ],
+    [
+      0.000018,
+      "s"
+    ],
+    [
+      0.000021,
+      ".g"
+    ],
+    [
+      0.000017,
+      "i"
+    ],
+    [
+      0.000016,
+      "t"
+    ],
+    [
+      1.462366,
+      "\r\n"
+    ],
+    [
+      0.004057,
+      "Cloning into 'classResults'...\r\n"
+    ],
+    [
+      3.189620,
+      "remote: Counting objects: 92, done.\u001b[K\r\nremote: Compressing objects:   1% (1/58)   \u001b[K\rremote: Compressing objects:   3% (2/58)   \u001b[K\rremote: Compressing objects:   5% (3/58)   \u001b[K\rremote: Compressing objects:"
+    ],
+    [
+      0.000022,
+      "   6% (4/58)   \u001b[K\rremote: Compressing objects:   8% (5/58)   \u001b[K\rremote: Compressing objects:  10% (6/58)   \u001b[K\rremote: Compressing objects:  12% (7/58)   \u001b[K\rremote: Compressing objects:  13% (8/58)   \u001b[K\rremote: Compressing objects:  15% (9/58)   \u001b[K\rremote: Compressing objects:  17% (10/58)   \u001b[K\rremote: Compressing objects:  18% (11/58)   \u001b[K\rremote: Compressing objects:  20% (12/58)   \u001b[K\rremote: Compressing objects:  22% (13/58)   \u001b[K\rremote: Compressing objects:  24% (14/58)   \u001b[K\rremote: Compressing objects:  25% (15/58)   \u001b[K\rremote: Compressing objects:  27% (16/58)   \u001b[K\rremote: Compressing objects:  29% (17/58)   \u001b[K\rremote: Compressing objects:  31% (18/58)   \u001b[K\r"
+    ],
+    [
+      0.000103,
+      "remote: Compressing objects:  32% (19/58)   \u001b[K\rremote: Compressing objects:  34% (20/58)   \u001b[K\rremote: Compressing objects:  36% (21/58)   \u001b[K\r"
+    ],
+    [
+      0.000020,
+      "remote: Compressing objects:  37% (22/58)   \u001b[K\rremote: Compressing objects:  39% (23/58)   \u001b[K\rremote: Compressing objects:  41% (24/58)   \u001b[K\rremote: Compressing objects:  43% (25/58)   \u001b[K\rremote: Compressing objects:  44% (26/58)   \u001b[K\rremote: Compressing objects:  46% (27/58)   \u001b[K\rremote: Compressing objects:  48% (28/58)   \u001b[K\rremote: Compressing objects:  50% (29/58)   \u001b[K\rremote: Compressing objects:  51% (30/58)   \u001b[K\rremote: Compressing objects:  53% (31/58)   \u001b[K\rremote: Compressing objects:  55% (32/58)   \u001b[K\rremote: Compressing objects:  56% (33/58)   \u001b[K\rremote: Compressing objects:  58% (34/58) "
+    ],
+    [
+      0.000129,
+      "  \u001b[K\rremote: Compressing objects:  60% (35/58)   \u001b[K\rremote: Compressing objects:  62% (36/58)   \u001b[K\rremote: Compressing objects:  63% (37/58)   \u001b[K\rremote: Compressing objects:  65% (38/58)   \u001b[K\rremote: Compressing objects:  67% (39/58)   \u001b[K\rremote: Compressing objects:  68% (40/58)   \u001b[K\rremote: Compressing objects:  70% (41/58)   \u001b[K\r"
+    ],
+    [
+      0.000012,
+      "remote: Compressing objects:  72% (42/58)   \u001b[K\rremote: Compressing objects:  74% (43/58)   \u001b[K\rremote: Compressing objects:  75% (44/58)   \u001b[K\rremote: Compressing objects:  77% (45/58)   \u001b[K\rremote: Compressing objects:  79% (46/58)   \u001b[K\rremote: Compressing objects:  81% (47/58)   \u001b[K\rremote: Compressing objects:  82% (48/58)   \u001b[K\rremote: Compressing objects:  84% (49/58)   \u001b[K\rremote: Compressing objects:  86% (50/58)   \u001b[K\rremote: Compressing objects:  87% (51/58)   \u001b[K\rremote: Compressing objects:  89% (52/58)   \u001b[K\rremote: Compressing objects:  91% (53/58)   \u001b[K\rremote: Compressing objects:  93% (54/58)   \u001b[K\rremote: Compressing objects:  94% (55/58)   \u001b[K\rremote: Compressing objects:  96% (56/58)   \u001b[K\rremote: Compressing objects:  98% (57/58)   \u001b[K\rremote: Compressing objects: 100% (58/58)   \u001b[K\rremote: Compressing objects: 100% (58/58), done.\u001b[K\r\n"
+    ],
+    [
+      0.175351,
+      "Unpacking objects:   1% (1/92)   \r"
+    ],
+    [
+      0.000450,
+      "Unpacking objects:   2% (2/92)   \r"
+    ],
+    [
+      0.000648,
+      "Unpacking objects:   3% (3/92)   \r"
+    ],
+    [
+      0.000592,
+      "Unpacking objects:   4% (4/92)   \r"
+    ],
+    [
+      0.000404,
+      "Unpacking objects:   5% (5/92)   \r"
+    ],
+    [
+      0.000486,
+      "Unpacking objects:   6% (6/92)   \r"
+    ],
+    [
+      0.000415,
+      "Unpacking objects:   7% (7/92)   \r"
+    ],
+    [
+      0.000396,
+      "Unpacking objects:   8% (8/92)   \r"
+    ],
+    [
+      0.000425,
+      "Unpacking objects:   9% (9/92)   \r"
+    ],
+    [
+      0.000470,
+      "Unpacking objects:  10% (10/92)   \r"
+    ],
+    [
+      0.000427,
+      "Unpacking objects:  11% (11/92)   \r"
+    ],
+    [
+      0.000544,
+      "Unpacking objects:  13% (12/92)   \r"
+    ],
+    [
+      0.000383,
+      "Unpacking objects:  14% (13/92)   \r"
+    ],
+    [
+      0.308472,
+      "Unpacking objects:  15% (14/92)   \r"
+    ],
+    [
+      0.000591,
+      "Unpacking objects:  16% (15/92)   \r"
+    ],
+    [
+      0.000696,
+      "Unpacking objects:  17% (16/92)   \r"
+    ],
+    [
+      0.000507,
+      "Unpacking objects:  18% (17/92)   \r"
+    ],
+    [
+      0.000366,
+      "Unpacking objects:  19% (18/92)   \r"
+    ],
+    [
+      0.000479,
+      "Unpacking objects:  20% (19/92)   \r"
+    ],
+    [
+      0.000461,
+      "Unpacking objects:  21% (20/92)   \r"
+    ],
+    [
+      0.000446,
+      "Unpacking objects:  22% (21/92)   \r"
+    ],
+    [
+      0.000521,
+      "Unpacking objects:  23% (22/92)   \r"
+    ],
+    [
+      0.000372,
+      "Unpacking objects:  25% (23/92)   \r"
+    ],
+    [
+      0.000400,
+      "Unpacking objects:  26% (24/92)   \r"
+    ],
+    [
+      0.000485,
+      "Unpacking objects:  27% (25/92)   \r"
+    ],
+    [
+      0.000466,
+      "Unpacking objects:  28% (26/92)   \r"
+    ],
+    [
+      0.000443,
+      "Unpacking objects:  29% (27/92)   \r"
+    ],
+    [
+      0.000564,
+      "Unpacking objects:  30% (28/92)   \r"
+    ],
+    [
+      0.000393,
+      "Unpacking objects:  31% (29/92)   \r"
+    ],
+    [
+      0.000376,
+      "Unpacking objects:  32% (30/92)   \r"
+    ],
+    [
+      0.000475,
+      "Unpacking objects:  33% (31/92)   \r"
+    ],
+    [
+      0.000391,
+      "Unpacking objects:  34% (32/92)   \r"
+    ],
+    [
+      0.000531,
+      "Unpacking objects:  35% (33/92)   \r"
+    ],
+    [
+      0.559961,
+      "remote: Total 92 (delta 30), reused 85 (delta 23), pack-reused 0\u001b[K\r\n"
+    ],
+    [
+      0.025960,
+      "Unpacking objects:  36% (34/92)   \r"
+    ],
+    [
+      0.000457,
+      "Unpacking objects:  38% (35/92)   \r"
+    ],
+    [
+      0.000440,
+      "Unpacking objects:  39% (36/92)   \r"
+    ],
+    [
+      0.000516,
+      "Unpacking objects:  40% (37/92)   \r"
+    ],
+    [
+      0.000574,
+      "Unpacking objects:  41% (38/92)   \r"
+    ],
+    [
+      0.000442,
+      "Unpacking objects:  42% (39/92)   \r"
+    ],
+    [
+      0.000358,
+      "Unpacking objects:  43% (40/92)   \r"
+    ],
+    [
+      0.000433,
+      "Unpacking objects:  44% (41/92)   \r"
+    ],
+    [
+      0.000408,
+      "Unpacking objects:  45% (42/92)   \r"
+    ],
+    [
+      0.000387,
+      "Unpacking objects:  46% (43/92)   \r"
+    ],
+    [
+      0.000851,
+      "Unpacking objects:  47% (44/92)   \r"
+    ],
+    [
+      0.000918,
+      "Unpacking objects:  48% (45/92)   \r"
+    ],
+    [
+      0.000313,
+      "Unpacking objects:  50% (46/92)   \r"
+    ],
+    [
+      0.001125,
+      "Unpacking objects:  51% (47/92)   \r"
+    ],
+    [
+      0.000314,
+      "Unpacking objects:  52% (48/92)   \r"
+    ],
+    [
+      0.000455,
+      "Unpacking objects:  53% (49/92)   \r"
+    ],
+    [
+      0.000504,
+      "Unpacking objects:  54% (50/92)   \r"
+    ],
+    [
+      0.000740,
+      "Unpacking objects:  55% (51/92)   \r"
+    ],
+    [
+      0.000870,
+      "Unpacking objects:  56% (52/92)   \r"
+    ],
+    [
+      0.000695,
+      "Unpacking objects:  57% (53/92)   \r"
+    ],
+    [
+      0.000723,
+      "Unpacking objects:  58% (54/92)   \r"
+    ],
+    [
+      0.000881,
+      "Unpacking objects:  59% (55/92)   \r"
+    ],
+    [
+      0.000408,
+      "Unpacking objects:  60% (56/92)   \r"
+    ],
+    [
+      0.000359,
+      "Unpacking objects:  61% (57/92)   \r"
+    ],
+    [
+      0.000452,
+      "Unpacking objects:  63% (58/92)   \r"
+    ],
+    [
+      0.000408,
+      "Unpacking objects:  64% (59/92)   \r"
+    ],
+    [
+      0.000460,
+      "Unpacking objects:  65% (60/92)   \r"
+    ],
+    [
+      0.000537,
+      "Unpacking objects:  66% (61/92)   \r"
+    ],
+    [
+      0.000397,
+      "Unpacking objects:  67% (62/92)   \r"
+    ],
+    [
+      0.000407,
+      "Unpacking objects:  68% (63/92)   \r"
+    ],
+    [
+      0.000402,
+      "Unpacking objects:  69% (64/92)   \r"
+    ],
+    [
+      0.000457,
+      "Unpacking objects:  70% (65/92)   \r"
+    ],
+    [
+      0.000300,
+      "Unpacking objects:  71% (66/92)   \r"
+    ],
+    [
+      0.000305,
+      "Unpacking objects:  72% (67/92)   \r"
+    ],
+    [
+      0.000375,
+      "Unpacking objects:  73% (68/92)   \r"
+    ],
+    [
+      0.000330,
+      "Unpacking objects:  75% (69/92)   \r"
+    ],
+    [
+      0.000530,
+      "Unpacking objects:  76% (70/92)   \r"
+    ],
+    [
+      0.000512,
+      "Unpacking objects:  77% (71/92)   \r"
+    ],
+    [
+      0.000379,
+      "Unpacking objects:  78% (72/92)   \r"
+    ],
+    [
+      0.000766,
+      "Unpacking objects:  79% (73/92)   \r"
+    ],
+    [
+      0.000464,
+      "Unpacking objects:  80% (74/92)   \r"
+    ],
+    [
+      0.000451,
+      "Unpacking objects:  81% (75/92)   \r"
+    ],
+    [
+      0.000276,
+      "Unpacking objects:  82% (76/92)   \r"
+    ],
+    [
+      0.000431,
+      "Unpacking objects:  83% (77/92)   \r"
+    ],
+    [
+      0.000386,
+      "Unpacking objects:  84% (78/92)   \r"
+    ],
+    [
+      0.000368,
+      "Unpacking objects:  85% (79/92)   \r"
+    ],
+    [
+      0.000312,
+      "Unpacking objects:  86% (80/92)   \r"
+    ],
+    [
+      0.000412,
+      "Unpacking objects:  88% (81/92)   \r"
+    ],
+    [
+      0.000342,
+      "Unpacking objects:  89% (82/92)   \r"
+    ],
+    [
+      0.000370,
+      "Unpacking objects:  90% (83/92)   \r"
+    ],
+    [
+      0.000346,
+      "Unpacking objects:  91% (84/92)   \r"
+    ],
+    [
+      0.000301,
+      "Unpacking objects:  92% (85/92)   \r"
+    ],
+    [
+      0.000426,
+      "Unpacking objects:  93% (86/92)   \r"
+    ],
+    [
+      0.000372,
+      "Unpacking objects:  94% (87/92)   \r"
+    ],
+    [
+      0.000278,
+      "Unpacking objects:  95% (88/92)   \r"
+    ],
+    [
+      0.000360,
+      "Unpacking objects:  96% (89/92)   \r"
+    ],
+    [
+      0.000379,
+      "Unpacking objects:  97% (90/92)   \r"
+    ],
+    [
+      0.000463,
+      "Unpacking objects:  98% (91/92)   \r"
+    ],
+    [
+      0.000417,
+      "Unpacking objects: 100% (92/92)   \r"
+    ],
+    [
+      0.000003,
+      "Unpacking objects: 100% (92/92), done.\r\n"
+    ],
+    [
+      0.000791,
+      "Checking connectivity... "
+    ],
+    [
+      0.004246,
+      "done.\r\n"
+    ],
+    [
+      0.012346,
+      "bash-3.2$ "
+    ],
+    [
+      1.228339,
+      "c"
+    ],
+    [
+      0.071927,
+      "d"
+    ],
+    [
+      0.071954,
+      " "
+    ],
+    [
+      0.600570,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.152291,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.127703,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.224022,
+      "l"
+    ],
+    [
+      0.072189,
+      "s"
+    ],
+    [
+      0.192122,
+      "\r\n"
+    ],
+    [
+      0.003342,
+      "classResults\r\n"
+    ],
+    [
+      0.000242,
+      "bash-3.2$ "
+    ],
+    [
+      0.571893,
+      "c"
+    ],
+    [
+      0.064274,
+      "d"
+    ],
+    [
+      0.055916,
+      " "
+    ],
+    [
+      0.199911,
+      "c"
+    ],
+    [
+      0.119994,
+      "l"
+    ],
+    [
+      0.088076,
+      "a"
+    ],
+    [
+      0.336453,
+      "ssResults/"
+    ],
+    [
+      0.552118,
+      "\r\n"
+    ],
+    [
+      0.000355,
+      "bash-3.2$ "
+    ],
+    [
+      0.518976,
+      "l"
+    ],
+    [
+      0.080053,
+      "s"
+    ],
+    [
+      0.159858,
+      "\r\n"
+    ],
+    [
+      0.003233,
+      "README.md\t\tclassResults.png\tdownload_branch.gif\r\nclassResults\t\tclassResults.sln\r\n"
+    ],
+    [
+      0.000244,
+      "bash-3.2$ "
+    ],
+    [
+      8.452575,
+      "g"
+    ],
+    [
+      1.415911,
+      "i"
+    ],
+    [
+      0.088067,
+      "t"
+    ],
+    [
+      0.079661,
+      " "
+    ],
+    [
+      0.192197,
+      "c"
+    ],
+    [
+      0.064013,
+      "h"
+    ],
+    [
+      0.071938,
+      "e"
+    ],
+    [
+      0.096044,
+      "c"
+    ],
+    [
+      0.104082,
+      "k"
+    ],
+    [
+      0.143983,
+      "o"
+    ],
+    [
+      0.055940,
+      "u"
+    ],
+    [
+      0.143993,
+      "t"
+    ],
+    [
+      0.072656,
+      " "
+    ],
+    [
+      0.239391,
+      "i"
+    ],
+    [
+      0.071960,
+      "m"
+    ],
+    [
+      0.135990,
+      "p"
+    ],
+    [
+      0.095870,
+      "r"
+    ],
+    [
+      0.088003,
+      "o"
+    ],
+    [
+      0.168347,
+      "v"
+    ],
+    [
+      0.127789,
+      "e"
+    ],
+    [
+      0.176001,
+      "d"
+    ],
+    [
+      1.487900,
+      "\r\n"
+    ],
+    [
+      0.011761,
+      "Branch improved set up to track remote branch improved from origin.\r\n"
+    ],
+    [
+      0.000242,
+      "Switched to a new branch 'improved'\r\n"
+    ],
+    [
+      0.000400,
+      "bash-3.2$ "
+    ],
+    [
+      3.051631,
+      "l"
+    ],
+    [
+      0.072210,
+      "s"
+    ],
+    [
+      0.240099,
+      "\r\n"
+    ],
+    [
+      0.003336,
+      "README.md\t\tclassResults.png\r\nclassResults\t\tclassResults.sln\r\n"
+    ],
+    [
+      0.000328,
+      "bash-3.2$ "
+    ],
+    [
+      3.580301,
+      "#"
+    ],
+    [
+      0.967495,
+      "T"
+    ],
+    [
+      0.064079,
+      "h"
+    ],
+    [
+      0.047973,
+      "i"
+    ],
+    [
+      0.096049,
+      "s"
+    ],
+    [
+      0.072058,
+      " "
+    ],
+    [
+      0.103966,
+      "i"
+    ],
+    [
+      0.071986,
+      "s"
+    ],
+    [
+      0.088020,
+      " "
+    ],
+    [
+      0.119948,
+      "t"
+    ],
+    [
+      0.032067,
+      "h"
+    ],
+    [
+      0.055937,
+      "e"
+    ],
+    [
+      0.096661,
+      " "
+    ],
+    [
+      0.863424,
+      "i"
+    ],
+    [
+      0.079901,
+      "m"
+    ],
+    [
+      0.087960,
+      "p"
+    ],
+    [
+      0.064104,
+      "r"
+    ],
+    [
+      0.063992,
+      "o"
+    ],
+    [
+      0.151794,
+      "v"
+    ],
+    [
+      0.064114,
+      "e"
+    ],
+    [
+      0.159895,
+      "d"
+    ],
+    [
+      0.080427,
+      " "
+    ],
+    [
+      0.207822,
+      "b"
+    ],
+    [
+      0.056088,
+      "r"
+    ],
+    [
+      0.095792,
+      "a"
+    ],
+    [
+      0.104002,
+      "n"
+    ],
+    [
+      0.096016,
+      "c"
+    ],
+    [
+      0.104369,
+      "h"
+    ],
+    [
+      1.471182,
+      " "
+    ],
+    [
+      0.160408,
+      "-"
+    ],
+    [
+      0.080217,
+      " "
+    ],
+    [
+      0.183841,
+      " "
+    ],
+    [
+      0.399915,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.112255,
+      "a"
+    ],
+    [
+      0.135760,
+      " "
+    ],
+    [
+      0.256168,
+      "d"
+    ],
+    [
+      0.088453,
+      "i"
+    ],
+    [
+      0.095569,
+      "f"
+    ],
+    [
+      0.127609,
+      "f"
+    ],
+    [
+      0.120149,
+      "e"
+    ],
+    [
+      0.088043,
+      "r"
+    ],
+    [
+      0.663940,
+      "e"
+    ],
+    [
+      0.104407,
+      "n"
+    ],
+    [
+      0.103667,
+      "t"
+    ],
+    [
+      0.112186,
+      " "
+    ],
+    [
+      0.160073,
+      "s"
+    ],
+    [
+      0.079647,
+      "o"
+    ],
+    [
+      0.128002,
+      "l"
+    ],
+    [
+      0.120131,
+      "u"
+    ],
+    [
+      0.031882,
+      "t"
+    ],
+    [
+      0.160057,
+      "i"
+    ],
+    [
+      0.095938,
+      "o"
+    ],
+    [
+      0.015968,
+      "n"
+    ],
+    [
+      0.096079,
+      " "
+    ],
+    [
+      0.231370,
+      "t"
+    ],
+    [
+      0.040601,
+      "o"
+    ],
+    [
+      0.040235,
+      " "
+    ],
+    [
+      0.103756,
+      "t"
+    ],
+    [
+      0.049669,
+      "h"
+    ],
+    [
+      0.046515,
+      "e"
+    ],
+    [
+      0.063838,
+      " "
+    ],
+    [
+      0.511942,
+      "m"
+    ],
+    [
+      0.056006,
+      "a"
+    ],
+    [
+      0.111281,
+      "s"
+    ],
+    [
+      0.128706,
+      "t"
+    ],
+    [
+      0.080095,
+      "e"
+    ],
+    [
+      0.111907,
+      "r"
+    ],
+    [
+      0.080044,
+      " "
+    ],
+    [
+      0.127983,
+      "b"
+    ],
+    [
+      0.064173,
+      "r"
+    ],
+    [
+      0.096028,
+      "a"
+    ],
+    [
+      0.095786,
+      "n"
+    ],
+    [
+      0.112024,
+      "c"
+    ],
+    [
+      0.095838,
+      "h"
+    ],
+    [
+      1.328330,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.501131,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.083484,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084416,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084398,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.083437,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084877,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.083559,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.290711,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.327432,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.152494,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.128351,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.159757,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.240349,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.318765,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.288589,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.200376,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.487895,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.135303,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.151953,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.224480,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.216098,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.375940,
+      "\u0007"
+    ],
+    [
+      0.489128,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.150997,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.159994,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.160019,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.151951,
+      "\u0008\u001b[K"
+    ],
+    [
+      1.440116,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.183859,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.500064,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084489,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084499,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084431,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084572,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084359,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084685,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.083775,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084452,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084460,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.083287,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084386,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084572,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084036,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084225,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084507,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084732,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.083509,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.083694,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.083261,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084074,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084759,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.083697,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084341,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084523,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084436,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084448,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084446,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084615,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084323,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084609,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084407,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084396,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084554,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084663,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084577,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084023,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084439,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084431,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084680,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084265,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084493,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.083506,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084701,
+      "\u0007"
+    ],
+    [
+      0.083420,
+      "\u0007"
+    ],
+    [
+      0.084469,
+      "\u0007"
+    ],
+    [
+      0.084533,
+      "\u0007"
+    ],
+    [
+      0.084535,
+      "\u0007"
+    ],
+    [
+      0.761732,
+      "e"
+    ],
+    [
+      0.192322,
+      "x"
+    ],
+    [
+      0.087200,
+      "i"
+    ],
+    [
+      0.096432,
+      "t"
+    ],
+    [
+      0.479833,
+      "\r\n"
+    ],
+    [
+      0.000213,
+      "exit\r\n"
+    ]
+  ]
+}
