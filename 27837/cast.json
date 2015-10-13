@@ -1,0 +1,3350 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 43.160917,
+  "command": "/bin/bash",
+  "title": "dind-aufs",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.042485,
+      "\u001b]0;ubuntu@ip-172-31-42-79: ~\u0007ubuntu@ip-172-31-42-79:~$ "
+    ],
+    [
+      1.000000,
+      "sudo apt-get -y install linux-image-extra-$(uname -r)\r\n"
+    ],
+    [
+      0.020001,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.003633,
+      "\rReading package lists... 100%\r\rReading package lists... Done\r\r\n"
+    ],
+    [
+      0.006181,
+      "\rBuilding dependency tree... 0%\r\rBuilding dependency tree... 0%\r"
+    ],
+    [
+      0.028519,
+      "\rBuilding dependency tree... 50%\r\rBuilding dependency tree... 50%\r"
+    ],
+    [
+      0.074818,
+      "\rBuilding dependency tree       \r\r\n\rReading state information... 0%\r"
+    ],
+    [
+      0.000007,
+      "\rReading state information... 8%\r"
+    ],
+    [
+      0.000086,
+      "\rReading state information... Done\r\r\n"
+    ],
+    [
+      0.055060,
+      "The following extra packages will be installed:\r\n  crda iw libnl-3-200 libnl-genl-3-200 wireless-regdb\r\n"
+    ],
+    [
+      0.000968,
+      "The following NEW packages will be installed:\r\n  crda iw libnl-3-200 libnl-genl-3-200 linux-image-extra-3.13.0-48-generic\r\n  wireless-regdb\r\n"
+    ],
+    [
+      0.002573,
+      "0 upgraded, 6 newly installed, 0 to remove and 125 not upgraded.\r\n"
+    ],
+    [
+      0.006597,
+      "Need to get 36.9 MB of archives.\r\nAfter this operation, 153 MB of additional disk space will be used.\r\n"
+    ],
+    [
+      0.003368,
+      "\r\r0% [Working]"
+    ],
+    [
+      0.006674,
+      "\r            \rGet:1 http://us-west-2.ec2.archive.ubuntu.com/ubuntu/ trusty/main libnl-3-200 amd64 3.2.21-1 [44.5 kB]\r\n\r            \r0% [1 libnl-3-200 13.7 kB/44.5 kB 31%]"
+    ],
+    [
+      0.002297,
+      "\r                                      \r0% [Working]"
+    ],
+    [
+      0.002213,
+      "\r            \rGet:2 http://us-west-2.ec2.archive.ubuntu.com/ubuntu/ trusty/main libnl-genl-3-200 amd64 3.2.21-1 [10.2 kB]\r\n\r            \r0% [2 libnl-genl-3-200 10.2 kB/10.2 kB 100%]"
+    ],
+    [
+      0.000526,
+      "\r                                            \r0% [Working]"
+    ],
+    [
+      0.002192,
+      "\r            \rGet:3 http://us-west-2.ec2.archive.ubuntu.com/ubuntu/ trusty/main wireless-regdb all 2013.02.13-1ubuntu1 [6456 B]\r\n\r            \r0% [3 wireless-regdb 6456 B/6456 B 100%]"
+    ],
+    [
+      0.000321,
+      "\r                                        \r0% [Working]"
+    ],
+    [
+      0.002302,
+      "\r            \rGet:4 http://us-west-2.ec2.archive.ubuntu.com/ubuntu/ trusty/main crda amd64 1.1.2-1ubuntu2 [15.2 kB]\r\n\r            \r0% [4 crda 2922 B/15.2 kB 19%]"
+    ],
+    [
+      0.000729,
+      "\r                              \r0% [Working]"
+    ],
+    [
+      0.002192,
+      "\r            \rGet:5 http://us-west-2.ec2.archive.ubuntu.com/ubuntu/ trusty/main iw amd64 3.4-1 [51.7 kB]\r\n\r            \r0% [5 iw 23.8 kB/51.7 kB 46%]"
+    ],
+    [
+      0.002352,
+      "\r                             \r0% [Working]"
+    ],
+    [
+      0.003410,
+      "\r            \rGet:6 http://us-west-2.ec2.archive.ubuntu.com/ubuntu/ trusty-updates/main linux-image-extra-3.13.0-48-generic amd64 3.13.0-48.80 [36.8 MB]\r\n\r            \r0% [6 linux-image-extra-3.13.0-48-generic 792 B/36.8 MB 0%]"
+    ],
+    [
+      0.501005,
+      "\r                                                           \r84% [6 linux-image-extra-3.13.0-48-generic 31.0 MB/36.8 MB 84%]"
+    ],
+    [
+      0.132681,
+      "\r                                                               \r100% [Working]\r              \rFetched 36.9 MB in 0s (56.0 MB/s)\r\n"
+    ],
+    [
+      0.005223,
+      "perl: warning: Setting locale failed.\r\nperl: warning: Please check that your locale settings:\r\n\u0009LANGUAGE = (unset),\r\n\u0009LC_ALL = (unset),"
+    ],
+    [
+      0.000012,
+      "\r\n\u0009LC_CTYPE = \"UTF-8\",\r\n\u0009LANG = \"en_US.UTF-8\"\r\n    are supported and installed on your system.\r\n"
+    ],
+    [
+      0.000008,
+      "perl: warning: Falling back to the standard locale (\"C\").\r\n"
+    ],
+    [
+      0.030123,
+      "locale: Cannot set LC_CTYPE to default locale: No such file or directory\r\n"
+    ],
+    [
+      0.000119,
+      "locale: Cannot set LC_ALL to default locale: No such file or directory"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.150152,
+      "Selecting previously unselected package libnl-3-200:amd64.\r\n(Reading database ... \r(Reading database ... 5%\r(Reading database ... 10%\r(Reading database ... 15%\r(Reading database ... 20%\r(Reading database ... 25%\r(Reading database ... 30%\r(Reading database ... 35%\r(Reading database ... 40%\r(Reading database ... 45%\r(Reading database ... 50%\r(Reading database ... 55%\r(Reading database ... 60%\r"
+    ],
+    [
+      0.001010,
+      "(Reading database ... 65%\r"
+    ],
+    [
+      0.001313,
+      "(Reading database ... 70%\r"
+    ],
+    [
+      0.001167,
+      "(Reading database ... 75%\r"
+    ],
+    [
+      0.000583,
+      "(Reading database ... 80%\r"
+    ],
+    [
+      0.001048,
+      "(Reading database ... 85%\r"
+    ],
+    [
+      0.010020,
+      "(Reading database ... 90%\r"
+    ],
+    [
+      0.001104,
+      "(Reading database ... 95%\r"
+    ],
+    [
+      0.001201,
+      "(Reading database ... 100%\r(Reading database ... 51279 files and directories currently installed.)\r\n"
+    ],
+    [
+      0.000751,
+      "Preparing to unpack .../libnl-3-200_3.2.21-1_amd64.deb ...\r\n"
+    ],
+    [
+      0.003366,
+      "Unpacking libnl-3-200:amd64 (3.2.21-1) ...\r\n"
+    ],
+    [
+      0.214504,
+      "Selecting previously unselected package libnl-genl-3-200:amd64.\r\n"
+    ],
+    [
+      0.003383,
+      "Preparing to unpack .../libnl-genl-3-200_3.2.21-1_amd64.deb ...\r\n"
+    ],
+    [
+      0.003737,
+      "Unpacking libnl-genl-3-200:amd64 (3.2.21-1) ...\r\n"
+    ],
+    [
+      0.045727,
+      "Selecting previously unselected package wireless-regdb.\r\n"
+    ],
+    [
+      0.004218,
+      "Preparing to unpack .../wireless-regdb_2013.02.13-1ubuntu1_all.deb ...\r\n"
+    ],
+    [
+      0.003628,
+      "Unpacking wireless-regdb (2013.02.13-1ubuntu1) ...\r\n"
+    ],
+    [
+      0.045130,
+      "Selecting previously unselected package crda.\r\n"
+    ],
+    [
+      0.004073,
+      "Preparing to unpack .../crda_1.1.2-1ubuntu2_amd64.deb ...\r\n"
+    ],
+    [
+      0.005299,
+      "Unpacking crda (1.1.2-1ubuntu2) ...\r\n"
+    ],
+    [
+      0.048340,
+      "Selecting previously unselected package iw.\r\n"
+    ],
+    [
+      0.004211,
+      "Preparing to unpack .../archives/iw_3.4-1_amd64.deb ...\r\n"
+    ],
+    [
+      0.003432,
+      "Unpacking iw (3.4-1) ...\r\n"
+    ],
+    [
+      0.049252,
+      "Selecting previously unselected package linux-image-extra-3.13.0-48-generic.\r\n"
+    ],
+    [
+      0.004080,
+      "Preparing to unpack .../linux-image-extra-3.13.0-48-generic_3.13.0-48.80_amd64.deb ...\r\n"
+    ],
+    [
+      0.003518,
+      "Unpacking linux-image-extra-3.13.0-48-generic (3.13.0-48.80) ...\r\n"
+    ],
+    [
+      1.000000,
+      "Processing triggers for man-db (2.6.7.1-1ubuntu1) ...\r\n"
+    ],
+    [
+      0.879755,
+      "Setting up libnl-3-200:amd64 (3.2.21-1) ...\r\n"
+    ],
+    [
+      0.031324,
+      "Setting up libnl-genl-3-200:amd64 (3.2.21-1) ...\r\n"
+    ],
+    [
+      0.018659,
+      "Setting up wireless-regdb (2013.02.13-1ubuntu1) ...\r\n"
+    ],
+    [
+      0.010479,
+      "Setting up crda (1.1.2-1ubuntu2) ...\r\n"
+    ],
+    [
+      0.025454,
+      "Setting up iw (3.4-1) ...\r\n"
+    ],
+    [
+      0.010357,
+      "Setting up linux-image-extra-3.13.0-48-generic (3.13.0-48.80) ...\r\n"
+    ],
+    [
+      1.000000,
+      "run-parts: executing /etc/kernel/postinst.d/apt-auto-removal 3.13.0-48-generic /boot/vmlinuz-3.13.0-48-generic\r\n"
+    ],
+    [
+      0.057142,
+      "run-parts: executing /etc/kernel/postinst.d/initramfs-tools 3.13.0-48-generic /boot/vmlinuz-3.13.0-48-generic\r\n"
+    ],
+    [
+      0.006283,
+      "update-initramfs: Generating /boot/initrd.img-3.13.0-48-generic\r\n"
+    ],
+    [
+      1.000000,
+      "run-parts: executing /etc/kernel/postinst.d/update-notifier 3.13.0-48-generic /boot/vmlinuz-3.13.0-48-generic\r\n"
+    ],
+    [
+      0.003114,
+      "run-parts: executing /etc/kernel/postinst.d/x-grub-legacy-ec2 3.13.0-48-generic /boot/vmlinuz-3.13.0-48-generic\r\n"
+    ],
+    [
+      0.033351,
+      "locale: Cannot set LC_CTYPE to default locale: No such file or directory\r\n"
+    ],
+    [
+      0.000008,
+      "locale: Cannot set LC_ALL to default locale: No such file or directory\r\n"
+    ],
+    [
+      0.057878,
+      "Searching for GRUB installation directory ... "
+    ],
+    [
+      0.000122,
+      "found: /boot/grub\r\n"
+    ],
+    [
+      0.105044,
+      "Searching for default file ... "
+    ],
+    [
+      0.000062,
+      "found: /boot/grub/default\r\n"
+    ],
+    [
+      0.003965,
+      "Testing for an existing GRUB menu.lst file ... "
+    ],
+    [
+      0.001595,
+      "found: /boot/grub/menu.lst\r\n"
+    ],
+    [
+      0.144875,
+      "Searching for splash image ... "
+    ],
+    [
+      0.005631,
+      "none found, skipping ...\r\n"
+    ],
+    [
+      0.082903,
+      "Found kernel: /boot/vmlinuz-3.13.0-48-generic\r\n"
+    ],
+    [
+      0.213001,
+      "Updating /boot/grub/menu.lst ... "
+    ],
+    [
+      0.007982,
+      "done\r\n\r\n"
+    ],
+    [
+      0.096052,
+      "run-parts: executing /etc/kernel/postinst.d/zz-update-grub 3.13.0-48-generic /boot/vmlinuz-3.13.0-48-generic\r\n"
+    ],
+    [
+      0.291099,
+      "Generating grub configuration file ..."
+    ],
+    [
+      0.000108,
+      "\r\n"
+    ],
+    [
+      0.080680,
+      "Found linux image: /boot/vmlinuz-3.13.0-48-generic\r\n"
+    ],
+    [
+      0.014668,
+      "Found initrd image: /boot/initrd.img-3.13.0-48-generic\r\n"
+    ],
+    [
+      0.855202,
+      "done"
+    ],
+    [
+      0.000063,
+      "\r\n"
+    ],
+    [
+      0.005300,
+      "Processing triggers for libc-bin (2.19-0ubuntu6.6) ...\r\n"
+    ],
+    [
+      0.787706,
+      "\u001b]0;ubuntu@ip-172-31-42-79: ~\u0007ubuntu@ip-172-31-42-79:~$ "
+    ],
+    [
+      1.000000,
+      "sud"
+    ],
+    [
+      0.000011,
+      "o"
+    ],
+    [
+      0.000078,
+      " a"
+    ],
+    [
+      0.000065,
+      "p"
+    ],
+    [
+      0.000006,
+      "t"
+    ],
+    [
+      0.000124,
+      "-ke"
+    ],
+    [
+      0.000008,
+      "y"
+    ],
+    [
+      0.000069,
+      " "
+    ],
+    [
+      0.000005,
+      "a"
+    ],
+    [
+      0.000058,
+      "d"
+    ],
+    [
+      0.000094,
+      "v "
+    ],
+    [
+      0.000008,
+      "-"
+    ],
+    [
+      0.000097,
+      "-k"
+    ],
+    [
+      0.000008,
+      "e"
+    ],
+    [
+      0.000104,
+      "ys"
+    ],
+    [
+      0.000007,
+      "e"
+    ],
+    [
+      0.000096,
+      "r"
+    ],
+    [
+      0.000072,
+      "v"
+    ],
+    [
+      0.000093,
+      "er"
+    ],
+    [
+      0.000008,
+      " "
+    ],
+    [
+      0.000056,
+      "h"
+    ],
+    [
+      0.000096,
+      "kp"
+    ],
+    [
+      0.000008,
+      ":"
+    ],
+    [
+      0.000065,
+      "/"
+    ],
+    [
+      0.000098,
+      "/p"
+    ],
+    [
+      0.000008,
+      "g"
+    ],
+    [
+      0.000068,
+      "p"
+    ],
+    [
+      0.000074,
+      "."
+    ],
+    [
+      0.000008,
+      "m"
+    ],
+    [
+      0.000060,
+      "i"
+    ],
+    [
+      0.000102,
+      "t."
+    ],
+    [
+      0.000094,
+      "ed"
+    ],
+    [
+      0.000066,
+      "u"
+    ],
+    [
+      0.000004,
+      ":"
+    ],
+    [
+      0.000117,
+      "80"
+    ],
+    [
+      0.000107,
+      " -"
+    ],
+    [
+      0.000694,
+      "-re \rcv-keys 58118E89F3A912897C070A"
+    ],
+    [
+      0.000096,
+      "DBF"
+    ],
+    [
+      0.000060,
+      "7"
+    ],
+    [
+      0.000007,
+      "6"
+    ],
+    [
+      0.000046,
+      "2"
+    ],
+    [
+      0.000051,
+      "2"
+    ],
+    [
+      0.000007,
+      "1"
+    ],
+    [
+      0.000105,
+      "572"
+    ],
+    [
+      0.000098,
+      "C5"
+    ],
+    [
+      0.000008,
+      "2"
+    ],
+    [
+      0.000102,
+      "60"
+    ],
+    [
+      0.000008,
+      "9"
+    ],
+    [
+      0.000068,
+      "D\r\n"
+    ],
+    [
+      0.066116,
+      "Executing: gpg --ignore-time-conflict --no-options --no-default-keyring --homedir /tmp/tmp.6PsXFoUW9p --no-auto-check-trustdb --trust-model always --keyring /etc/apt/trusted.gpg --primary-keyring /etc/apt/trusted.gpg --keyring /etc/apt/trusted.gpg.d/zanchey-asciinema.gpg --keyserver hkp://pgp.mit.edu:80 --recv-keys 58118E89F3A912897C070ADBF76221572C52609D\r\n"
+    ],
+    [
+      0.001565,
+      "gpg: requesting key 2C52609D from hkp server pgp.mit.edu\r\n"
+    ],
+    [
+      0.324100,
+      "gpg: key 2C52609D: public key \"Docker Release Tool (releasedocker) \u003cdocker@docker.com\u003e\" imported\r\ngpg: Total number processed: 1\r\ngpg: "
+    ],
+    [
+      0.000009,
+      "              imported: 1  (RSA: 1)\r\n"
+    ],
+    [
+      0.003514,
+      "\u001b]0;ubuntu@ip-172-31-42-79: ~\u0007ubuntu@ip-172-31-42-79:~$ \r\n"
+    ],
+    [
+      0.000168,
+      "\u001b]0;ubuntu@ip-172-31-42-79: ~\u0007ubuntu@ip-172-31-42-79:~$ "
+    ],
+    [
+      0.000062,
+      "ec"
+    ],
+    [
+      0.000026,
+      "h"
+    ],
+    [
+      0.000033,
+      "o"
+    ],
+    [
+      0.000028,
+      " "
+    ],
+    [
+      0.000079,
+      "'d"
+    ],
+    [
+      0.000008,
+      "e"
+    ],
+    [
+      0.000086,
+      "b "
+    ],
+    [
+      0.000008,
+      "h"
+    ],
+    [
+      0.000077,
+      "tt"
+    ],
+    [
+      0.000007,
+      "p"
+    ],
+    [
+      0.000044,
+      "s"
+    ],
+    [
+      0.000083,
+      ":/"
+    ],
+    [
+      0.000007,
+      "/"
+    ],
+    [
+      0.000073,
+      "a"
+    ],
+    [
+      0.000007,
+      "p"
+    ],
+    [
+      0.000076,
+      "t."
+    ],
+    [
+      0.000007,
+      "d"
+    ],
+    [
+      0.000046,
+      "o"
+    ],
+    [
+      0.000032,
+      "c"
+    ],
+    [
+      0.000049,
+      "k"
+    ],
+    [
+      0.000039,
+      "e"
+    ],
+    [
+      0.000037,
+      "r"
+    ],
+    [
+      0.000038,
+      "p"
+    ],
+    [
+      0.000040,
+      "r"
+    ],
+    [
+      0.000045,
+      "o"
+    ],
+    [
+      0.000039,
+      "j"
+    ],
+    [
+      0.000039,
+      "e"
+    ],
+    [
+      0.000040,
+      "c"
+    ],
+    [
+      0.000041,
+      "t"
+    ],
+    [
+      0.000041,
+      "."
+    ],
+    [
+      0.000041,
+      "o"
+    ],
+    [
+      0.000042,
+      "r"
+    ],
+    [
+      0.000042,
+      "g"
+    ],
+    [
+      0.000043,
+      "/"
+    ],
+    [
+      0.000043,
+      "r"
+    ],
+    [
+      0.000045,
+      "e"
+    ],
+    [
+      0.000044,
+      "p"
+    ],
+    [
+      0.000042,
+      "o"
+    ],
+    [
+      0.000045,
+      " "
+    ],
+    [
+      0.000045,
+      "u"
+    ],
+    [
+      0.000046,
+      "b"
+    ],
+    [
+      0.000046,
+      "u"
+    ],
+    [
+      0.000048,
+      "n"
+    ],
+    [
+      0.000046,
+      "t"
+    ],
+    [
+      0.000047,
+      "u"
+    ],
+    [
+      0.000088,
+      "-"
+    ],
+    [
+      0.000050,
+      "t"
+    ],
+    [
+      0.000048,
+      "r \r"
+    ],
+    [
+      0.000017,
+      "u"
+    ],
+    [
+      0.000069,
+      "sty "
+    ],
+    [
+      0.000008,
+      "m"
+    ],
+    [
+      0.000089,
+      "ain"
+    ],
+    [
+      0.000008,
+      "' \u003e"
+    ],
+    [
+      0.000081,
+      "doc"
+    ],
+    [
+      0.000007,
+      "k"
+    ],
+    [
+      0.000072,
+      "er."
+    ],
+    [
+      0.000007,
+      "l"
+    ],
+    [
+      0.000067,
+      "is"
+    ],
+    [
+      0.000007,
+      "t\r\n"
+    ],
+    [
+      0.000432,
+      "\u001b]0;ubuntu@ip-172-31-42-79: ~\u0007ubuntu@ip-172-31-42-79:~$ s"
+    ],
+    [
+      0.000007,
+      "u"
+    ],
+    [
+      0.000041,
+      "d"
+    ],
+    [
+      0.000020,
+      "o"
+    ],
+    [
+      0.000024,
+      " "
+    ],
+    [
+      0.000028,
+      "m"
+    ],
+    [
+      0.000028,
+      "v"
+    ],
+    [
+      0.000029,
+      " "
+    ],
+    [
+      0.000086,
+      "do"
+    ],
+    [
+      0.000007,
+      "c"
+    ],
+    [
+      0.000083,
+      "ke"
+    ],
+    [
+      0.000007,
+      "r"
+    ],
+    [
+      0.000083,
+      ".l"
+    ],
+    [
+      0.000007,
+      "i"
+    ],
+    [
+      0.000085,
+      "st"
+    ],
+    [
+      0.000007,
+      " "
+    ],
+    [
+      0.000044,
+      "/"
+    ],
+    [
+      0.000031,
+      "e"
+    ],
+    [
+      0.000047,
+      "t"
+    ],
+    [
+      0.000039,
+      "c"
+    ],
+    [
+      0.000040,
+      "/"
+    ],
+    [
+      0.000038,
+      "a"
+    ],
+    [
+      0.000037,
+      "p"
+    ],
+    [
+      0.000038,
+      "t"
+    ],
+    [
+      0.000036,
+      "/"
+    ],
+    [
+      0.000038,
+      "s"
+    ],
+    [
+      0.000039,
+      "o"
+    ],
+    [
+      0.000040,
+      "u"
+    ],
+    [
+      0.000039,
+      "r"
+    ],
+    [
+      0.000040,
+      "c"
+    ],
+    [
+      0.000040,
+      "e"
+    ],
+    [
+      0.000041,
+      "s"
+    ],
+    [
+      0.000041,
+      "."
+    ],
+    [
+      0.000043,
+      "l"
+    ],
+    [
+      0.000041,
+      "i"
+    ],
+    [
+      0.000046,
+      "s"
+    ],
+    [
+      0.000040,
+      "t"
+    ],
+    [
+      0.000044,
+      "."
+    ],
+    [
+      0.000044,
+      "d\r\n"
+    ],
+    [
+      0.011266,
+      "\u001b]0;ubuntu@ip-172-31-42-79: ~\u0007ubuntu@ip-172-31-42-79:~$ \r\n"
+    ],
+    [
+      0.000164,
+      "\u001b]0;ubuntu@ip-172-31-42-79: ~\u0007ubuntu@ip-172-31-42-79:~$ "
+    ],
+    [
+      0.000066,
+      "su"
+    ],
+    [
+      0.000007,
+      "d"
+    ],
+    [
+      0.000085,
+      "o "
+    ],
+    [
+      0.000007,
+      "a"
+    ],
+    [
+      0.000025,
+      "p"
+    ],
+    [
+      0.000027,
+      "t"
+    ],
+    [
+      0.000030,
+      "-"
+    ],
+    [
+      0.000029,
+      "g"
+    ],
+    [
+      0.000030,
+      "e"
+    ],
+    [
+      0.000064,
+      "t "
+    ],
+    [
+      0.000025,
+      "-"
+    ],
+    [
+      0.000031,
+      "q"
+    ],
+    [
+      0.000033,
+      "q"
+    ],
+    [
+      0.000032,
+      " "
+    ],
+    [
+      0.000033,
+      "u"
+    ],
+    [
+      0.000034,
+      "p"
+    ],
+    [
+      0.000034,
+      "d"
+    ],
+    [
+      0.000036,
+      "a"
+    ],
+    [
+      0.000035,
+      "t"
+    ],
+    [
+      0.000036,
+      "e"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b]0;ubuntu@ip-172-31-42-79: ~\u0007ubuntu@ip-172-31-42-79:~$ \r\n"
+    ],
+    [
+      0.000160,
+      "\u001b]0;ubuntu@ip-172-31-42-79: ~\u0007ubuntu@ip-172-31-42-79:~$ "
+    ],
+    [
+      0.000062,
+      "s"
+    ],
+    [
+      0.000008,
+      "ud"
+    ],
+    [
+      0.000051,
+      "o"
+    ],
+    [
+      0.000004,
+      " "
+    ],
+    [
+      0.000046,
+      "a"
+    ],
+    [
+      0.000063,
+      "pt"
+    ],
+    [
+      0.000007,
+      "-"
+    ],
+    [
+      0.000035,
+      "g"
+    ],
+    [
+      0.000026,
+      "e"
+    ],
+    [
+      0.000032,
+      "t"
+    ],
+    [
+      0.000025,
+      " "
+    ],
+    [
+      0.000032,
+      "i"
+    ],
+    [
+      0.000030,
+      "n"
+    ],
+    [
+      0.000031,
+      "s"
+    ],
+    [
+      0.000049,
+      "t"
+    ],
+    [
+      0.000033,
+      "a"
+    ],
+    [
+      0.000033,
+      "l"
+    ],
+    [
+      0.000033,
+      "l"
+    ],
+    [
+      0.000034,
+      " "
+    ],
+    [
+      0.000034,
+      "-"
+    ],
+    [
+      0.000034,
+      "y"
+    ],
+    [
+      0.000035,
+      " "
+    ],
+    [
+      0.000035,
+      "d"
+    ],
+    [
+      0.000036,
+      "o"
+    ],
+    [
+      0.000036,
+      "c"
+    ],
+    [
+      0.000036,
+      "k"
+    ],
+    [
+      0.000037,
+      "e"
+    ],
+    [
+      0.000037,
+      "r"
+    ],
+    [
+      0.000037,
+      "-"
+    ],
+    [
+      0.000038,
+      "e"
+    ],
+    [
+      0.000039,
+      "n"
+    ],
+    [
+      0.000038,
+      "g"
+    ],
+    [
+      0.000039,
+      "i"
+    ],
+    [
+      0.000040,
+      "n"
+    ],
+    [
+      0.000041,
+      "e"
+    ],
+    [
+      0.000062,
+      "\r\n"
+    ],
+    [
+      0.015245,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.002310,
+      "\rReading package lists... 100%\r\rReading package lists... Done\r\r\n"
+    ],
+    [
+      0.003744,
+      "\rBuilding dependency tree... 0%\r\rBuilding dependency tree... 0%\r"
+    ],
+    [
+      0.023079,
+      "\rBuilding dependency tree... 50%\r\rBuilding dependency tree... 50%\r"
+    ],
+    [
+      0.070474,
+      "\rBuilding dependency tree       \r\r\n\rReading state information... 0%\r"
+    ],
+    [
+      0.000008,
+      "\rReading state information... 6%\r"
+    ],
+    [
+      0.000079,
+      "\rReading state information... Done\r\r\n"
+    ],
+    [
+      0.054133,
+      "The following extra packages will be installed:\r\n  aufs-tools cgroup-lite git git-man liberror-perl\r\n"
+    ],
+    [
+      0.000377,
+      "Suggested packages:\r\n  git-daemon-run git-daemon-sysvinit git-doc git-el git-email git-gui gitk\r\n  gitweb git-arch git-bzr git-cvs git-mediawiki git-svn\r\n"
+    ],
+    [
+      0.000596,
+      "The following NEW packages will be installed:\r\n  aufs-tools cgroup-lite docker-engine git git-man liberror-perl\r\n"
+    ],
+    [
+      0.002582,
+      "0 upgraded, 6 newly installed, 0 to remove and 125 not upgraded.\r\n"
+    ],
+    [
+      0.014097,
+      "Need to get 9067 kB of archives.\r\nAfter this operation, 50.4 MB of additional disk space will be used.\r\n"
+    ],
+    [
+      0.007569,
+      "\r\r0% [Working]"
+    ],
+    [
+      0.006788,
+      "\r            \rGet:1 http://us-west-2.ec2.archive.ubuntu.com/ubuntu/ trusty/universe aufs-tools amd64 1:3.2+20130722-1.1 [92.3 kB]\r\n\r            \r0% [1 aufs-tools 12.7 kB/92.3 kB 14%]"
+    ],
+    [
+      0.004859,
+      "\r                                     \r1% [Working]"
+    ],
+    [
+      0.002607,
+      "\r            \rGet:2 http://us-west-2.ec2.archive.ubuntu.com/ubuntu/ trusty/main liberror-perl all 0.17-1.1 [21.1 kB]\r\n\r            \r1% [2 liberror-perl 17.8 kB/21.1 kB 85%]"
+    ],
+    [
+      0.001021,
+      "\r                                        \r1% [Working]"
+    ],
+    [
+      0.002493,
+      "\r            \rGet:3 http://us-west-2.ec2.archive.ubuntu.com/ubuntu/ trusty-updates/main git-man all 1:1.9.1-1ubuntu0.1 [698 kB]\r\n\r            \r1% [3 git-man 16.1 kB/698 kB 2%]"
+    ],
+    [
+      0.024841,
+      "\r                                \r9% [Working]"
+    ],
+    [
+      0.002486,
+      "\r            \rGet:4 http://us-west-2.ec2.archive.ubuntu.com/ubuntu/ trusty-updates/main git amd64 1:1.9.1-1ubuntu0.1 [2627 kB]\r\n\r            \r9% [4 git 3786 B/2627 kB 0%]"
+    ],
+    [
+      0.059752,
+      "\r                            \r38% [Waiting for headers]"
+    ],
+    [
+      0.002415,
+      "\r                         \rGet:5 http://us-west-2.ec2.archive.ubuntu.com/ubuntu/ trusty/main cgroup-lite all 1.9 [3918 B]\r\n\r                         \r38% [5 cgroup-lite 3918 B/3918 B 100%]"
+    ],
+    [
+      0.000054,
+      "\r                                      \r38% [Working]"
+    ],
+    [
+      0.195858,
+      "\r             \rGet:6 https://apt.dockerproject.org/repo/ ubuntu-trusty/main docker-engine amd64 1.8.3-0~trusty [5625 kB]\r\n\r             \r38% [6 docker-engine 15.6 kB]"
+    ],
+    [
+      0.500884,
+      "\r99% [6 docker-engine 5504 kB]"
+    ],
+    [
+      0.096637,
+      "\r                             \r100% [Working]\r              \rFetched 9067 kB in 0s (10.1 MB/s)\r\n"
+    ],
+    [
+      0.004930,
+      "perl: warning: Setting locale failed.\r\nperl: warning: Please check that your locale settings:\r\n\u0009LANGUAGE = (unset),\r\n\u0009LC_ALL = (unset),\r\n\u0009LC_CTYPE = \"UTF-8\",\r\n\u0009LANG = \"en_US.UTF-8\"\r\n    are supported and installed on your system.\r\nperl: warning: Falling back to the standard locale (\"C\").\r\n"
+    ],
+    [
+      0.032200,
+      "locale: Cannot set LC_CTYPE to default locale: No such file or directory\r\n"
+    ],
+    [
+      0.000150,
+      "locale: Cannot set LC_ALL to default locale: No such file or directory"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.169563,
+      "Selecting previously unselected package aufs-tools.\r\n(Reading database ... \r(Reading database ... 5%\r(Reading database ... 10%\r(Reading database ... 15%\r(Reading database ... 20%\r(Reading database ... 25%\r(Reading database ... 30%\r(Reading database ... 35%\r(Reading database ... 40%\r(Reading database ... 45%\r(Reading database ... 50%\r(Reading database ... 55%\r(Reading database ... 60%\r"
+    ],
+    [
+      0.000142,
+      "(Reading database ... 65%\r"
+    ],
+    [
+      0.001292,
+      "(Reading database ... 70%\r"
+    ],
+    [
+      0.001232,
+      "(Reading database ... 75%\r"
+    ],
+    [
+      0.000466,
+      "(Reading database ... 80%\r"
+    ],
+    [
+      0.001085,
+      "(Reading database ... 85%\r"
+    ],
+    [
+      0.006267,
+      "(Reading database ... 90%\r"
+    ],
+    [
+      0.000624,
+      "(Reading database ... 95%\r"
+    ],
+    [
+      0.001342,
+      "(Reading database ... 100%\r(Reading database ... 55239 files and directories currently installed.)\r\n"
+    ],
+    [
+      0.000739,
+      "Preparing to unpack .../aufs-tools_1%3a3.2+20130722-1.1_amd64.deb ...\r\n"
+    ],
+    [
+      0.004798,
+      "Unpacking aufs-tools (1:3.2+20130722-1.1) ...\r\n"
+    ],
+    [
+      0.100541,
+      "Selecting previously unselected package liberror-perl.\r\n"
+    ],
+    [
+      0.004582,
+      "Preparing to unpack .../liberror-perl_0.17-1.1_all.deb ...\r\n"
+    ],
+    [
+      0.003746,
+      "Unpacking liberror-perl (0.17-1.1) ...\r\n"
+    ],
+    [
+      0.070452,
+      "Selecting previously unselected package git-man.\r\n"
+    ],
+    [
+      0.004584,
+      "Preparing to unpack .../git-man_1%3a1.9.1-1ubuntu0.1_all.deb ...\r\n"
+    ],
+    [
+      0.003428,
+      "Unpacking git-man (1:1.9.1-1ubuntu0.1) ...\r\n"
+    ],
+    [
+      0.151720,
+      "Selecting previously unselected package git.\r\n"
+    ],
+    [
+      0.004630,
+      "Preparing to unpack .../git_1%3a1.9.1-1ubuntu0.1_amd64.deb ...\r\n"
+    ],
+    [
+      0.009583,
+      "Unpacking git (1:1.9.1-1ubuntu0.1) ...\r\n"
+    ],
+    [
+      0.315083,
+      "Selecting previously unselected package cgroup-lite.\r\n"
+    ],
+    [
+      0.006061,
+      "Preparing to unpack .../cgroup-lite_1.9_all.deb ...\r\n"
+    ],
+    [
+      0.005493,
+      "Unpacking cgroup-lite (1.9) ...\r\n"
+    ],
+    [
+      0.053658,
+      "Selecting previously unselected package docker-engine.\r\n"
+    ],
+    [
+      0.002951,
+      "Preparing to unpack .../docker-engine_1.8.3-0~trusty_amd64.deb ...\r\n"
+    ],
+    [
+      0.004986,
+      "Unpacking docker-engine (1.8.3-0~trusty) ...\r\n"
+    ],
+    [
+      0.568258,
+      "Processing triggers for man-db (2.6.7.1-1ubuntu1) ...\r\n"
+    ],
+    [
+      0.935476,
+      "Processing triggers for ureadahead (0.100.0-16) ...\r\n"
+    ],
+    [
+      0.050386,
+      "Setting up aufs-tools (1:3.2+20130722-1.1) ...\r\n"
+    ],
+    [
+      0.036748,
+      "Setting up liberror-perl (0.17-1.1) ...\r\n"
+    ],
+    [
+      0.009821,
+      "Setting up git-man (1:1.9.1-1ubuntu0.1) ...\r\n"
+    ],
+    [
+      0.020688,
+      "Setting up git (1:1.9.1-1ubuntu0.1) ...\r\n"
+    ],
+    [
+      0.018023,
+      "Setting up cgroup-lite (1.9) ...\r\n"
+    ],
+    [
+      0.141008,
+      "cgroup-lite start/running\r\n"
+    ],
+    [
+      0.023938,
+      "Setting up docker-engine (1.8.3-0~trusty) ...\r\n"
+    ],
+    [
+      0.527877,
+      "docker start/running, process 12800\r\n"
+    ],
+    [
+      0.016846,
+      "Processing triggers for libc-bin (2.19-0ubuntu6.6) ...\r\n"
+    ],
+    [
+      0.014696,
+      "Processing triggers for ureadahead (0.100.0-16) ...\r\n"
+    ],
+    [
+      0.320596,
+      "\u001b]0;ubuntu@ip-172-31-42-79: ~\u0007ubuntu@ip-172-31-42-79:~$ "
+    ],
+    [
+      1.000000,
+      "sud"
+    ],
+    [
+      0.000012,
+      "o"
+    ],
+    [
+      0.000110,
+      " us"
+    ],
+    [
+      0.000009,
+      "e"
+    ],
+    [
+      0.000097,
+      "rmo"
+    ],
+    [
+      0.000095,
+      "d -"
+    ],
+    [
+      0.000107,
+      "aG "
+    ],
+    [
+      0.000106,
+      "do"
+    ],
+    [
+      0.000008,
+      "c"
+    ],
+    [
+      0.000099,
+      "ke"
+    ],
+    [
+      0.000008,
+      "r"
+    ],
+    [
+      0.000108,
+      " u"
+    ],
+    [
+      0.000008,
+      "b"
+    ],
+    [
+      0.000100,
+      "un"
+    ],
+    [
+      0.000008,
+      "t"
+    ],
+    [
+      0.000060,
+      "u\r\n"
+    ],
+    [
+      0.031955,
+      "\u001b]0;ubuntu@ip-172-31-42-79: ~\u0007ubuntu@ip-172-31-42-79:~$ n"
+    ],
+    [
+      0.000009,
+      "ew"
+    ],
+    [
+      0.000105,
+      "grp"
+    ],
+    [
+      0.000008,
+      " "
+    ],
+    [
+      0.000107,
+      "doc"
+    ],
+    [
+      0.000079,
+      "k"
+    ],
+    [
+      0.000094,
+      "er\r\n"
+    ],
+    [
+      0.055394,
+      "\u001b]0;ubuntu@ip-172-31-42-79: ~\u0007ubuntu@ip-172-31-42-79:~$ n"
+    ],
+    [
+      0.000007,
+      "ewg"
+    ],
+    [
+      0.000080,
+      "rp u"
+    ],
+    [
+      0.000007,
+      "b"
+    ],
+    [
+      0.000004,
+      "u"
+    ],
+    [
+      0.000077,
+      "ntu\r\n"
+    ],
+    [
+      0.056853,
+      "\u001b]0;ubuntu@ip-172-31-42-79: ~\u0007ubuntu@ip-172-31-42-79:~$ "
+    ],
+    [
+      1.000000,
+      "id"
+    ],
+    [
+      0.293401,
+      "\r\n"
+    ],
+    [
+      0.003190,
+      "uid=1000(ubuntu) gid=1000(ubuntu) groups=1000(ubuntu),4(adm),20(dialout),24(cdrom),25(floppy),27(sudo),29(audio),30(dip),44(video),46(plugdev),102(netdev),999(docker)\r\n"
+    ],
+    [
+      0.000543,
+      "\u001b]0;ubuntu@ip-172-31-42-79: ~\u0007ubuntu@ip-172-31-42-79:~$ "
+    ],
+    [
+      1.000000,
+      "ec"
+    ],
+    [
+      0.000009,
+      "h"
+    ],
+    [
+      0.000034,
+      "o"
+    ],
+    [
+      0.000034,
+      " "
+    ],
+    [
+      0.000007,
+      "'"
+    ],
+    [
+      0.000035,
+      "D"
+    ],
+    [
+      0.000029,
+      "O"
+    ],
+    [
+      0.000044,
+      "C"
+    ],
+    [
+      0.000074,
+      "KE"
+    ],
+    [
+      0.000008,
+      "R"
+    ],
+    [
+      0.000083,
+      "_O"
+    ],
+    [
+      0.000008,
+      "P"
+    ],
+    [
+      0.000084,
+      "TS"
+    ],
+    [
+      0.000007,
+      "="
+    ],
+    [
+      0.000090,
+      "\"-"
+    ],
+    [
+      0.000008,
+      "-"
+    ],
+    [
+      0.000094,
+      "st"
+    ],
+    [
+      0.000008,
+      "o"
+    ],
+    [
+      0.000044,
+      "r"
+    ],
+    [
+      0.000032,
+      "a"
+    ],
+    [
+      0.000040,
+      "g"
+    ],
+    [
+      0.000037,
+      "e"
+    ],
+    [
+      0.000038,
+      "-"
+    ],
+    [
+      0.000040,
+      "d"
+    ],
+    [
+      0.000038,
+      "r"
+    ],
+    [
+      0.000040,
+      "i"
+    ],
+    [
+      0.000039,
+      "v"
+    ],
+    [
+      0.000041,
+      "e"
+    ],
+    [
+      0.000041,
+      "r"
+    ],
+    [
+      0.000041,
+      "="
+    ],
+    [
+      0.000043,
+      "a"
+    ],
+    [
+      0.000041,
+      "u"
+    ],
+    [
+      0.000042,
+      "f"
+    ],
+    [
+      0.000044,
+      "s"
+    ],
+    [
+      0.000043,
+      "\""
+    ],
+    [
+      0.000043,
+      "'"
+    ],
+    [
+      0.000045,
+      " "
+    ],
+    [
+      0.000044,
+      "\u003e"
+    ],
+    [
+      0.000044,
+      "d"
+    ],
+    [
+      0.000046,
+      "o"
+    ],
+    [
+      0.000045,
+      "c"
+    ],
+    [
+      0.000044,
+      "k"
+    ],
+    [
+      0.000047,
+      "e"
+    ],
+    [
+      0.000047,
+      "r"
+    ],
+    [
+      0.000047,
+      "_"
+    ],
+    [
+      0.000048,
+      "o"
+    ],
+    [
+      0.000048,
+      "p"
+    ],
+    [
+      0.000057,
+      "t \r"
+    ],
+    [
+      0.000070,
+      "s\r\n"
+    ],
+    [
+      0.000490,
+      "\u001b]0;ubuntu@ip-172-31-42-79: ~\u0007ubuntu@ip-172-31-42-79:~$ s"
+    ],
+    [
+      0.000008,
+      "u"
+    ],
+    [
+      0.000004,
+      "d"
+    ],
+    [
+      0.000037,
+      "o"
+    ],
+    [
+      0.000024,
+      " "
+    ],
+    [
+      0.000030,
+      "m"
+    ],
+    [
+      0.000029,
+      "v"
+    ],
+    [
+      0.000046,
+      " "
+    ],
+    [
+      0.000005,
+      "d"
+    ],
+    [
+      0.000042,
+      "o"
+    ],
+    [
+      0.000038,
+      "c"
+    ],
+    [
+      0.000033,
+      "k"
+    ],
+    [
+      0.000031,
+      "e"
+    ],
+    [
+      0.000031,
+      "r"
+    ],
+    [
+      0.000032,
+      "_"
+    ],
+    [
+      0.000035,
+      "o"
+    ],
+    [
+      0.000030,
+      "p"
+    ],
+    [
+      0.000087,
+      "t"
+    ],
+    [
+      0.000036,
+      "s"
+    ],
+    [
+      0.000033,
+      " "
+    ],
+    [
+      0.000035,
+      "/"
+    ],
+    [
+      0.000036,
+      "e"
+    ],
+    [
+      0.000035,
+      "t"
+    ],
+    [
+      0.000036,
+      "c"
+    ],
+    [
+      0.000036,
+      "/"
+    ],
+    [
+      0.000037,
+      "d"
+    ],
+    [
+      0.000037,
+      "e"
+    ],
+    [
+      0.000038,
+      "f"
+    ],
+    [
+      0.000038,
+      "a"
+    ],
+    [
+      0.000038,
+      "u"
+    ],
+    [
+      0.000039,
+      "l"
+    ],
+    [
+      0.000039,
+      "t"
+    ],
+    [
+      0.000040,
+      "/"
+    ],
+    [
+      0.000040,
+      "d"
+    ],
+    [
+      0.000040,
+      "o"
+    ],
+    [
+      0.000041,
+      "c"
+    ],
+    [
+      0.000043,
+      "k"
+    ],
+    [
+      0.000041,
+      "e"
+    ],
+    [
+      0.000044,
+      "r\r\n"
+    ],
+    [
+      0.012971,
+      "\u001b]0;ubuntu@ip-172-31-42-79: ~\u0007ubuntu@ip-172-31-42-79:~$ "
+    ],
+    [
+      1.000000,
+      "su"
+    ],
+    [
+      0.000011,
+      "d"
+    ],
+    [
+      0.000075,
+      "o "
+    ],
+    [
+      0.000008,
+      "s"
+    ],
+    [
+      0.000048,
+      "e"
+    ],
+    [
+      0.000007,
+      "r"
+    ],
+    [
+      0.000030,
+      "v"
+    ],
+    [
+      0.000030,
+      "i"
+    ],
+    [
+      0.000021,
+      "c"
+    ],
+    [
+      0.000039,
+      "e"
+    ],
+    [
+      0.000037,
+      " "
+    ],
+    [
+      0.000052,
+      "d"
+    ],
+    [
+      0.000008,
+      "o"
+    ],
+    [
+      0.000082,
+      "ck"
+    ],
+    [
+      0.000048,
+      "er"
+    ],
+    [
+      0.000057,
+      " "
+    ],
+    [
+      0.000008,
+      "r"
+    ],
+    [
+      0.000084,
+      "es"
+    ],
+    [
+      0.000074,
+      "ta"
+    ],
+    [
+      0.000075,
+      "rt\r\n"
+    ],
+    [
+      0.060007,
+      "docker stop/waiting\r\n"
+    ],
+    [
+      0.143151,
+      "docker start/running, process 12952\r\n"
+    ],
+    [
+      0.001348,
+      "\u001b]0;ubuntu@ip-172-31-42-79: ~\u0007ubuntu@ip-172-31-42-79:~$ "
+    ],
+    [
+      1.000000,
+      "d"
+    ],
+    [
+      0.000009,
+      "o"
+    ],
+    [
+      0.000040,
+      "c"
+    ],
+    [
+      0.000078,
+      "ke"
+    ],
+    [
+      0.000008,
+      "r"
+    ],
+    [
+      0.000032,
+      " "
+    ],
+    [
+      0.000028,
+      "i"
+    ],
+    [
+      0.000039,
+      "n"
+    ],
+    [
+      0.000006,
+      "f"
+    ],
+    [
+      0.000047,
+      "o"
+    ],
+    [
+      0.000014,
+      " "
+    ],
+    [
+      0.000045,
+      " "
+    ],
+    [
+      0.000016,
+      "|"
+    ],
+    [
+      0.000059,
+      " "
+    ],
+    [
+      0.000005,
+      "g"
+    ],
+    [
+      0.000056,
+      "r"
+    ],
+    [
+      0.000076,
+      "ep"
+    ],
+    [
+      0.000076,
+      " S"
+    ],
+    [
+      0.000007,
+      "t"
+    ],
+    [
+      0.000057,
+      "o"
+    ],
+    [
+      0.000041,
+      "r"
+    ],
+    [
+      0.000068,
+      "a"
+    ],
+    [
+      0.000007,
+      "g"
+    ],
+    [
+      0.000086,
+      "e\r\n"
+    ],
+    [
+      0.110601,
+      "WARNING: No swap limit support\r\n\u001b[01;31m\u001b[KStorage\u001b[m\u001b[K Driver: aufs\r\n"
+    ],
+    [
+      0.000509,
+      "\u001b]0;ubuntu@ip-172-31-42-79: ~\u0007ubuntu@ip-172-31-42-79:~$ "
+    ],
+    [
+      1.000000,
+      "g"
+    ],
+    [
+      0.000011,
+      "i"
+    ],
+    [
+      0.000044,
+      "t"
+    ],
+    [
+      0.000053,
+      " "
+    ],
+    [
+      0.000008,
+      "c"
+    ],
+    [
+      0.000005,
+      "l"
+    ],
+    [
+      0.000043,
+      "o"
+    ],
+    [
+      0.000036,
+      "n"
+    ],
+    [
+      0.000030,
+      "e"
+    ],
+    [
+      0.000036,
+      " "
+    ],
+    [
+      0.000025,
+      "h"
+    ],
+    [
+      0.000022,
+      "t"
+    ],
+    [
+      0.000040,
+      "t"
+    ],
+    [
+      0.000048,
+      "p"
+    ],
+    [
+      0.000089,
+      "s"
+    ],
+    [
+      0.000035,
+      ":"
+    ],
+    [
+      0.000036,
+      "/"
+    ],
+    [
+      0.000033,
+      "/"
+    ],
+    [
+      0.000035,
+      "g"
+    ],
+    [
+      0.000035,
+      "i"
+    ],
+    [
+      0.000035,
+      "s"
+    ],
+    [
+      0.000036,
+      "t"
+    ],
+    [
+      0.000035,
+      "."
+    ],
+    [
+      0.000036,
+      "g"
+    ],
+    [
+      0.000037,
+      "i"
+    ],
+    [
+      0.000037,
+      "t"
+    ],
+    [
+      0.000038,
+      "h"
+    ],
+    [
+      0.000037,
+      "u"
+    ],
+    [
+      0.000038,
+      "b"
+    ],
+    [
+      0.000038,
+      "."
+    ],
+    [
+      0.000039,
+      "c"
+    ],
+    [
+      0.000039,
+      "o"
+    ],
+    [
+      0.000040,
+      "m"
+    ],
+    [
+      0.000040,
+      "/"
+    ],
+    [
+      0.000041,
+      "D"
+    ],
+    [
+      0.000041,
+      "a"
+    ],
+    [
+      0.000042,
+      "n"
+    ],
+    [
+      0.000042,
+      "i"
+    ],
+    [
+      0.000043,
+      "e"
+    ],
+    [
+      0.000042,
+      "l"
+    ],
+    [
+      0.000043,
+      "M"
+    ],
+    [
+      0.000044,
+      "a"
+    ],
+    [
+      0.000044,
+      "h"
+    ],
+    [
+      0.000044,
+      "u"
+    ],
+    [
+      0.000044,
+      "/"
+    ],
+    [
+      0.000046,
+      "6"
+    ],
+    [
+      0.000045,
+      "e"
+    ],
+    [
+      0.000048,
+      "7"
+    ],
+    [
+      0.000045,
+      "1"
+    ],
+    [
+      0.000047,
+      "0"
+    ],
+    [
+      0.000049,
+      "4"
+    ],
+    [
+      0.000048,
+      "c"
+    ],
+    [
+      0.000047,
+      "2"
+    ],
+    [
+      0.000056,
+      "1 \r"
+    ],
+    [
+      0.000072,
+      "6891"
+    ],
+    [
+      0.000008,
+      "0"
+    ],
+    [
+      0.000005,
+      "3"
+    ],
+    [
+      0.000085,
+      "631"
+    ],
+    [
+      0.000008,
+      "76"
+    ],
+    [
+      0.000080,
+      " de"
+    ],
+    [
+      0.000007,
+      "m"
+    ],
+    [
+      0.000047,
+      "o\r\n"
+    ],
+    [
+      0.002951,
+      "Cloning into 'demo'...\r\n"
+    ],
+    [
+      0.824991,
+      "remote: Counting objects: 22, done.\u001b[K\r\n"
+    ],
+    [
+      0.000111,
+      "remote: Compressing objects:   5% (1/19)   \u001b[K\r"
+    ],
+    [
+      0.000005,
+      "remote: Compressing objects:  10% (2/19)   \u001b[K\r"
+    ],
+    [
+      0.000004,
+      "remote: Compressing objects:  15% (3/19)   \u001b[K\r"
+    ],
+    [
+      0.000004,
+      "remote: Compressing objects:  21% (4/19)   \u001b[K\r"
+    ],
+    [
+      0.000070,
+      "remote: Compressing objects:  26% (5/19)   \u001b[K\rremote: Compressing objects:  31% (6/19)   \u001b[K\rremote: Compressing objects:  36% (7/19)   \u001b[K\rremote: Compressing objects:  42% (8/19)   \u001b[K\rremote: Compressing objects:  47% (9/19)   \u001b[K\rremote: Compressing objects:  52% (10/19)   \u001b[K\rremote: Compressing objects:  57% (11/19)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  63% (12/19)   \u001b[K\rremote: Compressing objects:  68% (13/19)   \u001b[K\rremote: Compressing objects:  73% (14/19)   \u001b[K\rremote: Compressing objects:  78% (15/19)   \u001b[K\r"
+    ],
+    [
+      0.000004,
+      "remote: Compressing objects:  84% (16/19)   \u001b[K\r"
+    ],
+    [
+      0.000066,
+      "remote: Compressing objects:  89% (17/19)   \u001b[K\rremote: Compressing objects:  94% (18/19)   \u001b[K\rremote: Compressing objects: 100% (19/19)   \u001b[K\rremote: Compressing objects: 100% (19/19), done.\u001b[K\r\n"
+    ],
+    [
+      0.061997,
+      "remote: Total 22 (delta 8), reused 9 (delta 2), pack-reused 0\u001b[K\r\n"
+    ],
+    [
+      0.002565,
+      "Unpacking objects:   4% (1/22)   \r"
+    ],
+    [
+      0.000273,
+      "Unpacking objects:   9% (2/22)   \r"
+    ],
+    [
+      0.000166,
+      "Unpacking objects:  13% (3/22)   \r"
+    ],
+    [
+      0.000244,
+      "Unpacking objects:  18% (4/22)   \r"
+    ],
+    [
+      0.000269,
+      "Unpacking objects:  22% (5/22)   \r"
+    ],
+    [
+      0.000224,
+      "Unpacking objects:  27% (6/22)   \r"
+    ],
+    [
+      0.000349,
+      "Unpacking objects:  31% (7/22)   \r"
+    ],
+    [
+      0.000278,
+      "Unpacking objects:  36% (8/22)   \r"
+    ],
+    [
+      0.000193,
+      "Unpacking objects:  40% (9/22)   \r"
+    ],
+    [
+      0.000217,
+      "Unpacking objects:  45% (10/22)   \r"
+    ],
+    [
+      0.000262,
+      "Unpacking objects:  50% (11/22)   \r"
+    ],
+    [
+      0.000218,
+      "Unpacking objects:  54% (12/22)   \r"
+    ],
+    [
+      0.000347,
+      "Unpacking objects:  59% (13/22)   \r"
+    ],
+    [
+      0.000280,
+      "Unpacking objects:  63% (14/22)   \r"
+    ],
+    [
+      0.000215,
+      "Unpacking objects:  68% (15/22)   \r"
+    ],
+    [
+      0.000300,
+      "Unpacking objects:  72% (16/22)   \r"
+    ],
+    [
+      0.000299,
+      "Unpacking objects:  77% (17/22)   \r"
+    ],
+    [
+      0.000228,
+      "Unpacking objects:  81% (18/22)   \r"
+    ],
+    [
+      0.000215,
+      "Unpacking objects:  86% (19/22)   \r"
+    ],
+    [
+      0.000297,
+      "Unpacking objects:  90% (20/22)   \r"
+    ],
+    [
+      0.000308,
+      "Unpacking objects:  95% (21/22)   \r"
+    ],
+    [
+      0.000345,
+      "Unpacking objects: 100% (22/22)   \rUnpacking objects: 100% (22/22), done.\r\n"
+    ],
+    [
+      0.000572,
+      "Checking connectivity... "
+    ],
+    [
+      0.001475,
+      "done.\r\n"
+    ],
+    [
+      0.014339,
+      "\u001b]0;ubuntu@ip-172-31-42-79: ~\u0007ubuntu@ip-172-31-42-79:~$ "
+    ],
+    [
+      1.000000,
+      "c"
+    ],
+    [
+      0.138881,
+      "d"
+    ],
+    [
+      0.025178,
+      " "
+    ],
+    [
+      0.252682,
+      "d"
+    ],
+    [
+      0.172213,
+      "e"
+    ],
+    [
+      0.047856,
+      "m"
+    ],
+    [
+      0.122522,
+      "o"
+    ],
+    [
+      0.379785,
+      "\r\n"
+    ],
+    [
+      0.000427,
+      "\u001b]0;ubuntu@ip-172-31-42-79: ~/demo\u0007ubuntu@ip-172-31-42-79:~/demo$ "
+    ],
+    [
+      1.000000,
+      "b"
+    ],
+    [
+      0.000011,
+      "a"
+    ],
+    [
+      0.000042,
+      "s"
+    ],
+    [
+      0.000022,
+      "h"
+    ],
+    [
+      0.000042,
+      " "
+    ],
+    [
+      0.000062,
+      "ru"
+    ],
+    [
+      0.000087,
+      "n."
+    ],
+    [
+      0.000008,
+      "s"
+    ],
+    [
+      0.000038,
+      "h"
+    ],
+    [
+      0.000051,
+      " "
+    ],
+    [
+      0.000004,
+      "\u003e"
+    ],
+    [
+      0.000055,
+      "o"
+    ],
+    [
+      0.000017,
+      "u"
+    ],
+    [
+      0.000051,
+      "t"
+    ],
+    [
+      0.000034,
+      "p"
+    ],
+    [
+      0.000050,
+      "u"
+    ],
+    [
+      0.000076,
+      "t."
+    ],
+    [
+      0.000007,
+      "t"
+    ],
+    [
+      0.000062,
+      "x"
+    ],
+    [
+      0.000034,
+      "t"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.039112,
+      "Error response from daemon: No such image: buggy-dind\r\nError: failed to remove images: [buggy-dind]\r\n"
+    ],
+    [
+      0.002300,
+      "Cloning into 'dind'...\r\n"
+    ],
+    [
+      0.893034,
+      "remote: Counting objects: 193, done.\u001b[K\r\n"
+    ],
+    [
+      0.061095,
+      "Receiving objects:   0% (1/193)   \r"
+    ],
+    [
+      0.000008,
+      "Receiving objects:   1% (2/193)   \r"
+    ],
+    [
+      0.000064,
+      "Receiving objects:   2% (4/193)   \r"
+    ],
+    [
+      0.000008,
+      "Receiving objects:   3% (6/193)   \r"
+    ],
+    [
+      0.000004,
+      "Receiving objects:   4% (8/193)   \r"
+    ],
+    [
+      0.000048,
+      "Receiving objects:   5% (10/193)   \r"
+    ],
+    [
+      0.000043,
+      "Receiving objects:   6% (12/193)   \r"
+    ],
+    [
+      0.000032,
+      "Receiving objects:   7% (14/193)   \r"
+    ],
+    [
+      0.000070,
+      "Receiving objects:   8% (16/193)   \r"
+    ],
+    [
+      0.000046,
+      "Receiving objects:   9% (18/193)   \r"
+    ],
+    [
+      0.000029,
+      "Receiving objects:  10% (20/193)   \r"
+    ],
+    [
+      0.000030,
+      "Receiving objects:  11% (22/193)   \r"
+    ],
+    [
+      0.000031,
+      "Receiving objects:  12% (24/193)   \r"
+    ],
+    [
+      0.000024,
+      "Receiving objects:  13% (26/193)   \r"
+    ],
+    [
+      0.000031,
+      "Receiving objects:  14% (28/193)   \r"
+    ],
+    [
+      0.000019,
+      "Receiving objects:  15% (29/193)   \r"
+    ],
+    [
+      0.000030,
+      "Receiving objects:  16% (31/193)   \r"
+    ],
+    [
+      0.000029,
+      "Receiving objects:  17% (33/193)   \r"
+    ],
+    [
+      0.000069,
+      "Receiving objects:  18% (35/193)   \r"
+    ],
+    [
+      0.000035,
+      "Receiving objects:  19% (37/193)   \r"
+    ],
+    [
+      0.000032,
+      "Receiving objects:  20% (39/193)   \r"
+    ],
+    [
+      0.000029,
+      "Receiving objects:  21% (41/193)   \r"
+    ],
+    [
+      0.000029,
+      "Receiving objects:  22% (43/193)   \r"
+    ],
+    [
+      0.000035,
+      "Receiving objects:  23% (45/193)   \r"
+    ],
+    [
+      0.000031,
+      "Receiving objects:  24% (47/193)   \r"
+    ],
+    [
+      0.000030,
+      "Receiving objects:  25% (49/193)   \r"
+    ],
+    [
+      0.000068,
+      "Receiving objects:  26% (51/193)   \r"
+    ],
+    [
+      0.000031,
+      "Receiving objects:  27% (53/193)   \r"
+    ],
+    [
+      0.000029,
+      "Receiving objects:  28% (55/193)   \r"
+    ],
+    [
+      0.000019,
+      "Receiving objects:  29% (56/193)   \r"
+    ],
+    [
+      0.000030,
+      "Receiving objects:  30% (58/193)   \r"
+    ],
+    [
+      0.000031,
+      "Receiving objects:  31% (60/193)   \r"
+    ],
+    [
+      0.000036,
+      "Receiving objects:  32% (62/193)   \r"
+    ],
+    [
+      0.000036,
+      "Receiving objects:  33% (64/193)   \r"
+    ],
+    [
+      0.000031,
+      "Receiving objects:  34% (66/193)   \r"
+    ],
+    [
+      0.000057,
+      "Receiving objects:  35% (68/193)   \r"
+    ],
+    [
+      0.000031,
+      "Receiving objects:  36% (70/193)   \r"
+    ],
+    [
+      0.000030,
+      "Receiving objects:  37% (72/193)   \r"
+    ],
+    [
+      0.000029,
+      "Receiving objects:  38% (74/193)   \r"
+    ],
+    [
+      0.000194,
+      "Receiving objects:  39% (76/193)   \r"
+    ],
+    [
+      0.000068,
+      "Receiving objects:  40% (78/193)   \r"
+    ],
+    [
+      0.056690,
+      "Receiving objects:  41% (80/193)   \r"
+    ],
+    [
+      0.000103,
+      "Receiving objects:  42% (82/193)   \r"
+    ],
+    [
+      0.000094,
+      "Receiving objects:  43% (83/193)   \r"
+    ],
+    [
+      0.000008,
+      "Receiving objects:  44% (85/193)   \r"
+    ],
+    [
+      0.000092,
+      "Receiving objects:  45% (87/193)   \r"
+    ],
+    [
+      0.000008,
+      "Receiving objects:  46% (89/193)   \r"
+    ],
+    [
+      0.000060,
+      "Receiving objects:  47% (91/193)   \r"
+    ],
+    [
+      0.000049,
+      "Receiving objects:  48% (93/193)   \r"
+    ],
+    [
+      0.000049,
+      "Receiving objects:  49% (95/193)   \r"
+    ],
+    [
+      0.000051,
+      "Receiving objects:  50% (97/193)   \r"
+    ],
+    [
+      0.002098,
+      "Receiving objects:  51% (99/193)   \r"
+    ],
+    [
+      0.000115,
+      "Receiving objects:  52% (101/193)   \r"
+    ],
+    [
+      0.000056,
+      "Receiving objects:  53% (103/193)   \r"
+    ],
+    [
+      0.057669,
+      "Receiving objects:  54% (105/193)   \r"
+    ],
+    [
+      0.000097,
+      "Receiving objects:  55% (107/193)   \rReceiving objects:  56% (109/193)   \r"
+    ],
+    [
+      0.000010,
+      "Receiving objects:  57% (111/193)   \rReceiving objects:  58% (112/193)   \r"
+    ],
+    [
+      0.000004,
+      "Receiving objects:  59% (114/193)   \r"
+    ],
+    [
+      0.000052,
+      "Receiving objects:  60% (116/193)   \r"
+    ],
+    [
+      0.000040,
+      "Receiving objects:  61% (118/193)   \r"
+    ],
+    [
+      0.000008,
+      "Receiving objects:  62% (120/193)   \r"
+    ],
+    [
+      0.000105,
+      "Receiving objects:  63% (122/193)   \rremote: Total 193 (delta 0), reused 0 (delta 0), pack-reused 193\u001b[K\r\nReceiving objects:  64% (124/193)   \r"
+    ],
+    [
+      0.000056,
+      "Receiving objects:  65% (126/193)   \r"
+    ],
+    [
+      0.000070,
+      "Receiving objects:  66% (128/193)   \r"
+    ],
+    [
+      0.000077,
+      "Receiving objects:  67% (130/193)   \rReceiving objects:  68% (132/193)   \r"
+    ],
+    [
+      0.000007,
+      "Receiving objects:  69% (134/193)   \r"
+    ],
+    [
+      0.000065,
+      "Receiving objects:  70% (136/193)   \r"
+    ],
+    [
+      0.000043,
+      "Receiving objects:  71% (138/193)   \r"
+    ],
+    [
+      0.000049,
+      "Receiving objects:  72% (139/193)   \r"
+    ],
+    [
+      0.000096,
+      "Receiving objects:  73% (141/193)   \r"
+    ],
+    [
+      0.000139,
+      "Receiving objects:  74% (143/193)   \r"
+    ],
+    [
+      0.000033,
+      "Receiving objects:  75% (145/193)   \r"
+    ],
+    [
+      0.000034,
+      "Receiving objects:  76% (147/193)   \r"
+    ],
+    [
+      0.000025,
+      "Receiving objects:  77% (149/193)   \r"
+    ],
+    [
+      0.000009,
+      "Receiving objects:  78% (151/193)   \r"
+    ],
+    [
+      0.000008,
+      "Receiving objects:  79% (153/193)   \r"
+    ],
+    [
+      0.000040,
+      "Receiving objects:  80% (155/193)   \r"
+    ],
+    [
+      0.000008,
+      "Receiving objects:  81% (157/193)   \rReceiving objects:  82% (159/193)   \r"
+    ],
+    [
+      0.000009,
+      "Receiving objects:  83% (161/193)   \r"
+    ],
+    [
+      0.000025,
+      "Receiving objects:  84% (163/193)   \r"
+    ],
+    [
+      0.000033,
+      "Receiving objects:  85% (165/193)   \rReceiving objects:  86% (166/193)   \r"
+    ],
+    [
+      0.000009,
+      "Receiving objects:  87% (168/193)   \r"
+    ],
+    [
+      0.000032,
+      "Receiving objects:  88% (170/193)   \r"
+    ],
+    [
+      0.000033,
+      "Receiving objects:  89% (172/193)   \r"
+    ],
+    [
+      0.000089,
+      "Receiving objects:  90% (174/193)   \r"
+    ],
+    [
+      0.000008,
+      "Receiving objects:  91% (176/193)   \r"
+    ],
+    [
+      0.000034,
+      "Receiving objects:  92% (178/193)   \r"
+    ],
+    [
+      0.000033,
+      "Receiving objects:  93% (180/193)   \r"
+    ],
+    [
+      0.000008,
+      "Receiving objects:  94% (182/193)   \rReceiving objects:  95% (184/193)   \r"
+    ],
+    [
+      0.000009,
+      "Receiving objects:  96% (186/193)   \r"
+    ],
+    [
+      0.000021,
+      "Receiving objects:  97% (188/193)   \r"
+    ],
+    [
+      0.000127,
+      "Receiving objects:  98% (190/193)   \r"
+    ],
+    [
+      0.000030,
+      "Receiving objects:  99% (192/193)   \r"
+    ],
+    [
+      0.000008,
+      "Receiving objects: 100% (193/193)   \r"
+    ],
+    [
+      0.000035,
+      "Receiving objects: 100% (193/193), 79.33 KiB | 0 bytes/s, done.\r\n"
+    ],
+    [
+      0.000393,
+      "Resolving deltas:   0% (0/78)   \r"
+    ],
+    [
+      0.000341,
+      "Resolving deltas:   1% (1/78)   \r"
+    ],
+    [
+      0.000017,
+      "Resolving deltas:   2% (2/78)   \rResolving deltas:   3% (3/78)   \r"
+    ],
+    [
+      0.000132,
+      "Resolving deltas:   7% (6/78)   \r"
+    ],
+    [
+      0.000098,
+      "Resolving deltas:  11% (9/78)   \r"
+    ],
+    [
+      0.000369,
+      "Resolving deltas:  23% (18/78)   \r"
+    ],
+    [
+      0.000312,
+      "Resolving deltas:  38% (30/78)   \r"
+    ],
+    [
+      0.000155,
+      "Resolving deltas:  47% (37/78)   \r"
+    ],
+    [
+      0.000169,
+      "Resolving deltas:  56% (44/78)   \r"
+    ],
+    [
+      0.000513,
+      "Resolving deltas:  79% (62/78)   \rResolving deltas:  82% (64/78)   \r"
+    ],
+    [
+      0.000081,
+      "Resolving deltas:  87% (68/78)   \r"
+    ],
+    [
+      0.000066,
+      "Resolving deltas:  89% (70/78)   \r"
+    ],
+    [
+      0.000008,
+      "Resolving deltas:  91% (71/78)   \r"
+    ],
+    [
+      0.000055,
+      "Resolving deltas:  93% (73/78)   \r"
+    ],
+    [
+      0.000007,
+      "Resolving deltas:  94% (74/78)   \r"
+    ],
+    [
+      0.000110,
+      "Resolving deltas: 100% (78/78)   \r"
+    ],
+    [
+      0.000074,
+      "Resolving deltas: 100% (78/78), done.\r\n"
+    ],
+    [
+      0.006749,
+      "Checking connectivity... "
+    ],
+    [
+      0.002565,
+      "done.\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b]0;ubuntu@ip-172-31-42-79: ~/demo\u0007ubuntu@ip-172-31-42-79:~/demo$ "
+    ],
+    [
+      1.000000,
+      "t"
+    ],
+    [
+      0.213763,
+      "a"
+    ],
+    [
+      1.000000,
+      "il output.txt"
+    ],
+    [
+      0.184084,
+      "\r\n"
+    ],
+    [
+      0.001585,
+      "\u001b[0m\u001b[91mmake: *** [a/d/f/a/dir] Error 1\r\r\nmake: *** Waiting for unfinished jobs....\r\r\n\u001b[0mmkdir -p a/d/f/g\r\r\ntouch a/d/f/b/dir\r\r\ntouch a/d/f/c/dir\r\r\ntouch a/d/f/d/dir\r\r\ntouch a/d/f/e/dir\r\r\ntouch a/d/f/f/dir\r\r\ntouch a/d/f/g/dir\r\r\nThe command '/bin/sh -c cd /tmp \u0026\u0026 make -j 32' returned a non-zero code: 2\r\r\n"
+    ],
+    [
+      0.000410,
+      "\u001b]0;ubuntu@ip-172-31-42-79: ~/demo\u0007ubuntu@ip-172-31-42-79:~/demo$ "
+    ],
+    [
+      1.000000,
+      "tail -n "
+    ],
+    [
+      1.000000,
+      "1"
+    ],
+    [
+      0.021059,
+      "5"
+    ],
+    [
+      0.183055,
+      " "
+    ],
+    [
+      0.733796,
+      "o"
+    ],
+    [
+      0.010703,
+      "u"
+    ],
+    [
+      0.115055,
+      "t"
+    ],
+    [
+      0.068992,
+      "p"
+    ],
+    [
+      0.047469,
+      "u"
+    ],
+    [
+      0.085134,
+      "t"
+    ],
+    [
+      0.133527,
+      "."
+    ],
+    [
+      0.491781,
+      "t"
+    ],
+    [
+      0.071024,
+      "x"
+    ],
+    [
+      0.023286,
+      "t"
+    ],
+    [
+      0.240122,
+      "\r\n"
+    ],
+    [
+      0.001551,
+      "mkdir -p a/d/f/c\r\r\nmkdir -p a/d/f/d\r\r\nmkdir -p a/d/f/e\r\r\nmkdir -p a/d/f/f\r\r\n\u001b[91mmkdir: cannot create directory 'a/d/f/a'\u001b[0m\u001b[91m: No such file or directory\r\r\n\u001b[0m\u001b[91mmake: *** [a/d/f/a/dir] Error 1\r\r\nmake: *** Waiting for unfinished jobs....\r\r\n\u001b[0mmkdir -p a/d/f/g\r\r\ntouch a/d/f/b/dir\r\r\ntouch a/d/f/c/dir\r\r\ntouch a/d/f/d/dir\r\r\ntouch a/d/f/e/dir\r\r\ntouch a/d/f/f/dir\r\r\ntouch a/d/f/g/dir\r\r\nThe command '/bin/sh -c cd /tmp \u0026\u0026 make -j 32' returned a non-zero code: 2\r\r\n"
+    ],
+    [
+      0.000379,
+      "\u001b]0;ubuntu@ip-172-31-42-79: ~/demo\u0007ubuntu@ip-172-31-42-79:~/demo$ "
+    ],
+    [
+      1.000000,
+      "e"
+    ],
+    [
+      0.209242,
+      "x"
+    ],
+    [
+      0.072289,
+      "i"
+    ],
+    [
+      0.164598,
+      "t"
+    ],
+    [
+      0.968059,
+      "\r\n"
+    ],
+    [
+      0.000060,
+      "exit\r\n"
+    ],
+    [
+      0.001767,
+      "\u001b]0;ubuntu@ip-172-31-42-79: ~\u0007ubuntu@ip-172-31-42-79:~$ "
+    ],
+    [
+      1.000000,
+      "e"
+    ],
+    [
+      0.416936,
+      "xi"
+    ],
+    [
+      0.023386,
+      "t"
+    ],
+    [
+      1.000000,
+      "\r\nexit\r\n"
+    ],
+    [
+      0.000720,
+      "\u001b]0;ubuntu@ip-172-31-42-79: ~\u0007ubuntu@ip-172-31-42-79:~$ "
+    ],
+    [
+      1.000000,
+      "e"
+    ],
+    [
+      0.199533,
+      "x"
+    ],
+    [
+      0.074999,
+      "i"
+    ],
+    [
+      0.181145,
+      "t"
+    ],
+    [
+      0.713328,
+      "\r\nexit\r\n"
+    ]
+  ]
+}
