@@ -1,0 +1,414 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 88.036249,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.035325,
+      "\u001b]0;dlevey@khsupport:~\u0007"
+    ],
+    [
+      0.047957,
+      "[dlevey@khsupport] {~}$ "
+    ],
+    [
+      1.219923,
+      "s"
+    ],
+    [
+      0.176178,
+      "s"
+    ],
+    [
+      0.184833,
+      "h"
+    ],
+    [
+      0.365032,
+      "r"
+    ],
+    [
+      0.148054,
+      "o"
+    ],
+    [
+      0.077946,
+      "cket "
+    ],
+    [
+      0.556709,
+      "\r\n"
+    ],
+    [
+      0.888632,
+      "CentOS Linux release 7.1.1503 (Core) \u001b[60G\u001b[0;39m[\u001b[1;32mPASS\u001b[0;39m]\r\nVPS MTA: NA / NA\r\n"
+    ],
+    [
+      0.016488,
+      "PHP 5.5.30 (cli) (built: Oct 14 2015 23:10:50) \u001b[60G\u001b[0;39m[\u001b[1;32mPASS\u001b[0;39m]\r\n"
+    ],
+    [
+      0.984319,
+      "PHP5 SAPI: suphp\u001b[60G\u001b[0;39m[\u001b[1;32mPASS\u001b[0;39m]\r\n"
+    ],
+    [
+      0.008143,
+      "cPanel Version: 11.52.0.15\u001b[60G\u001b[0;39m[\u001b[1;32mPASS\u001b[0;39m]\r\n"
+    ],
+    [
+      0.019757,
+      "Phar PHP module is installed \u001b[60G\u001b[0;39m[\u001b[1;34mINFO\u001b[0;39m]\r\n"
+    ],
+    [
+      0.042954,
+      "Use \u001b[1m'listfunctions'\u001b(B\u001b[m to see added commands\r\n"
+    ],
+    [
+      0.284912,
+      "Loaded SSHTool 0.04.dpl Last Pulled @ 10-15-2015 06:57:56 | Loaded/used on 6102 servers!\r\n \r\n\u001b[?1034hcP/r07-md/1372 root@162.246.57.218 [~]# "
+    ],
+    [
+      0.862001,
+      "c"
+    ],
+    [
+      0.154744,
+      "d"
+    ],
+    [
+      0.130982,
+      " "
+    ],
+    [
+      0.108438,
+      "/"
+    ],
+    [
+      0.208693,
+      "r"
+    ],
+    [
+      0.254098,
+      "o"
+    ],
+    [
+      0.110023,
+      "ot/"
+    ],
+    [
+      0.220747,
+      "s"
+    ],
+    [
+      0.080334,
+      "c"
+    ],
+    [
+      0.149991,
+      "ripts/"
+    ],
+    [
+      0.715648,
+      "c"
+    ],
+    [
+      0.350067,
+      "p-addon-to-newacc/"
+    ],
+    [
+      0.754112,
+      "\r\ncP/r07-md/1372 root@162.246.57.218 [~/scripts/cp-addon-to-newacc]# "
+    ],
+    [
+      0.295784,
+      "l"
+    ],
+    [
+      0.156975,
+      "l"
+    ],
+    [
+      0.084431,
+      "\r\n"
+    ],
+    [
+      0.002198,
+      "total 72K\r\ndrwxr-xr-x 8 root root 4.0K Oct 14 23:27 \u001b[0m\u001b[01;34m.git\u001b[0m/\r\n-rw-r--r-- 1 root root  152 Oct 14 23:27 README.md\r\n-rwxr-xr-x 1 root root  22K Oct 15 02:07 \u001b[01;32maddon2newacc.sh\u001b[0m*\r\n-rwxr-xr-x 1 root root  17K Oct 15 01:29 \u001b[01;32maddon2newacc.sh.work\u001b[0m*\r\n-rwxr-xr-x 1 root root  20K Oct 15 01:43 \u001b[01;32maddon2newacc.sh.works2\u001b[0m*\r\ncP/r07-md/1372 root@162.246.57.218 [~/scripts/cp-addon-to-newacc]# "
+    ],
+    [
+      2.386472,
+      "h"
+    ],
+    [
+      0.261947,
+      "t"
+    ],
+    [
+      0.161654,
+      "t"
+    ],
+    [
+      0.119843,
+      "p"
+    ],
+    [
+      0.173836,
+      "d"
+    ],
+    [
+      0.148453,
+      " "
+    ],
+    [
+      0.151588,
+      "-"
+    ],
+    [
+      0.231914,
+      "S"
+    ],
+    [
+      0.392887,
+      " "
+    ],
+    [
+      0.228052,
+      "|"
+    ],
+    [
+      0.258824,
+      "g"
+    ],
+    [
+      0.190159,
+      "r"
+    ],
+    [
+      0.068994,
+      "e \r"
+    ],
+    [
+      0.097013,
+      "p"
+    ],
+    [
+      0.161069,
+      " "
+    ],
+    [
+      2.197040,
+      "v"
+    ],
+    [
+      0.240066,
+      "h"
+    ],
+    [
+      0.130892,
+      "o"
+    ],
+    [
+      0.075053,
+      "s"
+    ],
+    [
+      0.122058,
+      "t"
+    ],
+    [
+      0.104914,
+      "\r\n"
+    ],
+    [
+      0.034864,
+      "AH00548: NameVirtualHost has no effect and will be removed in the next release /usr/local/apache/conf/httpd.conf:305\r\n         port 80 namevhost 162.246.57.218 (/usr/local/apache/conf/httpd.conf:273)\r\n         port 80 namevhost addonwordpress1.ownerwordpress.com (/usr/local/apache/conf/httpd.conf:306)\r\n         port 80 namevhost anotheradd.ownerwordpress.com (/usr/local/apache/conf/httpd.conf:362)\r\n         port 80 namevhost ownerwordpress.com (/usr/local/apache/conf/httpd.conf:418)\r\n         port 80 namevhost rocket.phsrvr.com (/usr/local/apache/conf/httpd.conf:476)\r\n"
+    ],
+    [
+      0.012159,
+      "cP/r07-md/1372 root@162.246.57.218 [~/scripts/cp-addon-to-newacc]# "
+    ],
+    [
+      8.332255,
+      ","
+    ],
+    [
+      0.185228,
+      "."
+    ],
+    [
+      0.106958,
+      "a"
+    ],
+    [
+      0.113853,
+      "d"
+    ],
+    [
+      0.170654,
+      "\u0007"
+    ],
+    [
+      0.426289,
+      "\u0008 \u0008"
+    ],
+    [
+      0.159807,
+      "\u0008 \u0008"
+    ],
+    [
+      0.163223,
+      "\u0008 \u0008"
+    ],
+    [
+      0.096692,
+      "\u0008 \u0008"
+    ],
+    [
+      0.210117,
+      "\u0007"
+    ],
+    [
+      0.320963,
+      "."
+    ],
+    [
+      0.188177,
+      "/"
+    ],
+    [
+      0.314726,
+      "a"
+    ],
+    [
+      0.380255,
+      "\u0007ddon2newacc\rc.sh"
+    ],
+    [
+      1.083890,
+      " "
+    ],
+    [
+      0.359652,
+      "anotheradd"
+    ],
+    [
+      0.635354,
+      "."
+    ],
+    [
+      0.328102,
+      "n"
+    ],
+    [
+      0.105922,
+      "e"
+    ],
+    [
+      0.122633,
+      "t"
+    ],
+    [
+      0.979134,
+      "\r\n"
+    ],
+    [
+      0.061248,
+      "\u001b[32m✓ \u001b[00m Addon domain for migration provided: anotheradd.net\r\n\u001b[32m✓ \u001b[00m This is a cPanel server.\r\n"
+    ],
+    [
+      0.009065,
+      "\u001b[32m✓ \u001b[00m Accesshash available.\r\n"
+    ],
+    [
+      0.005661,
+      " \r\n+===================================+\r\n| Addon Domain Info                 |\r\n+===================================+\r\n| Addon Domain: anotheradd.net\r\n| Primary cPanel Account: ownerwordpress\r\n| Docroot: /home/ownerwordpress/public_html/anotheradd.net\r\n| IP:port: 162.246.57.218:80\r\n+===================================+\r\n \r\nInitiating the addon \u003e new account process now.\r\nAccount has an existing backup, moving it to /root/support/cpa2n/backups\r\n"
+    ],
+    [
+      0.009246,
+      "Creating the initial backup now. This may take a while.\r\n"
+    ],
+    [
+      8.690462,
+      " \r\n+===================================+\r\n| pkgacctfile is: /home/cpmove-ownerwordpress.tar.gz \r\n+===================================+\r\n \r\n\u001b[32m✓ \u001b[00m Backup created successfully. Proceeding.\r\n \r\n"
+    ],
+    [
+      8.124315,
+      "+===================================+\r\n| New Account Info                  |\r\n+===================================+\r\n| Domain: cpao2acc-anotheradd.net\r\n| Ip: 162.246.57.218 (n)\r\n| HasCgi: y\r\n| UserName: anotheracc\r\n| PassWord: klKcbmEdL[Ng\r\n| CpanelMod: paper_lantern\r\n| HomeRoot: /home\r\n| Quota: 0 Meg\r\n| NameServer1: ns1.phsrvr.com\r\n| NameServer2: ns2.phsrvr.com\r\n| NameServer3: \r\n| NameServer4: \r\n| Contact Email: \r\n| Package: default\r\n| Feature List: default\r\n| Language: en\r\n+===================================+\r\n \r\n\u001b[32m✓ \u001b[00m New account anotheracc created successfully. Proceeding.\r\n"
+    ],
+    [
+      1.251476,
+      "\u001b[32m✓ \u001b[00m Backup successfully extracted.\r\n"
+    ],
+    [
+      0.174721,
+      "\u001b[32m✓ \u001b[00m Successfully copied public_html content.\r\n"
+    ],
+    [
+      0.117785,
+      "\u001b[32m✓ \u001b[00m Found the ownerwor_anudder database for /home/anotheracc/public_html/wp-config.php. Proceeding.\r\n"
+    ],
+    [
+      6.815868,
+      "\u001b[32m✓ \u001b[00m Created new database.\r\n"
+    ],
+    [
+      0.560756,
+      "\u001b[32m✓ \u001b[00m Created new database user.\r\n"
+    ],
+    [
+      0.638502,
+      "\u001b[32m✓ \u001b[00m Granted all privileges to anothera_anudder on ownerwor_anudder.\r\n \r\n+===================================+\r\n| New Account DB Info               |\r\n+===================================+\r\n| MySQL User Prefix: anothera\r\n| Actual MySQL DB: anothera_anudder\r\n| MySQL User: anothera_anudder\r\n| MySQL Password: PK3zySE.5qGn\r\n+===================================+\r\n \r\n"
+    ],
+    [
+      0.044163,
+      "Imported the backup database to the new database.\r\n"
+    ],
+    [
+      0.003782,
+      "\u001b[32m✓ \u001b[00m New database created successfully. Proceeding.\r\n"
+    ],
+    [
+      0.000052,
+      "No matching cron jobs for anotheradd.net were found. Proceeding...\r\n"
+    ],
+    [
+      8.070505,
+      "\u001b[31m✘ \u001b[00m Failed to remove the addon and subdomain.\r\nTrying again...\r\n"
+    ],
+    [
+      0.514054,
+      "\u001b[31m✘ \u001b[00m Failed again...\r\ncPanel API Response:\r\n{\"cpanelresult\":{\"apiversion\":2,\"error\":\"You do not have control of the domain “anotheradd.net”.\\n\",\"func\":\"deladdondomain\",\"data\":[{\"reason\":\"You do not have control of the domain “anotheradd.net”.\\n\",\"result\":0}],\"event\":{\"result\":1},\"module\":\"AddonDomain\"}}\r\n\r\ncP/r07-md/1372 root@162.246.57.218 [~/scripts/cp-addon-to-newacc]# "
+    ],
+    [
+      17.654366,
+      "^C\r\n"
+    ],
+    [
+      0.535920,
+      "cP/r07-md/1372 root@162.246.57.218 [~/scripts/cp-addon-to-newacc]# "
+    ],
+    [
+      1.562124,
+      "exit\r\n"
+    ],
+    [
+      0.000768,
+      "\u001b]0;dlevey@khsupport:~\u0007"
+    ],
+    [
+      0.008301,
+      "[dlevey@khsupport] {~}$ "
+    ],
+    [
+      0.752955,
+      "exit\r\n"
+    ]
+  ]
+}
