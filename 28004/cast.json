@@ -1,0 +1,402 @@
+{
+  "version": 1,
+  "width": 200,
+  "height": 55,
+  "duration": 21.500946,
+  "command": "./demo-otto-deploy.sh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.021252,
+      "\u001b[1m\u001b[34mRunning \u001b[1m\u001b[37motto deploy\u001b[1m\u001b[34m...\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.014851,
+      "\u001b[0m\u001b[1m==\u003e Detecting infrastructure credentials for: digitalocean (digitalocean)\u001b[0m\r\n"
+    ],
+    [
+      0.000098,
+      "\u001b[0m    Cached and encrypted infrastructure credentials found.\r\n"
+    ],
+    [
+      0.000054,
+      "    Otto will now ask you for the password to decrypt these\r\n"
+    ],
+    [
+      0.000003,
+      "    credentials.\r\n"
+    ],
+    [
+      0.000018,
+      "    \u001b[0m\r\n"
+    ],
+    [
+      0.000066,
+      "\u001b[0m\u001b[0m\u001b[1mEncrypted Credentials Password\u001b[0m\r\n"
+    ],
+    [
+      0.000052,
+      "  Infrastructure credentials are required for this operation. Otto found\r\n"
+    ],
+    [
+      0.000060,
+      "  saved credentials that are password protected. Please enter the password\r\n"
+    ],
+    [
+      0.000198,
+      "  to decrypt these credentials. You may also just hit \u003center\u003e and leave\r\n  the password blank to force Otto to ask for the credentials again.\r\n\r\n"
+    ],
+    [
+      0.005010,
+      "  \u001b[1mEnter a value:\u001b[0m \u001b[0m"
+    ],
+    [
+      1.000000,
+      "\r\n"
+    ],
+    [
+      1.000000,
+      "Registered test\r\n"
+    ],
+    [
+      0.954829,
+      "Logged in as test\r\n"
+    ],
+    [
+      0.001278,
+      "\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.015051,
+      "Creating Application... ..."
+    ],
+    [
+      0.231755,
+      "\u0008\u0008\u0008done, created otto-getting-started\r\n"
+    ],
+    [
+      0.006662,
+      "Git remote deis added\r\n"
+    ],
+    [
+      0.000083,
+      "remote available at ssh://git@deis.192.241.156.23.xip.io:2222/otto-getting-started.git\r\n"
+    ],
+    [
+      0.001004,
+      "\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.012886,
+      "Uploading deis-test.pub to deis..."
+    ],
+    [
+      0.201586,
+      " done\r\n"
+    ],
+    [
+      0.001083,
+      "\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.330654,
+      "The authenticity of host '[deis.192.241.156.23.xip.io]:2222 ([192.241.156.23]:2222)' can't be established.\r\nRSA key fingerprint is 02:0f:04:22:f4:72:47:70:ac:de:9f:be:dc:35:ef:93.\r\nAre you sure you want to continue connecting (yes/no)? "
+    ],
+    [
+      1.000000,
+      "y"
+    ],
+    [
+      0.071972,
+      "e"
+    ],
+    [
+      0.063998,
+      "s"
+    ],
+    [
+      0.255926,
+      "\r\n"
+    ],
+    [
+      0.000378,
+      "Warning: Permanently added '[deis.192.241.156.23.xip.io]:2222,[192.241.156.23]:2222' (RSA) to the list of known hosts.\r\r\n"
+    ],
+    [
+      1.000000,
+      "remote: \u001b[1G\u001b[1G-----\u003e Ruby app detected        \r\n"
+    ],
+    [
+      1.000000,
+      "remote: \u001b[1G\u001b[1G-----\u003e Compiling Ruby/Rack        \r\n"
+    ],
+    [
+      0.177418,
+      "remote: \u001b[1G\u001b[1G-----\u003e Using Ruby version: ruby-2.0.0        \r\n"
+    ],
+    [
+      0.650073,
+      "remote: \u001b[1G\u001b[1G-----\u003e Installing dependencies using 1.9.7        \r\n"
+    ],
+    [
+      1.000000,
+      "remote: \u001b[1G\u001b[1G       Running: bundle install --without development:test --path vendor/bundle --binstubs vendor/bundle/bin -j4 --deployment        \r\n"
+    ],
+    [
+      0.219081,
+      "remote: \u001b[1G\u001b[1G       Fetching gem metadata from https://rubygems.org/..........        \r\n"
+    ],
+    [
+      0.128517,
+      "remote: \u001b[1G\u001b[1G       Fetching version metadata from https://rubygems.org/..        \r\n"
+    ],
+    [
+      1.000000,
+      "remote: \u001b[1G\u001b[1G       Rubygems 2.0.14 is not threadsafe, so your gems must be installed one at a time. Upgrade to Rubygems 2.1.0 or higher to enable parallel gem installation.        \r\n"
+    ],
+    [
+      0.614071,
+      "remote: \u001b[1G\u001b[1G       Installing rack 1.6.4        \r\n"
+    ],
+    [
+      0.307298,
+      "remote: \u001b[1G\u001b[1G       Installing rack-protection 1.5.3        \r\n"
+    ],
+    [
+      0.826142,
+      "remote: \u001b[1G\u001b[1G       Installing tilt 2.0.1        \r\n"
+    ],
+    [
+      0.000301,
+      "remote: \u001b[1G\u001b[1G       Installing sinatra 1.4.6        \r\n"
+    ],
+    [
+      0.000059,
+      "remote: \u001b[1G\u001b[1G       Using bundler 1.9.7        \r\n"
+    ],
+    [
+      0.000135,
+      "remote: \u001b[1G\u001b[1G       Bundle complete! 1 Gemfile dependency, 5 gems now installed.        \r\n"
+    ],
+    [
+      0.058400,
+      "remote: \u001b[1G\u001b[1G       Gems in the groups development and test were not installed.        \r\n"
+    ],
+    [
+      0.000058,
+      "remote: \u001b[1G\u001b[1G       Bundled gems are installed into ./vendor/bundle.        \r\n"
+    ],
+    [
+      0.000044,
+      "remote: \u001b[1G\u001b[1G       Bundle completed (4.52s)        \r\n"
+    ],
+    [
+      0.344886,
+      "remote: \u001b[1G\u001b[1G       Cleaning up the bundler cache.        \r\n"
+    ],
+    [
+      0.000330,
+      "remote: \u001b[1G\u001b[1G               \r\n"
+    ],
+    [
+      0.000040,
+      "remote: \u001b[1G\u001b[1G       ###### WARNING:        \r\n"
+    ],
+    [
+      0.000086,
+      "remote: \u001b[1G\u001b[1G       You have not declared a Ruby version in your Gemfile.        \r\n"
+    ],
+    [
+      0.000258,
+      "remote: \u001b[1G\u001b[1G       To set your Ruby version add this line to your Gemfile:        \r\n"
+    ],
+    [
+      0.062814,
+      "remote: \u001b[1G\u001b[1G       ruby '2.0.0'        \r\n"
+    ],
+    [
+      0.000202,
+      "remote: \u001b[1G\u001b[1G       # See https://devcenter.heroku.com/articles/ruby-versions for more information.        \r\n"
+    ],
+    [
+      0.000023,
+      "remote: \u001b[1G\u001b[1G               \r\n"
+    ],
+    [
+      0.000065,
+      "remote: \u001b[1G\u001b[1G       ###### WARNING:        \r\n"
+    ],
+    [
+      0.000148,
+      "remote: \u001b[1G\u001b[1G       No Procfile detected, using the default web server (webrick)        \r\n"
+    ],
+    [
+      0.000139,
+      "remote: \u001b[1G\u001b[1G       https://devcenter.heroku.com/articles/ruby-default-web-server        \r\n"
+    ],
+    [
+      0.000042,
+      "remote: \u001b[1G\u001b[1G               \r\n"
+    ],
+    [
+      0.045324,
+      "remote: \u001b[1G\u001b[1G-----\u003e Discovering process types        \r\n"
+    ],
+    [
+      1.000000,
+      "remote: \u001b[1G\u001b[1G       Default process types for Ruby -\u003e rake, console, web        \r\n"
+    ],
+    [
+      0.001764,
+      "remote: \u001b[1G\u001b[1G-----\u003e Compiled slug size is 16M        \r\n"
+    ],
+    [
+      0.000006,
+      "remote: \u001b[1G        \r\n"
+    ],
+    [
+      0.399263,
+      "remote: \u001b[1G-----\u003e Building Docker image        \r\n"
+    ],
+    [
+      0.001878,
+      "remote: \u001b[1GSending build context to Docker daemon 557.1 kB        \rremote: Sending build context to Docker daemon 1.114 MB        \rremote: Sending build context to Docker daemon 1.671 MB        \rremote: Sending build context to Docker daemon 2.228 MB        \rremote: Sending build context to Docker daemon 2.785 MB        \rremote: Sending build context to Docker daemon 3.342 MB        \rremote: Sending build context to Docker daemon 3.899 MB        \rremote: Sending build context to Docker daemon 4.456 MB        \rremote: Sending build context to Docker daemon 5.014 MB        \rremote: Sending build context to Docker daemon 5.571 MB        \rremote: Sending build context to Docker daemon 6.128 MB        \rremote: Sending build context to Docker daemon 6.685 MB        \rremote: Sending build context to Docker daemon 7.242 MB        \rremote: Sending build context to Docker daemon 7.799 MB        \rremote: Sending build context to Docker daemon 8.356 MB        \rremote: Sending build context to Docker daemon 8.913 MB     "
+    ],
+    [
+      0.000036,
+      "   \rremote: Sending build context to Docker daemon  9.47 MB        \rremote: Sending build context to Docker daemon 10.03 MB        \rremote: Sending build context to Docker daemon 10.58 MB        \rremote: Sending build context to Docker daemon 11.14 MB        \rremote: Sending build context to Docker daemon  11.7 MB        \rremote: Sending build context to Docker daemon 12.26 MB        \rremote: Sending build context to Docker daemon 12.81 MB        \rremote: Sending build context to Docker daemon 13.37 MB        \rremote: Sending build context to Docker daemon 13.93 MB        \rremote: Sending build context to Docker daemon 14.48 MB        \rremote: Sending build context to Docker daemon 15.04 MB        \rremote: Sending build context to Docker daemon  15.6 MB        \rremote: Sending build context to Docker daemon 16.15 MB        \rremote: Sending build context to Docker daemon 16.62 MB        \rremote: \rremote: \r\n"
+    ],
+    [
+      0.004351,
+      "remote: \u001b[1GSending build context to Docker daemon         \rremote: \r\n"
+    ],
+    [
+      0.000107,
+      "remote: \u001b[1GStep 0 : FROM deis/slugrunner        \r\n"
+    ],
+    [
+      0.000125,
+      "remote: \u001b[1G\u001b[91m# Executing 3 build triggers        \r\n"
+    ],
+    [
+      0.000102,
+      "remote: \u001b[1G\u001b[0mTrigger 0, RUN mkdir -p /app        \r\n"
+    ],
+    [
+      0.028179,
+      "remote: \u001b[1GStep 0 : RUN mkdir -p /app        \r\n"
+    ],
+    [
+      1.000000,
+      "remote: \u001b[1G ---\u003e Running in 6884eba3e927        \r\n"
+    ],
+    [
+      0.000036,
+      "remote: \u001b[1GTrigger 1, WORKDIR /app        \r\n"
+    ],
+    [
+      0.045871,
+      "remote: \u001b[1GStep 0 : WORKDIR /app        \r\n"
+    ],
+    [
+      1.000000,
+      "remote: \u001b[1G ---\u003e Running in efafbb1e9e7b        \r\n"
+    ],
+    [
+      0.000065,
+      "remote: \u001b[1GTrigger 2, ADD slug.tgz /app        \r\n"
+    ],
+    [
+      1.000000,
+      "remote: \u001b[1GStep 0 : ADD slug.tgz /app        \r\n"
+    ],
+    [
+      0.014559,
+      "remote: \u001b[1G ---\u003e 9737fe5782cd        \r\n"
+    ],
+    [
+      0.007932,
+      "remote: \u001b[1GRemoving intermediate container 6884eba3e927        \r\n"
+    ],
+    [
+      0.097402,
+      "remote: \u001b[1GRemoving intermediate container efafbb1e9e7b        \r\n"
+    ],
+    [
+      0.000179,
+      "remote: \u001b[1GRemoving intermediate container 47178e5ab633        \r\n"
+    ],
+    [
+      0.041508,
+      "remote: \u001b[1GStep 1 : ENV GIT_SHA 202eb9eaeab4e0edb5a2472c460415acdd0d78a4        \r\n"
+    ],
+    [
+      1.000000,
+      "remote: \u001b[1G ---\u003e Running in 6c078ab3e4d1        \r\n"
+    ],
+    [
+      0.018061,
+      "remote: \u001b[1G ---\u003e 4a5ff5bb4c7d        \r\n"
+    ],
+    [
+      0.000067,
+      "remote: \u001b[1GRemoving intermediate container 6c078ab3e4d1        \r\n"
+    ],
+    [
+      0.005383,
+      "remote: \u001b[1GSuccessfully built 4a5ff5bb4c7d        \r\n"
+    ],
+    [
+      1.000000,
+      "remote: \u001b[1G-----\u003e Pushing image to private registry        \r\n"
+    ],
+    [
+      1.000000,
+      "remote: \u001b[1G        \r\n"
+    ],
+    [
+      1.000000,
+      "remote: \u001b[1G-----\u003e Launching...         \r\n"
+    ],
+    [
+      0.000038,
+      "remote: \u001b[1G       done, otto-getting-started:v2 deployed to Deis        \r\n"
+    ],
+    [
+      0.000018,
+      "remote: \u001b[1G        \r\n"
+    ],
+    [
+      0.000104,
+      "remote: \u001b[1G       http://otto-getting-started.goings.space        \r\n"
+    ],
+    [
+      0.000041,
+      "remote: \u001b[1G        \r\n"
+    ],
+    [
+      0.000063,
+      "remote: \u001b[1G       To learn more, use `deis help` or visit http://deis.io        \r\n"
+    ],
+    [
+      0.190940,
+      "remote: \u001b[1G        \r\n"
+    ],
+    [
+      0.009919,
+      "To ssh://git@deis.192.241.156.23.xip.io:2222/otto-getting-started.git\r\n"
+    ],
+    [
+      0.000025,
+      " * [new branch]      master -\u003e master\r\n"
+    ],
+    [
+      0.001536,
+      "\u001b[0m\u001b[0m\r\n"
+    ]
+  ]
+}
