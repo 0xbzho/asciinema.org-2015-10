@@ -1,0 +1,210 @@
+{
+  "version": 1,
+  "width": 200,
+  "height": 55,
+  "duration": 5.982299,
+  "command": "./demo-otto-destroy.sh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.017857,
+      "\u001b[1m\u001b[34mRunning \u001b[1m\u001b[37motto infra destroy\u001b[1m\u001b[34m...\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.014569,
+      "\u001b[0m\u001b[0m\u001b[1mDo you really want to destroy?\u001b[0m\r\n"
+    ],
+    [
+      0.000034,
+      "  Otto will delete all your managed infrastructure.\r\n"
+    ],
+    [
+      0.000086,
+      "  There is no undo. Only 'yes' will be accepted to confirm.\r\n\r\n"
+    ],
+    [
+      0.005112,
+      "  \u001b[1mEnter a value:\u001b[0m \u001b[0m"
+    ],
+    [
+      1.000000,
+      "y"
+    ],
+    [
+      0.056074,
+      "e"
+    ],
+    [
+      0.055993,
+      "s"
+    ],
+    [
+      0.352171,
+      "\r\n"
+    ],
+    [
+      0.000277,
+      "\r\n"
+    ],
+    [
+      0.000552,
+      "\u001b[0m\u001b[1m==\u003e Detecting infrastructure credentials for: digitalocean (digitalocean)\u001b[0m\r\n"
+    ],
+    [
+      0.000061,
+      "\u001b[0m    Cached and encrypted infrastructure credentials found.\r\n"
+    ],
+    [
+      0.000077,
+      "    Otto will now ask you for the password to decrypt these\r\n"
+    ],
+    [
+      0.000024,
+      "    credentials.\r\n"
+    ],
+    [
+      0.000031,
+      "    \u001b[0m\r\n"
+    ],
+    [
+      0.000066,
+      "\u001b[0m\u001b[0m\u001b[1mEncrypted Credentials Password\u001b[0m\r\n"
+    ],
+    [
+      0.000088,
+      "  Infrastructure credentials are required for this operation. Otto found\r\n"
+    ],
+    [
+      0.000106,
+      "  saved credentials that are password protected. Please enter the password\r\n"
+    ],
+    [
+      0.000086,
+      "  to decrypt these credentials. You may also just hit \u003center\u003e and leave\r\n"
+    ],
+    [
+      0.000096,
+      "  the password blank to force Otto to ask for the credentials again.\r\n\r\n"
+    ],
+    [
+      0.005046,
+      "  \u001b[1mEnter a value:\u001b[0m \u001b[0m"
+    ],
+    [
+      1.000000,
+      "\r\n"
+    ],
+    [
+      0.060755,
+      "\u001b[0m\u001b[1m==\u003e Destroying infrastructure for foundation: deis\u001b[0m\r\n"
+    ],
+    [
+      0.000034,
+      "\u001b[0m\u001b[1m==\u003e Destroying main infrastructure...\u001b[0m\r\n"
+    ],
+    [
+      0.442565,
+      "\u001b[0m\u001b[1m==\u003e Executing Terraform to manage infrastructure...\u001b[0m\r\n"
+    ],
+    [
+      0.000046,
+      "\u001b[0m    Raw Terraform output will begin streaming in below. Otto\r\n"
+    ],
+    [
+      0.000081,
+      "    does not create this output. It is mirrored directly from\r\n"
+    ],
+    [
+      0.000073,
+      "    Terraform while the infrastructure is being created.\r\n"
+    ],
+    [
+      0.000013,
+      "    \r\n"
+    ],
+    [
+      0.000081,
+      "    Terraform may ask for input. For infrastructure provider\r\n"
+    ],
+    [
+      0.000052,
+      "    credentials, be sure to enter the same credentials\r\n"
+    ],
+    [
+      0.000072,
+      "    consistently within the same Otto environment.\r\n"
+    ],
+    [
+      0.000023,
+      "    \u001b[0m\r\n"
+    ],
+    [
+      0.234209,
+      "\u001b[0m\u001b[1mdigitalocean_droplet.deis.1: Refreshing state... (ID: 8220298)\u001b[0m\r\n"
+    ],
+    [
+      0.001781,
+      "\u001b[0m\u001b[1mdigitalocean_droplet.deis.2: Refreshing state... (ID: 8220300)\u001b[0m\r\n"
+    ],
+    [
+      0.000344,
+      "\u001b[0m\u001b[1mdigitalocean_droplet.deis.0: Refreshing state... (ID: 8220299)\u001b[0m\r\n"
+    ],
+    [
+      0.671587,
+      "\u001b[0m\u001b[1mdigitalocean_droplet.deis.0: Destroying...\u001b[21m\u001b[0m\r\n"
+    ],
+    [
+      0.000344,
+      "\u001b[0m\u001b[1mdigitalocean_droplet.deis.1: Destroying...\u001b[21m\u001b[0m\r\n"
+    ],
+    [
+      0.000152,
+      "\u001b[0m\u001b[1mdigitalocean_droplet.deis.2: Destroying...\u001b[21m\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[0m\u001b[1mdigitalocean_droplet.deis.0: Destruction complete\u001b[21m\u001b[0m\r\n"
+    ],
+    [
+      0.046258,
+      "\u001b[0m\u001b[1mdigitalocean_droplet.deis.1: Destruction complete\u001b[21m\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[0m\u001b[1mdigitalocean_droplet.deis.2: Destruction complete\u001b[21m\u001b[0m\r\n"
+    ],
+    [
+      0.002464,
+      "\u001b[0m\u001b[1m\u001b[32m\r\n"
+    ],
+    [
+      0.000117,
+      "Apply complete! Resources: 0 added, 0 changed, 3 destroyed.\u001b[0m\r\n"
+    ],
+    [
+      0.003454,
+      "\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.003221,
+      "\u001b[0m\u001b[1m==\u003e Terraform execution complete. Saving results...\u001b[0m\r\n"
+    ],
+    [
+      0.001757,
+      "\u001b[0m\u001b[32m\u001b[1m==\u003e \u001b[32mInfrastructure successfully destroyed!\u001b[0m\r\n"
+    ],
+    [
+      0.000049,
+      "\u001b[0m\u001b[32m    \u001b[32mThe infrastructure necessary to run this application and\r\n"
+    ],
+    [
+      0.000064,
+      "    all other applications in this project has been destroyed.\u001b[0m\r\n"
+    ]
+  ]
+}
