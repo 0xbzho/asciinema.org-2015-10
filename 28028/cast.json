@@ -1,0 +1,3118 @@
+{
+  "version": 1,
+  "width": 109,
+  "height": 27,
+  "duration": 145.608474,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.118590,
+      "\u001b]0;tester@kali: ~/my_code\u0007\u001b[01;31mtester@kali\u001b[00m:\u001b[01;34m~/my_code\u001b[00m$ "
+    ],
+    [
+      4.838148,
+      "mkdir IATPatcher"
+    ],
+    [
+      0.828313,
+      "\r\n"
+    ],
+    [
+      0.002461,
+      "\u001b]0;tester@kali: ~/my_code\u0007\u001b[01;31mtester@kali\u001b[00m:\u001b[01;34m~/my_code\u001b[00m$ "
+    ],
+    [
+      0.845108,
+      "c"
+    ],
+    [
+      0.063962,
+      "d"
+    ],
+    [
+      0.176105,
+      " "
+    ],
+    [
+      0.319975,
+      "I"
+    ],
+    [
+      0.167914,
+      "ATPatcher/"
+    ],
+    [
+      0.391824,
+      "\r\n"
+    ],
+    [
+      0.000871,
+      "\u001b]0;tester@kali: ~/my_code/IATPatcher\u0007\u001b[01;31mtester@kali\u001b[00m:\u001b[01;34m~/my_code/IATPatcher\u001b[00m$ "
+    ],
+    [
+      5.220251,
+      "git clone https://github.com/hasherezade/IAT_patcher.git"
+    ],
+    [
+      0.635223,
+      "\r\n"
+    ],
+    [
+      0.001768,
+      "Cloning into 'IAT_patcher'..."
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      1.822995,
+      "remote: Counting objects: 452, done.\u001b[K\r\n"
+    ],
+    [
+      0.122859,
+      "Receiving objects:   0% (1/452)   \r"
+    ],
+    [
+      0.000086,
+      "Receiving objects:   1% (5/452)   \r"
+    ],
+    [
+      0.000118,
+      "Receiving objects:   2% (10/452)   \r"
+    ],
+    [
+      0.000136,
+      "Receiving objects:   3% (14/452)   \r"
+    ],
+    [
+      0.000129,
+      "Receiving objects:   4% (19/452)   \r"
+    ],
+    [
+      0.000170,
+      "Receiving objects:   5% (23/452)   \r"
+    ],
+    [
+      0.000133,
+      "Receiving objects:   6% (28/452)   \r"
+    ],
+    [
+      0.000114,
+      "Receiving objects:   7% (32/452)   \r"
+    ],
+    [
+      0.000138,
+      "Receiving objects:   8% (37/452)   \r"
+    ],
+    [
+      0.000147,
+      "Receiving objects:   9% (41/452)   \r"
+    ],
+    [
+      0.000085,
+      "Receiving objects:  10% (46/452)   \r"
+    ],
+    [
+      0.000049,
+      "Receiving objects:  11% (50/452)   \r"
+    ],
+    [
+      0.000060,
+      "Receiving objects:  12% (55/452)   \r"
+    ],
+    [
+      0.000110,
+      "Receiving objects:  13% (59/452)   \r"
+    ],
+    [
+      0.000115,
+      "Receiving objects:  14% (64/452)   \r"
+    ],
+    [
+      0.000100,
+      "Receiving objects:  15% (68/452)   \r"
+    ],
+    [
+      0.000074,
+      "Receiving objects:  16% (73/452)   \r"
+    ],
+    [
+      0.000159,
+      "Receiving objects:  17% (77/452)   \r"
+    ],
+    [
+      0.000079,
+      "Receiving objects:  18% (82/452)   \r"
+    ],
+    [
+      0.000280,
+      "Receiving objects:  19% (86/452)   \r"
+    ],
+    [
+      0.000217,
+      "Receiving objects:  20% (91/452)   \r"
+    ],
+    [
+      0.000122,
+      "Receiving objects:  21% (95/452)   \r"
+    ],
+    [
+      0.000118,
+      "Receiving objects:  22% (100/452)   \r"
+    ],
+    [
+      0.121956,
+      "Receiving objects:  23% (104/452)   \r"
+    ],
+    [
+      0.000181,
+      "Receiving objects:  24% (109/452)   \r"
+    ],
+    [
+      0.000269,
+      "Receiving objects:  25% (113/452)   \r"
+    ],
+    [
+      0.000529,
+      "Receiving objects:  26% (118/452)   \r"
+    ],
+    [
+      0.000453,
+      "Receiving objects:  27% (123/452)   \r"
+    ],
+    [
+      0.000070,
+      "Receiving objects:  28% (127/452)   \r"
+    ],
+    [
+      0.000734,
+      "Receiving objects:  29% (132/452)   \r"
+    ],
+    [
+      0.000089,
+      "Receiving objects:  30% (136/452)   \r"
+    ],
+    [
+      0.001587,
+      "Receiving objects:  31% (141/452)   \r"
+    ],
+    [
+      0.128046,
+      "Receiving objects:  32% (145/452)   \r"
+    ],
+    [
+      0.001299,
+      "Receiving objects:  33% (150/452)   \r"
+    ],
+    [
+      0.000438,
+      "Receiving objects:  34% (154/452)   \r"
+    ],
+    [
+      0.000344,
+      "remote: Total 452 (delta 0), reused 0 (delta 0), pack-reused 452\u001b[K\r\n"
+    ],
+    [
+      0.000019,
+      "Receiving objects:  35% (159/452)   \r"
+    ],
+    [
+      0.000219,
+      "Receiving objects:  36% (163/452)   \r"
+    ],
+    [
+      0.000164,
+      "Receiving objects:  37% (168/452)   \r"
+    ],
+    [
+      0.000086,
+      "Receiving objects:  38% (172/452)   \r"
+    ],
+    [
+      0.000132,
+      "Receiving objects:  39% (177/452)   \r"
+    ],
+    [
+      0.000158,
+      "Receiving objects:  40% (181/452)   \r"
+    ],
+    [
+      0.000354,
+      "Receiving objects:  41% (186/452)   \r"
+    ],
+    [
+      0.000151,
+      "Receiving objects:  42% (190/452)   \r"
+    ],
+    [
+      0.000040,
+      "Receiving objects:  43% (195/452)   \r"
+    ],
+    [
+      0.000269,
+      "Receiving objects:  44% (199/452)   \r"
+    ],
+    [
+      0.000112,
+      "Receiving objects:  45% (204/452)   \r"
+    ],
+    [
+      0.000023,
+      "Receiving objects:  46% (208/452)   \r"
+    ],
+    [
+      0.000673,
+      "Receiving objects:  47% (213/452)   \r"
+    ],
+    [
+      0.000074,
+      "Receiving objects:  48% (217/452)   \r"
+    ],
+    [
+      0.000024,
+      "Receiving objects:  49% (222/452)   \r"
+    ],
+    [
+      0.000016,
+      "Receiving objects:  50% (226/452)   \r"
+    ],
+    [
+      0.000124,
+      "Receiving objects:  51% (231/452)   \r"
+    ],
+    [
+      0.000039,
+      "Receiving objects:  52% (236/452)   \r"
+    ],
+    [
+      0.000024,
+      "Receiving objects:  53% (240/452)   \r"
+    ],
+    [
+      0.000144,
+      "Receiving objects:  54% (245/452)   \r"
+    ],
+    [
+      0.000514,
+      "Receiving objects:  55% (249/452)   \r"
+    ],
+    [
+      0.000017,
+      "Receiving objects:  56% (254/452)   \r"
+    ],
+    [
+      0.000033,
+      "Receiving objects:  57% (258/452)   \r"
+    ],
+    [
+      0.000020,
+      "Receiving objects:  58% (263/452)   \r"
+    ],
+    [
+      0.000152,
+      "Receiving objects:  59% (267/452)   \r"
+    ],
+    [
+      0.000182,
+      "Receiving objects:  60% (272/452)   \r"
+    ],
+    [
+      0.000073,
+      "Receiving objects:  61% (276/452)   \r"
+    ],
+    [
+      0.000057,
+      "Receiving objects:  62% (281/452)   \r"
+    ],
+    [
+      0.000079,
+      "Receiving objects:  63% (285/452)   \r"
+    ],
+    [
+      0.001758,
+      "Receiving objects:  64% (290/452)   \r"
+    ],
+    [
+      0.000072,
+      "Receiving objects:  65% (294/452)   \r"
+    ],
+    [
+      0.000026,
+      "Receiving objects:  66% (299/452)   \r"
+    ],
+    [
+      0.000113,
+      "Receiving objects:  67% (303/452)   \r"
+    ],
+    [
+      0.000035,
+      "Receiving objects:  68% (308/452)   \r"
+    ],
+    [
+      0.000033,
+      "Receiving objects:  69% (312/452)   \r"
+    ],
+    [
+      0.000028,
+      "Receiving objects:  70% (317/452)   \r"
+    ],
+    [
+      0.000023,
+      "Receiving objects:  71% (321/452)   \r"
+    ],
+    [
+      0.000019,
+      "Receiving objects:  72% (326/452)   \r"
+    ],
+    [
+      0.000023,
+      "Receiving objects:  73% (330/452)   \r"
+    ],
+    [
+      0.000020,
+      "Receiving objects:  74% (335/452)   \r"
+    ],
+    [
+      0.000140,
+      "Receiving objects:  75% (339/452)   \r"
+    ],
+    [
+      0.000202,
+      "Receiving objects:  76% (344/452)   \r"
+    ],
+    [
+      0.000071,
+      "Receiving objects:  77% (349/452)   \r"
+    ],
+    [
+      0.000014,
+      "Receiving objects:  78% (353/452)   \r"
+    ],
+    [
+      0.000024,
+      "Receiving objects:  79% (358/452)   \r"
+    ],
+    [
+      0.000024,
+      "Receiving objects:  80% (362/452)   \r"
+    ],
+    [
+      0.000033,
+      "Receiving objects:  81% (367/452)   \r"
+    ],
+    [
+      0.000033,
+      "Receiving objects:  82% (371/452)   \r"
+    ],
+    [
+      0.000032,
+      "Receiving objects:  83% (376/452)   \r"
+    ],
+    [
+      0.000054,
+      "Receiving objects:  84% (380/452)   \r"
+    ],
+    [
+      0.000204,
+      "Receiving objects:  85% (385/452)   \r"
+    ],
+    [
+      0.000076,
+      "Receiving objects:  86% (389/452)   \r"
+    ],
+    [
+      0.000063,
+      "Receiving objects:  87% (394/452)   \r"
+    ],
+    [
+      0.000028,
+      "Receiving objects:  88% (398/452)   \r"
+    ],
+    [
+      0.000036,
+      "Receiving objects:  89% (403/452)   \r"
+    ],
+    [
+      0.000017,
+      "Receiving objects:  90% (407/452)   \r"
+    ],
+    [
+      0.000072,
+      "Receiving objects:  91% (412/452)   \r"
+    ],
+    [
+      0.000019,
+      "Receiving objects:  92% (416/452)   \r"
+    ],
+    [
+      0.000025,
+      "Receiving objects:  93% (421/452)   \r"
+    ],
+    [
+      0.000017,
+      "Receiving objects:  94% (425/452)   \r"
+    ],
+    [
+      0.000021,
+      "Receiving objects:  95% (430/452)   \r"
+    ],
+    [
+      0.000018,
+      "Receiving objects:  96% (434/452)   \r"
+    ],
+    [
+      0.000032,
+      "Receiving objects:  97% (439/452)   \r"
+    ],
+    [
+      0.000020,
+      "Receiving objects:  98% (443/452)   \r"
+    ],
+    [
+      0.000021,
+      "Receiving objects:  99% (448/452)   \r"
+    ],
+    [
+      0.000037,
+      "Receiving objects: 100% (452/452)   \r"
+    ],
+    [
+      0.000011,
+      "Receiving objects: 100% (452/452), 142.94 KiB, done."
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000353,
+      "Resolving deltas:   0% (0/308)   \r"
+    ],
+    [
+      0.000617,
+      "Resolving deltas:  14% (44/308)   \r"
+    ],
+    [
+      0.000243,
+      "Resolving deltas:  16% (52/308)   \r"
+    ],
+    [
+      0.001010,
+      "Resolving deltas:  30% (93/308)   \r"
+    ],
+    [
+      0.000328,
+      "Resolving deltas:  32% (100/308)   \r"
+    ],
+    [
+      0.000565,
+      "Resolving deltas:  35% (109/308)   \r"
+    ],
+    [
+      0.000086,
+      "Resolving deltas:  36% (111/308)   \r"
+    ],
+    [
+      0.000441,
+      "Resolving deltas:  39% (123/308)   \r"
+    ],
+    [
+      0.000072,
+      "Resolving deltas:  40% (124/308)   \r"
+    ],
+    [
+      0.000187,
+      "Resolving deltas:  41% (127/308)   \r"
+    ],
+    [
+      0.000147,
+      "Resolving deltas:  42% (131/308)   \r"
+    ],
+    [
+      0.000298,
+      "Resolving deltas:  43% (135/308)   \r"
+    ],
+    [
+      0.000275,
+      "Resolving deltas:  46% (143/308)   \r"
+    ],
+    [
+      0.000191,
+      "Resolving deltas:  47% (147/308)   \r"
+    ],
+    [
+      0.000280,
+      "Resolving deltas:  49% (152/308)   \r"
+    ],
+    [
+      0.000619,
+      "Resolving deltas:  52% (162/308)   \r"
+    ],
+    [
+      0.000115,
+      "Resolving deltas:  53% (164/308)   \r"
+    ],
+    [
+      0.001300,
+      "Resolving deltas:  57% (176/308)   \r"
+    ],
+    [
+      0.000316,
+      "Resolving deltas:  60% (186/308)   \r"
+    ],
+    [
+      0.000050,
+      "Resolving deltas:  61% (188/308)   \r"
+    ],
+    [
+      0.000089,
+      "Resolving deltas:  62% (191/308)   \r"
+    ],
+    [
+      0.000165,
+      "Resolving deltas:  63% (195/308)   \r"
+    ],
+    [
+      0.000091,
+      "Resolving deltas:  64% (198/308)   \r"
+    ],
+    [
+      0.000124,
+      "Resolving deltas:  65% (202/308)   \r"
+    ],
+    [
+      0.000080,
+      "Resolving deltas:  66% (204/308)   \r"
+    ],
+    [
+      0.002156,
+      "Resolving deltas:  72% (224/308)   \r"
+    ],
+    [
+      0.000306,
+      "Resolving deltas:  75% (234/308)   \r"
+    ],
+    [
+      0.001712,
+      "Resolving deltas:  83% (257/308)   \r"
+    ],
+    [
+      0.000120,
+      "Resolving deltas:  84% (259/308)   \r"
+    ],
+    [
+      0.000156,
+      "Resolving deltas:  85% (264/308)   \r"
+    ],
+    [
+      0.000048,
+      "Resolving deltas:  86% (265/308)   \r"
+    ],
+    [
+      0.000132,
+      "Resolving deltas:  87% (268/308)   \r"
+    ],
+    [
+      0.000338,
+      "Resolving deltas:  92% (286/308)   \r"
+    ],
+    [
+      0.000186,
+      "Resolving deltas: 100% (308/308)   \r"
+    ],
+    [
+      0.000018,
+      "Resolving deltas: 100% (308/308), done."
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.241709,
+      "\u001b]0;tester@kali: ~/my_code/IATPatcher\u0007\u001b[01;31mtester@kali\u001b[00m:\u001b[01;34m~/my_code/IATPatcher\u001b[00m$ "
+    ],
+    [
+      0.939062,
+      "c"
+    ],
+    [
+      0.671950,
+      "d"
+    ],
+    [
+      0.143872,
+      " "
+    ],
+    [
+      0.464225,
+      "I"
+    ],
+    [
+      0.127754,
+      "\u0007"
+    ],
+    [
+      0.422846,
+      "AT_patcher/"
+    ],
+    [
+      0.761057,
+      "\r\n"
+    ],
+    [
+      0.001226,
+      "\u001b]0;tester@kali: ~/my_code/IATPatcher/IAT_patcher\u0007\u001b[01;31mtester@kali\u001b[00m:\u001b[01;34m~/my_code/IATPatcher/IAT_patcher\u001b[00m$ "
+    ],
+    [
+      5.216919,
+      "git clone https://github.com/hasherezade/bearparser.git"
+    ],
+    [
+      0.878556,
+      "\r\n"
+    ],
+    [
+      0.001827,
+      "Cloning into 'bearparser'...\r\n"
+    ],
+    [
+      1.497811,
+      "remote: Counting objects: 1168, done.\u001b[K\r\n"
+    ],
+    [
+      0.125484,
+      "Receiving objects:   0% (1/1168)   \r"
+    ],
+    [
+      0.000272,
+      "Receiving objects:   1% (12/1168)   \r"
+    ],
+    [
+      0.000385,
+      "Receiving objects:   2% (24/1168)   \r"
+    ],
+    [
+      0.000280,
+      "Receiving objects:   3% (36/1168)   \r"
+    ],
+    [
+      0.000325,
+      "Receiving objects:   4% (47/1168)   \r"
+    ],
+    [
+      0.000798,
+      "Receiving objects:   5% (59/1168)   \r"
+    ],
+    [
+      0.000436,
+      "Receiving objects:   6% (71/1168)   \r"
+    ],
+    [
+      0.000249,
+      "Receiving objects:   7% (82/1168)   \r"
+    ],
+    [
+      0.000319,
+      "Receiving objects:   8% (94/1168)   \r"
+    ],
+    [
+      0.000272,
+      "Receiving objects:   9% (106/1168)   \r"
+    ],
+    [
+      0.000306,
+      "Receiving objects:  10% (117/1168)   \r"
+    ],
+    [
+      0.000281,
+      "Receiving objects:  11% (129/1168)   \r"
+    ],
+    [
+      0.120495,
+      "Receiving objects:  12% (141/1168)   \r"
+    ],
+    [
+      0.000389,
+      "Receiving objects:  13% (152/1168)   \r"
+    ],
+    [
+      0.000530,
+      "Receiving objects:  14% (164/1168)   \r"
+    ],
+    [
+      0.000547,
+      "Receiving objects:  15% (176/1168)   \r"
+    ],
+    [
+      0.000519,
+      "Receiving objects:  16% (187/1168)   \r"
+    ],
+    [
+      0.000971,
+      "Receiving objects:  17% (199/1168)   \r"
+    ],
+    [
+      0.001028,
+      "Receiving objects:  18% (211/1168)   \r"
+    ],
+    [
+      0.000340,
+      "Receiving objects:  19% (222/1168)   \r"
+    ],
+    [
+      0.000425,
+      "Receiving objects:  20% (234/1168)   \r"
+    ],
+    [
+      0.121888,
+      "Receiving objects:  21% (246/1168)   \r"
+    ],
+    [
+      0.000612,
+      "Receiving objects:  22% (257/1168)   \r"
+    ],
+    [
+      0.000973,
+      "Receiving objects:  23% (269/1168)   \r"
+    ],
+    [
+      0.000597,
+      "Receiving objects:  24% (281/1168)   \r"
+    ],
+    [
+      0.000495,
+      "Receiving objects:  25% (292/1168)   \r"
+    ],
+    [
+      0.001082,
+      "Receiving objects:  26% (304/1168)   \r"
+    ],
+    [
+      0.001150,
+      "Receiving objects:  27% (316/1168)   \r"
+    ],
+    [
+      0.002265,
+      "Receiving objects:  28% (328/1168)   \r"
+    ],
+    [
+      0.001006,
+      "Receiving objects:  29% (339/1168)   \r"
+    ],
+    [
+      0.000870,
+      "Receiving objects:  30% (351/1168)   \r"
+    ],
+    [
+      0.000946,
+      "Receiving objects:  31% (363/1168)   \r"
+    ],
+    [
+      0.002822,
+      "Receiving objects:  32% (374/1168)   \r"
+    ],
+    [
+      0.000557,
+      "Receiving objects:  33% (386/1168)   \r"
+    ],
+    [
+      0.000142,
+      "Receiving objects:  34% (398/1168)   \r"
+    ],
+    [
+      0.000131,
+      "Receiving objects:  35% (409/1168)   \r"
+    ],
+    [
+      0.000118,
+      "Receiving objects:  36% (421/1168)   \r"
+    ],
+    [
+      0.000059,
+      "Receiving objects:  37% (433/1168)   \r"
+    ],
+    [
+      0.112181,
+      "Receiving objects:  38% (444/1168)   \r"
+    ],
+    [
+      0.000073,
+      "Receiving objects:  39% (456/1168)   \r"
+    ],
+    [
+      0.000523,
+      "Receiving objects:  40% (468/1168)   \r"
+    ],
+    [
+      0.000050,
+      "Receiving objects:  41% (479/1168)   \r"
+    ],
+    [
+      0.000334,
+      "Receiving objects:  42% (491/1168)   \r"
+    ],
+    [
+      0.000594,
+      "Receiving objects:  43% (503/1168)   \r"
+    ],
+    [
+      0.000365,
+      "Receiving objects:  44% (514/1168)   \r"
+    ],
+    [
+      0.000367,
+      "Receiving objects:  45% (526/1168)   \r"
+    ],
+    [
+      0.000614,
+      "Receiving objects:  46% (538/1168)   \r"
+    ],
+    [
+      0.000541,
+      "Receiving objects:  47% (549/1168)   \r"
+    ],
+    [
+      0.000591,
+      "Receiving objects:  48% (561/1168)   \r"
+    ],
+    [
+      0.000568,
+      "Receiving objects:  49% (573/1168)   \r"
+    ],
+    [
+      0.000082,
+      "Receiving objects:  50% (584/1168)   \r"
+    ],
+    [
+      0.000172,
+      "Receiving objects:  51% (596/1168)   \r"
+    ],
+    [
+      0.000068,
+      "Receiving objects:  52% (608/1168)   \r"
+    ],
+    [
+      0.000045,
+      "Receiving objects:  53% (620/1168)   \r"
+    ],
+    [
+      0.000475,
+      "Receiving objects:  54% (631/1168)   \r"
+    ],
+    [
+      0.000169,
+      "Receiving objects:  55% (643/1168)   \r"
+    ],
+    [
+      0.000151,
+      "Receiving objects:  56% (655/1168)   \r"
+    ],
+    [
+      0.000066,
+      "Receiving objects:  57% (666/1168)   \r"
+    ],
+    [
+      0.000220,
+      "Receiving objects:  58% (678/1168)   \r"
+    ],
+    [
+      0.001001,
+      "Receiving objects:  59% (690/1168)   \r"
+    ],
+    [
+      0.000502,
+      "Receiving objects:  60% (701/1168)   \r"
+    ],
+    [
+      0.000129,
+      "Receiving objects:  61% (713/1168)   \r"
+    ],
+    [
+      0.000650,
+      "Receiving objects:  62% (725/1168)   \r"
+    ],
+    [
+      0.000564,
+      "Receiving objects:  63% (736/1168)   \r"
+    ],
+    [
+      0.000464,
+      "Receiving objects:  64% (748/1168)   \r"
+    ],
+    [
+      0.000163,
+      "Receiving objects:  65% (760/1168)   \r"
+    ],
+    [
+      0.000181,
+      "Receiving objects:  66% (771/1168)   \r"
+    ],
+    [
+      0.000363,
+      "Receiving objects:  67% (783/1168)   \r"
+    ],
+    [
+      0.000311,
+      "Receiving objects:  68% (795/1168)   \r"
+    ],
+    [
+      0.000127,
+      "Receiving objects:  69% (806/1168)   \r"
+    ],
+    [
+      0.000135,
+      "Receiving objects:  70% (818/1168)   \r"
+    ],
+    [
+      0.000040,
+      "Receiving objects:  71% (830/1168)   \r"
+    ],
+    [
+      0.000148,
+      "Receiving objects:  72% (841/1168)   \r"
+    ],
+    [
+      0.000137,
+      "Receiving objects:  73% (853/1168)   \r"
+    ],
+    [
+      0.000210,
+      "Receiving objects:  74% (865/1168)   \r"
+    ],
+    [
+      0.000076,
+      "Receiving objects:  75% (876/1168)   \r"
+    ],
+    [
+      0.000084,
+      "Receiving objects:  76% (888/1168)   \r"
+    ],
+    [
+      0.000097,
+      "Receiving objects:  77% (900/1168)   \r"
+    ],
+    [
+      0.000091,
+      "Receiving objects:  78% (912/1168)   \r"
+    ],
+    [
+      0.000458,
+      "Receiving objects:  79% (923/1168)   \r"
+    ],
+    [
+      0.000054,
+      "Receiving objects:  80% (935/1168)   \r"
+    ],
+    [
+      0.000167,
+      "Receiving objects:  81% (947/1168)   \r"
+    ],
+    [
+      0.000251,
+      "Receiving objects:  82% (958/1168)   \r"
+    ],
+    [
+      0.000067,
+      "Receiving objects:  83% (970/1168)   \r"
+    ],
+    [
+      0.000783,
+      "Receiving objects:  84% (982/1168)   \r"
+    ],
+    [
+      0.000324,
+      "Receiving objects:  85% (993/1168)   \r"
+    ],
+    [
+      0.000875,
+      "Receiving objects:  86% (1005/1168)   \r"
+    ],
+    [
+      0.000027,
+      "Receiving objects:  87% (1017/1168)   \r"
+    ],
+    [
+      0.000059,
+      "Receiving objects:  88% (1028/1168)   \r"
+    ],
+    [
+      0.000319,
+      "Receiving objects:  89% (1040/1168)   \r"
+    ],
+    [
+      0.000172,
+      "Receiving objects:  90% (1052/1168)   \r"
+    ],
+    [
+      0.000074,
+      "Receiving objects:  91% (1063/1168)   \r"
+    ],
+    [
+      0.000282,
+      "Receiving objects:  92% (1075/1168)   \r"
+    ],
+    [
+      0.000090,
+      "remote: Total 1168 (delta 0), reused 0 (delta 0), pack-reused 1168\u001b[K\r\nReceiving objects:  93% (1087/1168)   \r"
+    ],
+    [
+      0.000076,
+      "Receiving objects:  94% (1098/1168)   \r"
+    ],
+    [
+      0.000028,
+      "Receiving objects:  95% (1110/1168)   \r"
+    ],
+    [
+      0.000074,
+      "Receiving objects:  96% (1122/1168)   \r"
+    ],
+    [
+      0.000050,
+      "Receiving objects:  97% (1133/1168)   \r"
+    ],
+    [
+      0.000064,
+      "Receiving objects:  98% (1145/1168)   \r"
+    ],
+    [
+      0.000034,
+      "Receiving objects:  99% (1157/1168)   \r"
+    ],
+    [
+      0.000032,
+      "Receiving objects: 100% (1168/1168)   \r"
+    ],
+    [
+      0.000006,
+      "Receiving objects: 100% (1168/1168), 285.23 KiB, done.\r\n"
+    ],
+    [
+      0.000568,
+      "Resolving deltas:   0% (0/878)   \r"
+    ],
+    [
+      0.000363,
+      "Resolving deltas:   1% (11/878)   \r"
+    ],
+    [
+      0.000579,
+      "Resolving deltas:   2% (24/878)   \r"
+    ],
+    [
+      0.000506,
+      "Resolving deltas:   3% (31/878)   \r"
+    ],
+    [
+      0.000301,
+      "Resolving deltas:   4% (37/878)   \r"
+    ],
+    [
+      0.000712,
+      "Resolving deltas:   5% (48/878)   \r"
+    ],
+    [
+      0.002044,
+      "Resolving deltas:  19% (172/878)   \r"
+    ],
+    [
+      0.001219,
+      "Resolving deltas:  21% (186/878)   \r"
+    ],
+    [
+      0.000470,
+      "Resolving deltas:  22% (198/878)   \r"
+    ],
+    [
+      0.000324,
+      "Resolving deltas:  23% (208/878)   \r"
+    ],
+    [
+      0.000065,
+      "Resolving deltas:  24% (212/878)   \r"
+    ],
+    [
+      0.000292,
+      "Resolving deltas:  25% (221/878)   \r"
+    ],
+    [
+      0.000435,
+      "Resolving deltas:  26% (233/878)   \r"
+    ],
+    [
+      0.000264,
+      "Resolving deltas:  27% (239/878)   \r"
+    ],
+    [
+      0.000175,
+      "Resolving deltas:  28% (246/878)   \r"
+    ],
+    [
+      0.000810,
+      "Resolving deltas:  30% (266/878)   \r"
+    ],
+    [
+      0.000296,
+      "Resolving deltas:  31% (274/878)   \r"
+    ],
+    [
+      0.001729,
+      "Resolving deltas:  40% (357/878)   \r"
+    ],
+    [
+      0.000927,
+      "Resolving deltas:  42% (369/878)   \r"
+    ],
+    [
+      0.000875,
+      "Resolving deltas:  44% (393/878)   \r"
+    ],
+    [
+      0.000110,
+      "Resolving deltas:  45% (398/878)   \r"
+    ],
+    [
+      0.000122,
+      "Resolving deltas:  46% (405/878)   \r"
+    ],
+    [
+      0.000489,
+      "Resolving deltas:  47% (421/878)   \r"
+    ],
+    [
+      0.000116,
+      "Resolving deltas:  48% (423/878)   \r"
+    ],
+    [
+      0.000423,
+      "Resolving deltas:  49% (434/878)   \r"
+    ],
+    [
+      0.000197,
+      "Resolving deltas:  50% (440/878)   \r"
+    ],
+    [
+      0.000642,
+      "Resolving deltas:  51% (450/878)   \r"
+    ],
+    [
+      0.000568,
+      "Resolving deltas:  52% (463/878)   \r"
+    ],
+    [
+      0.001288,
+      "Resolving deltas:  53% (474/878)   \r"
+    ],
+    [
+      0.000498,
+      "Resolving deltas:  56% (493/878)   \r"
+    ],
+    [
+      0.000273,
+      "Resolving deltas:  57% (501/878)   \r"
+    ],
+    [
+      0.000714,
+      "Resolving deltas:  58% (516/878)   \r"
+    ],
+    [
+      0.000594,
+      "Resolving deltas:  62% (547/878)   \r"
+    ],
+    [
+      0.000209,
+      "Resolving deltas:  63% (554/878)   \r"
+    ],
+    [
+      0.000998,
+      "Resolving deltas:  65% (575/878)   \r"
+    ],
+    [
+      0.000087,
+      "Resolving deltas:  66% (581/878)   \r"
+    ],
+    [
+      0.001464,
+      "Resolving deltas:  67% (589/878)   \r"
+    ],
+    [
+      0.000138,
+      "Resolving deltas:  68% (598/878)   \r"
+    ],
+    [
+      0.000565,
+      "Resolving deltas:  84% (741/878)   \r"
+    ],
+    [
+      0.000122,
+      "Resolving deltas:  85% (751/878)   \r"
+    ],
+    [
+      0.000586,
+      "Resolving deltas:  87% (772/878)   \r"
+    ],
+    [
+      0.000049,
+      "Resolving deltas:  88% (774/878)   \r"
+    ],
+    [
+      0.000145,
+      "Resolving deltas:  89% (783/878)   \r"
+    ],
+    [
+      0.000055,
+      "Resolving deltas:  90% (793/878)   \r"
+    ],
+    [
+      0.000364,
+      "Resolving deltas:  93% (822/878)   \r"
+    ],
+    [
+      0.000156,
+      "Resolving deltas:  95% (838/878)   \r"
+    ],
+    [
+      0.000068,
+      "Resolving deltas:  96% (851/878)   \r"
+    ],
+    [
+      0.000092,
+      "Resolving deltas:  99% (873/878)   \r"
+    ],
+    [
+      0.000075,
+      "Resolving deltas: 100% (878/878)   \r"
+    ],
+    [
+      0.000007,
+      "Resolving deltas: 100% (878/878), done."
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.206342,
+      "\u001b]0;tester@kali: ~/my_code/IATPatcher/IAT_patcher\u0007\u001b[01;31mtester@kali\u001b[00m:\u001b[01;34m~/my_code/IATPatcher/IAT_patcher\u001b[00m$ "
+    ],
+    [
+      1.366732,
+      "c"
+    ],
+    [
+      0.063770,
+      "d"
+    ],
+    [
+      0.096036,
+      " "
+    ],
+    [
+      0.656404,
+      "."
+    ],
+    [
+      0.191912,
+      "."
+    ],
+    [
+      0.288599,
+      "\r\n\u001b]0;tester@kali: ~/my_code/IATPatcher\u0007\u001b[01;31mtester@kali\u001b[00m:\u001b[01;34m~/my_code/IATPatcher\u001b[00m$ "
+    ],
+    [
+      1.087526,
+      "m"
+    ],
+    [
+      0.384185,
+      "k"
+    ],
+    [
+      0.287816,
+      "d"
+    ],
+    [
+      0.159888,
+      "i"
+    ],
+    [
+      0.159671,
+      "r"
+    ],
+    [
+      0.160060,
+      " "
+    ],
+    [
+      0.320236,
+      "b"
+    ],
+    [
+      0.271969,
+      "u"
+    ],
+    [
+      0.191765,
+      "i"
+    ],
+    [
+      0.240074,
+      "l"
+    ],
+    [
+      0.160201,
+      "d"
+    ],
+    [
+      0.400420,
+      "\r\n"
+    ],
+    [
+      0.002716,
+      "\u001b]0;tester@kali: ~/my_code/IATPatcher\u0007\u001b[01;31mtester@kali\u001b[00m:\u001b[01;34m~/my_code/IATPatcher\u001b[00m$ "
+    ],
+    [
+      0.636891,
+      "c"
+    ],
+    [
+      0.144154,
+      "d"
+    ],
+    [
+      0.111661,
+      " "
+    ],
+    [
+      0.223869,
+      "b"
+    ],
+    [
+      0.295072,
+      "uild/"
+    ],
+    [
+      0.410238,
+      "\r\n\u001b]0;tester@kali: ~/my_code/IATPatcher/build\u0007\u001b[01;31mtester@kali\u001b[00m:\u001b[01;34m~/my_code/IATPatcher/build\u001b[00m$ "
+    ],
+    [
+      4.830653,
+      "c"
+    ],
+    [
+      0.320190,
+      "m"
+    ],
+    [
+      0.191966,
+      "a"
+    ],
+    [
+      0.143821,
+      "k"
+    ],
+    [
+      0.160022,
+      "e"
+    ],
+    [
+      0.368757,
+      "\r\n"
+    ],
+    [
+      0.009116,
+      "cmake version 2.8.9\r\n"
+    ],
+    [
+      0.000013,
+      "Usage\r\n\r\n"
+    ],
+    [
+      0.000005,
+      "  cmake [options] \u003cpath-to-source\u003e\r\n"
+    ],
+    [
+      0.000090,
+      "  cmake [options] \u003cpath-to-existing-build\u003e\r\n\r\nOptions\r\n  -C \u003cinitial-cache\u003e          = Pre-load a script to populate the cache.\r\n  -D \u003cvar\u003e:\u003ctype\u003e=\u003cvalue\u003e     = Create a cmake cache entry.\r\n  -U \u003cglobbing_expr\u003e          = Remove matching entries from CMake cache.\r\n"
+    ],
+    [
+      0.000010,
+      "  -G \u003cgenerator-name\u003e         = Specify a makefile generator.\r\n  -Wno-dev                    = Suppress developer warnings.\r\n  -Wdev                       = Enable developer warnings.\r\n"
+    ],
+    [
+      0.000023,
+      "  -E                          = CMake command mode.\r\n  -i                          = Run in wizard mode.\r\n  -L[A][H]                    = List non-advanced cached variables."
+    ],
+    [
+      0.000019,
+      "\r\n  --build \u003cdir\u003e               = Build a CMake-generated project binary tree.\r\n  -N                          = View mode only."
+    ],
+    [
+      0.000008,
+      "\r\n  -P \u003cfile\u003e                   = Process script mode."
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "  --find-package              = Run in pkg-config like mode."
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "  --graphviz=[file]           = Generate graphviz of dependencies.\r\n"
+    ],
+    [
+      0.000008,
+      "  --system-information [file] = Dump information about this system.\r\n  --debug-trycompile          = Do not delete the try_compile build tree."
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "                                Only useful on one try_compile at a time.\r\n"
+    ],
+    [
+      0.000006,
+      "  --debug-output              = Put cmake in a debug mode."
+    ],
+    [
+      0.000011,
+      "\r\n  --trace                     = Put cmake in trace mode."
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "  --warn-uninitialized        = Warn about uninitialized values.\r\n"
+    ],
+    [
+      0.000005,
+      "  --warn-unused-vars          = Warn about unused variables."
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "  --no-warn-unused-cli        = Don't warn about command line options."
+    ],
+    [
+      0.000003,
+      "\r\n  --check-system-vars         = Find problems with variable usage in system"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "                                files."
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000057,
+      "  --help-command cmd [file]   = Print help for a single command and exit.\r\n  --help-command-list [file]  = List available listfile commands and exit.\r\n  --help-commands [file]      = Print help for all commands and exit.\r\n  --help-compatcommands [file]= Print help for compatibility commands.\r\n  --help-module module [file] = Print help for a single module and exit.\r\n  --help-module-list [file]   = List available modules and exit.\r\n"
+    ],
+    [
+      0.000011,
+      "  --help-modules [file]       = Print help for all modules and exit.\r\n  --help-custom-modules [file]= Print help for all custom modules and exit.\r\n"
+    ],
+    [
+      0.000005,
+      "  --help-policy cmp [file]    = Print help for a single policy and exit."
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "  --help-policies [file]      = Print help for all policies and exit.\r\n"
+    ],
+    [
+      0.000006,
+      "  --help-property prop [file] = Print help for a single property and exit.\r\n  --help-property-list [file] = List available properties and exit."
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "  --help-properties [file]    = Print help for all properties and exit.\r\n"
+    ],
+    [
+      0.000005,
+      "  --help-variable var [file]  = Print help for a single variable and exit."
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "  --help-variable-list [file] = List documented variables and exit.\r\n"
+    ],
+    [
+      0.000005,
+      "  --help-variables [file]     = Print help for all variables and exit."
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "  --copyright [file]          = Print the CMake copyright and exit.\r\n"
+    ],
+    [
+      0.000003,
+      "  --help,-help,-usage,-h,-H,/?= Print usage information and exit."
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000054,
+      "  --help-full [file]          = Print full help and exit.\r\n  --help-html [file]          = Print full help in HTML format.\r\n  --help-man [file]           = Print full help as a UNIX man page and exit.\r\n  --version,-version,/V [file]= Show program name/version banner and exit.\r\n\r\nGenerators\r\n\r\n"
+    ],
+    [
+      0.000006,
+      "The following generators are available on this platform:"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "  Ninja                       = Generates build.ninja files (experimental)."
+    ],
+    [
+      0.000006,
+      "\r\n  Unix Makefiles              = Generates standard UNIX makefiles."
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "  CodeBlocks - Ninja          = Generates CodeBlocks project files.\r\n"
+    ],
+    [
+      0.000012,
+      "  CodeBlocks - Unix Makefiles = Generates CodeBlocks project files."
+    ],
+    [
+      0.000006,
+      "\r\n  Eclipse CDT4 - Ninja        = Generates Eclipse CDT 4.0 project files."
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "  Eclipse CDT4 - Unix Makefiles\r\n"
+    ],
+    [
+      0.000005,
+      "                              = Generates Eclipse CDT 4.0 project files."
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "  KDevelop3                   = Generates KDevelop 3 project files.\r\n"
+    ],
+    [
+      0.000005,
+      "  KDevelop3 - Unix Makefiles  = Generates KDevelop 3 project files."
+    ],
+    [
+      0.000005,
+      "\r\n\r\n"
+    ],
+    [
+      0.002044,
+      "\u001b]0;tester@kali: ~/my_code/IATPatcher/build\u0007\u001b[01;31mtester@kali\u001b[00m:\u001b[01;34m~/my_code/IATPatcher/build\u001b[00m$ "
+    ],
+    [
+      1.315816,
+      "c"
+    ],
+    [
+      0.127652,
+      "m"
+    ],
+    [
+      0.128034,
+      "a"
+    ],
+    [
+      0.352360,
+      "k"
+    ],
+    [
+      0.159949,
+      "e"
+    ],
+    [
+      0.191696,
+      " "
+    ],
+    [
+      0.416022,
+      "-"
+    ],
+    [
+      1.295950,
+      "G"
+    ],
+    [
+      0.336288,
+      " "
+    ],
+    [
+      2.160018,
+      "\""
+    ],
+    [
+      8.717668,
+      "CodeBlocks - Unix Makefiles"
+    ],
+    [
+      0.818248,
+      "\u0008"
+    ],
+    [
+      0.975776,
+      "\u001b[C"
+    ],
+    [
+      1.488030,
+      "\""
+    ],
+    [
+      0.240323,
+      " "
+    ],
+    [
+      0.367644,
+      "."
+    ],
+    [
+      0.175812,
+      "."
+    ],
+    [
+      0.256048,
+      "/"
+    ],
+    [
+      1.136505,
+      "I"
+    ],
+    [
+      0.394650,
+      "AT_patcher/"
+    ],
+    [
+      0.820849,
+      "\r\n"
+    ],
+    [
+      0.060737,
+      "-- The C compiler identification is GNU 4.7.2\r\n"
+    ],
+    [
+      0.049389,
+      "-- The CXX compiler identification is GNU 4.7.2\r\n"
+    ],
+    [
+      0.060459,
+      "-- Check for working C compiler: /usr/bin/gcc\r\n"
+    ],
+    [
+      0.056755,
+      "-- Check for working C compiler: /usr/bin/gcc -- works\r\n-- Detecting C compiler ABI info\r\n"
+    ],
+    [
+      0.048730,
+      "-- Detecting C compiler ABI info - done\r\n"
+    ],
+    [
+      0.005228,
+      "-- Check for working CXX compiler: /usr/bin/c++\r\n"
+    ],
+    [
+      0.073549,
+      "-- Check for working CXX compiler: /usr/bin/c++ -- works\r\n-- Detecting CXX compiler ABI info\r\n"
+    ],
+    [
+      0.065198,
+      "-- Detecting CXX compiler ABI info - done\r\n"
+    ],
+    [
+      0.035736,
+      "-- Looking for Q_WS_X11\r\n"
+    ],
+    [
+      0.122610,
+      "-- Looking for Q_WS_X11 - found\r\n-- Looking for Q_WS_WIN\r\n"
+    ],
+    [
+      0.073626,
+      "-- Looking for Q_WS_WIN - not found.\r\n"
+    ],
+    [
+      0.000648,
+      "-- Looking for Q_WS_QWS\r\n"
+    ],
+    [
+      0.081627,
+      "-- Looking for Q_WS_QWS - not found.\r\n-- Looking for Q_WS_MAC\r\n"
+    ],
+    [
+      0.068324,
+      "-- Looking for Q_WS_MAC - not found.\r\n"
+    ],
+    [
+      0.045886,
+      "-- Found Qt4: /usr/bin/qmake (found version \"4.8.2\") \r\n"
+    ],
+    [
+      0.003526,
+      "-- parser_dir='/home/tester/my_code/IATPatcher/IAT_patcher/bearparser/parser'"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000023,
+      "-- parser_lib='/home/tester/my_code/IATPatcher/build/bearparser/parser/libbearparser.a'\r\n"
+    ],
+    [
+      0.057614,
+      "-- Configuring done\r\n"
+    ],
+    [
+      0.027610,
+      "-- Generating done\r\n"
+    ],
+    [
+      0.002143,
+      "-- Build files have been written to: /home/tester/my_code/IATPatcher/build\r\n"
+    ],
+    [
+      0.002702,
+      "\u001b]0;tester@kali: ~/my_code/IATPatcher/build\u0007\u001b[01;31mtester@kali\u001b[00m:\u001b[01;34m~/my_code/IATPatcher/build\u001b[00m$ "
+    ],
+    [
+      4.178214,
+      "m"
+    ],
+    [
+      0.175892,
+      "a"
+    ],
+    [
+      0.288045,
+      "k"
+    ],
+    [
+      0.191950,
+      "e"
+    ],
+    [
+      0.432482,
+      "\r\n"
+    ],
+    [
+      0.041573,
+      "\u001b[35m\u001b[1mScanning dependencies of target bearparser\r\n"
+    ],
+    [
+      0.136445,
+      "\u001b[0m"
+    ],
+    [
+      0.040830,
+      "[  1%] "
+    ],
+    [
+      0.004189,
+      "\u001b[32mBuilding CXX object bearparser/parser/CMakeFiles/bearparser.dir/Util.cpp.o\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0m"
+    ],
+    [
+      0.593634,
+      "[  2%] "
+    ],
+    [
+      0.004155,
+      "\u001b[32mBuilding CXX object bearparser/parser/CMakeFiles/bearparser.dir/AbstractByteBuffer.cpp.o\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[0m"
+    ],
+    [
+      0.636900,
+      "[  3%] "
+    ],
+    [
+      0.006207,
+      "\u001b[32mBuilding CXX object bearparser/parser/CMakeFiles/bearparser.dir/WrappedValue.cpp.o\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[0m"
+    ],
+    [
+      0.594393,
+      "[  4%] "
+    ],
+    [
+      0.003543,
+      "\u001b[32mBuilding CXX object bearparser/parser/CMakeFiles/bearparser.dir/ByteBuffer.cpp.o\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0m"
+    ],
+    [
+      0.616692,
+      "[  5%] "
+    ],
+    [
+      0.006656,
+      "\u001b[32mBuilding CXX object bearparser/parser/CMakeFiles/bearparser.dir/FileBuffer.cpp.o\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[0m"
+    ],
+    [
+      0.619625,
+      "[  6%] "
+    ],
+    [
+      0.006408,
+      "\u001b[32mBuilding CXX object bearparser/parser/CMakeFiles/bearparser.dir/Executable.cpp.o\r\n"
+    ],
+    [
+      0.000036,
+      "\u001b[0m"
+    ],
+    [
+      0.618989,
+      "[  7%] "
+    ],
+    [
+      0.003567,
+      "\u001b[32mBuilding CXX object bearparser/parser/CMakeFiles/bearparser.dir/MappedExe.cpp.o\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0m"
+    ],
+    [
+      0.664090,
+      "[  8%] "
+    ],
+    [
+      0.007003,
+      "\u001b[32mBuilding CXX object bearparser/parser/CMakeFiles/bearparser.dir/ExeElementWrapper.cpp.o\r\n"
+    ],
+    [
+      0.000019,
+      "\u001b[0m"
+    ],
+    [
+      0.627974,
+      "[  9%] "
+    ],
+    [
+      0.006123,
+      "\u001b[32mBuilding CXX object bearparser/parser/CMakeFiles/bearparser.dir/ExeNodeWrapper.cpp.o"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000024,
+      "\u001b[0m"
+    ],
+    [
+      0.672024,
+      "[ 10%] "
+    ],
+    [
+      0.003950,
+      "\u001b[32mBuilding CXX object bearparser/parser/CMakeFiles/bearparser.dir/ExeFactory.cpp.o\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[0m"
+    ],
+    [
+      0.786837,
+      "[ 11%] "
+    ],
+    [
+      0.006219,
+      "\u001b[32mBuilding CXX object bearparser/parser/CMakeFiles/bearparser.dir/Formatter.cpp.o\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[0m"
+    ],
+    [
+      0.602059,
+      "[ 12%] "
+    ],
+    [
+      0.006727,
+      "\u001b[32mBuilding CXX object bearparser/parser/CMakeFiles/bearparser.dir/pe/DosHdrWrapper.cpp.o\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[0m"
+    ],
+    [
+      0.619817,
+      "[ 13%] "
+    ],
+    [
+      0.006714,
+      "\u001b[32mBuilding CXX object bearparser/parser/CMakeFiles/bearparser.dir/pe/DOSExe.cpp.o\r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[0m"
+    ],
+    [
+      0.690689,
+      "[ 14%] "
+    ],
+    [
+      0.006739,
+      "\u001b[32mBuilding CXX object bearparser/parser/CMakeFiles/bearparser.dir/pe/PECore.cpp.o\r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[0m"
+    ],
+    [
+      0.658608,
+      "[ 15%] "
+    ],
+    [
+      0.006718,
+      "\u001b[32mBuilding CXX object bearparser/parser/CMakeFiles/bearparser.dir/pe/PEFile.cpp.o\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[0m"
+    ],
+    [
+      0.975774,
+      "[ 16%] "
+    ],
+    [
+      0.005422,
+      "\u001b[32mBuilding CXX object bearparser/parser/CMakeFiles/bearparser.dir/pe/FileHdrWrapper.cpp.o\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[0m"
+    ],
+    [
+      0.721242,
+      "[ 17%] "
+    ],
+    [
+      0.006206,
+      "\u001b[32mBuilding CXX object bearparser/parser/CMakeFiles/bearparser.dir/pe/OptHdrWrapper.cpp.o\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[0m"
+    ],
+    [
+      0.923490,
+      "[ 18%] "
+    ],
+    [
+      0.006658,
+      "\u001b[32mBuilding CXX object bearparser/parser/CMakeFiles/bearparser.dir/pe/SectHdrsWrapper.cpp.o\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[0m"
+    ],
+    [
+      0.843542,
+      "[ 19%] "
+    ],
+    [
+      0.006670,
+      "\u001b[32mBuilding CXX object bearparser/parser/CMakeFiles/bearparser.dir/pe/DataDirWrapper.cpp.o\r\n"
+    ],
+    [
+      0.000019,
+      "\u001b[0m"
+    ],
+    [
+      0.713307,
+      "[ 20%] "
+    ],
+    [
+      0.004301,
+      "\u001b[32mBuilding CXX object bearparser/parser/CMakeFiles/bearparser.dir/pe/PENodeWrapper.cpp.o\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[0m"
+    ],
+    [
+      0.728328,
+      "[ 21%] "
+    ],
+    [
+      0.005359,
+      "\u001b[32mBuilding CXX object bearparser/parser/CMakeFiles/bearparser.dir/pe/DataDirEntryWrapper.cpp.o\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[0m"
+    ],
+    [
+      0.713670,
+      "[ 22%] "
+    ],
+    [
+      0.006678,
+      "\u001b[32mBuilding CXX object bearparser/parser/CMakeFiles/bearparser.dir/pe/ImportBaseDirWrapper.cpp.o\r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[0m"
+    ],
+    [
+      0.715456,
+      "[ 23%] "
+    ],
+    [
+      0.006789,
+      "\u001b[32mBuilding CXX object bearparser/parser/CMakeFiles/bearparser.dir/pe/ImportDirWrapper.cpp.o\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[0m"
+    ],
+    [
+      0.808841,
+      "[ 25%] "
+    ],
+    [
+      0.006664,
+      "\u001b[32mBuilding CXX object bearparser/parser/CMakeFiles/bearparser.dir/pe/DelayImpDirWrapper.cpp.o\r\n"
+    ],
+    [
+      0.000028,
+      "\u001b[0m"
+    ],
+    [
+      0.803311,
+      "[ 26%] "
+    ],
+    [
+      0.006613,
+      "\u001b[32mBuilding CXX object bearparser/parser/CMakeFiles/bearparser.dir/pe/BoundImpDirWrapper.cpp.o\r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[0m"
+    ],
+    [
+      0.761556,
+      "[ 27%] "
+    ],
+    [
+      0.006616,
+      "\u001b[32mBuilding CXX object bearparser/parser/CMakeFiles/bearparser.dir/pe/DebugDirWrapper.cpp.o\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[0m"
+    ],
+    [
+      0.727162,
+      "[ 28%] "
+    ],
+    [
+      0.005672,
+      "\u001b[32mBuilding CXX object bearparser/parser/CMakeFiles/bearparser.dir/pe/ExportDirWrapper.cpp.o\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[0m"
+    ],
+    [
+      0.873184,
+      "[ 29%] "
+    ],
+    [
+      0.006231,
+      "\u001b[32mBuilding CXX object bearparser/parser/CMakeFiles/bearparser.dir/pe/SecurityDirWrapper.cpp.o\r\n"
+    ],
+    [
+      0.000019,
+      "\u001b[0m"
+    ],
+    [
+      0.774581,
+      "[ 30%] "
+    ],
+    [
+      0.006700,
+      "\u001b[32mBuilding CXX object bearparser/parser/CMakeFiles/bearparser.dir/pe/TlsDirWrapper.cpp.o\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[0m"
+    ],
+    [
+      0.763779,
+      "[ 31%] "
+    ],
+    [
+      0.004419,
+      "\u001b[32mBuilding CXX object bearparser/parser/CMakeFiles/bearparser.dir/pe/LdConfigDirWrapper.cpp.o\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0m"
+    ],
+    [
+      0.839144,
+      "[ 32%] "
+    ],
+    [
+      0.006623,
+      "\u001b[32mBuilding CXX object bearparser/parser/CMakeFiles/bearparser.dir/pe/RelocDirWrapper.cpp.o\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[0m"
+    ],
+    [
+      0.772166,
+      "[ 33%] "
+    ],
+    [
+      0.006485,
+      "\u001b[32mBuilding CXX object bearparser/parser/CMakeFiles/bearparser.dir/pe/ExceptionDirWrapper.cpp.o\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[0m"
+    ],
+    [
+      0.756980,
+      "[ 34%] "
+    ],
+    [
+      0.006730,
+      "\u001b[32mBuilding CXX object bearparser/parser/CMakeFiles/bearparser.dir/pe/ResourceDirWrapper.cpp.o\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[0m"
+    ],
+    [
+      0.902899,
+      "[ 35%] "
+    ],
+    [
+      0.003528,
+      "\u001b[32mBuilding CXX object bearparser/parser/CMakeFiles/bearparser.dir/pe/rsrc/ResourcesAlbum.cpp.o\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[0m"
+    ],
+    [
+      0.940433,
+      "[ 36%] "
+    ],
+    [
+      0.003927,
+      "\u001b[32mBuilding CXX object bearparser/parser/CMakeFiles/bearparser.dir/pe/rsrc/ResourceContentFactory.cpp.o\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0m"
+    ],
+    [
+      0.646662,
+      "[ 37%] "
+    ],
+    [
+      0.006766,
+      "\u001b[32mBuilding CXX object bearparser/parser/CMakeFiles/bearparser.dir/pe/rsrc/ResourceContentWrapper.cpp.o\r\n"
+    ],
+    [
+      0.000018,
+      "\u001b[0m"
+    ],
+    [
+      0.613612,
+      "[ 38%] "
+    ],
+    [
+      0.004465,
+      "\u001b[32mBuilding CXX object bearparser/parser/CMakeFiles/bearparser.dir/pe/rsrc/ResourceStringsWrapper.cpp.o\r\n\u001b[0m"
+    ],
+    [
+      0.716675,
+      "[ 39%] "
+    ],
+    [
+      0.005460,
+      "\u001b[32mBuilding CXX object bearparser/parser/CMakeFiles/bearparser.dir/pe/rsrc/ResourceVersionWrapper.cpp.o\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[0m"
+    ],
+    [
+      0.693448,
+      "\u001b[31m\u001b[1mLinking CXX static library libbearparser.a\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0m"
+    ],
+    [
+      0.062423,
+      "[ 39%] "
+    ],
+    [
+      0.000951,
+      "Built target bearparser\r\n"
+    ],
+    [
+      0.008992,
+      "[ 40%] "
+    ],
+    [
+      0.005082,
+      "\u001b[34m\u001b[1mGenerating qrc_application.cxx\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[0m"
+    ],
+    [
+      0.017065,
+      "[ 41%] "
+    ],
+    [
+      0.005009,
+      "\u001b[34m\u001b[1mGenerating moc_StubMaker.cxx\r\n"
+    ],
+    [
+      0.000108,
+      "\u001b[0m"
+    ],
+    [
+      0.038395,
+      "[ 42%] "
+    ],
+    [
+      0.003441,
+      "\u001b[34m\u001b[1mGenerating moc_FuncReplacements.cxx\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[0m"
+    ],
+    [
+      0.033891,
+      "[ 43%] "
+    ],
+    [
+      0.003372,
+      "\u001b[34m\u001b[1mGenerating moc_ImportsLookup.cxx\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0m"
+    ],
+    [
+      0.034127,
+      "[ 44%] "
+    ],
+    [
+      0.003776,
+      "\u001b[34m\u001b[1mGenerating moc_ExeHandler.cxx\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0m"
+    ],
+    [
+      0.033705,
+      "[ 45%] "
+    ],
+    [
+      0.004499,
+      "\u001b[34m\u001b[1mGenerating moc_Executables.cxx"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[0m"
+    ],
+    [
+      0.038445,
+      "[ 46%] "
+    ],
+    [
+      0.003610,
+      "\u001b[34m\u001b[1mGenerating moc_ExeController.cxx\r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[0m"
+    ],
+    [
+      0.038287,
+      "[ 47%] "
+    ],
+    [
+      0.003627,
+      "\u001b[34m\u001b[1mGenerating moc_InfoTableModel.cxx\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[0m"
+    ],
+    [
+      0.034720,
+      "[ 48%] "
+    ],
+    [
+      0.004436,
+      "\u001b[34m\u001b[1mGenerating moc_ImportsTableModel.cxx\r\n\u001b[0m"
+    ],
+    [
+      0.041819,
+      "[ 50%] "
+    ],
+    [
+      0.003390,
+      "\u001b[34m\u001b[1mGenerating moc_FileLoader.cxx\r\n"
+    ],
+    [
+      0.000067,
+      "\u001b[0m"
+    ],
+    [
+      0.064403,
+      "[ 51%] "
+    ],
+    [
+      0.003294,
+      "\u001b[34m\u001b[1mGenerating moc_ExeHandlerLoader.cxx\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[0m"
+    ],
+    [
+      0.062026,
+      "[ 52%] "
+    ],
+    [
+      0.003490,
+      "\u001b[34m\u001b[1mGenerating moc_ReplacementsDialog.cxx\r\n"
+    ],
+    [
+      0.000020,
+      "\u001b[0m"
+    ],
+    [
+      0.062923,
+      "[ 53%] "
+    ],
+    [
+      0.003437,
+      "\u001b[34m\u001b[1mGenerating moc_mainwindow.cxx\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[0m"
+    ],
+    [
+      0.063051,
+      "[ 54%] "
+    ],
+    [
+      0.003378,
+      "\u001b[34m\u001b[1mGenerating moc_resource.cxx\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[0m"
+    ],
+    [
+      0.001765,
+      "/home/tester/my_code/IATPatcher/IAT_patcher/patcher/resource.h:0: Note: No relevant classes found. No output generated.\r\n"
+    ],
+    [
+      0.003096,
+      "[ 55%] "
+    ],
+    [
+      0.004005,
+      "\u001b[34m\u001b[1mGenerating dllparse/moc_LibraryParser.cxx\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[0m"
+    ],
+    [
+      0.036148,
+      "[ 56%] "
+    ],
+    [
+      0.003354,
+      "\u001b[34m\u001b[1mGenerating dllparse/moc_LibraryInfo.cxx\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[0m"
+    ],
+    [
+      0.033511,
+      "[ 57%] "
+    ],
+    [
+      0.003554,
+      "\u001b[34m\u001b[1mGenerating dllparse/moc_LibsModel.cxx\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0m"
+    ],
+    [
+      0.035206,
+      "[ 58%] "
+    ],
+    [
+      0.003437,
+      "\u001b[34m\u001b[1mGenerating dllparse/moc_FunctionsModel.cxx\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[0m"
+    ],
+    [
+      0.034633,
+      "[ 59%] "
+    ],
+    [
+      0.003584,
+      "\u001b[34m\u001b[1mGenerating ui_mainwindow.h\r\n\u001b[0m"
+    ],
+    [
+      0.007800,
+      "[ 60%] "
+    ],
+    [
+      0.004086,
+      "\u001b[34m\u001b[1mGenerating ui_replacements.h\r\n\u001b[0m"
+    ],
+    [
+      0.010806,
+      "\u001b[35m\u001b[1mScanning dependencies of target IAT_Patcher\r\n"
+    ],
+    [
+      0.168498,
+      "\u001b[0m"
+    ],
+    [
+      0.056747,
+      "[ 61%] "
+    ],
+    [
+      0.004211,
+      "\u001b[32mBuilding CXX object patcher/CMakeFiles/IAT_Patcher.dir/moc_StubMaker.cxx.o\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0m"
+    ],
+    [
+      0.771749,
+      "[ 62%] "
+    ],
+    [
+      0.006169,
+      "\u001b[32mBuilding CXX object patcher/CMakeFiles/IAT_Patcher.dir/moc_FuncReplacements.cxx.o\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[0m"
+    ],
+    [
+      0.730112,
+      "[ 63%] "
+    ],
+    [
+      0.003783,
+      "\u001b[32mBuilding CXX object patcher/CMakeFiles/IAT_Patcher.dir/moc_ImportsLookup.cxx.o\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0m"
+    ],
+    [
+      0.754252,
+      "[ 64%] "
+    ],
+    [
+      0.004648,
+      "\u001b[32mBuilding CXX object patcher/CMakeFiles/IAT_Patcher.dir/moc_ExeHandler.cxx.o\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0m"
+    ],
+    [
+      0.831605,
+      "[ 65%] "
+    ],
+    [
+      0.007120,
+      "\u001b[32mBuilding CXX object patcher/CMakeFiles/IAT_Patcher.dir/moc_Executables.cxx.o\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[0m"
+    ],
+    [
+      0.760956,
+      "[ 66%] "
+    ],
+    [
+      0.003901,
+      "\u001b[32mBuilding CXX object patcher/CMakeFiles/IAT_Patcher.dir/moc_ExeController.cxx.o\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[0m"
+    ],
+    [
+      0.885373,
+      "[ 67%] "
+    ],
+    [
+      0.006948,
+      "\u001b[32mBuilding CXX object patcher/CMakeFiles/IAT_Patcher.dir/moc_InfoTableModel.cxx.o\r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[0m"
+    ],
+    [
+      0.738995,
+      "[ 68%] "
+    ],
+    [
+      0.004504,
+      "\u001b[32mBuilding CXX object patcher/CMakeFiles/IAT_Patcher.dir/moc_ImportsTableModel.cxx.o\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0m"
+    ],
+    [
+      0.842321,
+      "[ 69%] "
+    ],
+    [
+      0.006661,
+      "\u001b[32mBuilding CXX object patcher/CMakeFiles/IAT_Patcher.dir/moc_FileLoader.cxx.o\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[0m"
+    ],
+    [
+      1.344982,
+      "[ 70%] "
+    ],
+    [
+      0.005364,
+      "\u001b[32mBuilding CXX object patcher/CMakeFiles/IAT_Patcher.dir/moc_ExeHandlerLoader.cxx.o\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[0m"
+    ],
+    [
+      1.384149,
+      "[ 71%] "
+    ],
+    [
+      0.004387,
+      "\u001b[32mBuilding CXX object patcher/CMakeFiles/IAT_Patcher.dir/moc_ReplacementsDialog.cxx.o\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[0m"
+    ],
+    [
+      1.381825,
+      "[ 72%] "
+    ],
+    [
+      0.003623,
+      "\u001b[32mBuilding CXX object patcher/CMakeFiles/IAT_Patcher.dir/moc_mainwindow.cxx.o\r\n\u001b[0m"
+    ],
+    [
+      1.448965,
+      "[ 73%] "
+    ],
+    [
+      0.004214,
+      "\u001b[32mBuilding CXX object patcher/CMakeFiles/IAT_Patcher.dir/moc_resource.cxx.o\r\n"
+    ],
+    [
+      0.000060,
+      "\u001b[0m"
+    ],
+    [
+      0.027294,
+      "[ 75%] "
+    ],
+    [
+      0.005958,
+      "\u001b[32mBuilding CXX object patcher/CMakeFiles/IAT_Patcher.dir/dllparse/moc_LibraryParser.cxx.o\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[0m"
+    ],
+    [
+      0.874320,
+      "[ 76%] "
+    ],
+    [
+      0.006696,
+      "\u001b[32mBuilding CXX object patcher/CMakeFiles/IAT_Patcher.dir/dllparse/moc_LibraryInfo.cxx.o\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[0m"
+    ],
+    [
+      0.807155,
+      "[ 77%] "
+    ],
+    [
+      0.006705,
+      "\u001b[32mBuilding CXX object patcher/CMakeFiles/IAT_Patcher.dir/dllparse/moc_LibsModel.cxx.o\r\n"
+    ],
+    [
+      0.000019,
+      "\u001b[0m"
+    ],
+    [
+      0.727334,
+      "[ 78%] "
+    ],
+    [
+      0.006681,
+      "\u001b[32mBuilding CXX object patcher/CMakeFiles/IAT_Patcher.dir/dllparse/moc_FunctionsModel.cxx.o\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0m"
+    ],
+    [
+      0.744984,
+      "[ 79%] "
+    ],
+    [
+      0.006569,
+      "\u001b[32mBuilding CXX object patcher/CMakeFiles/IAT_Patcher.dir/stub/Stub.cpp.o\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[0m"
+    ],
+    [
+      0.791708,
+      "[ 80%] "
+    ],
+    [
+      0.006774,
+      "\u001b[32mBuilding CXX object patcher/CMakeFiles/IAT_Patcher.dir/stub/Stub32.cpp.o\r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[0m"
+    ],
+    [
+      0.780323,
+      "[ 81%] "
+    ],
+    [
+      0.006677,
+      "\u001b[32mBuilding CXX object patcher/CMakeFiles/IAT_Patcher.dir/stub/Stub64.cpp.o\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[0m"
+    ],
+    [
+      0.786920,
+      "[ 82%] "
+    ],
+    [
+      0.006412,
+      "\u001b[32mBuilding CXX object patcher/CMakeFiles/IAT_Patcher.dir/dllparse/LibraryParser.cpp.o\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[0m"
+    ],
+    [
+      0.818986,
+      "[ 83%] "
+    ],
+    [
+      0.007068,
+      "\u001b[32mBuilding CXX object patcher/CMakeFiles/IAT_Patcher.dir/dllparse/LibraryInfo.cpp.o\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[0m"
+    ],
+    [
+      0.823026,
+      "[ 84%] "
+    ],
+    [
+      0.004641,
+      "\u001b[32mBuilding CXX object patcher/CMakeFiles/IAT_Patcher.dir/dllparse/LibsModel.cpp.o\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[0m"
+    ],
+    [
+      0.816410,
+      "[ 85%] "
+    ],
+    [
+      0.006928,
+      "\u001b[32mBuilding CXX object patcher/CMakeFiles/IAT_Patcher.dir/dllparse/FunctionsModel.cpp.o\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[0m"
+    ],
+    [
+      0.814524,
+      "[ 86%] "
+    ],
+    [
+      0.003281,
+      "\u001b[32mBuilding CXX object patcher/CMakeFiles/IAT_Patcher.dir/StubMaker.cpp.o\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[0m"
+    ],
+    [
+      0.942981,
+      "[ 87%] "
+    ],
+    [
+      0.006707,
+      "\u001b[32mBuilding CXX object patcher/CMakeFiles/IAT_Patcher.dir/FuncReplacements.cpp.o\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[0m"
+    ],
+    [
+      0.882918,
+      "[ 88%] "
+    ],
+    [
+      0.004897,
+      "\u001b[32mBuilding CXX object patcher/CMakeFiles/IAT_Patcher.dir/ImportsLookup.cpp.o\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[0m"
+    ],
+    [
+      0.855093,
+      "[ 89%] "
+    ],
+    [
+      0.003511,
+      "\u001b[32mBuilding CXX object patcher/CMakeFiles/IAT_Patcher.dir/ExeHandler.cpp.o\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[0m"
+    ],
+    [
+      0.716954,
+      "[ 90%] "
+    ],
+    [
+      0.007447,
+      "\u001b[32mBuilding CXX object patcher/CMakeFiles/IAT_Patcher.dir/Executables.cpp.o\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[0m"
+    ],
+    [
+      0.790491,
+      "[ 91%] "
+    ],
+    [
+      0.006657,
+      "\u001b[32mBuilding CXX object patcher/CMakeFiles/IAT_Patcher.dir/ExeController.cpp.o\r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[0m"
+    ],
+    [
+      0.869627,
+      "[ 92%] "
+    ],
+    [
+      0.006736,
+      "\u001b[32mBuilding CXX object patcher/CMakeFiles/IAT_Patcher.dir/InfoTableModel.cpp.o\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[0m"
+    ],
+    [
+      0.865782,
+      "[ 93%] "
+    ],
+    [
+      0.006665,
+      "\u001b[32mBuilding CXX object patcher/CMakeFiles/IAT_Patcher.dir/ImportsTableModel.cpp.o\r\n"
+    ],
+    [
+      0.000018,
+      "\u001b[0m"
+    ],
+    [
+      0.823018,
+      "[ 94%] "
+    ],
+    [
+      0.006792,
+      "\u001b[32mBuilding CXX object patcher/CMakeFiles/IAT_Patcher.dir/FileLoader.cpp.o\r\n"
+    ],
+    [
+      0.000033,
+      "\u001b[0m"
+    ],
+    [
+      1.364079,
+      "[ 95%] "
+    ],
+    [
+      0.003848,
+      "\u001b[32mBuilding CXX object patcher/CMakeFiles/IAT_Patcher.dir/ExeHandlerLoader.cpp.o\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[0m"
+    ],
+    [
+      1.444974,
+      "[ 96%] "
+    ],
+    [
+      0.004608,
+      "\u001b[32mBuilding CXX object patcher/CMakeFiles/IAT_Patcher.dir/ReplacementsDialog.cpp.o\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[0m"
+    ],
+    [
+      1.462244,
+      "[ 97%] "
+    ],
+    [
+      0.003589,
+      "\u001b[32mBuilding CXX object patcher/CMakeFiles/IAT_Patcher.dir/mainwindow.cpp.o\r\n\u001b[0m"
+    ],
+    [
+      1.660691,
+      "[ 98%] "
+    ],
+    [
+      0.005955,
+      "\u001b[32mBuilding CXX object patcher/CMakeFiles/IAT_Patcher.dir/main.cpp.o\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[0m"
+    ],
+    [
+      1.433179,
+      "[100%] "
+    ],
+    [
+      0.003690,
+      "\u001b[32mBuilding CXX object patcher/CMakeFiles/IAT_Patcher.dir/qrc_application.cxx.o\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[0m"
+    ],
+    [
+      0.142607,
+      "\u001b[31m\u001b[1mLinking CXX executable IAT_Patcher\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[0m"
+    ],
+    [
+      0.208005,
+      "[100%] "
+    ],
+    [
+      0.001283,
+      "Built target IAT_Patcher"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.005669,
+      "\u001b]0;tester@kali: ~/my_code/IATPatcher/build\u0007\u001b[01;31mtester@kali\u001b[00m:\u001b[01;34m~/my_code/IATPatcher/build\u001b[00m$ "
+    ],
+    [
+      2.639208,
+      "l"
+    ],
+    [
+      0.127884,
+      "s"
+    ],
+    [
+      0.239943,
+      " "
+    ],
+    [
+      1.376188,
+      "p"
+    ],
+    [
+      0.120424,
+      "atcher/"
+    ],
+    [
+      1.191394,
+      "\r\n"
+    ],
+    [
+      0.002818,
+      "application.qrc.depends  moc_ExeController.cxx     moc_ImportsLookup.cxx       moc_StubMaker.cxx\r\n\u001b[0m\u001b[01;34mCMakeFiles\u001b[0m               moc_Executables.cxx       moc_ImportsTableModel.cxx   qrc_application.cxx"
+    ],
+    [
+      0.000021,
+      "\r\ncmake_install.cmake      moc_ExeHandler.cxx        moc_InfoTableModel.cxx      ui_mainwindow.h\r\n\u001b[01;34mdllparse\u001b[0m                 moc_ExeHandlerLoader.cxx  moc_mainwindow.cxx          ui_replacements.h\r\n"
+    ],
+    [
+      0.000023,
+      "\u001b[01;32mIAT_Patcher\u001b[0m              moc_FileLoader.cxx        moc_ReplacementsDialog.cxx\r\n"
+    ],
+    [
+      0.000017,
+      "Makefile                 moc_FuncReplacements.cxx  moc_resource.cxx\r\n"
+    ],
+    [
+      0.001195,
+      "\u001b]0;tester@kali: ~/my_code/IATPatcher/build\u0007\u001b[01;31mtester@kali\u001b[00m:\u001b[01;34m~/my_code/IATPatcher/build\u001b[00m$ "
+    ],
+    [
+      4.108138,
+      "e"
+    ],
+    [
+      0.239959,
+      "x"
+    ],
+    [
+      0.159788,
+      "i"
+    ],
+    [
+      0.159757,
+      "t"
+    ],
+    [
+      0.224941,
+      "\r\nexit\r\n"
+    ]
+  ]
+}
