@@ -1,0 +1,90 @@
+{
+  "version": 1,
+  "width": 200,
+  "height": 55,
+  "duration": 0.052847,
+  "command": "./demo-otto-compile.sh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.017497,
+      "\u001b[1m\u001b[34mRunning \u001b[1m\u001b[37motto compile\u001b[1m\u001b[34m...\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.013804,
+      "\u001b[0m\u001b[1m==\u003e Loading Appfile...\u001b[0m\r\n"
+    ],
+    [
+      0.000842,
+      "\u001b[0m\u001b[1m==\u003e Fetching all Appfile dependencies...\u001b[0m\r\n"
+    ],
+    [
+      0.003503,
+      "\u001b[0m\u001b[1m==\u003e Compiling...\u001b[0m\r\n"
+    ],
+    [
+      0.000137,
+      "\u001b[0m    Application:    otto-getting-started (custom)\u001b[0m\r\n"
+    ],
+    [
+      0.000114,
+      "\u001b[0m    Project:        otto-getting-started\u001b[0m\r\n"
+    ],
+    [
+      0.000042,
+      "\u001b[0m    Infrastructure: digitalocean (coreos-cluster)\u001b[0m\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000040,
+      "\u001b[0m    Compiling infra...\u001b[0m\r\n"
+    ],
+    [
+      0.000870,
+      "\u001b[0m    Compiling foundation: deis\u001b[0m\r\n"
+    ],
+    [
+      0.013365,
+      "\u001b[0m\u001b[1m==\u003e Compiling main application...\u001b[0m\r\n"
+    ],
+    [
+      0.000288,
+      "\u001b[0m\u001b[32m\u001b[1m==\u003e \u001b[32mCompilation success!\u001b[0m\r\n"
+    ],
+    [
+      0.000070,
+      "\u001b[0m\u001b[32m    \u001b[32mThis means that Otto is now ready to start a development environment,\r\n"
+    ],
+    [
+      0.000050,
+      "    deploy this application, build the supporting infrastructure, and\r\n"
+    ],
+    [
+      0.000034,
+      "    more. See the help for more information.\r\n"
+    ],
+    [
+      0.000003,
+      "    \r\n"
+    ],
+    [
+      0.000056,
+      "    Supporting files to enable Otto to manage your application from\r\n"
+    ],
+    [
+      0.000502,
+      "    development to deployment have been placed in the output directory.\r\n"
+    ],
+    [
+      0.000056,
+      "    These files can be manually inspected to determine what Otto will do.\u001b[0m\r\n"
+    ]
+  ]
+}
