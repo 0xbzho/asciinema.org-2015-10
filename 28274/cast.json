@@ -1,0 +1,178 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 25,
+  "duration": 28.817411,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.005790,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000007,
+      "bash-3.2$ "
+    ],
+    [
+      1.569493,
+      "p"
+    ],
+    [
+      0.128040,
+      "a"
+    ],
+    [
+      0.104002,
+      "r"
+    ],
+    [
+      0.160062,
+      "s"
+    ],
+    [
+      0.119938,
+      "e"
+    ],
+    [
+      0.048011,
+      " "
+    ],
+    [
+      0.167976,
+      "n"
+    ],
+    [
+      0.120046,
+      "e"
+    ],
+    [
+      0.031968,
+      "w"
+    ],
+    [
+      0.567975,
+      "\r\n"
+    ],
+    [
+      0.647200,
+      "Would you like to create a new app, or add Cloud Code to an existing app?\r\nType \"(n)ew\" or \"(e)xisting\": "
+    ],
+    [
+      1.392811,
+      "n"
+    ],
+    [
+      0.264051,
+      "\r\n"
+    ],
+    [
+      0.144412,
+      "Please choose a name for your Parse app.\r\nNote that this name will appear on the Parse website,\r\nbut it does not have to be the same as your mobile app's public name.\r\nName: "
+    ],
+    [
+      1.631415,
+      "p"
+    ],
+    [
+      0.160149,
+      "a"
+    ],
+    [
+      0.184036,
+      "r"
+    ],
+    [
+      0.359985,
+      "s"
+    ],
+    [
+      0.119999,
+      "o"
+    ],
+    [
+      0.215938,
+      "k"
+    ],
+    [
+      0.208012,
+      "u"
+    ],
+    [
+      0.832104,
+      "\r\n"
+    ],
+    [
+      0.127959,
+      "Which of these providers would you like use for running your server code:\r\n1) Heroku (https://www.heroku.com)\r\n2) Parse  (https://parse.com/docs/cloudcode/guide)\r\nType 1 or 2 to make a selection: "
+    ],
+    [
+      1.007973,
+      "1"
+    ],
+    [
+      0.216058,
+      "\r\n"
+    ],
+    [
+      0.000043,
+      "\r\n"
+    ],
+    [
+      0.281819,
+      "Let's create a new Heroku app in which server code will be run.\r\nThe Heroku app will be named: \"parsoku-nsdjmg-2580\"\r\nNote that this can be changed later using Heroku API or Dashboard.\r\n\r\n"
+    ],
+    [
+      0.187798,
+      "Looks like you have not yet linked your Heroku Account to your Parse account.\r\nTrying to open \"https://parse.com/account/edit\" in the browser.\r\nPlease click \"Link Heroku\" button at the bottom.\r\n"
+    ],
+    [
+      0.023387,
+      "Press ENTER when you are done linking your Heroku account to Parse: "
+    ],
+    [
+      7.603415,
+      "\r\n"
+    ],
+    [
+      0.000059,
+      "Let's create a new Heroku app in which server code will be run.\r\nThe Heroku app will be named: \"parsoku-nsdjmg-2580\"\r\nNote that this can be changed later using Heroku API or Dashboard.\r\n\r\n"
+    ],
+    [
+      0.665849,
+      "Awesome! Now it's time to set up some Cloud Code for the app: \"parsoku\",\r\nNext we will create a directory to hold your Cloud Code.\r\nPlease enter the name to use for this directory,\r\nor hit ENTER to use \"parsoku\" as the directory name.\r\n\r\nDirectory Name: "
+    ],
+    [
+      2.973938,
+      "\r\n"
+    ],
+    [
+      0.000044,
+      "\r\nYou can either set up a blank project or create a sample Node.js project.\r\nPlease type \"(b)lank\" if you wish to setup a blank project, otherwise press ENTER: "
+    ],
+    [
+      1.543776,
+      "\r\n"
+    ],
+    [
+      1.334175,
+      "Successfully configured email for current project to: \"parse.heroku@gmail.com\"\r\n"
+    ],
+    [
+      0.000018,
+      "Your server code has been created at /Users/me/demo/parsoku.\r\n\r\nThis includes a \"Hello world\" cloud function, so once you deploy,\r\nyou can test that it works, with the printed curl command.\r\n\r\nNext, you might want to deploy this code with:\r\n\r\n\tparse deploy\r\n\r\nOnce deployed you can test that it works by running:\r\ncurl -X POST \\\r\n -H \"X-Parse-Application-Id: nSdjMgJfNACAjWITj7M6VSZywVSk0clxPdVYiWlG\" \\\r\n -H \"X-Parse-REST-API-Key: lmNSpvw4RoEIAE3R1MLN3KVMKZCRHDXWiUc4VYXu\" \\\r\n -H \"Content-Type: application/json\" \\\r\n -d '{\"a\": \"Adventurous \", \"b\": \"Parser\"}' \\\r\n https://api.parse.com/1/functions/hello\r\n\r\n"
+    ],
+    [
+      0.001258,
+      "bash-3.2$ "
+    ],
+    [
+      3.657523,
+      "exit\r\n"
+    ]
+  ]
+}
