@@ -1,0 +1,222 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 25,
+  "duration": 17.496300,
+  "command": "/usr/local/bin/bash",
+  "title": "awsmeta demo",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/usr/local/bin/bash"
+  },
+  "stdout": [
+    [
+      1.208918,
+      "\u001b[1;34m[20火14:34:26 kawaz@kawaz-mbp ~]$\u001b[m "
+    ],
+    [
+      0.828550,
+      "\r\u001b[12P(reverse-i-search)`':\u001b[C"
+    ],
+    [
+      0.289533,
+      "\u0008\u0008\u0008s': ssh ec2-54-64-85-11.ap-northeast-1.compute.amazonaws.com/i\rip-10-244-33-236.ap-northeast-1.compute.internal\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.160006,
+      "\u001b[A\u0008\u0008\u0008\u0008\u0008\u0008\u0008s': ssh ec2-54-64-85-11.ap-northeast-1.compute.amazonaws.com/ip-10-244-33-236.ap-northeast-1.compute.internal\u001b[A\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.120185,
+      "\u0008\u0008\u0008h': ssh ec2-54-64-85-11.ap-northeast-1.compute.amazonaws.com/ip-10-244-33-236.ap-northeast-1.compute.internal\u001b[A\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.407980,
+      "\r\u001b[1;34m[20火14:34:26 kawaz@kawaz-mbp ~]$\u001b[m ssh ec2-54-64-85-11.ap-northeast-1.compute.amazonaws.com/ip-10-244-33-236.ap-northeast-1.compute.internal\u001b[A\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000045,
+      "\r\n\r\r\n"
+    ],
+    [
+      0.346704,
+      "Last login: Tue Oct 20 14:34:08 2015 from ip-10-244-32-77.ap-northeast-1.compute.internal\r\r\n\r\n       __|  __|_  )\r\n       _|  (     /   Amazon Linux AMI\r\n      ___|\\___|___|\r\n\r\nhttps://aws.amazon.com/amazon-linux-ami/2015.09-release-notes/\r\n"
+    ],
+    [
+      0.063505,
+      "\u001b]0;ec2-user@ip-10-244-33-236:~\u0007\u001b[?1034h[ec2-user@ip-10-244-33-236 ~]$ "
+    ],
+    [
+      0.631845,
+      "a"
+    ],
+    [
+      0.086542,
+      "w"
+    ],
+    [
+      0.225574,
+      "s"
+    ],
+    [
+      0.240422,
+      "m"
+    ],
+    [
+      0.095001,
+      "e"
+    ],
+    [
+      0.306070,
+      "ta "
+    ],
+    [
+      0.496350,
+      "\u0007"
+    ],
+    [
+      0.161060,
+      "\r\nami-id                 instance-type          public-hostname\r\nami-launch-index       local-hostname         public-ipv4\r\nami-manifest-path      local-ipv4             public-keys/\r\nblock-device-mapping/  mac                    reservation-id\r\nhostname               metrics/               security-groups\r\niam/                   network/               services/\r\ninstance-action        placement/             \r\ninstance-id            profile                \r\n[ec2-user@ip-10-244-33-236 ~]$ awsmeta "
+    ],
+    [
+      0.597320,
+      "i"
+    ],
+    [
+      0.072157,
+      "n"
+    ],
+    [
+      0.113502,
+      "\u0007stance-"
+    ],
+    [
+      0.167812,
+      "\u0007"
+    ],
+    [
+      0.176607,
+      "\r\ninstance-action  instance-id      instance-type    \r\n[ec2-user@ip-10-244-33-236 ~]$ awsmeta instance-"
+    ],
+    [
+      0.661282,
+      "i"
+    ],
+    [
+      0.114248,
+      "d "
+    ],
+    [
+      0.638485,
+      "\r\n"
+    ],
+    [
+      0.007173,
+      "i-8c7e372e\r\n\u001b]0;ec2-user@ip-10-244-33-236:~\u0007[ec2-user@ip-10-244-33-236 ~]$ "
+    ],
+    [
+      1.016404,
+      "a"
+    ],
+    [
+      0.056405,
+      "w"
+    ],
+    [
+      0.232504,
+      "s"
+    ],
+    [
+      0.191344,
+      "m"
+    ],
+    [
+      0.087874,
+      "e"
+    ],
+    [
+      0.209098,
+      "ta "
+    ],
+    [
+      0.359668,
+      "n"
+    ],
+    [
+      0.069742,
+      "e"
+    ],
+    [
+      0.237468,
+      "twork/"
+    ],
+    [
+      0.455875,
+      "interfaces/"
+    ],
+    [
+      0.278572,
+      "macs/"
+    ],
+    [
+      0.175637,
+      "0a:16:8b:ee:92:eb/\r/"
+    ],
+    [
+      0.144257,
+      "\u0007"
+    ],
+    [
+      0.698148,
+      "\r\ndevice-number           mac                     security-groups\r\ninterface-id            owner-id                subnet-id\r\nipv4-associations/      public-hostname         subnet-ipv4-cidr-block\r\nlocal-hostname          public-ipv4s            vpc-id\r\nlocal-ipv4s             security-group-ids      vpc-ipv4-cidr-block\r\n[ec2-user@ip-10-244-33-236 ~]$ awsmeta network/interfaces/macs/0a:16:8b:ee:92:eb/\r/"
+    ],
+    [
+      0.899758,
+      "v"
+    ],
+    [
+      0.119346,
+      "p"
+    ],
+    [
+      0.466758,
+      "\u0007c-i"
+    ],
+    [
+      0.807270,
+      "d"
+    ],
+    [
+      0.243140,
+      " "
+    ],
+    [
+      0.571887,
+      "\r\n"
+    ],
+    [
+      0.006973,
+      "vpc-476aee22\r\n\u001b]0;ec2-user@ip-10-244-33-236:~\u0007[ec2-user@ip-10-244-33-236 ~]$ "
+    ],
+    [
+      1.552204,
+      "ログアウト\r\n"
+    ],
+    [
+      0.000513,
+      "Connection to ec2-54-64-85-11.ap-northeast-1.compute.amazonaws.com/ip-10-244-3 closed.\r\r\n"
+    ],
+    [
+      0.000446,
+      "Killed by signal 1.\r\r\n"
+    ],
+    [
+      0.017398,
+      "\u001b[1;34m[20火14:34:42 kawaz@kawaz-mbp ~]$\u001b[m "
+    ],
+    [
+      0.378759,
+      "exit\r\n"
+    ]
+  ]
+}
