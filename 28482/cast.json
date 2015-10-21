@@ -1,0 +1,4714 @@
+{
+  "version": 1,
+  "width": 86,
+  "height": 24,
+  "duration": 385.565909,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.140393,
+      "\u001b]0;m2sh@mohammad-linux: ~\u0007m2sh@mohammad-linux:~$ "
+    ],
+    [
+      0.585920,
+      "ssh pi@192.168.1.35"
+    ],
+    [
+      0.575772,
+      "\r\n"
+    ],
+    [
+      0.670955,
+      "pi@192.168.1.35's password: "
+    ],
+    [
+      1.000000,
+      "\r\n"
+    ],
+    [
+      0.512621,
+      "\r\nThe programs included with the Debian GNU/Linux system are free software;\r\nthe exact distribution terms for each program are described in the\r\nindividual files in /usr/share/doc/*/copyright.\r\n\r\nDebian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent\r\npermitted by applicable law.\r\nLast login: Wed Oct 21 17:17:18 2015 from 192.168.1.34\r\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b]0;pi@raspberrypi: ~\u0007\u001b[01;32mpi@raspberrypi\u001b[00m \u001b[01;34m~ $\u001b[00m "
+    ],
+    [
+      0.733045,
+      "\u001b[H\u001b[2J\u001b]0;pi@raspberrypi: ~\u0007\u001b[01;32mpi@raspberrypi\u001b[00m \u001b[01;34m~ $\u001b[00m "
+    ],
+    [
+      0.861948,
+      "#"
+    ],
+    [
+      0.254165,
+      " "
+    ],
+    [
+      0.115440,
+      "f"
+    ],
+    [
+      0.094697,
+      "i"
+    ],
+    [
+      0.085316,
+      "r"
+    ],
+    [
+      0.197072,
+      "s"
+    ],
+    [
+      0.084373,
+      "t"
+    ],
+    [
+      0.693492,
+      " "
+    ],
+    [
+      0.210972,
+      "m"
+    ],
+    [
+      0.084918,
+      "a"
+    ],
+    [
+      0.121999,
+      "k"
+    ],
+    [
+      0.101202,
+      "e"
+    ],
+    [
+      0.125682,
+      " "
+    ],
+    [
+      0.151560,
+      "s"
+    ],
+    [
+      0.090291,
+      "u"
+    ],
+    [
+      0.245315,
+      "r"
+    ],
+    [
+      0.972331,
+      "e"
+    ],
+    [
+      0.217596,
+      " "
+    ],
+    [
+      0.256832,
+      "t"
+    ],
+    [
+      0.186395,
+      "h"
+    ],
+    [
+      0.133740,
+      "a"
+    ],
+    [
+      0.128303,
+      "t"
+    ],
+    [
+      0.874549,
+      " "
+    ],
+    [
+      0.398648,
+      "'"
+    ],
+    [
+      0.319972,
+      "d"
+    ],
+    [
+      0.144206,
+      "e"
+    ],
+    [
+      0.129476,
+      "b"
+    ],
+    [
+      0.330043,
+      "-"
+    ],
+    [
+      0.209961,
+      "s"
+    ],
+    [
+      0.184590,
+      "r"
+    ],
+    [
+      0.105829,
+      "c"
+    ],
+    [
+      0.792209,
+      "'"
+    ],
+    [
+      0.374252,
+      " "
+    ],
+    [
+      0.244227,
+      "l"
+    ],
+    [
+      0.186446,
+      "i"
+    ],
+    [
+      0.194157,
+      "n"
+    ],
+    [
+      0.100373,
+      "e"
+    ],
+    [
+      0.105861,
+      " "
+    ],
+    [
+      0.189894,
+      "e"
+    ],
+    [
+      0.157689,
+      "x"
+    ],
+    [
+      0.140226,
+      "i"
+    ],
+    [
+      0.912090,
+      "s"
+    ],
+    [
+      0.136159,
+      "t"
+    ],
+    [
+      0.073817,
+      "s"
+    ],
+    [
+      0.838818,
+      " "
+    ],
+    [
+      0.255851,
+      "i"
+    ],
+    [
+      0.179761,
+      "n"
+    ],
+    [
+      0.205553,
+      " "
+    ],
+    [
+      0.388843,
+      "s"
+    ],
+    [
+      0.143666,
+      "o"
+    ],
+    [
+      0.212322,
+      "u"
+    ],
+    [
+      0.228422,
+      "r"
+    ],
+    [
+      0.181969,
+      "c"
+    ],
+    [
+      0.083998,
+      "e"
+    ],
+    [
+      0.192717,
+      "s"
+    ],
+    [
+      0.819709,
+      "."
+    ],
+    [
+      0.183339,
+      "l"
+    ],
+    [
+      0.172763,
+      "i"
+    ],
+    [
+      0.154495,
+      "s"
+    ],
+    [
+      0.074068,
+      "t"
+    ],
+    [
+      1.000000,
+      "\r\n\u001b]0;pi@raspberrypi: ~\u0007\u001b[01;32mpi@raspberrypi\u001b[00m \u001b[01;34m~ $\u001b[00m "
+    ],
+    [
+      0.827972,
+      "s"
+    ],
+    [
+      0.116393,
+      "u"
+    ],
+    [
+      0.078966,
+      "d"
+    ],
+    [
+      0.119359,
+      "o"
+    ],
+    [
+      0.489640,
+      " "
+    ],
+    [
+      0.204503,
+      "n"
+    ],
+    [
+      0.052772,
+      "a"
+    ],
+    [
+      0.112908,
+      "n"
+    ],
+    [
+      0.148924,
+      "o"
+    ],
+    [
+      0.145908,
+      " "
+    ],
+    [
+      1.000000,
+      "/"
+    ],
+    [
+      0.224575,
+      "e"
+    ],
+    [
+      0.131880,
+      "t"
+    ],
+    [
+      0.699668,
+      "c"
+    ],
+    [
+      0.226628,
+      "/"
+    ],
+    [
+      0.417126,
+      "a"
+    ],
+    [
+      0.111639,
+      "p"
+    ],
+    [
+      0.155001,
+      "t"
+    ],
+    [
+      0.155092,
+      "/"
+    ],
+    [
+      1.000000,
+      "s"
+    ],
+    [
+      0.095184,
+      "o"
+    ],
+    [
+      0.263937,
+      "t"
+    ],
+    [
+      0.486314,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.139002,
+      "r"
+    ],
+    [
+      0.786431,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.292995,
+      "u"
+    ],
+    [
+      0.284103,
+      "r"
+    ],
+    [
+      0.366349,
+      "\u0007"
+    ],
+    [
+      0.001771,
+      "ces.list"
+    ],
+    [
+      0.573913,
+      "\r\n"
+    ],
+    [
+      0.336375,
+      "\u001b[?1049h\u001b[1;24r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001541,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.001446,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.001044,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.045022,
+      "\u001b[39;49m\u001b[39;49m\u001b(B\u001b[m\u001b[H\u001b[2J\u001b(B\u001b[0;7m  GNU nano 2.2.6            File: /etc/apt/sources.list                               \u001b[3;1H\u001b(B\u001b[0m\u001b[33mdeb\u001b(B\u001b[0;1m\u001b[31m \u001b[32mhttp://mirrordirector.raspbian.org/raspbian/\u001b[31m jessie\u001b[35m main contrib non-free rpi\r\u001b[4d\u001b[34m# Uncomment line below then 'apt-get update' to enable 'apt-get source'\r\u001b[5d#deb-src http://archive.raspbian.org/raspbian/ jessie main contrib non-free rpi\r\u001b[6d\u001b(B\u001b[0m\u001b[33mdeb-src\u001b(B\u001b[0;1m\u001b[31m \u001b[32mhttp://mirrordirector.raspbian.org/raspbian/\u001b[31m jessie\u001b[35m main contrib non-free rpi\u001b[22;36H\u001b[39m\u001b(B\u001b[0;7m[ Read 5 lines ]\r\u001b[23d^G\u001b(B\u001b[m Get Help   \u001b(B\u001b[0;7m^O\u001b(B\u001b[m WriteOut   \u001b(B\u001b[0;7m^R\u001b(B\u001b[m Read File  \u001b(B\u001b[0;7m^Y\u001b(B\u001b[m Prev Page  \u001b(B\u001b[0;7m^K\u001b(B\u001b[m Cut Text   \u001b(B\u001b[0;7m^C\u001b(B\u001b[m Cur Pos\r\u001b[24d\u001b(B\u001b[0;7m^X\u001b(B\u001b[m Exit\u001b[15G\u001b(B\u001b[0;7m^J\u001b(B\u001b[m Justify    \u001b(B\u001b[0;7m^W\u001b(B\u001b[m Where Is   \u001b(B\u001b[0;7m^V\u001b(B\u001b[m Next Page  \u001b(B\u001b[0;7m^U\u001b(B\u001b[m UnCut Text \u001b(B\u001b[0;7m^T\u001b(B\u001b[m To Spell\r\u001b[3d"
+    ],
+    [
+      0.615436,
+      "\u001b[4d"
+    ],
+    [
+      0.155355,
+      "\u001b[5d"
+    ],
+    [
+      0.219597,
+      "\u001b[6d"
+    ],
+    [
+      0.766164,
+      "\u001b[7d"
+    ],
+    [
+      0.948366,
+      "\u001b[1;77H\u001b(B\u001b[0;7mModified\r\u001b[7d\u001b(B\u001b[0;1m\u001b[34m#\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.361554,
+      "\u001b[42m \u001b[49m\u001b(B\u001b[m"
+    ],
+    [
+      0.159713,
+      "\u0008\u001b(B\u001b[0;1m\u001b[34m a\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.147411,
+      "\u001b(B\u001b[0;1m\u001b[34mb\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      1.000000,
+      "\u001b(B\u001b[0;1m\u001b[34mo\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.233805,
+      "\u001b(B\u001b[0;1m\u001b[34mv\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.090464,
+      "\u001b(B\u001b[0;1m\u001b[34me\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      1.000000,
+      "\u001b[42m \u001b[49m\u001b(B\u001b[m"
+    ],
+    [
+      0.220814,
+      "\u0008\u001b(B\u001b[0;1m\u001b[34m l\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.198094,
+      "\u001b(B\u001b[0;1m\u001b[34mi\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      1.000000,
+      "\u001b(B\u001b[0;1m\u001b[34mn\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.085477,
+      "\u001b(B\u001b[0;1m\u001b[34me\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.174236,
+      "\u001b[42m \u001b[49m\u001b(B\u001b[m"
+    ],
+    [
+      0.324714,
+      "\u0008\u001b(B\u001b[0;1m\u001b[34m m\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.196482,
+      "\u001b(B\u001b[0;1m\u001b[34mu\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.113092,
+      "\u001b(B\u001b[0;1m\u001b[34ms\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.317209,
+      "\u001b(B\u001b[0;1m\u001b[34mt\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.554554,
+      "\u001b[42m \u001b[49m\u001b(B\u001b[m"
+    ],
+    [
+      0.226540,
+      "\u0008\u001b(B\u001b[0;1m\u001b[34m b\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.099937,
+      "\u001b(B\u001b[0;1m\u001b[34me\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.157388,
+      "\u001b[42m \u001b[49m\u001b(B\u001b[m"
+    ],
+    [
+      0.425073,
+      "\u0008\u001b(B\u001b[0;1m\u001b[34m e\r\u001b[22d\u001b[39m\u001b(B\u001b[m\u001b[K\u001b[7;23H"
+    ],
+    [
+      0.267310,
+      "\u001b(B\u001b[0;1m\u001b[34mx\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.184497,
+      "\u001b(B\u001b[0;1m\u001b[34mi\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.179342,
+      "\u001b(B\u001b[0;1m\u001b[34ms\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.111042,
+      "\u001b(B\u001b[0;1m\u001b[34mt\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.074452,
+      "\u001b(B\u001b[0;1m\u001b[34ms\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      1.000000,
+      "\r\u001b[22d\u001b(B\u001b[0;7mSave modified buffer (ANSWERING \"No\" WILL DESTROY CHANGES) ?                          \u001b[23;1H Y\u001b(B\u001b[m Yes\u001b[K\r\u001b[24d\u001b(B\u001b[0;7m N\u001b(B\u001b[m No  \u001b[15G  \u001b(B\u001b[0;7m^C\u001b(B\u001b[m Cancel\u001b[K\u001b[22;62H"
+    ],
+    [
+      0.870917,
+      "\r\u001b[23d\u001b[J\u001b[24;86H"
+    ],
+    [
+      0.001337,
+      "\u001b[24;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.061992,
+      "\u001b]0;pi@raspberrypi: ~\u0007\u001b[01;32mpi@raspberrypi\u001b[00m \u001b[01;34m~ $\u001b[00m "
+    ],
+    [
+      1.000000,
+      "#"
+    ],
+    [
+      0.613580,
+      " "
+    ],
+    [
+      0.355173,
+      "d"
+    ],
+    [
+      0.105759,
+      "o"
+    ],
+    [
+      1.000000,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.271711,
+      "\u0008\u001b[K"
+    ],
+    [
+      1.000000,
+      "r"
+    ],
+    [
+      0.138718,
+      "u"
+    ],
+    [
+      0.176571,
+      "n"
+    ],
+    [
+      0.183257,
+      " "
+    ],
+    [
+      1.000000,
+      "'"
+    ],
+    [
+      0.643282,
+      "a"
+    ],
+    [
+      0.130206,
+      "p"
+    ],
+    [
+      0.195200,
+      "t"
+    ],
+    [
+      0.160630,
+      "-"
+    ],
+    [
+      0.291775,
+      "g"
+    ],
+    [
+      0.116785,
+      "e"
+    ],
+    [
+      0.079515,
+      "t"
+    ],
+    [
+      1.000000,
+      " "
+    ],
+    [
+      0.247467,
+      "u"
+    ],
+    [
+      0.333085,
+      "p"
+    ],
+    [
+      0.147797,
+      "d"
+    ],
+    [
+      0.176858,
+      "a"
+    ],
+    [
+      0.106085,
+      "t"
+    ],
+    [
+      0.109253,
+      "e"
+    ],
+    [
+      1.000000,
+      "'"
+    ],
+    [
+      0.606335,
+      " "
+    ],
+    [
+      0.274877,
+      "i"
+    ],
+    [
+      0.137494,
+      "f"
+    ],
+    [
+      0.608293,
+      " "
+    ],
+    [
+      0.516039,
+      "y"
+    ],
+    [
+      0.219258,
+      "o"
+    ],
+    [
+      0.231143,
+      "u"
+    ],
+    [
+      1.000000,
+      "\u0008\u001b[K"
+    ],
+    [
+      1.000000,
+      "u"
+    ],
+    [
+      0.479026,
+      " "
+    ],
+    [
+      0.505816,
+      "c"
+    ],
+    [
+      0.126793,
+      "h"
+    ],
+    [
+      0.271541,
+      "a"
+    ],
+    [
+      0.125647,
+      "n"
+    ],
+    [
+      0.215986,
+      "g"
+    ],
+    [
+      0.107841,
+      "e"
+    ],
+    [
+      1.000000,
+      " "
+    ],
+    [
+      0.188892,
+      "s"
+    ],
+    [
+      0.117054,
+      "o"
+    ],
+    [
+      0.207189,
+      "u"
+    ],
+    [
+      0.298457,
+      "r"
+    ],
+    [
+      0.283630,
+      "c"
+    ],
+    [
+      0.435032,
+      "e"
+    ],
+    [
+      0.231742,
+      "s"
+    ],
+    [
+      0.778051,
+      "."
+    ],
+    [
+      0.190568,
+      "l"
+    ],
+    [
+      1.000000,
+      "i"
+    ],
+    [
+      0.572231,
+      "s"
+    ],
+    [
+      0.084389,
+      "t"
+    ],
+    [
+      1.000000,
+      "\r\n\u001b]0;pi@raspberrypi: ~\u0007\u001b[01;32mpi@raspberrypi\u001b[00m \u001b[01;34m~ $\u001b[00m "
+    ],
+    [
+      0.698189,
+      "#"
+    ],
+    [
+      0.261540,
+      " "
+    ],
+    [
+      0.234552,
+      "n"
+    ],
+    [
+      0.182907,
+      "o"
+    ],
+    [
+      0.456739,
+      "w"
+    ],
+    [
+      0.563885,
+      " "
+    ],
+    [
+      0.917339,
+      "l"
+    ],
+    [
+      0.167518,
+      "e"
+    ],
+    [
+      0.167433,
+      "t"
+    ],
+    [
+      0.104843,
+      "s"
+    ],
+    [
+      0.626779,
+      " "
+    ],
+    [
+      0.587462,
+      "g"
+    ],
+    [
+      0.080148,
+      "e"
+    ],
+    [
+      0.084449,
+      "t"
+    ],
+    [
+      0.237150,
+      " "
+    ],
+    [
+      0.211682,
+      "s"
+    ],
+    [
+      0.242216,
+      "o"
+    ],
+    [
+      0.339450,
+      "y"
+    ],
+    [
+      0.447223,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.219177,
+      "u"
+    ],
+    [
+      0.228351,
+      "r"
+    ],
+    [
+      0.196040,
+      "c"
+    ],
+    [
+      0.093014,
+      "e"
+    ],
+    [
+      0.528141,
+      " "
+    ],
+    [
+      0.252175,
+      "o"
+    ],
+    [
+      0.111056,
+      "f"
+    ],
+    [
+      0.122137,
+      " "
+    ],
+    [
+      1.000000,
+      "o"
+    ],
+    [
+      0.288050,
+      "b"
+    ],
+    [
+      0.271203,
+      "f"
+    ],
+    [
+      0.499484,
+      "s"
+    ],
+    [
+      0.527852,
+      "4"
+    ],
+    [
+      0.930521,
+      "p"
+    ],
+    [
+      0.131781,
+      "r"
+    ],
+    [
+      0.095513,
+      "o"
+    ],
+    [
+      0.507128,
+      "x"
+    ],
+    [
+      0.078572,
+      "y"
+    ],
+    [
+      0.731032,
+      " "
+    ],
+    [
+      0.466115,
+      "p"
+    ],
+    [
+      0.187000,
+      "a"
+    ],
+    [
+      0.262662,
+      "c"
+    ],
+    [
+      0.105763,
+      "k"
+    ],
+    [
+      0.135986,
+      "a"
+    ],
+    [
+      0.129762,
+      "g"
+    ],
+    [
+      0.073968,
+      "e"
+    ],
+    [
+      1.000000,
+      "\r\n\u001b]0;pi@raspberrypi: ~\u0007\u001b[01;32mpi@raspberrypi\u001b[00m \u001b[01;34m~ $\u001b[00m "
+    ],
+    [
+      1.000000,
+      "#"
+    ],
+    [
+      0.258264,
+      " "
+    ],
+    [
+      0.170718,
+      "g"
+    ],
+    [
+      0.148780,
+      "o"
+    ],
+    [
+      0.200933,
+      " "
+    ],
+    [
+      0.085378,
+      "t"
+    ],
+    [
+      0.090386,
+      "o"
+    ],
+    [
+      0.183141,
+      " "
+    ],
+    [
+      0.386341,
+      "t"
+    ],
+    [
+      0.096007,
+      "m"
+    ],
+    [
+      0.200839,
+      "p"
+    ],
+    [
+      0.170679,
+      " "
+    ],
+    [
+      0.414728,
+      "d"
+    ],
+    [
+      0.152395,
+      "i"
+    ],
+    [
+      0.095035,
+      "r"
+    ],
+    [
+      0.302968,
+      "\r\n\u001b]0;pi@raspberrypi: ~\u0007\u001b[01;32mpi@raspberrypi\u001b[00m \u001b[01;34m~ $\u001b[00m "
+    ],
+    [
+      0.858650,
+      "c"
+    ],
+    [
+      0.122188,
+      "d"
+    ],
+    [
+      0.079334,
+      " "
+    ],
+    [
+      0.877369,
+      "/"
+    ],
+    [
+      0.209757,
+      "t"
+    ],
+    [
+      0.259162,
+      "m"
+    ],
+    [
+      0.319776,
+      "p"
+    ],
+    [
+      1.000000,
+      "/"
+    ],
+    [
+      0.191281,
+      "\r\n"
+    ],
+    [
+      0.003287,
+      "\u001b]0;pi@raspberrypi: /tmp\u0007\u001b[01;32mpi@raspberrypi\u001b[00m \u001b[01;34m/tmp $\u001b[00m "
+    ],
+    [
+      1.000000,
+      "s"
+    ],
+    [
+      0.145856,
+      "u"
+    ],
+    [
+      0.101719,
+      "d"
+    ],
+    [
+      0.111873,
+      "o"
+    ],
+    [
+      0.249983,
+      " "
+    ],
+    [
+      0.156995,
+      "a"
+    ],
+    [
+      0.128140,
+      "p"
+    ],
+    [
+      0.507820,
+      "t"
+    ],
+    [
+      0.236038,
+      "-"
+    ],
+    [
+      0.261770,
+      "g"
+    ],
+    [
+      0.095636,
+      "e"
+    ],
+    [
+      0.090363,
+      "t"
+    ],
+    [
+      0.351930,
+      " "
+    ],
+    [
+      0.293546,
+      "s"
+    ],
+    [
+      0.119029,
+      "o"
+    ],
+    [
+      0.236014,
+      "u"
+    ],
+    [
+      0.240339,
+      "r"
+    ],
+    [
+      0.211159,
+      "c"
+    ],
+    [
+      0.113896,
+      "e"
+    ],
+    [
+      0.209599,
+      " "
+    ],
+    [
+      0.434339,
+      "o"
+    ],
+    [
+      0.271415,
+      "b"
+    ],
+    [
+      0.262010,
+      "f"
+    ],
+    [
+      0.234087,
+      "s"
+    ],
+    [
+      0.546061,
+      "4"
+    ],
+    [
+      0.532539,
+      "p"
+    ],
+    [
+      0.181169,
+      "r"
+    ],
+    [
+      0.084926,
+      "o"
+    ],
+    [
+      0.413926,
+      "x"
+    ],
+    [
+      0.079175,
+      "y"
+    ],
+    [
+      1.000000,
+      "\r\n"
+    ],
+    [
+      0.343454,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.148388,
+      "\rReading package lists... 100%\r"
+    ],
+    [
+      0.001099,
+      "\rReading package lists... Done\r"
+    ],
+    [
+      0.000976,
+      "\r\n"
+    ],
+    [
+      0.152404,
+      "\rBuilding dependency tree... 0%\r"
+    ],
+    [
+      0.001141,
+      "\rBuilding dependency tree... 0%\r"
+    ],
+    [
+      0.322236,
+      "\rBuilding dependency tree... 50%\r"
+    ],
+    [
+      0.001182,
+      "\rBuilding dependency tree... 50%\r"
+    ],
+    [
+      0.272417,
+      "\rBuilding dependency tree... 55%\r"
+    ],
+    [
+      0.736225,
+      "\rBuilding dependency tree... 69%\r"
+    ],
+    [
+      0.730106,
+      "\rBuilding dependency tree... 83%\r"
+    ],
+    [
+      0.701906,
+      "\rBuilding dependency tree... 95%\r"
+    ],
+    [
+      0.538116,
+      "\rBuilding dependency tree       \r"
+    ],
+    [
+      0.000837,
+      "\r\n"
+    ],
+    [
+      0.001051,
+      "\rReading state information... 0%\r"
+    ],
+    [
+      0.001931,
+      "\rReading state information... 0%\r"
+    ],
+    [
+      0.073827,
+      "\rReading state information... Done\r"
+    ],
+    [
+      0.000786,
+      "\r\n"
+    ],
+    [
+      1.000000,
+      "NOTICE: 'obfs4proxy' packaging is maintained in the 'Git' version control system at:\r\ngit://anonscm.debian.org/collab-maint/obfs4proxy.git\r\n"
+    ],
+    [
+      0.159164,
+      "Need to get 64.5 kB of source archives.\r\n"
+    ],
+    [
+      0.172457,
+      "\r\r0% [Working]"
+    ],
+    [
+      0.502184,
+      "\r            \r0% [Waiting for headers]"
+    ],
+    [
+      0.106122,
+      "\r                        \rGet:1 http://mirrordirector.raspbian.org/raspbian/ jessie/main obfs4proxy 0.0.3-2 (dsc) [2,024 B]"
+    ],
+    [
+      0.000982,
+      "\r\n"
+    ],
+    [
+      0.001483,
+      "\r                        \r0% [1 obfs4proxy 0 B/2,024 B 0%]"
+    ],
+    [
+      0.016631,
+      "\r                                \r3% [Working]"
+    ],
+    [
+      0.514530,
+      "\r3% [Working]"
+    ],
+    [
+      0.144048,
+      "\r            \r3% [Connecting to ftp.tsukuba.wide.ad.jp]"
+    ],
+    [
+      0.501860,
+      "\r                                         \r3% [Connecting to ftp.tsukuba.wide.ad.jp (203.178.132.80)]"
+    ],
+    [
+      0.501966,
+      "\r                                                          \r3% [Waiting for headers]"
+    ],
+    [
+      0.012870,
+      "\r                        \rGet:2 http://mirrordirector.raspbian.org/raspbian/ jessie/main obfs4proxy 0.0.3-2 (tar) [41.1 kB]\r\n"
+    ],
+    [
+      0.001336,
+      "\r                        \r3% [2 obfs4proxy 0 B/41.1 kB 0%]"
+    ],
+    [
+      0.502260,
+      "\r                                \r28% [2 obfs4proxy 16.0 kB/41.1 kB 39%]"
+    ],
+    [
+      0.441705,
+      "\r                                      \r67% [Working]"
+    ],
+    [
+      0.493418,
+      "\r             \rGet:3 http://mirrordirector.raspbian.org/raspbian/ jessie/main obfs4proxy 0.0.3-2 (diff) [21.3 kB]\r\n"
+    ],
+    [
+      0.001424,
+      "\r             \r67% [3 obfs4proxy 0 B/21.3 kB 0%]"
+    ],
+    [
+      0.331229,
+      "\r                                 \r100% [Working]"
+    ],
+    [
+      0.000992,
+      "\r              \r"
+    ],
+    [
+      0.001239,
+      "Fetched 64.5 kB in 4s (15.8 kB/s)"
+    ],
+    [
+      0.001177,
+      "\r\n"
+    ],
+    [
+      1.000000,
+      "gpgv: keyblock resource `/root/.gnupg/trustedkeys.gpg': file open error\r\ngpgv: Signature made Fri 03 Oct 2014 10:17:15 PM IRST using RSA key ID 3D36E936\r\ngpgv: Can't check signature: public key not found\r\n"
+    ],
+    [
+      0.001855,
+      "dpkg-source: warning: failed to verify signature on ./obfs4proxy_0.0.3-2.dsc\r\n"
+    ],
+    [
+      0.177387,
+      "dpkg-source: info: extracting obfs4proxy in obfs4proxy-0.0.3\r\n"
+    ],
+    [
+      0.017804,
+      "dpkg-source: info: unpacking obfs4proxy_0.0.3.orig.tar.xz\r\n"
+    ],
+    [
+      0.229912,
+      "dpkg-source: info: unpacking obfs4proxy_0.0.3-2.debian.tar.gz\r\n"
+    ],
+    [
+      0.164502,
+      "dpkg-source: info: applying 0001-Improve-the-performance-of-the-obfs4-handshake-test.patch\r\n"
+    ],
+    [
+      0.250204,
+      "\u001b]0;pi@raspberrypi: /tmp\u0007\u001b[01;32mpi@raspberrypi\u001b[00m \u001b[01;34m/tmp $\u001b[00m "
+    ],
+    [
+      1.000000,
+      "#"
+    ],
+    [
+      0.376109,
+      " "
+    ],
+    [
+      0.232915,
+      "n"
+    ],
+    [
+      0.199079,
+      "o"
+    ],
+    [
+      0.117612,
+      "w"
+    ],
+    [
+      1.000000,
+      " "
+    ],
+    [
+      1.000000,
+      "b"
+    ],
+    [
+      0.144789,
+      "e"
+    ],
+    [
+      0.157042,
+      "f"
+    ],
+    [
+      0.258403,
+      "o"
+    ],
+    [
+      0.090525,
+      "r"
+    ],
+    [
+      0.165634,
+      "e"
+    ],
+    [
+      0.200445,
+      " "
+    ],
+    [
+      1.000000,
+      "b"
+    ],
+    [
+      0.372411,
+      "u"
+    ],
+    [
+      0.162317,
+      "i"
+    ],
+    [
+      0.200692,
+      "l"
+    ],
+    [
+      0.555832,
+      "d"
+    ],
+    [
+      0.286666,
+      "i"
+    ],
+    [
+      0.182547,
+      "n"
+    ],
+    [
+      0.293024,
+      "g"
+    ],
+    [
+      0.283093,
+      " "
+    ],
+    [
+      0.575099,
+      "p"
+    ],
+    [
+      0.114951,
+      "a"
+    ],
+    [
+      0.160411,
+      "c"
+    ],
+    [
+      0.095370,
+      "k"
+    ],
+    [
+      0.170030,
+      "a"
+    ],
+    [
+      0.143015,
+      "g"
+    ],
+    [
+      0.079283,
+      "e"
+    ],
+    [
+      1.000000,
+      " "
+    ],
+    [
+      0.340541,
+      "l"
+    ],
+    [
+      0.229852,
+      "e"
+    ],
+    [
+      0.537388,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.191874,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.373903,
+      "m"
+    ],
+    [
+      0.183687,
+      "u"
+    ],
+    [
+      0.096997,
+      "s"
+    ],
+    [
+      0.095631,
+      "t"
+    ],
+    [
+      0.209369,
+      " "
+    ],
+    [
+      0.377674,
+      "i"
+    ],
+    [
+      0.155713,
+      "n"
+    ],
+    [
+      0.117008,
+      "s"
+    ],
+    [
+      0.124661,
+      "t"
+    ],
+    [
+      0.113851,
+      "a"
+    ],
+    [
+      0.203150,
+      "l"
+    ],
+    [
+      0.157650,
+      "l"
+    ],
+    [
+      0.241094,
+      " "
+    ],
+    [
+      1.000000,
+      "d"
+    ],
+    [
+      0.200772,
+      "e"
+    ],
+    [
+      0.133260,
+      "p"
+    ],
+    [
+      0.121159,
+      "e"
+    ],
+    [
+      0.126051,
+      "n"
+    ],
+    [
+      0.336438,
+      "d"
+    ],
+    [
+      0.157079,
+      "e"
+    ],
+    [
+      0.147215,
+      "n"
+    ],
+    [
+      1.000000,
+      "c"
+    ],
+    [
+      0.139750,
+      "i"
+    ],
+    [
+      0.108616,
+      "e"
+    ],
+    [
+      0.151843,
+      "s"
+    ],
+    [
+      1.000000,
+      "\r\n\u001b]0;pi@raspberrypi: /tmp\u0007\u001b[01;32mpi@raspberrypi\u001b[00m \u001b[01;34m/tmp $\u001b[00m "
+    ],
+    [
+      1.000000,
+      "\u0007"
+    ],
+    [
+      0.924572,
+      "s"
+    ],
+    [
+      0.151553,
+      "u"
+    ],
+    [
+      0.070039,
+      "d"
+    ],
+    [
+      0.174017,
+      "o"
+    ],
+    [
+      0.448658,
+      " "
+    ],
+    [
+      0.559441,
+      "a"
+    ],
+    [
+      0.206833,
+      "p"
+    ],
+    [
+      0.114404,
+      "t"
+    ],
+    [
+      0.126196,
+      "-"
+    ],
+    [
+      0.555559,
+      "g"
+    ],
+    [
+      0.105364,
+      "e"
+    ],
+    [
+      0.080170,
+      "t"
+    ],
+    [
+      0.277136,
+      " "
+    ],
+    [
+      0.568844,
+      "b"
+    ],
+    [
+      0.251374,
+      "u"
+    ],
+    [
+      0.181342,
+      "i"
+    ],
+    [
+      0.196608,
+      "l"
+    ],
+    [
+      0.122420,
+      "d"
+    ],
+    [
+      0.905999,
+      "-"
+    ],
+    [
+      0.310205,
+      "d"
+    ],
+    [
+      0.268079,
+      "e"
+    ],
+    [
+      0.716526,
+      "p"
+    ],
+    [
+      0.495157,
+      " "
+    ],
+    [
+      0.597828,
+      "o"
+    ],
+    [
+      0.366180,
+      "b"
+    ],
+    [
+      0.340263,
+      "f"
+    ],
+    [
+      0.866954,
+      "s"
+    ],
+    [
+      1.000000,
+      "4"
+    ],
+    [
+      0.206473,
+      "p"
+    ],
+    [
+      0.129287,
+      "r"
+    ],
+    [
+      0.115424,
+      "o"
+    ],
+    [
+      0.405664,
+      "x"
+    ],
+    [
+      0.074195,
+      "y"
+    ],
+    [
+      1.000000,
+      "\r\n"
+    ],
+    [
+      0.350864,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.160119,
+      "\rReading package lists... 100%\r"
+    ],
+    [
+      0.001105,
+      "\rReading package lists... Done\r"
+    ],
+    [
+      0.001104,
+      "\r\n"
+    ],
+    [
+      0.148243,
+      "\rBuilding dependency tree... 0%\r"
+    ],
+    [
+      0.001028,
+      "\rBuilding dependency tree... 0%\r"
+    ],
+    [
+      0.308729,
+      "\rBuilding dependency tree... 50%\r"
+    ],
+    [
+      0.001001,
+      "\rBuilding dependency tree... 50%\r"
+    ],
+    [
+      0.275973,
+      "\rBuilding dependency tree... 55%\r"
+    ],
+    [
+      0.711933,
+      "\rBuilding dependency tree... 69%\r"
+    ],
+    [
+      0.705800,
+      "\rBuilding dependency tree... 83%\r"
+    ],
+    [
+      0.769782,
+      "\rBuilding dependency tree... 94%\r"
+    ],
+    [
+      0.435737,
+      "\rBuilding dependency tree       \r"
+    ],
+    [
+      0.000799,
+      "\r\n"
+    ],
+    [
+      0.001120,
+      "\rReading state information... 0%\r"
+    ],
+    [
+      0.001744,
+      "\rReading state information... 0%\r"
+    ],
+    [
+      0.071105,
+      "\rReading state information... Done\r"
+    ],
+    [
+      0.001024,
+      "\r\n"
+    ],
+    [
+      1.000000,
+      "The following NEW packages will be installed:\r\n"
+    ],
+    [
+      0.000790,
+      "  debhelper dh-golang gettext golang-ed25519-dev golang-go golang-go-linux-arm\r\n"
+    ],
+    [
+      0.001051,
+      "  golang-go.crypto-dev golang-go.net-dev golang-goptlib-dev golang-siphash-dev"
+    ],
+    [
+      0.000857,
+      "\r\n"
+    ],
+    [
+      0.001102,
+      "  golang-src intltool-debian libencode-locale-perl libexporter-lite-perl\r\n"
+    ],
+    [
+      0.001282,
+      "  libfile-listing-perl libhtml-parser-perl libhtml-tagset-perl libhtml-tree-perl\r\n"
+    ],
+    [
+      0.001541,
+      "  libhttp-cookies-perl libhttp-date-perl libhttp-message-perl libhttp-negotiate-perl\r\n"
+    ],
+    [
+      0.001093,
+      "  libio-html-perl libio-socket-ssl-perl libio-stringy-perl liblwp-mediatypes-perl\r\n"
+    ],
+    [
+      0.008418,
+      "  liblwp-protocol-https-perl libnet-http-perl libnet-ssleay-perl\r\n  libparse-debcontrol-perl libunistring0 liburi-perl libwww-perl\r\n  libwww-robotrules-perl po-debconf\r\n"
+    ],
+    [
+      0.178723,
+      "0 upgraded, 35 newly installed, 0 to remove and 3 not upgraded.\r\n"
+    ],
+    [
+      0.145783,
+      "Need to get 0 B/20.3 MB of archives.\r\n"
+    ],
+    [
+      0.001204,
+      "After this operation, 122 MB of additional disk space will be used.\r\n"
+    ],
+    [
+      0.001706,
+      "Do you want to continue?"
+    ],
+    [
+      0.000879,
+      " [Y/n] "
+    ],
+    [
+      1.000000,
+      "y"
+    ],
+    [
+      1.000000,
+      "\r\n\r\r"
+    ],
+    [
+      1.000000,
+      "\rExtracting templates from packages: 85%"
+    ],
+    [
+      1.000000,
+      "\rExtracting templates from packages: 100%\r\n"
+    ],
+    [
+      1.000000,
+      "Selecting previously unselected package libunistring0:armhf.\r\n"
+    ],
+    [
+      0.002459,
+      "(Reading database ... \r"
+    ],
+    [
+      0.118715,
+      "(Reading database ... 5%\r"
+    ],
+    [
+      0.002175,
+      "(Reading database ... 10%\r"
+    ],
+    [
+      0.001992,
+      "(Reading database ... 15%\r"
+    ],
+    [
+      0.001760,
+      "(Reading database ... 20%\r"
+    ],
+    [
+      0.001962,
+      "(Reading database ... 25%\r"
+    ],
+    [
+      0.002003,
+      "(Reading database ... 30%\r"
+    ],
+    [
+      0.002148,
+      "(Reading database ... 35%\r"
+    ],
+    [
+      0.001731,
+      "(Reading database ... 40%\r"
+    ],
+    [
+      0.002021,
+      "(Reading database ... 45%\r"
+    ],
+    [
+      0.001794,
+      "(Reading database ... 50%\r"
+    ],
+    [
+      0.003750,
+      "(Reading database ... 55%\r"
+    ],
+    [
+      0.227736,
+      "(Reading database ... 60%\r"
+    ],
+    [
+      0.072610,
+      "(Reading database ... 65%\r"
+    ],
+    [
+      0.065717,
+      "(Reading database ... 70%\r"
+    ],
+    [
+      0.059778,
+      "(Reading database ... 75%\r"
+    ],
+    [
+      0.058933,
+      "(Reading database ... 80%\r"
+    ],
+    [
+      0.075500,
+      "(Reading database ... 85%\r"
+    ],
+    [
+      0.071083,
+      "(Reading database ... 90%\r"
+    ],
+    [
+      0.256558,
+      "(Reading database ... 95%\r"
+    ],
+    [
+      0.164759,
+      "(Reading database ... 100%\r"
+    ],
+    [
+      0.001658,
+      "(Reading database ... "
+    ],
+    [
+      0.001849,
+      "116857 files and directories currently installed.)\r\n"
+    ],
+    [
+      0.092058,
+      "Preparing to unpack .../libunistring0_0.9.3-5.2_armhf.deb ...\r\n"
+    ],
+    [
+      0.032729,
+      "Unpacking libunistring0:armhf (0.9.3-5.2) ...\r\n"
+    ],
+    [
+      1.000000,
+      "Selecting previously unselected package gettext.\r\n"
+    ],
+    [
+      0.134629,
+      "Preparing to unpack .../gettext_0.19.3-2_armhf.deb ...\r\n"
+    ],
+    [
+      0.030289,
+      "Unpacking gettext (0.19.3-2) ..."
+    ],
+    [
+      0.001460,
+      "\r\n"
+    ],
+    [
+      1.000000,
+      "Selecting previously unselected package intltool-debian.\r\n"
+    ],
+    [
+      0.249147,
+      "Preparing to unpack .../intltool-debian_0.35.0+20060710.1_all.deb ...\r\n"
+    ],
+    [
+      0.032058,
+      "Unpacking intltool-debian (0.35.0+20060710.1) ...\r\n"
+    ],
+    [
+      0.553068,
+      "Selecting previously unselected package po-debconf.\r\n"
+    ],
+    [
+      0.126208,
+      "Preparing to unpack .../po-debconf_1.0.16+nmu3_all.deb ...\r\n"
+    ],
+    [
+      0.029358,
+      "Unpacking po-debconf (1.0.16+nmu3) ...\r\n"
+    ],
+    [
+      1.000000,
+      "Selecting previously unselected package debhelper.\r\n"
+    ],
+    [
+      0.275257,
+      "Preparing to unpack .../debhelper_9.20150101_all.deb ...\r\n"
+    ],
+    [
+      0.034295,
+      "Unpacking debhelper (9.20150101) ...\r\n"
+    ],
+    [
+      1.000000,
+      "Selecting previously unselected package golang-src.\r\n"
+    ],
+    [
+      0.127800,
+      "Preparing to unpack .../golang-src_2%3a1.3.3-1_armhf.deb ...\r\n"
+    ],
+    [
+      0.031102,
+      "Unpacking golang-src (2:1.3.3-1) ...\r\n"
+    ],
+    [
+      1.000000,
+      "Selecting previously unselected package golang-go-linux-arm.\r\n"
+    ],
+    [
+      0.346052,
+      "Preparing to unpack .../golang-go-linux-arm_2%3a1.3.3-1_armhf.deb ...\r\n"
+    ],
+    [
+      0.042260,
+      "Unpacking golang-go-linux-arm (2:1.3.3-1) ...\r\n"
+    ],
+    [
+      1.000000,
+      "Selecting previously unselected package golang-go.\r\n"
+    ],
+    [
+      0.152210,
+      "Preparing to unpack .../golang-go_2%3a1.3.3-1_armhf.deb ...\r\n"
+    ],
+    [
+      0.034594,
+      "Unpacking golang-go (2:1.3.3-1) ...\r\n"
+    ],
+    [
+      1.000000,
+      "Selecting previously unselected package golang-goptlib-dev.\r\n"
+    ],
+    [
+      0.143461,
+      "Preparing to unpack .../golang-goptlib-dev_0.2-1_all.deb ...\r\n"
+    ],
+    [
+      0.038117,
+      "Unpacking golang-goptlib-dev (0.2-1) ...\r\n"
+    ],
+    [
+      0.660301,
+      "Selecting previously unselected package libencode-locale-perl.\r\n"
+    ],
+    [
+      0.131161,
+      "Preparing to unpack .../libencode-locale-perl_1.03-1_all.deb ...\r\n"
+    ],
+    [
+      0.033179,
+      "Unpacking libencode-locale-perl (1.03-1) ...\r\n"
+    ],
+    [
+      0.548588,
+      "Selecting previously unselected package libexporter-lite-perl.\r\n"
+    ],
+    [
+      0.158115,
+      "Preparing to unpack .../libexporter-lite-perl_0.06-1_all.deb ...\r\n"
+    ],
+    [
+      0.032255,
+      "Unpacking libexporter-lite-perl (0.06-1) ...\r\n"
+    ],
+    [
+      0.467449,
+      "Selecting previously unselected package libhttp-date-perl.\r\n"
+    ],
+    [
+      0.131572,
+      "Preparing to unpack .../libhttp-date-perl_6.02-1_all.deb ...\r\n"
+    ],
+    [
+      0.031285,
+      "Unpacking libhttp-date-perl (6.02-1) ..."
+    ],
+    [
+      0.001526,
+      "\r\n"
+    ],
+    [
+      0.481544,
+      "Selecting previously unselected package libfile-listing-perl.\r\n"
+    ],
+    [
+      0.131477,
+      "Preparing to unpack .../libfile-listing-perl_6.04-1_all.deb ...\r\n"
+    ],
+    [
+      0.022818,
+      "Unpacking libfile-listing-perl (6.04-1) ...\r\n"
+    ],
+    [
+      0.473874,
+      "Selecting previously unselected package liburi-perl.\r\n"
+    ],
+    [
+      0.131390,
+      "Preparing to unpack .../liburi-perl_1.64-1_all.deb ..."
+    ],
+    [
+      0.001637,
+      "\r\n"
+    ],
+    [
+      0.024069,
+      "Unpacking liburi-perl (1.64-1) ...\r\n"
+    ],
+    [
+      1.000000,
+      "Selecting previously unselected package libhtml-tagset-perl.\r\n"
+    ],
+    [
+      0.133049,
+      "Preparing to unpack .../libhtml-tagset-perl_3.20-2_all.deb ..."
+    ],
+    [
+      0.001589,
+      "\r\n"
+    ],
+    [
+      0.042983,
+      "Unpacking libhtml-tagset-perl (3.20-2) ...\r\n"
+    ],
+    [
+      0.648953,
+      "Selecting previously unselected package libhtml-parser-perl.\r\n"
+    ],
+    [
+      0.287492,
+      "Preparing to unpack .../libhtml-parser-perl_3.71-1+b4_armhf.deb ...\r\n"
+    ],
+    [
+      0.039892,
+      "Unpacking libhtml-parser-perl (3.71-1+b4) ...\r\n"
+    ],
+    [
+      1.000000,
+      "Selecting previously unselected package libhtml-tree-perl.\r\n"
+    ],
+    [
+      0.131583,
+      "Preparing to unpack .../libhtml-tree-perl_5.03-1_all.deb ...\r\n"
+    ],
+    [
+      0.033530,
+      "Unpacking libhtml-tree-perl (5.03-1) ...\r\n"
+    ],
+    [
+      1.000000,
+      "Selecting previously unselected package libio-html-perl.\r\n"
+    ],
+    [
+      0.132482,
+      "Preparing to unpack .../libio-html-perl_1.001-1_all.deb ...\r\n"
+    ],
+    [
+      0.033092,
+      "Unpacking libio-html-perl (1.001-1) ...\r\n"
+    ],
+    [
+      0.530223,
+      "Selecting previously unselected package liblwp-mediatypes-perl.\r\n"
+    ],
+    [
+      0.131429,
+      "Preparing to unpack .../liblwp-mediatypes-perl_6.02-1_all.deb ...\r\n"
+    ],
+    [
+      0.034865,
+      "Unpacking liblwp-mediatypes-perl (6.02-1) ...\r\n"
+    ],
+    [
+      0.568446,
+      "Selecting previously unselected package libhttp-message-perl.\r\n"
+    ],
+    [
+      0.286019,
+      "Preparing to unpack .../libhttp-message-perl_6.06-1_all.deb ...\r\n"
+    ],
+    [
+      0.036239,
+      "Unpacking libhttp-message-perl (6.06-1) ...\r\n"
+    ],
+    [
+      0.890677,
+      "Selecting previously unselected package libhttp-cookies-perl.\r\n"
+    ],
+    [
+      0.131864,
+      "Preparing to unpack .../libhttp-cookies-perl_6.01-1_all.deb ...\r\n"
+    ],
+    [
+      0.033566,
+      "Unpacking libhttp-cookies-perl (6.01-1) ...\r\n"
+    ],
+    [
+      0.528527,
+      "Selecting previously unselected package libhttp-negotiate-perl."
+    ],
+    [
+      0.001897,
+      "\r\n"
+    ],
+    [
+      0.132354,
+      "Preparing to unpack .../libhttp-negotiate-perl_6.00-2_all.deb ...\r\n"
+    ],
+    [
+      0.023846,
+      "Unpacking libhttp-negotiate-perl (6.00-2) ...\r\n"
+    ],
+    [
+      0.765436,
+      "Selecting previously unselected package libnet-ssleay-perl.\r\n"
+    ],
+    [
+      0.127444,
+      "Preparing to unpack .../libnet-ssleay-perl_1.65-1+b1_armhf.deb ...\r\n"
+    ],
+    [
+      0.033355,
+      "Unpacking libnet-ssleay-perl (1.65-1+b1) ...\r\n"
+    ],
+    [
+      1.000000,
+      "Selecting previously unselected package libio-socket-ssl-perl.\r\n"
+    ],
+    [
+      0.132161,
+      "Preparing to unpack .../libio-socket-ssl-perl_2.002-2+deb8u1_all.deb ...\r\n"
+    ],
+    [
+      0.034282,
+      "Unpacking libio-socket-ssl-perl (2.002-2+deb8u1) ...\r\n"
+    ],
+    [
+      1.000000,
+      "Selecting previously unselected package libio-stringy-perl.\r\n"
+    ],
+    [
+      0.148527,
+      "Preparing to unpack .../libio-stringy-perl_2.110-5_all.deb ...\r\n"
+    ],
+    [
+      0.031450,
+      "Unpacking libio-stringy-perl (2.110-5) ...\r\n"
+    ],
+    [
+      0.841099,
+      "Selecting previously unselected package libnet-http-perl.\r\n"
+    ],
+    [
+      0.132241,
+      "Preparing to unpack .../libnet-http-perl_6.07-1_all.deb ...\r\n"
+    ],
+    [
+      0.031894,
+      "Unpacking libnet-http-perl (6.07-1) ..."
+    ],
+    [
+      0.001399,
+      "\r\n"
+    ],
+    [
+      0.592242,
+      "Selecting previously unselected package libwww-robotrules-perl.\r\n"
+    ],
+    [
+      0.133205,
+      "Preparing to unpack .../libwww-robotrules-perl_6.01-1_all.deb ...\r\n"
+    ],
+    [
+      0.033259,
+      "Unpacking libwww-robotrules-perl (6.01-1) ...\r\n"
+    ],
+    [
+      0.477686,
+      "Selecting previously unselected package libwww-perl.\r\n"
+    ],
+    [
+      0.133592,
+      "Preparing to unpack .../libwww-perl_6.08-1_all.deb ...\r\n"
+    ],
+    [
+      0.024596,
+      "Unpacking libwww-perl (6.08-1) ...\r\n"
+    ],
+    [
+      1.000000,
+      "Selecting previously unselected package liblwp-protocol-https-perl.\r\n"
+    ],
+    [
+      0.132654,
+      "Preparing to unpack .../liblwp-protocol-https-perl_6.06-2_all.deb ...\r\n"
+    ],
+    [
+      0.023484,
+      "Unpacking liblwp-protocol-https-perl (6.06-2) ...\r\n"
+    ],
+    [
+      0.494308,
+      "Selecting previously unselected package libparse-debcontrol-perl.\r\n"
+    ],
+    [
+      0.132025,
+      "Preparing to unpack .../libparse-debcontrol-perl_2.005-4_all.deb ...\r\n"
+    ],
+    [
+      0.023023,
+      "Unpacking libparse-debcontrol-perl (2.005-4) ...\r\n"
+    ],
+    [
+      0.717908,
+      "Selecting previously unselected package dh-golang.\r\n"
+    ],
+    [
+      0.132780,
+      "Preparing to unpack .../archives/dh-golang_1.6_all.deb ...\r\n"
+    ],
+    [
+      0.030696,
+      "Unpacking dh-golang (1.6) ...\r\n"
+    ],
+    [
+      0.552001,
+      "Selecting previously unselected package golang-ed25519-dev.\r\n"
+    ],
+    [
+      0.132052,
+      "Preparing to unpack .../golang-ed25519-dev_0~20140907.d2b94fd-1_all.deb ...\r\n"
+    ],
+    [
+      0.031562,
+      "Unpacking golang-ed25519-dev (0~20140907.d2b94fd-1) ..."
+    ],
+    [
+      0.001406,
+      "\r\n"
+    ],
+    [
+      1.000000,
+      "Selecting previously unselected package golang-go.crypto-dev.\r\n"
+    ],
+    [
+      0.132005,
+      "Preparing to unpack .../golang-go.crypto-dev_0.0~hg190-1_all.deb ...\r\n"
+    ],
+    [
+      0.036585,
+      "Unpacking golang-go.crypto-dev (0.0~hg190-1) ...\r\n"
+    ],
+    [
+      1.000000,
+      "Selecting previously unselected package golang-go.net-dev.\r\n"
+    ],
+    [
+      0.143624,
+      "Preparing to unpack .../golang-go.net-dev_0.0~hg20131201-1_all.deb ...\r\n"
+    ],
+    [
+      0.031427,
+      "Unpacking golang-go.net-dev (0.0~hg20131201-1) ...\r\n"
+    ],
+    [
+      1.000000,
+      "Selecting previously unselected package golang-siphash-dev.\r\n"
+    ],
+    [
+      0.143370,
+      "Preparing to unpack .../golang-siphash-dev_1.0.0-1_all.deb ...\r\n"
+    ],
+    [
+      0.044497,
+      "Unpacking golang-siphash-dev (1.0.0-1) ...\r\n"
+    ],
+    [
+      0.364830,
+      "Processing triggers for man-db (2.7.0.2-5) ...\r\n"
+    ],
+    [
+      1.000000,
+      "Processing triggers for install-info (5.2.0.dfsg.1-6) ...\r\n"
+    ],
+    [
+      1.000000,
+      "Setting up libunistring0:armhf (0.9.3-5.2) ...\r\n"
+    ],
+    [
+      0.452928,
+      "Setting up gettext (0.19.3-2) ...\r\n"
+    ],
+    [
+      0.201515,
+      "Setting up intltool-debian (0.35.0+20060710.1) ...\r\n"
+    ],
+    [
+      0.079888,
+      "Setting up po-debconf (1.0.16+nmu3) ...\r\n"
+    ],
+    [
+      0.087583,
+      "Setting up debhelper (9.20150101) ...\r\n"
+    ],
+    [
+      0.084568,
+      "Setting up golang-src (2:1.3.3-1) ...\r\n"
+    ],
+    [
+      0.072813,
+      "Setting up golang-go-linux-arm (2:1.3.3-1) ...\r\n"
+    ],
+    [
+      0.057163,
+      "Setting up golang-go (2:1.3.3-1) ..."
+    ],
+    [
+      0.001035,
+      "\r\n"
+    ],
+    [
+      1.000000,
+      "Setting up golang-goptlib-dev (0.2-1) ...\r\n"
+    ],
+    [
+      0.092728,
+      "Setting up libencode-locale-perl (1.03-1) ...\r\n"
+    ],
+    [
+      0.080771,
+      "Setting up libexporter-lite-perl (0.06-1) ...\r\n"
+    ],
+    [
+      0.092645,
+      "Setting up libhttp-date-perl (6.02-1) ...\r\n"
+    ],
+    [
+      0.085778,
+      "Setting up libfile-listing-perl (6.04-1) ...\r\n"
+    ],
+    [
+      0.085178,
+      "Setting up liburi-perl (1.64-1) ...\r\n"
+    ],
+    [
+      0.092949,
+      "Setting up libhtml-tagset-perl (3.20-2) ...\r\n"
+    ],
+    [
+      0.070293,
+      "Setting up libhtml-parser-perl (3.71-1+b4) ...\r\n"
+    ],
+    [
+      0.053242,
+      "Setting up libhtml-tree-perl (5.03-1) ...\r\n"
+    ],
+    [
+      0.067163,
+      "Setting up libio-html-perl (1.001-1) ...\r\n"
+    ],
+    [
+      0.068638,
+      "Setting up liblwp-mediatypes-perl (6.02-1) ...\r\n"
+    ],
+    [
+      0.350708,
+      "Setting up libhttp-message-perl (6.06-1) ...\r\n"
+    ],
+    [
+      0.079756,
+      "Setting up libhttp-cookies-perl (6.01-1) ...\r\n"
+    ],
+    [
+      0.085741,
+      "Setting up libhttp-negotiate-perl (6.00-2) ...\r\n"
+    ],
+    [
+      0.080321,
+      "Setting up libnet-ssleay-perl (1.65-1+b1) ...\r\n"
+    ],
+    [
+      0.085602,
+      "Setting up libio-socket-ssl-perl (2.002-2+deb8u1) ...\r\n"
+    ],
+    [
+      0.080620,
+      "Setting up libio-stringy-perl (2.110-5) ...\r\n"
+    ],
+    [
+      0.084390,
+      "Setting up libnet-http-perl (6.07-1) ...\r\n"
+    ],
+    [
+      0.071345,
+      "Setting up libwww-robotrules-perl (6.01-1) ...\r\n"
+    ],
+    [
+      0.054864,
+      "Setting up golang-ed25519-dev (0~20140907.d2b94fd-1) ...\r\n"
+    ],
+    [
+      0.066373,
+      "Setting up golang-go.crypto-dev (0.0~hg190-1) ...\r\n"
+    ],
+    [
+      0.056657,
+      "Setting up golang-go.net-dev (0.0~hg20131201-1) ...\r\n"
+    ],
+    [
+      0.061142,
+      "Setting up golang-siphash-dev (1.0.0-1) ...\r\n"
+    ],
+    [
+      0.139692,
+      "Setting up libwww-perl (6.08-1) ..."
+    ],
+    [
+      0.001316,
+      "\r\n"
+    ],
+    [
+      0.079874,
+      "Setting up liblwp-protocol-https-perl (6.06-2) ...\r\n"
+    ],
+    [
+      0.083158,
+      "Setting up libparse-debcontrol-perl (2.005-4) ...\r\n"
+    ],
+    [
+      0.092078,
+      "Setting up dh-golang (1.6) ...\r\n"
+    ],
+    [
+      0.072496,
+      "Processing triggers for libc-bin (2.19-18+deb8u1) ...\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b]0;pi@raspberrypi: /tmp\u0007\u001b[01;32mpi@raspberrypi\u001b[00m \u001b[01;34m/tmp $\u001b[00m "
+    ],
+    [
+      1.000000,
+      "#"
+    ],
+    [
+      0.388156,
+      " "
+    ],
+    [
+      0.226901,
+      "n"
+    ],
+    [
+      0.183100,
+      "o"
+    ],
+    [
+      0.140821,
+      "w"
+    ],
+    [
+      0.121317,
+      " "
+    ],
+    [
+      0.668025,
+      "l"
+    ],
+    [
+      0.200030,
+      "e"
+    ],
+    [
+      0.180605,
+      "t"
+    ],
+    [
+      0.324938,
+      "s"
+    ],
+    [
+      1.000000,
+      " "
+    ],
+    [
+      0.253554,
+      "b"
+    ],
+    [
+      0.186141,
+      "u"
+    ],
+    [
+      0.185677,
+      "i"
+    ],
+    [
+      0.268296,
+      "l"
+    ],
+    [
+      0.142698,
+      "d"
+    ],
+    [
+      0.201694,
+      " "
+    ],
+    [
+      0.381145,
+      "o"
+    ],
+    [
+      0.350461,
+      "b"
+    ],
+    [
+      0.583273,
+      "f"
+    ],
+    [
+      1.000000,
+      "s"
+    ],
+    [
+      0.286617,
+      "4"
+    ],
+    [
+      0.247929,
+      "p"
+    ],
+    [
+      0.189562,
+      "r"
+    ],
+    [
+      0.124552,
+      "o"
+    ],
+    [
+      0.579946,
+      "x"
+    ],
+    [
+      0.096545,
+      "y"
+    ],
+    [
+      0.766960,
+      " "
+    ],
+    [
+      0.221419,
+      "p"
+    ],
+    [
+      0.124756,
+      "a"
+    ],
+    [
+      0.212029,
+      "c"
+    ],
+    [
+      0.162262,
+      "k"
+    ],
+    [
+      0.179854,
+      "a"
+    ],
+    [
+      0.270748,
+      "g"
+    ],
+    [
+      0.112098,
+      "e"
+    ],
+    [
+      1.000000,
+      "\r\n\u001b]0;pi@raspberrypi: /tmp\u0007\u001b[01;32mpi@raspberrypi\u001b[00m \u001b[01;34m/tmp $\u001b[00m "
+    ],
+    [
+      1.000000,
+      "#"
+    ],
+    [
+      0.337173,
+      " "
+    ],
+    [
+      0.155732,
+      "g"
+    ],
+    [
+      0.130640,
+      "o"
+    ],
+    [
+      0.068268,
+      "t"
+    ],
+    [
+      0.709362,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.218725,
+      " "
+    ],
+    [
+      0.135419,
+      "t"
+    ],
+    [
+      0.067275,
+      "o"
+    ],
+    [
+      0.212798,
+      " "
+    ],
+    [
+      1.000000,
+      "o"
+    ],
+    [
+      0.482840,
+      "b"
+    ],
+    [
+      0.454256,
+      "f"
+    ],
+    [
+      1.000000,
+      "s"
+    ],
+    [
+      0.279648,
+      "4"
+    ],
+    [
+      0.612736,
+      "p"
+    ],
+    [
+      0.090018,
+      "r"
+    ],
+    [
+      0.351746,
+      "o"
+    ],
+    [
+      0.335619,
+      "x"
+    ],
+    [
+      0.106120,
+      "y"
+    ],
+    [
+      0.255799,
+      " "
+    ],
+    [
+      0.271785,
+      "s"
+    ],
+    [
+      0.185444,
+      "o"
+    ],
+    [
+      0.258698,
+      "u"
+    ],
+    [
+      0.290150,
+      "r"
+    ],
+    [
+      0.196836,
+      "c"
+    ],
+    [
+      0.089827,
+      "e"
+    ],
+    [
+      0.135531,
+      " "
+    ],
+    [
+      0.152658,
+      "d"
+    ],
+    [
+      0.111805,
+      "i"
+    ],
+    [
+      0.101155,
+      "r"
+    ],
+    [
+      1.000000,
+      "\r\n\u001b]0;pi@raspberrypi: /tmp\u0007\u001b[01;32mpi@raspberrypi\u001b[00m \u001b[01;34m/tmp $\u001b[00m "
+    ],
+    [
+      0.239973,
+      "c"
+    ],
+    [
+      0.171785,
+      "d"
+    ],
+    [
+      0.247631,
+      " "
+    ],
+    [
+      0.593314,
+      "o"
+    ],
+    [
+      0.245812,
+      "b"
+    ],
+    [
+      0.205532,
+      "s"
+    ],
+    [
+      0.403048,
+      "\u0007"
+    ],
+    [
+      1.000000,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.132663,
+      "f"
+    ],
+    [
+      0.335612,
+      "s4proxy-0.0.3/"
+    ],
+    [
+      1.000000,
+      "\r\n"
+    ],
+    [
+      0.001736,
+      "\u001b]0;pi@raspberrypi: /tmp/obfs4proxy-0.0.3\u0007\u001b[01;32mpi@raspberrypi\u001b[00m \u001b[01;34m/tmp/obfs4proxy-0.0.3 $\u001b[00m "
+    ],
+    [
+      1.000000,
+      "#"
+    ],
+    [
+      0.257292,
+      " "
+    ],
+    [
+      0.228486,
+      "b"
+    ],
+    [
+      0.180235,
+      "e"
+    ],
+    [
+      0.699664,
+      "c"
+    ],
+    [
+      0.123370,
+      "a"
+    ],
+    [
+      0.576082,
+      "u"
+    ],
+    [
+      0.145330,
+      "s"
+    ],
+    [
+      0.152642,
+      "e"
+    ],
+    [
+      0.212846,
+      " "
+    ],
+    [
+      0.729350,
+      "o"
+    ],
+    [
+      0.126355,
+      "f"
+    ],
+    [
+      0.263901,
+      " "
+    ],
+    [
+      0.335128,
+      "r"
+    ],
+    [
+      0.166353,
+      "u"
+    ],
+    [
+      0.231655,
+      "n"
+    ],
+    [
+      0.132010,
+      "n"
+    ],
+    [
+      0.215633,
+      "u"
+    ],
+    [
+      1.000000,
+      "\u0008\u001b[K"
+    ],
+    [
+      1.000000,
+      "i"
+    ],
+    [
+      0.161301,
+      "n"
+    ],
+    [
+      0.079517,
+      "g"
+    ],
+    [
+      0.150506,
+      " "
+    ],
+    [
+      0.261876,
+      "t"
+    ],
+    [
+      0.095427,
+      "e"
+    ],
+    [
+      0.158905,
+      "s"
+    ],
+    [
+      0.085442,
+      "t"
+    ],
+    [
+      0.818014,
+      " "
+    ],
+    [
+      0.185095,
+      "o"
+    ],
+    [
+      0.160251,
+      "n"
+    ],
+    [
+      0.142820,
+      " "
+    ],
+    [
+      1.000000,
+      "R"
+    ],
+    [
+      0.245846,
+      "a"
+    ],
+    [
+      0.181524,
+      "s"
+    ],
+    [
+      0.089733,
+      "p"
+    ],
+    [
+      0.266783,
+      "b"
+    ],
+    [
+      0.097679,
+      "e"
+    ],
+    [
+      0.190978,
+      "r"
+    ],
+    [
+      0.464957,
+      "y"
+    ],
+    [
+      0.599100,
+      "y"
+    ],
+    [
+      0.692083,
+      "p"
+    ],
+    [
+      0.241931,
+      "i"
+    ],
+    [
+      1.000000,
+      " "
+    ],
+    [
+      0.283244,
+      "n"
+    ],
+    [
+      0.148201,
+      "e"
+    ],
+    [
+      0.159053,
+      "e"
+    ],
+    [
+      0.177492,
+      "d"
+    ],
+    [
+      0.249766,
+      " "
+    ],
+    [
+      0.368041,
+      "l \r"
+    ],
+    [
+      0.178568,
+      "o"
+    ],
+    [
+      0.237309,
+      "n"
+    ],
+    [
+      0.130804,
+      "g"
+    ],
+    [
+      0.484138,
+      " "
+    ],
+    [
+      0.641529,
+      "t"
+    ],
+    [
+      0.105187,
+      "i"
+    ],
+    [
+      0.178459,
+      "m"
+    ],
+    [
+      0.122299,
+      "e"
+    ],
+    [
+      0.147761,
+      " "
+    ],
+    [
+      0.492046,
+      "t"
+    ],
+    [
+      0.149554,
+      "o"
+    ],
+    [
+      0.494803,
+      " "
+    ],
+    [
+      0.185916,
+      "d"
+    ],
+    [
+      0.112252,
+      "o"
+    ],
+    [
+      0.197723,
+      "n"
+    ],
+    [
+      0.068369,
+      "e"
+    ],
+    [
+      0.872618,
+      ","
+    ],
+    [
+      0.239185,
+      " "
+    ],
+    [
+      0.751969,
+      "w"
+    ],
+    [
+      0.158124,
+      "e"
+    ],
+    [
+      0.200600,
+      " "
+    ],
+    [
+      0.364826,
+      "p"
+    ],
+    [
+      0.148308,
+      "r"
+    ],
+    [
+      0.247732,
+      "e"
+    ],
+    [
+      0.195188,
+      "v"
+    ],
+    [
+      0.105416,
+      "e"
+    ],
+    [
+      0.089919,
+      "n"
+    ],
+    [
+      0.119301,
+      "t"
+    ],
+    [
+      1.000000,
+      " "
+    ],
+    [
+      0.584991,
+      "t"
+    ],
+    [
+      0.084534,
+      "e"
+    ],
+    [
+      0.219053,
+      "s"
+    ],
+    [
+      0.111515,
+      "t"
+    ],
+    [
+      1.000000,
+      "s"
+    ],
+    [
+      1.000000,
+      " "
+    ],
+    [
+      0.174132,
+      "f"
+    ],
+    [
+      0.105896,
+      "o"
+    ],
+    [
+      0.079803,
+      "r"
+    ],
+    [
+      0.163419,
+      " "
+    ],
+    [
+      0.618344,
+      "b"
+    ],
+    [
+      0.230865,
+      "u"
+    ],
+    [
+      0.187564,
+      "i"
+    ],
+    [
+      0.219325,
+      "l"
+    ],
+    [
+      0.148238,
+      "d"
+    ],
+    [
+      0.147051,
+      "i"
+    ],
+    [
+      0.161182,
+      "n"
+    ],
+    [
+      0.257686,
+      "g"
+    ],
+    [
+      0.420318,
+      " "
+    ],
+    [
+      0.311293,
+      "p"
+    ],
+    [
+      0.149573,
+      "a"
+    ],
+    [
+      0.164287,
+      "c"
+    ],
+    [
+      0.111948,
+      "k"
+    ],
+    [
+      0.119308,
+      "a"
+    ],
+    [
+      0.147776,
+      "g"
+    ],
+    [
+      0.079405,
+      "e"
+    ],
+    [
+      1.000000,
+      " "
+    ],
+    [
+      0.146240,
+      "a"
+    ],
+    [
+      0.383334,
+      "t"
+    ],
+    [
+      0.245433,
+      " "
+    ],
+    [
+      0.686212,
+      "t"
+    ],
+    [
+      0.123744,
+      "h"
+    ],
+    [
+      0.503023,
+      "i"
+    ],
+    [
+      0.151639,
+      "s"
+    ],
+    [
+      0.310242,
+      " "
+    ],
+    [
+      0.302461,
+      "t"
+    ],
+    [
+      0.122333,
+      "i"
+    ],
+    [
+      0.204741,
+      "m"
+    ],
+    [
+      0.085020,
+      "e"
+    ],
+    [
+      1.000000,
+      "\r\n"
+    ],
+    [
+      0.001067,
+      "\u001b]0;pi@raspberrypi: /tmp/obfs4proxy-0.0.3\u0007\u001b[01;32mpi@raspberrypi\u001b[00m \u001b[01;34m/tmp/obfs4proxy-0.0.3 $\u001b[00m "
+    ],
+    [
+      1.000000,
+      "DEB_BUILD_OP"
+    ],
+    [
+      0.001274,
+      "T"
+    ],
+    [
+      0.001951,
+      "I"
+    ],
+    [
+      0.001836,
+      "O"
+    ],
+    [
+      0.001904,
+      "N"
+    ],
+    [
+      0.001720,
+      "S"
+    ],
+    [
+      0.001949,
+      "="
+    ],
+    [
+      0.001763,
+      "n"
+    ],
+    [
+      0.001809,
+      "o"
+    ],
+    [
+      0.001994,
+      "c"
+    ],
+    [
+      0.001905,
+      "h"
+    ],
+    [
+      0.001915,
+      "e"
+    ],
+    [
+      0.001930,
+      "c"
+    ],
+    [
+      0.001867,
+      "k"
+    ],
+    [
+      0.001728,
+      " "
+    ],
+    [
+      0.001849,
+      "d"
+    ],
+    [
+      0.002162,
+      "p"
+    ],
+    [
+      0.002083,
+      "k"
+    ],
+    [
+      0.001779,
+      "g"
+    ],
+    [
+      0.002085,
+      "-"
+    ],
+    [
+      0.002006,
+      "b"
+    ],
+    [
+      0.002121,
+      "u"
+    ],
+    [
+      0.001908,
+      "i"
+    ],
+    [
+      0.001817,
+      "l"
+    ],
+    [
+      0.001948,
+      "d"
+    ],
+    [
+      0.001995,
+      "p"
+    ],
+    [
+      0.002120,
+      "a"
+    ],
+    [
+      0.001999,
+      "c"
+    ],
+    [
+      0.002038,
+      "k"
+    ],
+    [
+      0.001947,
+      "a"
+    ],
+    [
+      0.002001,
+      "g"
+    ],
+    [
+      0.002175,
+      "e"
+    ],
+    [
+      0.002019,
+      " "
+    ],
+    [
+      0.002112,
+      "-"
+    ],
+    [
+      0.002101,
+      "b"
+    ],
+    [
+      0.013577,
+      "  \r"
+    ],
+    [
+      0.001251,
+      "-"
+    ],
+    [
+      0.001192,
+      "u"
+    ],
+    [
+      0.001201,
+      "c"
+    ],
+    [
+      1.000000,
+      "\r\n"
+    ],
+    [
+      1.000000,
+      "dpkg-buildpackage: source package obfs4proxy\r\n"
+    ],
+    [
+      0.001326,
+      "dpkg-buildpackage: source version 0.0.3-2\r\n"
+    ],
+    [
+      0.003826,
+      "dpkg-buildpackage: source distribution unstable\r\n"
+    ],
+    [
+      0.001342,
+      "dpkg-buildpackage: source changed by Jérémy Bobbio \u003clunar@debian.org\u003e\r\n"
+    ],
+    [
+      1.000000,
+      "dpkg-buildpackage: host architecture armhf\r\n"
+    ],
+    [
+      0.001534,
+      " dpkg-source --before-build obfs4proxy-0.0.3\r\n"
+    ],
+    [
+      1.000000,
+      " fakeroot debian/rules clean\r\n"
+    ],
+    [
+      0.310387,
+      "dh clean --buildsystem=golang --with=golang\r\n"
+    ],
+    [
+      1.000000,
+      "   dh_testdir -O--buildsystem=golang\r\n"
+    ],
+    [
+      0.992623,
+      "   dh_auto_clean -O--buildsystem=golang"
+    ],
+    [
+      0.000608,
+      "\r\n"
+    ],
+    [
+      1.000000,
+      "   dh_clean -O--buildsystem=golang\r\n"
+    ],
+    [
+      1.000000,
+      " debian/rules build\r\n"
+    ],
+    [
+      0.023701,
+      "dh build --buildsystem=golang --with=golang\r\n"
+    ],
+    [
+      1.000000,
+      "   dh_testdir -O--buildsystem=golang\r\n"
+    ],
+    [
+      0.993487,
+      "   dh_auto_configure -O--buildsystem=golang\r\n"
+    ],
+    [
+      1.000000,
+      "mkdir: "
+    ],
+    [
+      0.000641,
+      "cannot create directory ‘obj-arm-linux-gnueabihf’"
+    ],
+    [
+      0.001599,
+      ": Permission denied"
+    ],
+    [
+      0.000709,
+      "\r\n"
+    ],
+    [
+      0.003863,
+      "dh_auto_configure: mkdir -p obj-arm-linux-gnueabihf returned exit code 1\r\n"
+    ],
+    [
+      0.052435,
+      "debian/rules:6: recipe for target 'build' failed\r\n"
+    ],
+    [
+      0.000847,
+      "make: *** [build] Error 1\r\n"
+    ],
+    [
+      0.004074,
+      "dpkg-buildpackage: error: debian/rules build gave error exit status 2\r\n"
+    ],
+    [
+      0.045853,
+      "\u001b]0;pi@raspberrypi: /tmp/obfs4proxy-0.0.3\u0007\u001b[01;32mpi@raspberrypi\u001b[00m \u001b[01;34m/tmp/obfs4proxy-0.0.3 $\u001b[00m "
+    ],
+    [
+      1.000000,
+      "DEB_BUILD_OPTIONS=nocheck dpkg-buildpackage -b -\r-uc"
+    ],
+    [
+      1.000000,
+      "\u001b[A\r\u001b]0;pi@raspberrypi: /tmp/obfs4proxy-0.0.3\u0007\u001b[01;32mpi@raspberrypi\u001b[00m \u001b[01;34m/tmp/obfs4proxy-0.0.3 $\u001b[00m "
+    ],
+    [
+      0.961029,
+      "sDEB_BUILD_OPTIONS=nocheck dpkg-buildpackage -b -uc\u001b[A\r\u001b]0;pi@raspberrypi: /tmp/obfs4proxy-0.0.3\u0007\u001b[01;32mpi@raspberrypi\u001b[00m \u001b[01;34m/tmp/obfs4proxy-0.0.3 $\u001b[00m \u001b[C"
+    ],
+    [
+      0.197046,
+      "uDEB_BUILD_OPTIONS=nocheck dpkg-buildpackage -b -uc\u001b[A\r\u001b]0;pi@raspberrypi: /tmp/obfs4proxy-0.0.3\u0007\u001b[01;32mpi@raspberrypi\u001b[00m \u001b[01;34m/tmp/obfs4proxy-0.0.3 $\u001b[00m \u001b[C\u001b[C"
+    ],
+    [
+      0.122497,
+      "dDEB_BUILD_OPTIONS=nocheck dpkg-buildpackage -b -uc\u001b[A\r\u001b]0;pi@raspberrypi: /tmp/obfs4proxy-0.0.3\u0007\u001b[01;32mpi@raspberrypi\u001b[00m \u001b[01;34m/tmp/obfs4proxy-0.0.3 $\u001b[00m \u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.100840,
+      "oDEB_BUILD_OPTIONS=nocheck dpkg-buildpackage \u001b[1@-\u001b[A\r\u001b]0;pi@raspberrypi: /tmp/obfs4proxy-0.0.3\u0007\u001b[01;32mpi@raspberrypi\u001b[00m \u001b[01;34m/tmp/obfs4proxy-0.0.3 $\u001b[00m \u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.384472,
+      " DEB_BUILD_OPTIONS=nocheck dpkg-buildpackage\u001b[1@ \u001b[A\r\u001b]0;pi@raspberrypi: /tmp/obfs4proxy-0.0.3\u0007\u001b[01;32mpi@raspberrypi\u001b[00m \u001b[01;34m/tmp/obfs4proxy-0.0.3 $\u001b[00m \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      1.000000,
+      "\r\n\r\r\n"
+    ],
+    [
+      1.000000,
+      "dpkg-buildpackage: source package obfs4proxy\r\n"
+    ],
+    [
+      0.001379,
+      "dpkg-buildpackage: source version 0.0.3-2\r\n"
+    ],
+    [
+      0.003680,
+      "dpkg-buildpackage: source distribution unstable\r\n"
+    ],
+    [
+      0.001566,
+      "dpkg-buildpackage: source changed by Jérémy Bobbio \u003clunar@debian.org\u003e\r\n"
+    ],
+    [
+      1.000000,
+      "dpkg-buildpackage: host architecture armhf\r\n"
+    ],
+    [
+      0.001331,
+      " dpkg-source --before-build obfs4proxy-0.0.3\r\n"
+    ],
+    [
+      1.000000,
+      " debian/rules clean"
+    ],
+    [
+      0.000032,
+      "\r\n"
+    ],
+    [
+      0.023782,
+      "dh clean --buildsystem=golang --with=golang\r\n"
+    ],
+    [
+      1.000000,
+      "   dh_testdir -O--buildsystem=golang\r\n"
+    ],
+    [
+      0.979567,
+      "   dh_auto_clean -O--buildsystem=golang\r\n"
+    ],
+    [
+      1.000000,
+      "   dh_clean -O--buildsystem=golang\r\n"
+    ],
+    [
+      1.000000,
+      " debian/rules build\r\n"
+    ],
+    [
+      0.023739,
+      "dh build --buildsystem=golang --with=golang\r\n"
+    ],
+    [
+      1.000000,
+      "   dh_testdir -O--buildsystem=golang"
+    ],
+    [
+      0.000121,
+      "\r\n"
+    ],
+    [
+      0.982618,
+      "   dh_auto_configure -O--buildsystem=golang\r\n"
+    ],
+    [
+      1.000000,
+      "   dh_auto_build -O--buildsystem=golang\r\n"
+    ],
+    [
+      1.000000,
+      "git.torproject.org/pluggable-transports/obfs4.git/common/csrand\r\n"
+    ],
+    [
+      0.276667,
+      "github.com/dchest/siphash"
+    ],
+    [
+      0.001226,
+      "\r\n"
+    ],
+    [
+      0.524535,
+      "git.torproject.org/pluggable-transports/obfs4.git/common/drbg\r\n"
+    ],
+    [
+      0.224073,
+      "code.google.com/p/go.crypto/curve25519\r\n"
+    ],
+    [
+      1.000000,
+      "code.google.com/p/go.crypto/hkdf\r\n"
+    ],
+    [
+      0.177117,
+      "github.com/agl/ed25519/edwards25519\r\n"
+    ],
+    [
+      1.000000,
+      "github.com/agl/ed25519/extra25519\r\n"
+    ],
+    [
+      0.868331,
+      "git.torproject.org/pluggable-transports/obfs4.git/common/ntor\r\n"
+    ],
+    [
+      0.549487,
+      "git.torproject.org/pluggable-transports/obfs4.git/common/probdist\r\n"
+    ],
+    [
+      0.249364,
+      "git.torproject.org/pluggable-transports/obfs4.git/common/replayfilter"
+    ],
+    [
+      0.000849,
+      "\r\n"
+    ],
+    [
+      0.208154,
+      "git.torproject.org/pluggable-transports/obfs4.git/common/uniformdh\r\n"
+    ],
+    [
+      0.281413,
+      "code.google.com/p/go.net/proxy\r\n"
+    ],
+    [
+      1.000000,
+      "git.torproject.org/pluggable-transports/goptlib.git"
+    ],
+    [
+      0.001389,
+      "\r\n"
+    ],
+    [
+      1.000000,
+      "git.torproject.org/pluggable-transports/obfs4.git/transports/base\r\n"
+    ],
+    [
+      0.256584,
+      "git.torproject.org/pluggable-transports/obfs4.git/transports/obfs2\r\n"
+    ],
+    [
+      0.768515,
+      "git.torproject.org/pluggable-transports/obfs4.git/transports/obfs3\r\n"
+    ],
+    [
+      0.879241,
+      "code.google.com/p/go.crypto/poly1305\r\n"
+    ],
+    [
+      1.000000,
+      "code.google.com/p/go.crypto/salsa20/salsa\r\n"
+    ],
+    [
+      0.811988,
+      "code.google.com/p/go.crypto/nacl/secretbox\r\n"
+    ],
+    [
+      0.287263,
+      "git.torproject.org/pluggable-transports/obfs4.git/transports/obfs4/framing"
+    ],
+    [
+      0.001034,
+      "\r\n"
+    ],
+    [
+      0.372833,
+      "git.torproject.org/pluggable-transports/obfs4.git/transports/obfs4\r\n"
+    ],
+    [
+      1.000000,
+      "git.torproject.org/pluggable-transports/obfs4.git/transports\r\n"
+    ],
+    [
+      0.333480,
+      "git.torproject.org/pluggable-transports/obfs4.git/obfs4proxy\r\n"
+    ],
+    [
+      1.000000,
+      "   dh_auto_test -O--buildsystem=golang\r\n"
+    ],
+    [
+      0.862480,
+      " debian/rules binary"
+    ],
+    [
+      0.000959,
+      "\r\n"
+    ],
+    [
+      0.025096,
+      "dh binary --buildsystem=golang --with=golang\r\n"
+    ],
+    [
+      1.000000,
+      "   dh_auto_test -O--buildsystem=golang\r\n"
+    ],
+    [
+      1.000000,
+      "   dh_testroot -O--buildsystem=golang\r\n"
+    ],
+    [
+      0.509265,
+      "   dh_prep -O--buildsystem=golang\r\n"
+    ],
+    [
+      1.000000,
+      "   dh_auto_install -O--buildsystem=golang\r\n"
+    ],
+    [
+      1.000000,
+      "   dh_installdocs -O--buildsystem=golang\r\n"
+    ],
+    [
+      1.000000,
+      "   dh_installchangelogs -O--buildsystem=golang\r\n"
+    ],
+    [
+      1.000000,
+      "   dh_installman -O--buildsystem=golang\r\n"
+    ],
+    [
+      1.000000,
+      "   dh_perl -O--buildsystem=golang\r\n"
+    ],
+    [
+      1.000000,
+      "   dh_link -O--buildsystem=golang\r\n"
+    ],
+    [
+      1.000000,
+      "   dh_compress -O--buildsystem=golang"
+    ],
+    [
+      0.000452,
+      "\r\n"
+    ],
+    [
+      1.000000,
+      "   dh_fixperms -O--buildsystem=golang\r\n"
+    ],
+    [
+      1.000000,
+      "   dh_strip -O--buildsystem=golang\r\n"
+    ],
+    [
+      1.000000,
+      "   dh_makeshlibs -O--buildsystem=golang\r\n"
+    ],
+    [
+      1.000000,
+      "   dh_shlibdeps -O--buildsystem=golang\r\n"
+    ],
+    [
+      1.000000,
+      "   dh_installdeb -O--buildsystem=golang\r\n"
+    ],
+    [
+      1.000000,
+      "   dh_golang -O--buildsystem=golang\r\n"
+    ],
+    [
+      1.000000,
+      "   dh_gencontrol -O--buildsystem=golang\r\n"
+    ],
+    [
+      1.000000,
+      "dpkg-gencontrol: warning: package obfs4proxy: unused substitution variable ${misc:Built-Using}"
+    ],
+    [
+      0.000244,
+      "\r\n"
+    ],
+    [
+      0.099018,
+      "   dh_md5sums -O--buildsystem=golang\r\n"
+    ],
+    [
+      1.000000,
+      "   dh_builddeb -u-Zxz -O--buildsystem=golang\r\n"
+    ],
+    [
+      1.000000,
+      "dpkg-deb: building package `obfs4proxy' in `../obfs4proxy_0.0.3-2_armhf.deb'.\r\n"
+    ],
+    [
+      1.000000,
+      " dpkg-genchanges -b \u003e../obfs4proxy_0.0.3-2_armhf.changes\r\n"
+    ],
+    [
+      1.000000,
+      "dpkg-genchanges: binary-only upload (no source code included)\r\n"
+    ],
+    [
+      0.405275,
+      " dpkg-source --after-build obfs4proxy-0.0.3\r\n"
+    ],
+    [
+      1.000000,
+      "dpkg-buildpackage: binary-only upload (no source included)\r\n"
+    ],
+    [
+      0.119521,
+      "\u001b]0;pi@raspberrypi: /tmp/obfs4proxy-0.0.3\u0007\u001b[01;32mpi@raspberrypi\u001b[00m \u001b[01;34m/tmp/obfs4proxy-0.0.3 $\u001b[00m "
+    ],
+    [
+      1.000000,
+      "#"
+    ],
+    [
+      0.538503,
+      " "
+    ],
+    [
+      1.000000,
+      "i"
+    ],
+    [
+      0.266026,
+      "t"
+    ],
+    [
+      1.000000,
+      "s"
+    ],
+    [
+      0.230856,
+      " "
+    ],
+    [
+      0.132154,
+      "t"
+    ],
+    [
+      0.107356,
+      "i"
+    ],
+    [
+      0.189818,
+      "m"
+    ],
+    [
+      0.063187,
+      "e"
+    ],
+    [
+      0.198230,
+      " "
+    ],
+    [
+      1.000000,
+      "t"
+    ],
+    [
+      0.127588,
+      "o"
+    ],
+    [
+      0.481848,
+      " "
+    ],
+    [
+      0.263948,
+      "i"
+    ],
+    [
+      0.145124,
+      "n"
+    ],
+    [
+      0.100945,
+      "s"
+    ],
+    [
+      0.128392,
+      "t"
+    ],
+    [
+      0.116272,
+      "a"
+    ],
+    [
+      0.162183,
+      "l"
+    ],
+    [
+      0.150257,
+      "l"
+    ],
+    [
+      0.206812,
+      " "
+    ],
+    [
+      0.641492,
+      "."
+    ],
+    [
+      0.263555,
+      "d"
+    ],
+    [
+      0.138296,
+      "e"
+    ],
+    [
+      0.090160,
+      "b"
+    ],
+    [
+      0.235891,
+      " "
+    ],
+    [
+      0.413887,
+      "p"
+    ],
+    [
+      0.120442,
+      "a"
+    ],
+    [
+      0.199052,
+      "c"
+    ],
+    [
+      0.116650,
+      "k"
+    ],
+    [
+      0.089967,
+      "a"
+    ],
+    [
+      0.157815,
+      "g"
+    ],
+    [
+      0.052205,
+      "e"
+    ],
+    [
+      0.515755,
+      "\r\n"
+    ],
+    [
+      0.002693,
+      "\u001b]0;pi@raspberrypi: /tmp/obfs4proxy-0.0.3\u0007\u001b[01;32mpi@raspberrypi\u001b[00m \u001b[01;34m/tmp/obfs4proxy-0.0.3 $\u001b[00m "
+    ],
+    [
+      0.390078,
+      "c"
+    ],
+    [
+      0.079443,
+      "d"
+    ],
+    [
+      0.148091,
+      " "
+    ],
+    [
+      0.181748,
+      "."
+    ],
+    [
+      0.142042,
+      "."
+    ],
+    [
+      0.186461,
+      "\r\n"
+    ],
+    [
+      0.005769,
+      "\u001b]0;pi@raspberrypi: /tmp\u0007\u001b[01;32mpi@raspberrypi\u001b[00m \u001b[01;34m/tmp $\u001b[00m "
+    ],
+    [
+      1.000000,
+      "d"
+    ],
+    [
+      0.196733,
+      "p"
+    ],
+    [
+      0.195979,
+      "k"
+    ],
+    [
+      0.300378,
+      "g"
+    ],
+    [
+      0.278604,
+      " "
+    ],
+    [
+      0.225976,
+      "-"
+    ],
+    [
+      0.180656,
+      "i"
+    ],
+    [
+      0.175718,
+      " "
+    ],
+    [
+      1.000000,
+      "o"
+    ],
+    [
+      0.268630,
+      "b"
+    ],
+    [
+      0.213525,
+      "f"
+    ],
+    [
+      1.000000,
+      "\u0007"
+    ],
+    [
+      0.001696,
+      "s4proxy"
+    ],
+    [
+      1.000000,
+      "_"
+    ],
+    [
+      0.431968,
+      "0.0.3-2_armhf.deb "
+    ],
+    [
+      1.000000,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.460597,
+      "\u001b[1@s"
+    ],
+    [
+      0.117412,
+      "\u001b[1@u"
+    ],
+    [
+      0.116667,
+      "\u001b[C\u001b[1@d\u0008"
+    ],
+    [
+      0.101063,
+      "\u001b[1@o"
+    ],
+    [
+      0.330743,
+      "\u001b[1@ "
+    ],
+    [
+      0.884628,
+      "\r\n"
+    ],
+    [
+      0.809846,
+      "Selecting previously unselected package obfs4proxy.\r\n"
+    ],
+    [
+      0.001034,
+      "(Reading database ... \r"
+    ],
+    [
+      0.083419,
+      "(Reading database ... 5%\r"
+    ],
+    [
+      0.001197,
+      "(Reading database ... 10%\r"
+    ],
+    [
+      0.001200,
+      "(Reading database ... 15%\r"
+    ],
+    [
+      0.001779,
+      "(Reading database ... 20%\r"
+    ],
+    [
+      0.001276,
+      "(Reading database ... 25%\r"
+    ],
+    [
+      0.001066,
+      "(Reading database ... 30%\r"
+    ],
+    [
+      0.001300,
+      "(Reading database ... 35%\r"
+    ],
+    [
+      0.001420,
+      "(Reading database ... 40%\r"
+    ],
+    [
+      0.001292,
+      "(Reading database ... 45%\r"
+    ],
+    [
+      0.001102,
+      "(Reading database ... 50%\r"
+    ],
+    [
+      0.001864,
+      "(Reading database ... 55%\r"
+    ],
+    [
+      0.146612,
+      "(Reading database ... 60%\r"
+    ],
+    [
+      0.046559,
+      "(Reading database ... 65%\r"
+    ],
+    [
+      0.044144,
+      "(Reading database ... 70%\r"
+    ],
+    [
+      0.036280,
+      "(Reading database ... 75%\r"
+    ],
+    [
+      0.030151,
+      "(Reading database ... 80%\r"
+    ],
+    [
+      0.064371,
+      "(Reading database ... 85%\r"
+    ],
+    [
+      0.093053,
+      "(Reading database ... 90%\r"
+    ],
+    [
+      0.355918,
+      "(Reading database ... 95%\r"
+    ],
+    [
+      0.243955,
+      "(Reading database ... 100%\r"
+    ],
+    [
+      0.000821,
+      "(Reading database ... "
+    ],
+    [
+      0.001113,
+      "123148 files and directories currently installed.)\r\n"
+    ],
+    [
+      0.069812,
+      "Preparing to unpack obfs4proxy_0.0.3-2_armhf.deb ...\r\n"
+    ],
+    [
+      0.036118,
+      "Unpacking obfs4proxy (0.0.3-2) ...\r\n"
+    ],
+    [
+      1.000000,
+      "Setting up obfs4proxy (0.0.3-2) ...\r\n"
+    ],
+    [
+      0.106449,
+      "Processing triggers for man-db (2.7.0.2-5) ...\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b]0;pi@raspberrypi: /tmp\u0007\u001b[01;32mpi@raspberrypi\u001b[00m \u001b[01;34m/tmp $\u001b[00m "
+    ],
+    [
+      1.000000,
+      "#"
+    ],
+    [
+      0.571991,
+      " "
+    ],
+    [
+      0.251220,
+      "o"
+    ],
+    [
+      0.141535,
+      "k"
+    ],
+    [
+      0.405500,
+      " "
+    ],
+    [
+      1.000000,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.178583,
+      ","
+    ],
+    [
+      0.186644,
+      " "
+    ],
+    [
+      0.542800,
+      "n"
+    ],
+    [
+      0.180110,
+      "o"
+    ],
+    [
+      0.432394,
+      "w"
+    ],
+    [
+      0.378242,
+      " "
+    ],
+    [
+      1.000000,
+      "w"
+    ],
+    [
+      0.146839,
+      "e"
+    ],
+    [
+      0.901374,
+      " "
+    ],
+    [
+      0.229150,
+      "h"
+    ],
+    [
+      0.165995,
+      "a"
+    ],
+    [
+      0.154964,
+      "v"
+    ],
+    [
+      0.114902,
+      "e"
+    ],
+    [
+      0.818234,
+      " "
+    ],
+    [
+      0.289917,
+      "o"
+    ],
+    [
+      0.262774,
+      "b"
+    ],
+    [
+      0.279329,
+      "f"
+    ],
+    [
+      0.563926,
+      "s"
+    ],
+    [
+      1.000000,
+      "4"
+    ],
+    [
+      0.221824,
+      "p"
+    ],
+    [
+      0.142442,
+      "r"
+    ],
+    [
+      0.114183,
+      "o"
+    ],
+    [
+      0.486677,
+      "x"
+    ],
+    [
+      0.062798,
+      "y"
+    ],
+    [
+      1.000000,
+      " "
+    ],
+    [
+      0.216699,
+      "i"
+    ],
+    [
+      0.144111,
+      "n"
+    ],
+    [
+      0.175108,
+      " "
+    ],
+    [
+      1.000000,
+      "/"
+    ],
+    [
+      0.366140,
+      "u"
+    ],
+    [
+      0.200975,
+      "s"
+    ],
+    [
+      0.580609,
+      "r"
+    ],
+    [
+      0.830450,
+      "/"
+    ],
+    [
+      0.288237,
+      "b"
+    ],
+    [
+      0.115976,
+      "i"
+    ],
+    [
+      0.140128,
+      "n"
+    ],
+    [
+      0.590742,
+      "/"
+    ],
+    [
+      0.707234,
+      "o"
+    ],
+    [
+      0.272060,
+      "b"
+    ],
+    [
+      0.312293,
+      "f"
+    ],
+    [
+      0.624355,
+      "s"
+    ],
+    [
+      1.000000,
+      "4"
+    ],
+    [
+      0.193998,
+      "p"
+    ],
+    [
+      0.184331,
+      "r"
+    ],
+    [
+      0.296368,
+      "o"
+    ],
+    [
+      0.624705,
+      "x"
+    ],
+    [
+      0.073945,
+      "y"
+    ],
+    [
+      1.000000,
+      "\r\n\u001b]0;pi@raspberrypi: /tmp\u0007\u001b[01;32mpi@raspberrypi\u001b[00m \u001b[01;34m/tmp $\u001b[00m "
+    ],
+    [
+      1.000000,
+      "w"
+    ],
+    [
+      0.151537,
+      "h"
+    ],
+    [
+      0.105806,
+      "e"
+    ],
+    [
+      0.136038,
+      "r"
+    ],
+    [
+      0.062742,
+      "e"
+    ],
+    [
+      0.691377,
+      "i"
+    ],
+    [
+      0.057990,
+      "s"
+    ],
+    [
+      0.346439,
+      " "
+    ],
+    [
+      0.253479,
+      "o"
+    ],
+    [
+      0.239426,
+      "b"
+    ],
+    [
+      0.294824,
+      "f"
+    ],
+    [
+      0.362615,
+      "s"
+    ],
+    [
+      0.159678,
+      "4"
+    ],
+    [
+      0.452636,
+      "p"
+    ],
+    [
+      0.116659,
+      "r"
+    ],
+    [
+      0.109063,
+      "o"
+    ],
+    [
+      0.457610,
+      "x"
+    ],
+    [
+      0.084902,
+      "y"
+    ],
+    [
+      0.478037,
+      "\r\n"
+    ],
+    [
+      0.068654,
+      "obfs4proxy: /usr/bin/obfs4proxy /usr/share/man/man1/obfs4proxy.1.gz\r\n"
+    ],
+    [
+      0.006952,
+      "\u001b]0;pi@raspberrypi: /tmp\u0007\u001b[01;32mpi@raspberrypi\u001b[00m \u001b[01;34m/tmp $\u001b[00m "
+    ],
+    [
+      1.000000,
+      "logout\r\n"
+    ],
+    [
+      0.034373,
+      "Connection to 192.168.1.35 closed.\r\r\n"
+    ],
+    [
+      0.001586,
+      "\u001b]0;m2sh@mohammad-linux: ~\u0007m2sh@mohammad-linux:~$ "
+    ],
+    [
+      1.000000,
+      "exit"
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ]
+  ]
+}
