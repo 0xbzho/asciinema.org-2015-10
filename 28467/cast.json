@@ -1,0 +1,886 @@
+{
+  "version": 1,
+  "width": 86,
+  "height": 24,
+  "duration": 92.718492,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.127111,
+      "\u001b]0;m2sh@mohammad-linux: ~\u0007m2sh@mohammad-linux:~$ "
+    ],
+    [
+      1.875033,
+      "s"
+    ],
+    [
+      0.178863,
+      "s"
+    ],
+    [
+      0.144118,
+      "h"
+    ],
+    [
+      0.278756,
+      " "
+    ],
+    [
+      0.281128,
+      "p"
+    ],
+    [
+      0.179604,
+      "i"
+    ],
+    [
+      0.341972,
+      "@"
+    ],
+    [
+      1.503966,
+      "1"
+    ],
+    [
+      0.131104,
+      "9"
+    ],
+    [
+      0.148350,
+      "2"
+    ],
+    [
+      0.201290,
+      "."
+    ],
+    [
+      0.269029,
+      "1"
+    ],
+    [
+      0.171720,
+      "6"
+    ],
+    [
+      0.218410,
+      "8"
+    ],
+    [
+      1.054972,
+      "."
+    ],
+    [
+      0.155130,
+      "1"
+    ],
+    [
+      0.126930,
+      "."
+    ],
+    [
+      1.347628,
+      "3"
+    ],
+    [
+      0.236614,
+      "5"
+    ],
+    [
+      0.968727,
+      "\r\n"
+    ],
+    [
+      0.842656,
+      "pi@192.168.1.35's password: "
+    ],
+    [
+      2.000000,
+      "\r\n"
+    ],
+    [
+      0.526698,
+      "\r\nThe programs included with the Debian GNU/Linux system are free software;\r\nthe exact distribution terms for each program are described in the\r\nindividual files in /usr/share/doc/*/copyright.\r\n\r\nDebian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent\r\npermitted by applicable law.\r\nLast login: Wed Oct 21 15:14:30 2015 from 192.168.1.34\r\r\n"
+    ],
+    [
+      1.380198,
+      "\u001b]0;pi@raspberrypi: ~\u0007\u001b[01;32mpi@raspberrypi\u001b[00m \u001b[01;34m~ $\u001b[00m "
+    ],
+    [
+      0.405998,
+      "\u001b[H\u001b[2J\u001b]0;pi@raspberrypi: ~\u0007\u001b[01;32mpi@raspberrypi\u001b[00m \u001b[01;34m~ $\u001b[00m "
+    ],
+    [
+      2.000000,
+      "s"
+    ],
+    [
+      0.125352,
+      "u"
+    ],
+    [
+      0.053042,
+      "d"
+    ],
+    [
+      0.140761,
+      "o"
+    ],
+    [
+      0.176354,
+      " "
+    ],
+    [
+      0.157521,
+      "a"
+    ],
+    [
+      0.111411,
+      "p"
+    ],
+    [
+      0.179911,
+      "t"
+    ],
+    [
+      0.187035,
+      "-"
+    ],
+    [
+      0.306399,
+      "g"
+    ],
+    [
+      0.079929,
+      "e"
+    ],
+    [
+      0.095215,
+      "t"
+    ],
+    [
+      0.194891,
+      " "
+    ],
+    [
+      0.372620,
+      "i"
+    ],
+    [
+      0.186413,
+      "n"
+    ],
+    [
+      0.079396,
+      "s"
+    ],
+    [
+      0.127515,
+      "t"
+    ],
+    [
+      0.111693,
+      "a"
+    ],
+    [
+      0.214597,
+      "l"
+    ],
+    [
+      0.163523,
+      "l"
+    ],
+    [
+      0.248904,
+      " "
+    ],
+    [
+      0.326778,
+      "t"
+    ],
+    [
+      0.183534,
+      "o"
+    ],
+    [
+      0.112105,
+      "r"
+    ],
+    [
+      0.835986,
+      "\r\n"
+    ],
+    [
+      0.360516,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.159523,
+      "\rReading package lists... 100%\r"
+    ],
+    [
+      0.001103,
+      "\rReading package lists... Done\r"
+    ],
+    [
+      0.001013,
+      "\r\n"
+    ],
+    [
+      0.149544,
+      "\rBuilding dependency tree... 0%\r"
+    ],
+    [
+      0.001156,
+      "\rBuilding dependency tree... 0%\r"
+    ],
+    [
+      0.295649,
+      "\rBuilding dependency tree... 50%\r"
+    ],
+    [
+      0.001070,
+      "\rBuilding dependency tree... 50%\r"
+    ],
+    [
+      0.264450,
+      "\rBuilding dependency tree... 55%\r"
+    ],
+    [
+      0.717343,
+      "\rBuilding dependency tree... 69%\r"
+    ],
+    [
+      0.720427,
+      "\rBuilding dependency tree... 84%\r"
+    ],
+    [
+      0.718299,
+      "\rBuilding dependency tree... 99%\r"
+    ],
+    [
+      0.053401,
+      "\rBuilding dependency tree       \r"
+    ],
+    [
+      0.001016,
+      "\r\n"
+    ],
+    [
+      0.001171,
+      "\rReading state information... 0%\r"
+    ],
+    [
+      0.005963,
+      "\rReading state information... 0%\r"
+    ],
+    [
+      0.072243,
+      "\rReading state information... Done\r"
+    ],
+    [
+      0.001040,
+      "\r\n"
+    ],
+    [
+      2.000000,
+      "The following extra packages will be installed:\r\n"
+    ],
+    [
+      0.000798,
+      "  tor-geoipdb torsocks\r\n"
+    ],
+    [
+      0.034295,
+      "Suggested packages:\r\n"
+    ],
+    [
+      0.001068,
+      "  mixmaster xul-ext-torbutton socat tor-arm polipo privoxy apparmor-utils obfsproxy"
+    ],
+    [
+      0.000916,
+      "\r\n"
+    ],
+    [
+      0.068504,
+      "The following NEW packages will be installed:\r\n"
+    ],
+    [
+      0.000925,
+      "  tor tor-geoipdb torsocks\r\n"
+    ],
+    [
+      0.184077,
+      "0 upgraded, 3 newly installed, 0 to remove and 3 not upgraded.\r\n"
+    ],
+    [
+      0.237895,
+      "Need to get 1,915 kB of archives.\r\n"
+    ],
+    [
+      0.001172,
+      "After this operation, 7,097 kB of additional disk space will be used.\r\n"
+    ],
+    [
+      0.001557,
+      "Do you want to continue?"
+    ],
+    [
+      0.001074,
+      " [Y/n] "
+    ],
+    [
+      1.314890,
+      "y"
+    ],
+    [
+      0.545785,
+      "\r\n"
+    ],
+    [
+      0.171301,
+      "\r\r0% [Working]"
+    ],
+    [
+      0.515295,
+      "\r            \r0% [Waiting for headers]"
+    ],
+    [
+      0.370134,
+      "\r                        \r0% [Working]"
+    ],
+    [
+      0.155259,
+      "\r            \r0% [Connecting to ftp.tsukuba.wide.ad.jp]"
+    ],
+    [
+      0.329312,
+      "\r                                         \r0% [Connecting to ftp.tsukuba.wide.ad.jp (203.178.132.80)]"
+    ],
+    [
+      0.501522,
+      "\r                                                          \r0% [Waiting for headers]"
+    ],
+    [
+      0.489023,
+      "\r                        \rGet:1 http://mirrordirector.raspbian.org/raspbian/ jessie/main tor armhf 0.2.5.12-1 [1,046 kB]\r\n"
+    ],
+    [
+      0.001429,
+      "\r                        \r0% [1 tor 0 B/1,046 kB 0%]"
+    ],
+    [
+      0.502623,
+      "\r                          \r1% [1 tor 14.6 kB/1,046 kB 1%]"
+    ],
+    [
+      0.501938,
+      "\r2% [1 tor 41.5 kB/1,046 kB 4%]"
+    ],
+    [
+      0.501791,
+      "\r4% [1 tor 71.2 kB/1,046 kB 7%]"
+    ],
+    [
+      0.501825,
+      "\r5% [1 tor 102 kB/1,046 kB 10%]"
+    ],
+    [
+      0.502047,
+      "\r7% [1 tor 133 kB/1,046 kB 13%]"
+    ],
+    [
+      0.502514,
+      "\r9% [1 tor 163 kB/1,046 kB 16%]"
+    ],
+    [
+      0.501911,
+      "\r                              \r10% [1 tor 194 kB/1,046 kB 19%]"
+    ],
+    [
+      0.502043,
+      "\r                               \r12% [1 tor 225 kB/1,046 kB 21%]                                         35.3 kB/s 47s"
+    ],
+    [
+      0.502169,
+      "\r13% [1 tor 256 kB/1,046 kB 24%]                                         35.3 kB/s 47s"
+    ],
+    [
+      0.501954,
+      "\r15% [1 tor 286 kB/1,046 kB 27%]                                         35.3 kB/s 46s"
+    ],
+    [
+      0.501997,
+      "\r17% [1 tor 317 kB/1,046 kB 30%]                                         35.3 kB/s 45s"
+    ],
+    [
+      0.502138,
+      "\r18% [1 tor 348 kB/1,046 kB 33%]                                         35.3 kB/s 44s"
+    ],
+    [
+      0.500909,
+      "\r20% [1 tor 377 kB/1,046 kB 36%]                                         35.3 kB/s 43s"
+    ],
+    [
+      0.502112,
+      "\r21% [1 tor 408 kB/1,046 kB 39%]                                         35.3 kB/s 42s"
+    ],
+    [
+      0.502102,
+      "\r23% [1 tor 439 kB/1,046 kB 42%]                                         35.3 kB/s 41s"
+    ],
+    [
+      0.502213,
+      "\r24% [1 tor 469 kB/1,046 kB 45%]                                         35.3 kB/s 41s"
+    ],
+    [
+      0.502146,
+      "\r26% [1 tor 499 kB/1,046 kB 48%]                                         35.3 kB/s 40s"
+    ],
+    [
+      0.502139,
+      "\r28% [1 tor 528 kB/1,046 kB 50%]                                         35.3 kB/s 39s"
+    ],
+    [
+      0.502060,
+      "\r29% [1 tor 559 kB/1,046 kB 53%]                                         35.3 kB/s 38s"
+    ],
+    [
+      0.502390,
+      "\r31% [1 tor 589 kB/1,046 kB 56%]                                         60.4 kB/s 21s"
+    ],
+    [
+      0.502194,
+      "\r32% [1 tor 620 kB/1,046 kB 59%]                                         60.4 kB/s 21s"
+    ],
+    [
+      0.502051,
+      "\r34% [1 tor 651 kB/1,046 kB 62%]                                         60.4 kB/s 20s"
+    ],
+    [
+      0.501950,
+      "\r36% [1 tor 681 kB/1,046 kB 65%]                                         60.4 kB/s 20s"
+    ],
+    [
+      0.502422,
+      "\r37% [1 tor 710 kB/1,046 kB 68%]                                         60.4 kB/s 19s"
+    ],
+    [
+      0.500848,
+      "\r39% [1 tor 741 kB/1,046 kB 71%]                                         60.4 kB/s 19s"
+    ],
+    [
+      0.502174,
+      "\r40% [1 tor 772 kB/1,046 kB 74%]                                         60.4 kB/s 18s"
+    ],
+    [
+      0.502454,
+      "\r42% [1 tor 802 kB/1,046 kB 77%]                                         60.4 kB/s 18s"
+    ],
+    [
+      0.502003,
+      "\r43% [1 tor 831 kB/1,046 kB 79%]                                         60.4 kB/s 17s"
+    ],
+    [
+      0.502104,
+      "\r45% [1 tor 862 kB/1,046 kB 82%]                                         60.4 kB/s 17s"
+    ],
+    [
+      0.502281,
+      "\r45% [1 tor 871 kB/1,046 kB 83%]                                         60.4 kB/s 17s"
+    ],
+    [
+      0.502251,
+      "\r45% [1 tor 871 kB/1,046 kB 83%]                                         60.4 kB/s 17s"
+    ],
+    [
+      0.502177,
+      "\r45% [1 tor 871 kB/1,046 kB 83%]                                         46.8 kB/s 22s"
+    ],
+    [
+      0.501931,
+      "\r45% [1 tor 871 kB/1,046 kB 83%]                                         46.8 kB/s 22s"
+    ],
+    [
+      0.504890,
+      "\r45% [1 tor 871 kB/1,046 kB 83%]                                         46.8 kB/s 22s"
+    ],
+    [
+      0.209849,
+      "\r                                                                                     \rGet:2 http://mirrordirector.raspbian.org/raspbian/ jessie/main tor armhf 0.2.5.12-1 [1,046 kB]"
+    ],
+    [
+      0.000805,
+      "\r\n"
+    ],
+    [
+      0.002018,
+      "\r45% [2 tor 871 kB/1,046 kB 83%]                                         46.8 kB/s 22s"
+    ],
+    [
+      0.502225,
+      "\r48% [2 tor 927 kB/1,046 kB 89%]                                         46.8 kB/s 21s"
+    ],
+    [
+      0.502508,
+      "\r50% [2 tor 958 kB/1,046 kB 92%]                                         46.8 kB/s 20s"
+    ],
+    [
+      0.502142,
+      "\r52% [2 tor 989 kB/1,046 kB 95%]                                         46.8 kB/s 19s"
+    ],
+    [
+      0.502077,
+      "\r53% [2 tor 1,020 kB/1,046 kB 98%]                                       46.8 kB/s 19s"
+    ],
+    [
+      0.419745,
+      "\r55% [Working]                                                           46.8 kB/s 18s"
+    ],
+    [
+      0.502207,
+      "\r55% [Waiting for headers]                                               46.8 kB/s 18s"
+    ],
+    [
+      0.052875,
+      "\r                                                                                     \rGet:3 http://mirrordirector.raspbian.org/raspbian/ jessie/main torsocks armhf 2.0.0-3 [58.1 kB]\r\n"
+    ],
+    [
+      0.001501,
+      "\r55% [3 torsocks 0 B/58.1 kB 0%]                                         46.8 kB/s 18s"
+    ],
+    [
+      0.501781,
+      "\r56% [3 torsocks 31.4 kB/58.1 kB 54%]                                    46.8 kB/s 17s"
+    ],
+    [
+      0.430122,
+      "\r58% [Working]                                                           46.8 kB/s 17s"
+    ],
+    [
+      0.502067,
+      "\r58% [Waiting for headers]                                               46.8 kB/s 17s"
+    ],
+    [
+      0.020456,
+      "\r                                                                                     \rGet:4 http://mirrordirector.raspbian.org/raspbian/ jessie/main tor-geoipdb all 0.2.5.12-1 [811 kB]\r\n"
+    ],
+    [
+      0.001839,
+      "\r58% [4 tor-geoipdb 0 B/811 kB 0%]                                       46.8 kB/s 17s"
+    ],
+    [
+      0.502175,
+      "\r59% [4 tor-geoipdb 32.6 kB/811 kB 4%]                                   43.2 kB/s 18s"
+    ],
+    [
+      0.502115,
+      "\r61% [4 tor-geoipdb 62.5 kB/811 kB 8%]                                   43.2 kB/s 17s"
+    ],
+    [
+      0.502676,
+      "\r63% [4 tor-geoipdb 93.8 kB/811 kB 12%]                                  43.2 kB/s 16s"
+    ],
+    [
+      0.502082,
+      "\r64% [4 tor-geoipdb 125 kB/811 kB 15%]                                   43.2 kB/s 15s"
+    ],
+    [
+      0.501954,
+      "\r66% [4 tor-geoipdb 156 kB/811 kB 19%]                                   43.2 kB/s 15s"
+    ],
+    [
+      0.502083,
+      "\r67% [4 tor-geoipdb 186 kB/811 kB 23%]                                   43.2 kB/s 14s"
+    ],
+    [
+      0.502116,
+      "\r69% [4 tor-geoipdb 218 kB/811 kB 27%]                                   43.2 kB/s 13s"
+    ],
+    [
+      0.502063,
+      "\r71% [4 tor-geoipdb 249 kB/811 kB 31%]                                   43.2 kB/s 13s"
+    ],
+    [
+      0.501977,
+      "\r72% [4 tor-geoipdb 280 kB/811 kB 35%]                                   43.2 kB/s 12s"
+    ],
+    [
+      0.501965,
+      "\r74% [4 tor-geoipdb 310 kB/811 kB 38%]                                   43.2 kB/s 11s"
+    ],
+    [
+      0.502114,
+      "\r75% [4 tor-geoipdb 340 kB/811 kB 42%]                                   43.2 kB/s 10s"
+    ],
+    [
+      0.502127,
+      "\r77% [4 tor-geoipdb 371 kB/811 kB 46%]                                   43.2 kB/s 10s"
+    ],
+    [
+      0.502110,
+      "\r79% [4 tor-geoipdb 403 kB/811 kB 50%]                                    61.4 kB/s 6s"
+    ],
+    [
+      0.501930,
+      "\r80% [4 tor-geoipdb 431 kB/811 kB 53%]                                    61.4 kB/s 6s"
+    ],
+    [
+      0.501977,
+      "\r82% [4 tor-geoipdb 462 kB/811 kB 57%]                                    61.4 kB/s 5s"
+    ],
+    [
+      0.501998,
+      "\r83% [4 tor-geoipdb 494 kB/811 kB 61%]                                    61.4 kB/s 5s"
+    ],
+    [
+      0.502144,
+      "\r85% [4 tor-geoipdb 524 kB/811 kB 65%]                                    61.4 kB/s 4s"
+    ],
+    [
+      0.501978,
+      "\r87% [4 tor-geoipdb 555 kB/811 kB 68%]                                    61.4 kB/s 4s"
+    ],
+    [
+      0.502132,
+      "\r88% [4 tor-geoipdb 586 kB/811 kB 72%]                                    61.4 kB/s 3s"
+    ],
+    [
+      0.502275,
+      "\r90% [4 tor-geoipdb 616 kB/811 kB 76%]                                    61.4 kB/s 3s"
+    ],
+    [
+      0.502055,
+      "\r91% [4 tor-geoipdb 647 kB/811 kB 80%]                                    61.4 kB/s 2s"
+    ],
+    [
+      0.502477,
+      "\r93% [4 tor-geoipdb 679 kB/811 kB 84%]                                    61.4 kB/s 2s"
+    ],
+    [
+      0.502445,
+      "\r95% [4 tor-geoipdb 709 kB/811 kB 87%]                                    61.4 kB/s 1s"
+    ],
+    [
+      0.501990,
+      "\r96% [4 tor-geoipdb 740 kB/811 kB 91%]                                    61.4 kB/s 1s"
+    ],
+    [
+      0.502014,
+      "\r98% [4 tor-geoipdb 771 kB/811 kB 95%]                                    61.2 kB/s 0s"
+    ],
+    [
+      0.502155,
+      "\r100% [4 tor-geoipdb 802 kB/811 kB 99%]                                   61.2 kB/s 0s"
+    ],
+    [
+      0.136974,
+      "\r100% [Working]                                                           61.2 kB/s 0s"
+    ],
+    [
+      0.001033,
+      "\r                                                                                     \r"
+    ],
+    [
+      0.001614,
+      "Fetched 1,044 kB in 37s (28.0 kB/s)\r\n"
+    ],
+    [
+      2.000000,
+      "Selecting previously unselected package tor.\r\n"
+    ],
+    [
+      0.001854,
+      "(Reading database ... \r"
+    ],
+    [
+      0.523030,
+      "(Reading database ... 5%\r"
+    ],
+    [
+      0.002246,
+      "(Reading database ... 10%\r"
+    ],
+    [
+      0.002145,
+      "(Reading database ... 15%\r"
+    ],
+    [
+      0.002011,
+      "(Reading database ... 20%\r"
+    ],
+    [
+      0.001972,
+      "(Reading database ... 25%\r"
+    ],
+    [
+      0.001905,
+      "(Reading database ... 30%\r"
+    ],
+    [
+      0.002136,
+      "(Reading database ... 35%\r"
+    ],
+    [
+      0.001967,
+      "(Reading database ... 40%\r"
+    ],
+    [
+      0.001842,
+      "(Reading database ... 45%\r"
+    ],
+    [
+      0.001850,
+      "(Reading database ... 50%\r"
+    ],
+    [
+      0.002116,
+      "(Reading database ... 55%\r"
+    ],
+    [
+      0.366825,
+      "(Reading database ... 60%\r"
+    ],
+    [
+      0.240798,
+      "(Reading database ... 65%\r"
+    ],
+    [
+      0.229073,
+      "(Reading database ... 70%\r"
+    ],
+    [
+      0.213814,
+      "(Reading database ... 75%\r"
+    ],
+    [
+      0.201498,
+      "(Reading database ... 80%\r"
+    ],
+    [
+      0.246022,
+      "(Reading database ... 85%\r"
+    ],
+    [
+      0.238718,
+      "(Reading database ... 90%\r"
+    ],
+    [
+      0.506543,
+      "(Reading database ... 95%\r"
+    ],
+    [
+      0.363121,
+      "(Reading database ... 100%\r"
+    ],
+    [
+      0.001634,
+      "(Reading database ... "
+    ],
+    [
+      0.001816,
+      "116795 files and directories currently installed.)\r\n"
+    ],
+    [
+      0.091452,
+      "Preparing to unpack .../tor_0.2.5.12-1_armhf.deb ...\r\n"
+    ],
+    [
+      0.123520,
+      "Unpacking tor (0.2.5.12-1) ...\r\n"
+    ],
+    [
+      2.000000,
+      "Selecting previously unselected package torsocks.\r\n"
+    ],
+    [
+      0.126463,
+      "Preparing to unpack .../torsocks_2.0.0-3_armhf.deb ...\r\n"
+    ],
+    [
+      0.109891,
+      "Unpacking torsocks (2.0.0-3) ...\r\n"
+    ],
+    [
+      1.232615,
+      "Selecting previously unselected package tor-geoipdb.\r\n"
+    ],
+    [
+      0.152311,
+      "Preparing to unpack .../tor-geoipdb_0.2.5.12-1_all.deb ...\r\n"
+    ],
+    [
+      0.039252,
+      "Unpacking tor-geoipdb (0.2.5.12-1) ...\r\n"
+    ],
+    [
+      2.000000,
+      "Processing triggers for systemd (215-17+deb8u2) ...\r\n"
+    ],
+    [
+      1.947552,
+      "Processing triggers for man-db (2.7.0.2-5) ...\r\n"
+    ],
+    [
+      2.000000,
+      "Setting up tor (0.2.5.12-1) ...\r\n"
+    ],
+    [
+      2.000000,
+      "Something or somebody made /var/lib/tor disappear."
+    ],
+    [
+      0.001850,
+      "\r\n"
+    ],
+    [
+      0.001766,
+      "Creating one for you again.\r\n"
+    ],
+    [
+      0.051323,
+      "Something or somebody made /var/log/tor disappear.\r\n"
+    ],
+    [
+      0.001686,
+      "Creating one for you again.\r\n"
+    ],
+    [
+      2.000000,
+      "Setting up torsocks (2.0.0-3) ...\r\n"
+    ],
+    [
+      0.314246,
+      "Setting up tor-geoipdb (0.2.5.12-1) ...\r\n"
+    ],
+    [
+      0.101153,
+      "Processing triggers for systemd (215-17+deb8u2) ...\r\n"
+    ],
+    [
+      2.000000,
+      "\u001b]0;pi@raspberrypi: ~\u0007\u001b[01;32mpi@raspberrypi\u001b[00m \u001b[01;34m~ $\u001b[00m "
+    ],
+    [
+      2.000000,
+      "logout\r\n"
+    ],
+    [
+      0.025041,
+      "Connection to 192.168.1.35 closed.\r\r\n"
+    ],
+    [
+      0.001503,
+      "\u001b]0;m2sh@mohammad-linux: ~\u0007m2sh@mohammad-linux:~$ "
+    ],
+    [
+      2.000000,
+      "exit\r\n"
+    ]
+  ]
+}
