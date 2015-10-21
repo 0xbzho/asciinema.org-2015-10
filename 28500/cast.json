@@ -1,0 +1,2038 @@
+{
+  "version": 1,
+  "width": 86,
+  "height": 24,
+  "duration": 162.230632,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.140829,
+      "\u001b]0;m2sh@mohammad-linux: ~\u0007m2sh@mohammad-linux:~$ "
+    ],
+    [
+      0.962832,
+      "ssh pi@192.168.1.35"
+    ],
+    [
+      1.000000,
+      "\r\n"
+    ],
+    [
+      0.664371,
+      "pi@192.168.1.35's password: "
+    ],
+    [
+      1.000000,
+      "\r\n"
+    ],
+    [
+      0.497282,
+      "\r\nThe programs included with the Debian GNU/Linux system are free software;\r\nthe exact distribution terms for each program are described in the\r\nindividual files in /usr/share/doc/*/copyright.\r\n\r\nDebian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent\r\npermitted by applicable law.\r\nLast login: Wed Oct 21 19:34:43 2015 from 192.168.1.34\r\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b]0;pi@raspberrypi: ~\u0007\u001b[01;32mpi@raspberrypi\u001b[00m \u001b[01;34m~ $\u001b[00m "
+    ],
+    [
+      0.454840,
+      "\u001b[H\u001b[2J\u001b]0;pi@raspberrypi: ~\u0007\u001b[01;32mpi@raspberrypi\u001b[00m \u001b[01;34m~ $\u001b[00m "
+    ],
+    [
+      1.000000,
+      "s"
+    ],
+    [
+      0.160623,
+      "u"
+    ],
+    [
+      0.085090,
+      "d"
+    ],
+    [
+      0.156607,
+      "o"
+    ],
+    [
+      0.520049,
+      " "
+    ],
+    [
+      0.190325,
+      "a"
+    ],
+    [
+      0.125367,
+      "p"
+    ],
+    [
+      0.167179,
+      "t"
+    ],
+    [
+      0.160031,
+      "-"
+    ],
+    [
+      0.302844,
+      "g"
+    ],
+    [
+      0.089291,
+      "e"
+    ],
+    [
+      0.069442,
+      "t"
+    ],
+    [
+      0.213652,
+      " "
+    ],
+    [
+      0.800925,
+      "i"
+    ],
+    [
+      0.180168,
+      "n"
+    ],
+    [
+      0.128895,
+      "s"
+    ],
+    [
+      0.133424,
+      "t"
+    ],
+    [
+      0.127269,
+      "a"
+    ],
+    [
+      0.237125,
+      "l"
+    ],
+    [
+      0.163577,
+      "l"
+    ],
+    [
+      0.168200,
+      " "
+    ],
+    [
+      0.338869,
+      "p"
+    ],
+    [
+      0.181920,
+      "o"
+    ],
+    [
+      0.199218,
+      "l"
+    ],
+    [
+      0.204407,
+      "i"
+    ],
+    [
+      0.481912,
+      "p"
+    ],
+    [
+      0.150958,
+      "o"
+    ],
+    [
+      1.000000,
+      "\r\n"
+    ],
+    [
+      0.339628,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.841747,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.032529,
+      "\rReading package lists... 7%\r"
+    ],
+    [
+      1.000000,
+      "\rReading package lists... Done\r"
+    ],
+    [
+      0.000943,
+      "\r\n"
+    ],
+    [
+      0.157066,
+      "\rBuilding dependency tree... 0%\r"
+    ],
+    [
+      0.001361,
+      "\rBuilding dependency tree... 0%\r"
+    ],
+    [
+      0.000967,
+      "\rBuilding dependency tree... 0%\r"
+    ],
+    [
+      0.322148,
+      "\rBuilding dependency tree... 50%\r"
+    ],
+    [
+      0.000998,
+      "\rBuilding dependency tree... 50%\r"
+    ],
+    [
+      0.422845,
+      "\rBuilding dependency tree... 58%\r"
+    ],
+    [
+      0.731082,
+      "\rBuilding dependency tree... 72%\r"
+    ],
+    [
+      0.741256,
+      "\rBuilding dependency tree... 82%\r"
+    ],
+    [
+      0.739338,
+      "\rBuilding dependency tree... 92%\r"
+    ],
+    [
+      0.431933,
+      "\rBuilding dependency tree       \r"
+    ],
+    [
+      0.000818,
+      "\r\n"
+    ],
+    [
+      0.001139,
+      "\rReading state information... 0%\r"
+    ],
+    [
+      0.001741,
+      "\rReading state information... 0%\r"
+    ],
+    [
+      0.075274,
+      "\rReading state information... Done\r"
+    ],
+    [
+      0.000823,
+      "\r\n"
+    ],
+    [
+      1.000000,
+      "The following extra packages will be installed:"
+    ],
+    [
+      0.000179,
+      "\r\n"
+    ],
+    [
+      0.001693,
+      "  dns-root-data dnsmasq dnsmasq-base libmnl0 libnetfilter-conntrack3"
+    ],
+    [
+      0.000923,
+      "\r\n"
+    ],
+    [
+      0.103724,
+      "The following NEW packages will be installed:\r\n"
+    ],
+    [
+      0.001000,
+      "  dns-root-data dnsmasq dnsmasq-base libmnl0 libnetfilter-conntrack3 polipo\r\n"
+    ],
+    [
+      0.189882,
+      "0 upgraded, 6 newly installed, 0 to remove and 3 not upgraded.\r\n"
+    ],
+    [
+      0.306303,
+      "Need to get 641 kB of archives.\r\n"
+    ],
+    [
+      0.001249,
+      "After this operation, 1,712 kB of additional disk space will be used.\r\n"
+    ],
+    [
+      0.001279,
+      "Do you want to continue?"
+    ],
+    [
+      0.001089,
+      " [Y/n] "
+    ],
+    [
+      1.000000,
+      "y"
+    ],
+    [
+      0.472002,
+      "\r\n"
+    ],
+    [
+      0.333157,
+      "\r\r0% [Working]"
+    ],
+    [
+      0.503897,
+      "\r            \r0% [Waiting for headers]"
+    ],
+    [
+      0.396326,
+      "\r                        \r0% [Working]"
+    ],
+    [
+      0.158609,
+      "\r            \r0% [Connecting to ftp.tsukuba.wide.ad.jp]"
+    ],
+    [
+      0.401125,
+      "\r                                         \r0% [Connecting to ftp.tsukuba.wide.ad.jp (203.178.132.80)]"
+    ],
+    [
+      0.330969,
+      "\r                                                          \r0% [Waiting for headers]"
+    ],
+    [
+      0.302645,
+      "\r                        \rGet:1 http://mirrordirector.raspbian.org/raspbian/ jessie/main libmnl0 armhf 1.0.3-5 [10.9 kB]\r\n"
+    ],
+    [
+      0.001491,
+      "\r                        \r0% [1 libmnl0 0 B/10.9 kB 0%] [Waiting for headers]"
+    ],
+    [
+      0.158768,
+      "\r                                                   \r2% [Waiting for headers]"
+    ],
+    [
+      0.024706,
+      "\r2% [Waiting for headers]"
+    ],
+    [
+      0.328318,
+      "\r2% [Waiting for headers]"
+    ],
+    [
+      0.159229,
+      "\r                        \rGet:2 http://mirrordirector.raspbian.org/raspbian/ jessie/main libnetfilter-conntrack3 armhf 1.0.4-1 [40.0 kB]\r\n"
+    ],
+    [
+      0.001332,
+      "\r                        \r2% [2 libnetfilter-conntrack3 0 B/40.0 kB 0%]"
+    ],
+    [
+      0.502131,
+      "\r                                             \r4% [2 libnetfilter-conntrack3 15.9 kB/40.0 kB 40%]"
+    ],
+    [
+      0.393125,
+      "\r                                                  \r8% [Working]"
+    ],
+    [
+      0.501818,
+      "\r            \r8% [Waiting for headers]"
+    ],
+    [
+      0.010023,
+      "\r                        \rGet:3 http://mirrordirector.raspbian.org/raspbian/ jessie/main dns-root-data all 2014060201+2 [14.9 kB]\r\n"
+    ],
+    [
+      0.001288,
+      "\r                        \r8% [3 dns-root-data 0 B/14.9 kB 0%]"
+    ],
+    [
+      0.226190,
+      "\r                                   \r10% [Working]"
+    ],
+    [
+      0.502801,
+      "\r             \r10% [Waiting for headers]"
+    ],
+    [
+      0.010950,
+      "\r                         \rGet:4 http://mirrordirector.raspbian.org/raspbian/ jessie/main dnsmasq-base armhf 2.72-3+deb8u1 [374 kB]\r\n"
+    ],
+    [
+      0.001474,
+      "\r                         \r10% [4 dnsmasq-base 0 B/374 kB 0%]"
+    ],
+    [
+      0.502244,
+      "\r                                  \r15% [4 dnsmasq-base 28.1 kB/374 kB 7%]"
+    ],
+    [
+      0.502037,
+      "\r                                      \r19% [4 dnsmasq-base 59.1 kB/374 kB 16%]"
+    ],
+    [
+      0.502171,
+      "\r                                       \r24% [4 dnsmasq-base 88.7 kB/374 kB 24%]                                 24.0 kB/s 20s"
+    ],
+    [
+      0.502059,
+      "\r29% [4 dnsmasq-base 120 kB/374 kB 32%]                                  24.0 kB/s 19s"
+    ],
+    [
+      0.502056,
+      "\r34% [4 dnsmasq-base 151 kB/374 kB 40%]                                  24.0 kB/s 17s"
+    ],
+    [
+      0.502164,
+      "\r39% [4 dnsmasq-base 182 kB/374 kB 49%]                                  24.0 kB/s 16s"
+    ],
+    [
+      0.502045,
+      "\r43% [4 dnsmasq-base 211 kB/374 kB 56%]                                  24.0 kB/s 15s"
+    ],
+    [
+      0.501974,
+      "\r48% [4 dnsmasq-base 242 kB/374 kB 65%]                                  24.0 kB/s 13s"
+    ],
+    [
+      0.502381,
+      "\r53% [4 dnsmasq-base 273 kB/374 kB 73%]                                  24.0 kB/s 12s"
+    ],
+    [
+      0.501111,
+      "\r57% [4 dnsmasq-base 303 kB/374 kB 81%]                                  24.0 kB/s 11s"
+    ],
+    [
+      0.502065,
+      "\r62% [4 dnsmasq-base 334 kB/374 kB 89%]                                  24.0 kB/s 10s"
+    ],
+    [
+      0.502251,
+      "\r67% [4 dnsmasq-base 365 kB/374 kB 97%]                                   24.0 kB/s 8s"
+    ],
+    [
+      0.154646,
+      "\r69% [Working]                                                            24.0 kB/s 8s"
+    ],
+    [
+      0.503181,
+      "\r69% [Waiting for headers]                                                24.0 kB/s 8s"
+    ],
+    [
+      0.490264,
+      "\r                                                                                     \rGet:5 http://mirrordirector.raspbian.org/raspbian/ jessie/main dnsmasq all 2.72-3+deb8u1 [15.8 kB]\r\n"
+    ],
+    [
+      0.001675,
+      "\r69% [5 dnsmasq 0 B/15.8 kB 0%]                                           24.0 kB/s 8s"
+    ],
+    [
+      0.448333,
+      "\r71% [Working]                                                            49.3 kB/s 3s"
+    ],
+    [
+      0.502144,
+      "\r71% [Waiting for headers]                                                49.3 kB/s 3s"
+    ],
+    [
+      0.072536,
+      "\r                                                                                     \rGet:6 http://mirrordirector.raspbian.org/raspbian/ jessie/main polipo armhf 1.1.1-5 [185 kB]\r\n"
+    ],
+    [
+      0.001532,
+      "\r71% [6 polipo 0 B/185 kB 0%]                                             49.3 kB/s 3s"
+    ],
+    [
+      0.501969,
+      "\r74% [6 polipo 21.6 kB/185 kB 12%]                                        49.3 kB/s 3s"
+    ],
+    [
+      0.502393,
+      "\r78% [6 polipo 46.1 kB/185 kB 25%]                                        49.3 kB/s 2s"
+    ],
+    [
+      0.501778,
+      "\r83% [6 polipo 75.3 kB/185 kB 41%]                                        49.3 kB/s 2s"
+    ],
+    [
+      0.502167,
+      "\r88% [6 polipo 106 kB/185 kB 57%]                                         49.3 kB/s 1s"
+    ],
+    [
+      0.501900,
+      "\r92% [6 polipo 137 kB/185 kB 74%]                                         49.3 kB/s 0s"
+    ],
+    [
+      0.502248,
+      "\r97% [6 polipo 167 kB/185 kB 90%]                                         49.3 kB/s 0s"
+    ],
+    [
+      0.289237,
+      "\r100% [Working]                                                           49.3 kB/s 0s"
+    ],
+    [
+      0.000951,
+      "\r                                                                                     \r"
+    ],
+    [
+      0.001571,
+      "Fetched 641 kB in 16s (39.0 kB/s)\r\n"
+    ],
+    [
+      1.000000,
+      "Selecting previously unselected package libmnl0:armhf.\r\n"
+    ],
+    [
+      0.001860,
+      "(Reading database ... \r"
+    ],
+    [
+      0.127743,
+      "(Reading database ... 5%\r"
+    ],
+    [
+      0.001943,
+      "(Reading database ... 10%\r"
+    ],
+    [
+      0.001838,
+      "(Reading database ... 15%\r"
+    ],
+    [
+      0.002225,
+      "(Reading database ... 20%\r"
+    ],
+    [
+      0.001618,
+      "(Reading database ... 25%\r"
+    ],
+    [
+      0.001722,
+      "(Reading database ... 30%\r"
+    ],
+    [
+      0.001772,
+      "(Reading database ... 35%\r"
+    ],
+    [
+      0.001651,
+      "(Reading database ... 40%\r"
+    ],
+    [
+      0.002313,
+      "(Reading database ... 45%\r(Reading database ... 50%\r"
+    ],
+    [
+      0.001945,
+      "(Reading database ... 55%\r"
+    ],
+    [
+      0.207188,
+      "(Reading database ... 60%\r"
+    ],
+    [
+      0.068564,
+      "(Reading database ... 65%\r"
+    ],
+    [
+      0.065800,
+      "(Reading database ... 70%\r"
+    ],
+    [
+      0.052766,
+      "(Reading database ... 75%\r"
+    ],
+    [
+      0.044763,
+      "(Reading database ... 80%\r"
+    ],
+    [
+      0.104471,
+      "(Reading database ... 85%\r"
+    ],
+    [
+      0.140734,
+      "(Reading database ... 90%\r"
+    ],
+    [
+      0.537911,
+      "(Reading database ... 95%\r"
+    ],
+    [
+      0.373814,
+      "(Reading database ... 100%\r"
+    ],
+    [
+      0.001739,
+      "(Reading database ... "
+    ],
+    [
+      0.002135,
+      "123198 files and directories currently installed.)\r\n"
+    ],
+    [
+      0.096127,
+      "Preparing to unpack .../libmnl0_1.0.3-5_armhf.deb ...\r\n"
+    ],
+    [
+      0.032033,
+      "Unpacking libmnl0:armhf (1.0.3-5) ...\r\n"
+    ],
+    [
+      0.583011,
+      "Selecting previously unselected package libnetfilter-conntrack3:armhf.\r\n"
+    ],
+    [
+      0.129023,
+      "Preparing to unpack .../libnetfilter-conntrack3_1.0.4-1_armhf.deb ...\r\n"
+    ],
+    [
+      0.033509,
+      "Unpacking libnetfilter-conntrack3:armhf (1.0.4-1) ...\r\n"
+    ],
+    [
+      1.000000,
+      "Selecting previously unselected package dns-root-data.\r\n"
+    ],
+    [
+      0.144191,
+      "Preparing to unpack .../dns-root-data_2014060201+2_all.deb ..."
+    ],
+    [
+      0.001586,
+      "\r\n"
+    ],
+    [
+      0.032926,
+      "Unpacking dns-root-data (2014060201+2) ...\r\n"
+    ],
+    [
+      0.566124,
+      "Selecting previously unselected package dnsmasq-base.\r\n"
+    ],
+    [
+      0.127966,
+      "Preparing to unpack .../dnsmasq-base_2.72-3+deb8u1_armhf.deb ...\r\n"
+    ],
+    [
+      0.034976,
+      "Unpacking dnsmasq-base (2.72-3+deb8u1) ...\r\n"
+    ],
+    [
+      1.000000,
+      "Selecting previously unselected package dnsmasq.\r\n"
+    ],
+    [
+      0.131204,
+      "Preparing to unpack .../dnsmasq_2.72-3+deb8u1_all.deb ...\r\n"
+    ],
+    [
+      0.031796,
+      "Unpacking dnsmasq (2.72-3+deb8u1) ...\r\n"
+    ],
+    [
+      0.688239,
+      "Selecting previously unselected package polipo.\r\n"
+    ],
+    [
+      0.130400,
+      "Preparing to unpack .../polipo_1.1.1-5_armhf.deb ...\r\n"
+    ],
+    [
+      0.104160,
+      "Unpacking polipo (1.1.1-5) ...\r\n"
+    ],
+    [
+      1.000000,
+      "Processing triggers for dbus (1.8.20-0+deb8u1) ...\r\n"
+    ],
+    [
+      0.246124,
+      "Processing triggers for man-db (2.7.0.2-5) ..."
+    ],
+    [
+      0.001340,
+      "\r\n"
+    ],
+    [
+      1.000000,
+      "Processing triggers for systemd (215-17+deb8u2) ...\r\n"
+    ],
+    [
+      1.000000,
+      "Processing triggers for install-info (5.2.0.dfsg.1-6) ...\r\n"
+    ],
+    [
+      1.000000,
+      "Setting up libmnl0:armhf (1.0.3-5) ...\r\n"
+    ],
+    [
+      0.231286,
+      "Setting up libnetfilter-conntrack3:armhf (1.0.4-1) ...\r\n"
+    ],
+    [
+      0.194398,
+      "Setting up dns-root-data (2014060201+2) ...\r\n"
+    ],
+    [
+      0.085766,
+      "Setting up dnsmasq-base (2.72-3+deb8u1) ...\r\n"
+    ],
+    [
+      1.000000,
+      "Setting up dnsmasq (2.72-3+deb8u1) ...\r\n"
+    ],
+    [
+      1.000000,
+      "Setting up polipo (1.1.1-5) ...\r\n"
+    ],
+    [
+      1.000000,
+      "Processing triggers for libc-bin (2.19-18+deb8u1) ...\r\n"
+    ],
+    [
+      1.000000,
+      "Processing triggers for dbus (1.8.20-0+deb8u1) ...\r\n"
+    ],
+    [
+      0.210541,
+      "Processing triggers for systemd (215-17+deb8u2) ..."
+    ],
+    [
+      0.001364,
+      "\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b]0;pi@raspberrypi: ~\u0007\u001b[01;32mpi@raspberrypi\u001b[00m \u001b[01;34m~ $\u001b[00m "
+    ],
+    [
+      1.000000,
+      "#"
+    ],
+    [
+      0.209135,
+      " "
+    ],
+    [
+      0.260570,
+      "n"
+    ],
+    [
+      0.136380,
+      "o"
+    ],
+    [
+      0.474463,
+      "w"
+    ],
+    [
+      0.434279,
+      " "
+    ],
+    [
+      1.000000,
+      "l"
+    ],
+    [
+      0.147402,
+      "e"
+    ],
+    [
+      0.171104,
+      "t"
+    ],
+    [
+      0.270323,
+      "s"
+    ],
+    [
+      0.233336,
+      " "
+    ],
+    [
+      1.000000,
+      "d"
+    ],
+    [
+      0.158093,
+      "o"
+    ],
+    [
+      0.201987,
+      " "
+    ],
+    [
+      0.247549,
+      "s"
+    ],
+    [
+      0.100314,
+      "o"
+    ],
+    [
+      0.192665,
+      "m"
+    ],
+    [
+      0.073266,
+      "e"
+    ],
+    [
+      0.180906,
+      " "
+    ],
+    [
+      0.252269,
+      "c"
+    ],
+    [
+      0.202291,
+      "h"
+    ],
+    [
+      0.963573,
+      "a"
+    ],
+    [
+      0.195095,
+      "n"
+    ],
+    [
+      0.235628,
+      "g"
+    ],
+    [
+      0.122841,
+      "e"
+    ],
+    [
+      0.914644,
+      " "
+    ],
+    [
+      0.283524,
+      "i"
+    ],
+    [
+      0.215521,
+      "n"
+    ],
+    [
+      0.450504,
+      " "
+    ],
+    [
+      0.825403,
+      "p"
+    ],
+    [
+      0.162965,
+      "o"
+    ],
+    [
+      0.166142,
+      "l"
+    ],
+    [
+      0.173875,
+      "i"
+    ],
+    [
+      0.173966,
+      "p"
+    ],
+    [
+      0.147657,
+      "o"
+    ],
+    [
+      0.260007,
+      " "
+    ],
+    [
+      0.266257,
+      "c"
+    ],
+    [
+      0.102563,
+      "o"
+    ],
+    [
+      0.172898,
+      "n"
+    ],
+    [
+      0.164627,
+      "f"
+    ],
+    [
+      0.154360,
+      "i"
+    ],
+    [
+      0.101069,
+      "g"
+    ],
+    [
+      0.313249,
+      "\r\n\u001b]0;pi@raspberrypi: ~\u0007\u001b[01;32mpi@raspberrypi\u001b[00m \u001b[01;34m~ $\u001b[00m "
+    ],
+    [
+      1.000000,
+      "s"
+    ],
+    [
+      0.100421,
+      "u"
+    ],
+    [
+      0.080334,
+      "d"
+    ],
+    [
+      0.117387,
+      "o"
+    ],
+    [
+      0.182067,
+      " "
+    ],
+    [
+      0.214623,
+      "n"
+    ],
+    [
+      0.079300,
+      "a"
+    ],
+    [
+      0.090041,
+      "n"
+    ],
+    [
+      0.564573,
+      "o"
+    ],
+    [
+      0.275094,
+      " "
+    ],
+    [
+      0.506734,
+      "/"
+    ],
+    [
+      0.193639,
+      "e"
+    ],
+    [
+      0.187030,
+      "t"
+    ],
+    [
+      0.517404,
+      "c/"
+    ],
+    [
+      0.694354,
+      "p"
+    ],
+    [
+      0.182664,
+      "o"
+    ],
+    [
+      0.190367,
+      "l"
+    ],
+    [
+      0.188412,
+      "i"
+    ],
+    [
+      0.185937,
+      "p"
+    ],
+    [
+      0.173270,
+      "o"
+    ],
+    [
+      0.604531,
+      "/"
+    ],
+    [
+      0.275231,
+      "c"
+    ],
+    [
+      0.159859,
+      "o"
+    ],
+    [
+      0.178106,
+      "n"
+    ],
+    [
+      0.146585,
+      "f"
+    ],
+    [
+      0.157609,
+      "i"
+    ],
+    [
+      0.079677,
+      "g"
+    ],
+    [
+      0.466988,
+      "\r\n"
+    ],
+    [
+      0.346479,
+      "\u001b[?1049h\u001b[1;24r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001435,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.001560,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.001159,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.030875,
+      "\u001b[39;49m\u001b[39;49m\u001b(B\u001b[m\u001b[H\u001b[2J\u001b(B\u001b[0;7m  GNU nano 2.2.6             File: /etc/polipo/config                                 \u001b[3;1H\u001b(B\u001b[m# This file only needs to list configuration variables that deviate\r\u001b[4d# from the default values.  See /usr/share/doc/polipo/examples/config.sample\r\u001b[5d# and \"polipo -v\" for variables you can tweak and further information.\r\u001b[7dlogSyslog = true\r\u001b[8dlogFile = /var/log/polipo/polipo.log\u001b[22;36H\u001b(B\u001b[0;7m[ Read 6 lines ]\r\u001b[23d^G\u001b(B\u001b[m Get Help   \u001b(B\u001b[0;7m^O\u001b(B\u001b[m WriteOut   \u001b(B\u001b[0;7m^R\u001b(B\u001b[m Read File  \u001b(B\u001b[0;7m^Y\u001b(B\u001b[m Prev Page  \u001b(B\u001b[0;7m^K\u001b(B\u001b[m Cut Text   \u001b(B\u001b[0;7m^C\u001b(B\u001b[m Cur Pos\r\u001b[24d\u001b(B\u001b[0;7m^X\u001b(B\u001b[m Exit\u001b[15G\u001b(B\u001b[0;7m^J\u001b(B\u001b[m Justify    \u001b(B\u001b[0;7m^W\u001b(B\u001b[m Where Is   \u001b(B\u001b[0;7m^V\u001b(B\u001b[m Next Page  \u001b(B\u001b[0;7m^U\u001b(B\u001b[m UnCut Text \u001b(B\u001b[0;7m^T\u001b(B\u001b[m To Spell\r\u001b[3d"
+    ],
+    [
+      1.000000,
+      "\u001b[4d"
+    ],
+    [
+      0.144209,
+      "\u001b[5d"
+    ],
+    [
+      0.144392,
+      "\u001b[6d"
+    ],
+    [
+      0.148251,
+      "\u001b[7d"
+    ],
+    [
+      0.149435,
+      "\u001b[8d"
+    ],
+    [
+      0.164562,
+      "\u001b[9d"
+    ],
+    [
+      1.000000,
+      "\u001b[1;77H\u001b(B\u001b[0;7mModified\r\u001b[10d\u001b(B\u001b[m"
+    ],
+    [
+      0.716015,
+      "s"
+    ],
+    [
+      0.130012,
+      "o"
+    ],
+    [
+      0.143348,
+      "c"
+    ],
+    [
+      0.094918,
+      "k"
+    ],
+    [
+      0.175736,
+      "s"
+    ],
+    [
+      1.000000,
+      "p"
+    ],
+    [
+      0.390260,
+      "\u0008 \u0008"
+    ],
+    [
+      0.488600,
+      "P"
+    ],
+    [
+      0.310131,
+      "a"
+    ],
+    [
+      0.193017,
+      "r"
+    ],
+    [
+      0.148053,
+      "e"
+    ],
+    [
+      0.256804,
+      "n"
+    ],
+    [
+      0.311828,
+      "t"
+    ],
+    [
+      0.821347,
+      "P"
+    ],
+    [
+      0.226384,
+      "r"
+    ],
+    [
+      0.113670,
+      "o"
+    ],
+    [
+      0.406888,
+      "x"
+    ],
+    [
+      0.228596,
+      "y"
+    ],
+    [
+      1.000000,
+      "\r\u001b[22d\u001b[K\u001b[10;18H"
+    ],
+    [
+      0.286018,
+      " "
+    ],
+    [
+      0.441893,
+      "\u0008"
+    ],
+    [
+      0.290812,
+      "="
+    ],
+    [
+      0.476995,
+      " "
+    ],
+    [
+      1.000000,
+      "l"
+    ],
+    [
+      0.174329,
+      "o"
+    ],
+    [
+      0.112069,
+      "c"
+    ],
+    [
+      0.106038,
+      "a"
+    ],
+    [
+      0.126530,
+      "l"
+    ],
+    [
+      0.641091,
+      "h"
+    ],
+    [
+      0.216962,
+      "o"
+    ],
+    [
+      0.124259,
+      "s"
+    ],
+    [
+      0.124974,
+      "t"
+    ],
+    [
+      0.763358,
+      ":"
+    ],
+    [
+      0.426608,
+      "9"
+    ],
+    [
+      0.192198,
+      "0"
+    ],
+    [
+      0.371275,
+      "5"
+    ],
+    [
+      0.101030,
+      "0"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A"
+    ],
+    [
+      0.343347,
+      "\u001b7\u001b[9;22r\u001b8\u001bM\u001b[1;24r\u001b[10;1H"
+    ],
+    [
+      0.730230,
+      "#"
+    ],
+    [
+      0.304483,
+      " "
+    ],
+    [
+      0.193019,
+      "s"
+    ],
+    [
+      0.140679,
+      "e"
+    ],
+    [
+      0.068998,
+      "t"
+    ],
+    [
+      0.556919,
+      " "
+    ],
+    [
+      0.380729,
+      "t"
+    ],
+    [
+      0.421042,
+      "o"
+    ],
+    [
+      0.201642,
+      " "
+    ],
+    [
+      0.209807,
+      "u"
+    ],
+    [
+      0.155009,
+      "e"
+    ],
+    [
+      0.389547,
+      "\u0008 \u0008"
+    ],
+    [
+      0.110831,
+      "s"
+    ],
+    [
+      0.132888,
+      "e"
+    ],
+    [
+      0.558138,
+      " "
+    ],
+    [
+      0.405654,
+      "t"
+    ],
+    [
+      0.123108,
+      "o"
+    ],
+    [
+      0.095370,
+      "r"
+    ],
+    [
+      0.111677,
+      " "
+    ],
+    [
+      0.582481,
+      "p"
+    ],
+    [
+      0.101104,
+      "r"
+    ],
+    [
+      0.104806,
+      "o"
+    ],
+    [
+      0.493440,
+      "x"
+    ],
+    [
+      0.079464,
+      "y"
+    ],
+    [
+      1.000000,
+      "\u001b[11d"
+    ],
+    [
+      0.290048,
+      "\r\u001b[12d"
+    ],
+    [
+      0.585016,
+      "\u001b[13d"
+    ],
+    [
+      1.000000,
+      "#"
+    ],
+    [
+      0.577540,
+      " "
+    ],
+    [
+      0.207152,
+      "a"
+    ],
+    [
+      0.186659,
+      "l"
+    ],
+    [
+      0.175633,
+      "l"
+    ],
+    [
+      0.222681,
+      "o"
+    ],
+    [
+      0.449300,
+      "w"
+    ],
+    [
+      1.000000,
+      " "
+    ],
+    [
+      0.617653,
+      "o"
+    ],
+    [
+      0.366925,
+      "t"
+    ],
+    [
+      0.180041,
+      "h"
+    ],
+    [
+      0.143713,
+      "e"
+    ],
+    [
+      0.136054,
+      "r"
+    ],
+    [
+      1.000000,
+      " "
+    ],
+    [
+      0.256342,
+      "i"
+    ],
+    [
+      0.284878,
+      "p"
+    ],
+    [
+      0.433232,
+      " "
+    ],
+    [
+      0.450962,
+      "t"
+    ],
+    [
+      0.161126,
+      "o"
+    ],
+    [
+      1.000000,
+      " "
+    ],
+    [
+      0.216330,
+      "u"
+    ],
+    [
+      0.116286,
+      "s"
+    ],
+    [
+      0.153840,
+      "e"
+    ],
+    [
+      1.000000,
+      " "
+    ],
+    [
+      0.183320,
+      "t"
+    ],
+    [
+      0.143088,
+      "h"
+    ],
+    [
+      0.116853,
+      "i"
+    ],
+    [
+      0.181061,
+      "s"
+    ],
+    [
+      0.368666,
+      " "
+    ],
+    [
+      0.202216,
+      "h"
+    ],
+    [
+      0.123741,
+      "t"
+    ],
+    [
+      0.171031,
+      "t"
+    ],
+    [
+      0.135180,
+      "p"
+    ],
+    [
+      0.234807,
+      " "
+    ],
+    [
+      0.227581,
+      "p"
+    ],
+    [
+      0.111560,
+      "r"
+    ],
+    [
+      0.135490,
+      "o"
+    ],
+    [
+      0.555497,
+      "x"
+    ],
+    [
+      0.079850,
+      "y"
+    ],
+    [
+      1.000000,
+      "\r\u001b[14d"
+    ],
+    [
+      1.000000,
+      "p"
+    ],
+    [
+      0.089682,
+      "r"
+    ],
+    [
+      0.128123,
+      "o"
+    ],
+    [
+      0.420502,
+      "x"
+    ],
+    [
+      0.121482,
+      "y"
+    ],
+    [
+      0.733699,
+      "A"
+    ],
+    [
+      1.000000,
+      "d"
+    ],
+    [
+      0.184555,
+      "d"
+    ],
+    [
+      0.318638,
+      "r"
+    ],
+    [
+      0.165136,
+      "e"
+    ],
+    [
+      0.215250,
+      "s"
+    ],
+    [
+      0.157451,
+      "s"
+    ],
+    [
+      1.000000,
+      " "
+    ],
+    [
+      0.422062,
+      "="
+    ],
+    [
+      0.143639,
+      " "
+    ],
+    [
+      0.583949,
+      "\""
+    ],
+    [
+      0.547747,
+      "0"
+    ],
+    [
+      0.710458,
+      "."
+    ],
+    [
+      0.246714,
+      "0"
+    ],
+    [
+      0.161644,
+      "."
+    ],
+    [
+      0.158587,
+      "0"
+    ],
+    [
+      1.000000,
+      "."
+    ],
+    [
+      1.000000,
+      ")"
+    ],
+    [
+      0.602004,
+      "\u0008 \u0008"
+    ],
+    [
+      0.385532,
+      "0"
+    ],
+    [
+      0.519175,
+      "\""
+    ],
+    [
+      1.000000,
+      "\r\u001b[15d"
+    ],
+    [
+      0.187090,
+      "\u001b[16d"
+    ],
+    [
+      1.000000,
+      "#"
+    ],
+    [
+      0.325959,
+      " "
+    ],
+    [
+      0.164169,
+      "y"
+    ],
+    [
+      0.138542,
+      "o"
+    ],
+    [
+      0.198910,
+      "u"
+    ],
+    [
+      0.185917,
+      " "
+    ],
+    [
+      0.269060,
+      "s"
+    ],
+    [
+      0.160709,
+      "e"
+    ],
+    [
+      0.160242,
+      "e"
+    ],
+    [
+      0.162776,
+      " "
+    ],
+    [
+      0.249287,
+      "m"
+    ],
+    [
+      0.270483,
+      "o"
+    ],
+    [
+      0.207509,
+      "r"
+    ],
+    [
+      0.158695,
+      "e"
+    ],
+    [
+      0.127989,
+      " "
+    ],
+    [
+      0.116566,
+      "c"
+    ],
+    [
+      0.141519,
+      "o"
+    ],
+    [
+      0.186933,
+      "n"
+    ],
+    [
+      0.193195,
+      "f"
+    ],
+    [
+      0.100585,
+      "i"
+    ],
+    [
+      0.084830,
+      "g"
+    ],
+    [
+      0.238109,
+      " "
+    ],
+    [
+      0.592259,
+      "o"
+    ],
+    [
+      0.176114,
+      "p"
+    ],
+    [
+      0.373374,
+      "t"
+    ],
+    [
+      0.122853,
+      "i"
+    ],
+    [
+      0.151932,
+      "o"
+    ],
+    [
+      0.190423,
+      "n"
+    ],
+    [
+      0.138109,
+      "s"
+    ],
+    [
+      0.233786,
+      " "
+    ],
+    [
+      0.605890,
+      "i"
+    ],
+    [
+      0.140355,
+      "n"
+    ],
+    [
+      0.994681,
+      " "
+    ],
+    [
+      1.000000,
+      "/usr/share/doc/polipo/examples/config.sample"
+    ],
+    [
+      1.000000,
+      "\r\u001b[17d"
+    ],
+    [
+      0.420255,
+      "#"
+    ],
+    [
+      0.365754,
+      " "
+    ],
+    [
+      0.116570,
+      "s"
+    ],
+    [
+      0.163849,
+      "a"
+    ],
+    [
+      0.052352,
+      "v"
+    ],
+    [
+      0.123161,
+      "e"
+    ],
+    [
+      0.190455,
+      " "
+    ],
+    [
+      0.452348,
+      "f"
+    ],
+    [
+      0.137600,
+      "i"
+    ],
+    [
+      0.195012,
+      "l"
+    ],
+    [
+      0.153761,
+      "e"
+    ],
+    [
+      0.666206,
+      "!"
+    ],
+    [
+      0.841328,
+      "\r\u001b[22d\u001b(B\u001b[0;7mSave modified buffer (ANSWERING \"No\" WILL DESTROY CHANGES) ?                          \u001b[23;1H Y\u001b(B\u001b[m Yes\u001b[K\r\u001b[24d\u001b(B\u001b[0;7m N\u001b(B\u001b[m No  \u001b[15G  \u001b(B\u001b[0;7m^C\u001b(B\u001b[m Cancel\u001b[K\u001b[22;62H"
+    ],
+    [
+      0.221953,
+      "\r\u001b(B\u001b[0;7mFile Name to Write: /etc/polipo/config                      \r\u001b[23d^G\u001b(B\u001b[m Get Help\u001b[23;22H\u001b(B\u001b[0;7mM-D\u001b(B\u001b[m DOS Format\u001b[43G\u001b(B\u001b[0;7mM-A\u001b(B\u001b[m Append\u001b[23;64H\u001b(B\u001b[0;7mM-B\u001b(B\u001b[m Backup File\r\u001b[24d\u001b(B\u001b[0;7m^C\u001b(B\u001b[m Cancel\u001b[17G     \u001b(B\u001b[0;7mM-M\u001b(B\u001b[m Mac Format\u001b[43G\u001b(B\u001b[0;7mM-P\u001b(B\u001b[m Prepend\u001b[22;39H"
+    ],
+    [
+      0.508177,
+      "\r\u001b[23d\u001b[39;49m\u001b(B\u001b[m\u001b[J\u001b[1;77H\u001b(B\u001b[0;7m        \u001b[22;34H\u001b(B\u001b[m\u001b[1K \u001b(B\u001b[0;7m[ Wrote 15 lines ]\u001b(B\u001b[m\u001b[K\u001b[24;86H"
+    ],
+    [
+      0.001228,
+      "\u001b[24;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.062353,
+      "\u001b]0;pi@raspberrypi: ~\u0007\u001b[01;32mpi@raspberrypi\u001b[00m \u001b[01;34m~ $\u001b[00m "
+    ],
+    [
+      1.000000,
+      "#"
+    ],
+    [
+      0.320228,
+      " "
+    ],
+    [
+      0.192747,
+      "n"
+    ],
+    [
+      0.525758,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.377554,
+      "r"
+    ],
+    [
+      0.171146,
+      "e"
+    ],
+    [
+      0.175441,
+      "s"
+    ],
+    [
+      0.074144,
+      "t"
+    ],
+    [
+      0.130245,
+      "a"
+    ],
+    [
+      0.079352,
+      "r"
+    ],
+    [
+      0.148123,
+      "t"
+    ],
+    [
+      0.372204,
+      " "
+    ],
+    [
+      0.258252,
+      "p"
+    ],
+    [
+      0.182897,
+      "o"
+    ],
+    [
+      0.191752,
+      "l"
+    ],
+    [
+      0.157149,
+      "i"
+    ],
+    [
+      0.192825,
+      "p"
+    ],
+    [
+      0.159773,
+      "o"
+    ],
+    [
+      0.506745,
+      " "
+    ],
+    [
+      0.560571,
+      "s"
+    ],
+    [
+      0.166448,
+      "e"
+    ],
+    [
+      0.217795,
+      "r"
+    ],
+    [
+      0.095498,
+      "v"
+    ],
+    [
+      0.153913,
+      "i"
+    ],
+    [
+      0.079261,
+      "c"
+    ],
+    [
+      0.068830,
+      "e"
+    ],
+    [
+      1.000000,
+      "\r\n\u001b]0;pi@raspberrypi: ~\u0007\u001b[01;32mpi@raspberrypi\u001b[00m \u001b[01;34m~ $\u001b[00m "
+    ],
+    [
+      0.348065,
+      "s"
+    ],
+    [
+      0.111832,
+      "u"
+    ],
+    [
+      0.062885,
+      "d"
+    ],
+    [
+      0.112250,
+      "o"
+    ],
+    [
+      0.184740,
+      " "
+    ],
+    [
+      0.148239,
+      "s"
+    ],
+    [
+      0.203456,
+      "e"
+    ],
+    [
+      0.180095,
+      "r"
+    ],
+    [
+      0.126561,
+      "v"
+    ],
+    [
+      0.161932,
+      "i"
+    ],
+    [
+      0.093743,
+      "c"
+    ],
+    [
+      0.070283,
+      "e"
+    ],
+    [
+      0.300971,
+      " "
+    ],
+    [
+      0.272233,
+      "p"
+    ],
+    [
+      0.184854,
+      "o"
+    ],
+    [
+      0.195996,
+      "l"
+    ],
+    [
+      0.181063,
+      "i"
+    ],
+    [
+      0.188844,
+      "p"
+    ],
+    [
+      0.170939,
+      "o"
+    ],
+    [
+      0.687662,
+      " "
+    ],
+    [
+      0.263918,
+      "r"
+    ],
+    [
+      0.161924,
+      "e"
+    ],
+    [
+      0.084683,
+      "s"
+    ],
+    [
+      0.127609,
+      "t"
+    ],
+    [
+      0.084763,
+      "a"
+    ],
+    [
+      0.119317,
+      "r"
+    ],
+    [
+      0.137955,
+      "t"
+    ],
+    [
+      0.448473,
+      "\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b]0;pi@raspberrypi: ~\u0007\u001b[01;32mpi@raspberrypi\u001b[00m \u001b[01;34m~ $\u001b[00m "
+    ],
+    [
+      1.000000,
+      "logout\r\n"
+    ],
+    [
+      0.022347,
+      "Connection to 192.168.1.35 closed.\r\r\n"
+    ],
+    [
+      0.001665,
+      "\u001b]0;m2sh@mohammad-linux: ~\u0007m2sh@mohammad-linux:~$ "
+    ],
+    [
+      0.330162,
+      "exit\r\n"
+    ]
+  ]
+}
