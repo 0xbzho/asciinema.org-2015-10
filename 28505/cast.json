@@ -1,0 +1,978 @@
+{
+  "version": 1,
+  "width": 132,
+  "height": 24,
+  "duration": 19.922067,
+  "command": "/bin/bash",
+  "title": "Install Shade libray for DreamCompute",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.045172,
+      "\u001b]0;dhc-user@python: ~\u0007dhc-user@python:~$ "
+    ],
+    [
+      3.408344,
+      "p"
+    ],
+    [
+      0.146882,
+      "i"
+    ],
+    [
+      0.141671,
+      "p"
+    ],
+    [
+      0.245821,
+      " "
+    ],
+    [
+      0.225932,
+      "s"
+    ],
+    [
+      0.105262,
+      "e"
+    ],
+    [
+      0.172034,
+      "a"
+    ],
+    [
+      0.120255,
+      "r"
+    ],
+    [
+      0.190291,
+      "c"
+    ],
+    [
+      0.109244,
+      "h"
+    ],
+    [
+      0.124583,
+      " "
+    ],
+    [
+      0.061617,
+      "s"
+    ],
+    [
+      0.095310,
+      "h"
+    ],
+    [
+      0.154716,
+      "a"
+    ],
+    [
+      0.200315,
+      "d"
+    ],
+    [
+      0.112369,
+      "e"
+    ],
+    [
+      0.163185,
+      "\r\n"
+    ],
+    [
+      1.263708,
+      "shadetree                 - ShadeTree OBD"
+    ],
+    [
+      0.000199,
+      "\r\n"
+    ],
+    [
+      0.000290,
+      "shade                     - Client library for operating OpenStack clouds"
+    ],
+    [
+      0.000085,
+      "\r\n"
+    ],
+    [
+      0.028463,
+      "\u001b]0;dhc-user@python: ~\u0007dhc-user@python:~$ "
+    ],
+    [
+      0.746440,
+      "s"
+    ],
+    [
+      0.116971,
+      "u"
+    ],
+    [
+      0.169010,
+      "d"
+    ],
+    [
+      0.118785,
+      "o"
+    ],
+    [
+      0.104958,
+      " "
+    ],
+    [
+      0.104039,
+      "p"
+    ],
+    [
+      0.119056,
+      "i"
+    ],
+    [
+      0.168686,
+      "p"
+    ],
+    [
+      0.267233,
+      " "
+    ],
+    [
+      0.178806,
+      "i"
+    ],
+    [
+      0.065975,
+      "n"
+    ],
+    [
+      0.199046,
+      "s"
+    ],
+    [
+      0.095445,
+      "t"
+    ],
+    [
+      0.097236,
+      "a"
+    ],
+    [
+      0.056332,
+      "l"
+    ],
+    [
+      0.178512,
+      "l"
+    ],
+    [
+      0.126741,
+      " "
+    ],
+    [
+      0.438169,
+      "s"
+    ],
+    [
+      0.000067,
+      "h"
+    ],
+    [
+      0.000057,
+      "a"
+    ],
+    [
+      0.063859,
+      "d"
+    ],
+    [
+      0.112215,
+      "e"
+    ],
+    [
+      0.163560,
+      "\r\n"
+    ],
+    [
+      0.511784,
+      "Downloading/unpacking shade"
+    ],
+    [
+      0.000181,
+      "\r\n"
+    ],
+    [
+      0.806727,
+      "  Downloading shade-0.16.0-py2-none-any.whl (131kB): "
+    ],
+    [
+      0.000387,
+      "\r  Downloading shade-0.16.0-py2-none-any.whl (131kB):   3%  4.1kB"
+    ],
+    [
+      0.000286,
+      "\r  Downloading shade-0.16.0-py2-none-any.whl (131kB):   6%  8.2kB"
+    ],
+    [
+      0.000191,
+      "\r  Downloading shade-0.16.0-py2-none-any.whl (131kB):   9%  12kB "
+    ],
+    [
+      0.000591,
+      "\r  Downloading shade-0.16.0-py2-none-any.whl (131kB):  12%  16kB"
+    ],
+    [
+      0.000167,
+      "\r  Downloading shade-0.16.0-py2-none-any.whl (131kB):  15%  20kB"
+    ],
+    [
+      0.000216,
+      "\r  Downloading shade-0.16.0-py2-none-any.whl (131kB):  18%  24kB"
+    ],
+    [
+      0.000154,
+      "\r  Downloading shade-0.16.0-py2-none-any.whl (131kB):  21%  28kB"
+    ],
+    [
+      0.083845,
+      "\r  Downloading shade-0.16.0-py2-none-any.whl (131kB):  24%  32kB"
+    ],
+    [
+      0.000320,
+      "\r  Downloading shade-0.16.0-py2-none-any.whl (131kB):  28%  36kB"
+    ],
+    [
+      0.000273,
+      "\r  Downloading shade-0.16.0-py2-none-any.whl (131kB):  31%  40kB"
+    ],
+    [
+      0.000158,
+      "\r  Downloading shade-0.16.0-py2-none-any.whl (131kB):  34%  45kB"
+    ],
+    [
+      0.000594,
+      "\r  Downloading shade-0.16.0-py2-none-any.whl (131kB):  37%  49kB"
+    ],
+    [
+      0.000154,
+      "\r  Downloading shade-0.16.0-py2-none-any.whl (131kB):  40%  53kB"
+    ],
+    [
+      0.000192,
+      "\r  Downloading shade-0.16.0-py2-none-any.whl (131kB):  43%  57kB"
+    ],
+    [
+      0.000189,
+      "\r  Downloading shade-0.16.0-py2-none-any.whl (131kB):  46%  61kB"
+    ],
+    [
+      0.000589,
+      "\r  Downloading shade-0.16.0-py2-none-any.whl (131kB):  49%  65kB"
+    ],
+    [
+      0.000716,
+      "\r  Downloading shade-0.16.0-py2-none-any.whl (131kB):  53%  69kB"
+    ],
+    [
+      0.000213,
+      "\r  Downloading shade-0.16.0-py2-none-any.whl (131kB):  56%  73kB"
+    ],
+    [
+      0.000155,
+      "\r  Downloading shade-0.16.0-py2-none-any.whl (131kB):  59%  77kB"
+    ],
+    [
+      0.083523,
+      "\r  Downloading shade-0.16.0-py2-none-any.whl (131kB):  62%  81kB"
+    ],
+    [
+      0.000330,
+      "\r  Downloading shade-0.16.0-py2-none-any.whl (131kB):  65%  86kB"
+    ],
+    [
+      0.000263,
+      "\r  Downloading shade-0.16.0-py2-none-any.whl (131kB):  68%  90kB"
+    ],
+    [
+      0.000169,
+      "\r  Downloading shade-0.16.0-py2-none-any.whl (131kB):  71%  94kB"
+    ],
+    [
+      0.000574,
+      "\r  Downloading shade-0.16.0-py2-none-any.whl (131kB):  74%  98kB"
+    ],
+    [
+      0.000168,
+      "\r  Downloading shade-0.16.0-py2-none-any.whl (131kB):  78%  102kB"
+    ],
+    [
+      0.000201,
+      "\r  Downloading shade-0.16.0-py2-none-any.whl (131kB):  81%  106kB"
+    ],
+    [
+      0.000176,
+      "\r  Downloading shade-0.16.0-py2-none-any.whl (131kB):  84%  110kB"
+    ],
+    [
+      0.000588,
+      "\r  Downloading shade-0.16.0-py2-none-any.whl (131kB):  87%  114kB"
+    ],
+    [
+      0.000168,
+      "\r  Downloading shade-0.16.0-py2-none-any.whl (131kB):  90%  118kB"
+    ],
+    [
+      0.000213,
+      "\r  Downloading shade-0.16.0-py2-none-any.whl (131kB):  93%  122kB"
+    ],
+    [
+      0.000158,
+      "\r  Downloading shade-0.16.0-py2-none-any.whl (131kB):  96%  126kB"
+    ],
+    [
+      0.000246,
+      "\r  Downloading shade-0.16.0-py2-none-any.whl (131kB):  99%  131kB"
+    ],
+    [
+      0.000283,
+      "\r  Downloading shade-0.16.0-py2-none-any.whl (131kB): 100%  131kB"
+    ],
+    [
+      0.000264,
+      "\r  Downloading shade-0.16.0-py2-none-any.whl (131kB):            "
+    ],
+    [
+      0.000098,
+      "\r  Downloading shade-0.16.0-py2-none-any.whl (131kB): "
+    ],
+    [
+      0.000056,
+      "131kB downloaded"
+    ],
+    [
+      0.000065,
+      "\r\n"
+    ],
+    [
+      0.033557,
+      "Requirement already satisfied (use --upgrade to upgrade): ipaddress in /usr/local/lib/python2.7/dist-packages (from shade)"
+    ],
+    [
+      0.000202,
+      "\r\n"
+    ],
+    [
+      0.000330,
+      "Requirement already satisfied (use --upgrade to upgrade): bunch in /usr/local/lib/python2.7/dist-packages (from shade)"
+    ],
+    [
+      0.000101,
+      "\r\n"
+    ],
+    [
+      0.000379,
+      "Requirement already satisfied (use --upgrade to upgrade): keystoneauth1\u003e=1.0.0 in /usr/local/lib/python2.7/dist-packages (from shade)"
+    ],
+    [
+      0.000058,
+      "\r\n"
+    ],
+    [
+      0.000313,
+      "Requirement already satisfied (use --upgrade to upgrade): python-designateclient\u003e=1.3.0 in /usr/local/lib/python2.7/dist-packages (from shade)"
+    ],
+    [
+      0.000054,
+      "\r\n"
+    ],
+    [
+      0.000336,
+      "Requirement already satisfied (use --upgrade to upgrade): python-troveclient\u003e=1.2.0 in /usr/local/lib/python2.7/dist-packages (from shade)"
+    ],
+    [
+      0.000055,
+      "\r\n"
+    ],
+    [
+      0.000275,
+      "Requirement already satisfied (use --upgrade to upgrade): six in /usr/lib/python2.7/dist-packages (from shade)"
+    ],
+    [
+      0.000052,
+      "\r\n"
+    ],
+    [
+      0.000270,
+      "Requirement already satisfied (use --upgrade to upgrade): pbr\u003e=0.11,\u003c2.0 in /usr/local/lib/python2.7/dist-packages (from shade)"
+    ],
+    [
+      0.000070,
+      "\r\n"
+    ],
+    [
+      0.000300,
+      "Requirement already satisfied (use --upgrade to upgrade): dogpile.cache\u003e=0.5.3 in /usr/local/lib/python2.7/dist-packages (from shade)"
+    ],
+    [
+      0.000053,
+      "\r\n"
+    ],
+    [
+      0.000668,
+      "Requirement already satisfied (use --upgrade to upgrade): os-client-config\u003e=1.8.0 in /usr/local/lib/python2.7/dist-packages (from shade)"
+    ],
+    [
+      0.000061,
+      "\r\n"
+    ],
+    [
+      0.000305,
+      "Requirement already satisfied (use --upgrade to upgrade): python-swiftclient\u003e=2.5.0 in /usr/local/lib/python2.7/dist-packages (from shade)"
+    ],
+    [
+      0.000054,
+      "\r\n"
+    ],
+    [
+      0.000301,
+      "Requirement already satisfied (use --upgrade to upgrade): python-cinderclient\u003c1.2 in /usr/local/lib/python2.7/dist-packages (from shade)"
+    ],
+    [
+      0.000053,
+      "\r\n"
+    ],
+    [
+      0.000299,
+      "Requirement already satisfied (use --upgrade to upgrade): jsonpatch in /usr/lib/python2.7/dist-packages (from shade)"
+    ],
+    [
+      0.000085,
+      "\r\n"
+    ],
+    [
+      0.000599,
+      "Requirement already satisfied (use --upgrade to upgrade): python-ironicclient\u003e=0.9.0 in /usr/local/lib/python2.7/dist-packages (from shade)"
+    ],
+    [
+      0.000060,
+      "\r\n"
+    ],
+    [
+      0.000310,
+      "Requirement already satisfied (use --upgrade to upgrade): python-novaclient\u003e=2.21.0,!=2.27.0 in /usr/local/lib/python2.7/dist-packages (from shade)"
+    ],
+    [
+      0.000055,
+      "\r\n"
+    ],
+    [
+      0.000309,
+      "Requirement already satisfied (use --upgrade to upgrade): python-neutronclient\u003e=2.3.10 in /usr/local/lib/python2.7/dist-packages (from shade)"
+    ],
+    [
+      0.000054,
+      "\r\n"
+    ],
+    [
+      0.000260,
+      "Requirement already satisfied (use --upgrade to upgrade): decorator in /usr/local/lib/python2.7/dist-packages (from shade)"
+    ],
+    [
+      0.000052,
+      "\r\n"
+    ],
+    [
+      0.000389,
+      "Requirement already satisfied (use --upgrade to upgrade): python-glanceclient\u003e=1.0.0 in /usr/local/lib/python2.7/dist-packages (from shade)"
+    ],
+    [
+      0.000062,
+      "\r\n"
+    ],
+    [
+      0.000308,
+      "Requirement already satisfied (use --upgrade to upgrade): python-keystoneclient\u003e=0.11.0 in /usr/local/lib/python2.7/dist-packages (from shade)"
+    ],
+    [
+      0.000055,
+      "\r\n"
+    ],
+    [
+      0.006514,
+      "Downloading/unpacking netifaces\u003e=0.10.4 (from shade)"
+    ],
+    [
+      0.000113,
+      "\r\n"
+    ],
+    [
+      0.214946,
+      "  Downloading netifaces-0.10.4.tar.gz"
+    ],
+    [
+      0.000185,
+      "\r\n"
+    ],
+    [
+      0.025370,
+      "  Running setup.py (path:/tmp/pip_build_root/netifaces/setup.py) egg_info for package netifaces"
+    ],
+    [
+      0.000224,
+      "\r\n"
+    ],
+    [
+      0.151548,
+      "    "
+    ],
+    [
+      0.000238,
+      "\r\n"
+    ],
+    [
+      0.042213,
+      "Downloading/unpacking dogpile.core\u003e=0.4.1 (from dogpile.cache\u003e=0.5.3-\u003eshade)"
+    ],
+    [
+      0.000240,
+      "\r\n"
+    ],
+    [
+      0.195875,
+      "  Downloading dogpile.core-0.4.1.tar.gz (99kB): "
+    ],
+    [
+      0.000365,
+      "\r  Downloading dogpile.core-0.4.1.tar.gz (99kB):   4%  4.1kB"
+    ],
+    [
+      0.000273,
+      "\r  Downloading dogpile.core-0.4.1.tar.gz (99kB):   8%  8.2kB"
+    ],
+    [
+      0.000230,
+      "\r  Downloading dogpile.core-0.4.1.tar.gz (99kB):  12%  12kB "
+    ],
+    [
+      0.000605,
+      "\r  Downloading dogpile.core-0.4.1.tar.gz (99kB):  16%  16kB"
+    ],
+    [
+      0.000170,
+      "\r  Downloading dogpile.core-0.4.1.tar.gz (99kB):  20%  20kB"
+    ],
+    [
+      0.000218,
+      "\r  Downloading dogpile.core-0.4.1.tar.gz (99kB):  24%  24kB"
+    ],
+    [
+      0.000157,
+      "\r  Downloading dogpile.core-0.4.1.tar.gz (99kB):  28%  28kB"
+    ],
+    [
+      0.000563,
+      "\r  Downloading dogpile.core-0.4.1.tar.gz (99kB):  32%  32kB"
+    ],
+    [
+      0.000167,
+      "\r  Downloading dogpile.core-0.4.1.tar.gz (99kB):  37%  36kB"
+    ],
+    [
+      0.000206,
+      "\r  Downloading dogpile.core-0.4.1.tar.gz (99kB):  41%  40kB"
+    ],
+    [
+      0.000152,
+      "\r  Downloading dogpile.core-0.4.1.tar.gz (99kB):  45%  45kB"
+    ],
+    [
+      0.000558,
+      "\r  Downloading dogpile.core-0.4.1.tar.gz (99kB):  49%  49kB"
+    ],
+    [
+      0.000169,
+      "\r  Downloading dogpile.core-0.4.1.tar.gz (99kB):  53%  53kB"
+    ],
+    [
+      0.000200,
+      "\r  Downloading dogpile.core-0.4.1.tar.gz (99kB):  57%  57kB"
+    ],
+    [
+      0.000158,
+      "\r  Downloading dogpile.core-0.4.1.tar.gz (99kB):  61%  61kB"
+    ],
+    [
+      0.000578,
+      "\r  Downloading dogpile.core-0.4.1.tar.gz (99kB):  65%  65kB"
+    ],
+    [
+      0.000203,
+      "\r  Downloading dogpile.core-0.4.1.tar.gz (99kB):  69%  69kB"
+    ],
+    [
+      0.000200,
+      "\r  Downloading dogpile.core-0.4.1.tar.gz (99kB):  74%  73kB"
+    ],
+    [
+      0.000165,
+      "\r  Downloading dogpile.core-0.4.1.tar.gz (99kB):  78%  77kB"
+    ],
+    [
+      0.080916,
+      "\r  Downloading dogpile.core-0.4.1.tar.gz (99kB):  82%  81kB"
+    ],
+    [
+      0.000340,
+      "\r  Downloading dogpile.core-0.4.1.tar.gz (99kB):  86%  86kB"
+    ],
+    [
+      0.000312,
+      "\r  Downloading dogpile.core-0.4.1.tar.gz (99kB):  90%  90kB"
+    ],
+    [
+      0.000213,
+      "\r  Downloading dogpile.core-0.4.1.tar.gz (99kB):  94%  94kB"
+    ],
+    [
+      0.000282,
+      "\r  Downloading dogpile.core-0.4.1.tar.gz (99kB):  98%  98kB"
+    ],
+    [
+      0.000284,
+      "\r  Downloading dogpile.core-0.4.1.tar.gz (99kB): 100%  99kB"
+    ],
+    [
+      0.000306,
+      "\r  Downloading dogpile.core-0.4.1.tar.gz (99kB):           "
+    ],
+    [
+      0.000098,
+      "\r  Downloading dogpile.core-0.4.1.tar.gz (99kB): "
+    ],
+    [
+      0.000070,
+      "99kB downloaded"
+    ],
+    [
+      0.000076,
+      "\r\n"
+    ],
+    [
+      0.028791,
+      "  Running setup.py (path:/tmp/pip_build_root/dogpile.core/setup.py) egg_info for package dogpile.core"
+    ],
+    [
+      0.000214,
+      "\r\n"
+    ],
+    [
+      0.144445,
+      "    "
+    ],
+    [
+      0.000272,
+      "\r\n"
+    ],
+    [
+      0.014370,
+      "    warning: no files found matching '*.jpg' under directory 'docs'"
+    ],
+    [
+      0.000175,
+      "\r\n"
+    ],
+    [
+      0.001932,
+      "    warning: no files found matching '*.sty' under directory 'docs'"
+    ],
+    [
+      0.000072,
+      "\r\n"
+    ],
+    [
+      0.001067,
+      "    warning: no files found matching '*.dat' under directory 'tests'"
+    ],
+    [
+      0.000071,
+      "\r\n"
+    ],
+    [
+      0.001125,
+      "    warning: no files found matching 'distribute_setup.py'"
+    ],
+    [
+      0.000153,
+      "\r\n"
+    ],
+    [
+      0.000594,
+      "    warning: no files found matching 'CHANGES*'"
+    ],
+    [
+      0.000079,
+      "\r\n"
+    ],
+    [
+      0.000522,
+      "    warning: no files found matching 'test.cfg'"
+    ],
+    [
+      0.000074,
+      "\r\n"
+    ],
+    [
+      0.000974,
+      "    no previously-included directories found matching 'docs/build/output'"
+    ],
+    [
+      0.000071,
+      "\r\n"
+    ],
+    [
+      0.023956,
+      "Requirement already satisfied (use --upgrade to upgrade): jsonpointer\u003e=1.0 in /usr/lib/python2.7/dist-packages (from jsonpatch-\u003eshade)"
+    ],
+    [
+      0.000225,
+      "\r\n"
+    ],
+    [
+      0.000626,
+      "Installing collected packages: shade, netifaces, dogpile.core"
+    ],
+    [
+      0.000072,
+      "\r\n"
+    ],
+    [
+      0.185390,
+      "  Running setup.py install for netifaces"
+    ],
+    [
+      0.000223,
+      "\r\n"
+    ],
+    [
+      0.205478,
+      "    checking for getifaddrs...found."
+    ],
+    [
+      0.000230,
+      "\r\n"
+    ],
+    [
+      0.053409,
+      "    checking for getnameinfo...found."
+    ],
+    [
+      0.000223,
+      "\r\n"
+    ],
+    [
+      0.562233,
+      "    checking for optional header files...netash/ash.h netatalk/at.h netax25/ax25.h neteconet/ec.h netipx/ipx.h netpacket/packet.h linux/irda.h linux/atm.h linux/llc.h linux/tipc.h linux/dn.h."
+    ],
+    [
+      0.000242,
+      "\r\n"
+    ],
+    [
+      0.027514,
+      "    checking whether struct sockaddr has a length field...no."
+    ],
+    [
+      0.000227,
+      "\r\n"
+    ],
+    [
+      1.219590,
+      "    checking which sockaddr_xxx structs are defined...at ax25 in in6 ipx un ash ec ll atmpvc atmsvc dn irda llc."
+    ],
+    [
+      0.000240,
+      "\r\n"
+    ],
+    [
+      0.030174,
+      "    checking for routing socket support...no."
+    ],
+    [
+      0.000214,
+      "\r\n"
+    ],
+    [
+      0.033242,
+      "    checking for sysctl(CTL_NET...) support...no."
+    ],
+    [
+      0.000217,
+      "\r\n"
+    ],
+    [
+      0.047268,
+      "    checking for netlink support...yes."
+    ],
+    [
+      0.000249,
+      "\r\n"
+    ],
+    [
+      0.000277,
+      "    will use netlink to read routing table"
+    ],
+    [
+      0.000069,
+      "\r\n"
+    ],
+    [
+      0.000213,
+      "    building 'netifaces' extension"
+    ],
+    [
+      0.000079,
+      "\r\n"
+    ],
+    [
+      0.001460,
+      "    x86_64-linux-gnu-gcc -pthread -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fPIC -DNETIFACES_VERSION=0.10.4 -DHAVE_GETIFADDRS=1 -DHAVE_GETNAMEINFO=1 -DHAVE_NETASH_ASH_H=1 -DHAVE_NETATALK_AT_H=1 -DHAVE_NETAX25_AX25_H=1 -DHAVE_NETECONET_EC_H=1 -DHAVE_NETIPX_IPX_H=1 -DHAVE_NETPACKET_PACKET_H=1 -DHAVE_LINUX_IRDA_H=1 -DHAVE_LINUX_ATM_H=1 -DHAVE_LINUX_LLC_H=1 -DHAVE_LINUX_TIPC_H=1 -DHAVE_LINUX_DN_H=1 -DHAVE_SOCKADDR_AT=1 -DHAVE_SOCKADDR_AX25=1 -DHAVE_SOCKADDR_IN=1 -DHAVE_SOCKADDR_IN6=1 -DHAVE_SOCKADDR_IPX=1 -DHAVE_SOCKADDR_UN=1 -DHAVE_SOCKADDR_ASH=1 -DHAVE_SOCKADDR_EC=1 -DHAVE_SOCKADDR_LL=1 -DHAVE_SOCKADDR_ATMPVC=1 -DHAVE_SOCKADDR_ATMSVC=1 -DHAVE_SOCKADDR_DN=1 -DHAVE_SOCKADDR_IRDA=1 -DHAVE_SOCKADDR_LLC=1 -DHAVE_PF_NETLINK=1 -I/usr/include/python2.7 -c netifaces.c -o build/temp.linux-x86_64-2.7/netifaces.o"
+    ],
+    [
+      0.000135,
+      "\r\n"
+    ],
+    [
+      0.591222,
+      "    x86_64-linux-gnu-gcc -pthread -shared -Wl,-O1 -Wl,-Bsymbolic-functions -Wl,-Bsymbolic-functions -Wl,-z,relro -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -D_FORTIFY_SOURCE=2 -g -fstack-protector --param=ssp-buffer-size=4 -Wformat -Werror=format-security build/temp.linux-x86_64-2.7/netifaces.o -o build/lib.linux-x86_64-2.7/netifaces.so"
+    ],
+    [
+      0.000255,
+      "\r\n"
+    ],
+    [
+      0.084304,
+      "    "
+    ],
+    [
+      0.000203,
+      "\r\n"
+    ],
+    [
+      0.046995,
+      "  Running setup.py install for dogpile.core"
+    ],
+    [
+      0.000276,
+      "\r\n"
+    ],
+    [
+      0.140216,
+      "    Skipping installation of /usr/local/lib/python2.7/dist-packages/dogpile/__init__.py (namespace package)"
+    ],
+    [
+      0.000202,
+      "\r\n"
+    ],
+    [
+      0.040465,
+      "    "
+    ],
+    [
+      0.000195,
+      "\r\n"
+    ],
+    [
+      0.013966,
+      "    warning: no files found matching '*.jpg' under directory 'docs'"
+    ],
+    [
+      0.000187,
+      "\r\n"
+    ],
+    [
+      0.002588,
+      "    warning: no files found matching '*.sty' under directory 'docs'"
+    ],
+    [
+      0.000142,
+      "\r\n"
+    ],
+    [
+      0.001399,
+      "    warning: no files found matching '*.dat' under directory 'tests'"
+    ],
+    [
+      0.000072,
+      "\r\n"
+    ],
+    [
+      0.001358,
+      "    warning: no files found matching 'distribute_setup.py'"
+    ],
+    [
+      0.000076,
+      "\r\n"
+    ],
+    [
+      0.000555,
+      "    warning: no files found matching 'CHANGES*'"
+    ],
+    [
+      0.000055,
+      "\r\n"
+    ],
+    [
+      0.000535,
+      "    warning: no files found matching 'test.cfg'"
+    ],
+    [
+      0.000053,
+      "\r\n"
+    ],
+    [
+      0.001028,
+      "    no previously-included directories found matching 'docs/build/output'"
+    ],
+    [
+      0.000055,
+      "\r\n"
+    ],
+    [
+      0.003731,
+      "    Installing /usr/local/lib/python2.7/dist-packages/dogpile.core-0.4.1-nspkg.pth"
+    ],
+    [
+      0.000068,
+      "\r\n"
+    ],
+    [
+      0.032405,
+      "Successfully installed shade netifaces dogpile.core"
+    ],
+    [
+      0.000172,
+      "\r\n"
+    ],
+    [
+      0.000117,
+      "Cleaning up..."
+    ],
+    [
+      0.000062,
+      "\r\n"
+    ],
+    [
+      0.053184,
+      "\u001b]0;dhc-user@python: ~\u0007dhc-user@python:~$ "
+    ],
+    [
+      3.247127,
+      "exit"
+    ],
+    [
+      0.000146,
+      "\r\n"
+    ]
+  ]
+}
