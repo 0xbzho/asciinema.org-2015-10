@@ -1,0 +1,766 @@
+{
+  "version": 1,
+  "width": 138,
+  "height": 32,
+  "duration": 83.725771,
+  "command": "/bin/bash",
+  "title": "Create security group in DreamCompute with python shade",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.058143,
+      "\u001b]0;dhc-user@python: ~\u0007dhc-user@python:~$ "
+    ],
+    [
+      0.509338,
+      "i"
+    ],
+    [
+      0.123352,
+      "p"
+    ],
+    [
+      0.169689,
+      "y"
+    ],
+    [
+      0.243702,
+      "t"
+    ],
+    [
+      0.664445,
+      "h"
+    ],
+    [
+      0.102587,
+      "o"
+    ],
+    [
+      0.119415,
+      "n"
+    ],
+    [
+      0.359952,
+      "\r\n"
+    ],
+    [
+      0.370421,
+      "Python 2.7.6 (default, Jun 22 2015, 17:58:13) "
+    ],
+    [
+      0.000210,
+      "\r\n"
+    ],
+    [
+      0.000105,
+      "Type \"copyright\", \"credits\" or \"license\" for more information."
+    ],
+    [
+      0.000102,
+      "\r\n"
+    ],
+    [
+      0.000099,
+      "\r\n"
+    ],
+    [
+      0.000097,
+      "IPython 1.2.1 -- An enhanced Interactive Python."
+    ],
+    [
+      0.000099,
+      "\r\n"
+    ],
+    [
+      0.000045,
+      "?         -\u003e Introduction and overview of IPython's features."
+    ],
+    [
+      0.000141,
+      "\r\n"
+    ],
+    [
+      0.000037,
+      "%quickref -\u003e Quick reference."
+    ],
+    [
+      0.000062,
+      "\r\n"
+    ],
+    [
+      0.000036,
+      "help      -\u003e Python's own help system."
+    ],
+    [
+      0.000061,
+      "\r\n"
+    ],
+    [
+      0.000036,
+      "object?   -\u003e Details about 'object', use 'object??' for extra details."
+    ],
+    [
+      0.000065,
+      "\r\n"
+    ],
+    [
+      0.003017,
+      "\r\n"
+    ],
+    [
+      0.000106,
+      "\u001b[0;34mIn [\u001b[1;34m1\u001b[0;34m]: \u001b[0m"
+    ],
+    [
+      3.078128,
+      "from shade import *"
+    ],
+    [
+      1.316429,
+      "\r\n"
+    ],
+    [
+      0.464535,
+      "\r\n"
+    ],
+    [
+      0.000218,
+      "\u001b[0;34mIn [\u001b[1;34m2\u001b[0;34m]: \u001b[0m"
+    ],
+    [
+      2.552312,
+      "conn = openstack_cloud(cloud='dream')"
+    ],
+    [
+      2.494083,
+      "\r\n"
+    ],
+    [
+      0.060977,
+      "\r\n"
+    ],
+    [
+      0.000228,
+      "\u001b[0;34mIn [\u001b[1;34m3\u001b[0;34m]: \u001b[0m"
+    ],
+    [
+      3.846462,
+      "sec_group_name = 'web'"
+    ],
+    [
+      1.985303,
+      "\r\n"
+    ],
+    [
+      0.001748,
+      "\r\n"
+    ],
+    [
+      0.000113,
+      "\u001b[0;34mIn [\u001b[1;34m4\u001b[0;34m]: \u001b[0m"
+    ],
+    [
+      2.540311,
+      "if conn.search_security_groups(sec_group_name):"
+    ],
+    [
+      1.174364,
+      "\r\n\u001b[0;34m   ...: \u001b[0m    "
+    ],
+    [
+      4.247717,
+      "print('Security group already exists. Skipping creation.')"
+    ],
+    [
+      1.134212,
+      "\r\n\u001b[0;34m   ...: \u001b[0m    "
+    ],
+    [
+      1.252160,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.154531,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.134374,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.135175,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.136077,
+      "\u0007"
+    ],
+    [
+      0.786176,
+      "e"
+    ],
+    [
+      0.302815,
+      "l"
+    ],
+    [
+      0.088755,
+      "s"
+    ],
+    [
+      0.083423,
+      "e"
+    ],
+    [
+      0.401572,
+      ":"
+    ],
+    [
+      0.746668,
+      "\r\n\u001b[0;34m   ...: \u001b[0m    "
+    ],
+    [
+      4.011759,
+      "print('Creating security group.')"
+    ],
+    [
+      1.703615,
+      "\r\n\u001b[0;34m   ...: \u001b[0m    "
+    ],
+    [
+      3.716818,
+      "conn.create_security_group(sec_group_name, 'network access for all-in-one application.')"
+    ],
+    [
+      1.987320,
+      "\r\n\u001b[0;34m   ...: \u001b[0m    "
+    ],
+    [
+      3.877123,
+      "conn.create_security_group_rule(sec_group_name, 80, 80, 'TCP')"
+    ],
+    [
+      0.586556,
+      "\r\n\u001b[0;34m   ...: \u001b[0m    "
+    ],
+    [
+      6.025335,
+      "conn.create_security_group_rule(sec_group_name, 22, 22, 'TCP')"
+    ],
+    [
+      0.867584,
+      "\r\n\u001b[0;34m   ...: \u001b[0m    "
+    ],
+    [
+      4.488426,
+      "conn.create_security_group_rule(sec_group_name, 443, 443, 'TCP')"
+    ],
+    [
+      0.565158,
+      "\r\n\u001b[0;34m   ...: \u001b[0m    "
+    ],
+    [
+      0.539976,
+      "\r\n"
+    ],
+    [
+      0.248781,
+      "Creating security group."
+    ],
+    [
+      0.000223,
+      "\r\n"
+    ],
+    [
+      13.007568,
+      "\r\n"
+    ],
+    [
+      0.000392,
+      "\u001b[0;34mIn [\u001b[1;34m5\u001b[0;34m]: \u001b[0m"
+    ],
+    [
+      1.452284,
+      "conn.search_security_groups(sec_group_name)"
+    ],
+    [
+      1.747805,
+      "\r\n"
+    ],
+    [
+      0.316594,
+      "\u001b[0;31mOut[\u001b[1;31m5\u001b[0;31m]: \u001b[0m"
+    ],
+    [
+      0.000228,
+      "\r\n"
+    ],
+    [
+      0.000073,
+      "[{u'description': u'network access for all-in-one application.',"
+    ],
+    [
+      0.000065,
+      "\r\n"
+    ],
+    [
+      0.000079,
+      "  u'id': u'349ad0f0-671f-43cc-9578-8d9f191cc9f1',"
+    ],
+    [
+      0.000069,
+      "\r\n"
+    ],
+    [
+      0.000061,
+      "  u'name': u'web',"
+    ],
+    [
+      0.000066,
+      "\r\n"
+    ],
+    [
+      0.000037,
+      "  u'security_group_rules': [{u'direction': u'egress',"
+    ],
+    [
+      0.000062,
+      "\r\n"
+    ],
+    [
+      0.000035,
+      "    u'ethertype': u'IPv6',"
+    ],
+    [
+      0.000061,
+      "\r\n"
+    ],
+    [
+      0.000035,
+      "    u'id': u'2953c66a-b604-4a1c-8ac7-cab1282d7b61',"
+    ],
+    [
+      0.000061,
+      "\r\n"
+    ],
+    [
+      0.000034,
+      "    u'port_range_max': None,"
+    ],
+    [
+      0.000059,
+      "\r\n"
+    ],
+    [
+      0.000035,
+      "    u'port_range_min': None,"
+    ],
+    [
+      0.000059,
+      "\r\n"
+    ],
+    [
+      0.000034,
+      "    u'protocol': None,"
+    ],
+    [
+      0.000053,
+      "\r\n"
+    ],
+    [
+      0.000067,
+      "    u'remote_group_id': None,"
+    ],
+    [
+      0.000036,
+      "\r\n"
+    ],
+    [
+      0.000059,
+      "    u'remote_ip_prefix': None,"
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.000060,
+      "    u'security_group_id': u'349ad0f0-671f-43cc-9578-8d9f191cc9f1',"
+    ],
+    [
+      0.000036,
+      "\r\n"
+    ],
+    [
+      0.000059,
+      "    u'tenant_id': u'5d013ac5962749a49af7ff18c2fb228c'},"
+    ],
+    [
+      0.000068,
+      "\r\n"
+    ],
+    [
+      0.000045,
+      "   {u'direction': u'ingress',"
+    ],
+    [
+      0.000157,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "    u'ethertype': u'IPv4',"
+    ],
+    [
+      0.000049,
+      "\r\n"
+    ],
+    [
+      0.000048,
+      "    u'id': u'3a4f846a-b4ce-482a-a45c-1645eb2b9f2e',"
+    ],
+    [
+      0.000047,
+      "\r\n"
+    ],
+    [
+      0.000046,
+      "    u'port_range_max': 80,"
+    ],
+    [
+      0.000047,
+      "\r\n"
+    ],
+    [
+      0.000072,
+      "    u'port_range_min': 80,"
+    ],
+    [
+      0.000035,
+      "\r\n"
+    ],
+    [
+      0.000065,
+      "    u'protocol': u'tcp',"
+    ],
+    [
+      0.000046,
+      "\r\n"
+    ],
+    [
+      0.000083,
+      "    u'remote_group_id': None,"
+    ],
+    [
+      0.000071,
+      "\r\n"
+    ],
+    [
+      0.000035,
+      "    u'remote_ip_prefix': None,"
+    ],
+    [
+      0.000079,
+      "\r\n"
+    ],
+    [
+      0.000042,
+      "    u'security_group_id': u'349ad0f0-671f-43cc-9578-8d9f191cc9f1',"
+    ],
+    [
+      0.000063,
+      "\r\n"
+    ],
+    [
+      0.000035,
+      "    u'tenant_id': u'5d013ac5962749a49af7ff18c2fb228c'},"
+    ],
+    [
+      0.000063,
+      "\r\n"
+    ],
+    [
+      0.000035,
+      "   {u'direction': u'ingress',"
+    ],
+    [
+      0.000076,
+      "\r\n"
+    ],
+    [
+      0.000035,
+      "    u'ethertype': u'IPv4',"
+    ],
+    [
+      0.000075,
+      "\r\n"
+    ],
+    [
+      0.000049,
+      "    u'id': u'7c31d003-6995-4d"
+    ],
+    [
+      0.000049,
+      "6a-b3e6-4b94b62abbfc',"
+    ],
+    [
+      0.000056,
+      "\r\n"
+    ],
+    [
+      0.000050,
+      "    u'port_range_max': 22,"
+    ],
+    [
+      0.000051,
+      "\r\n"
+    ],
+    [
+      0.000046,
+      "    u'port_range_min': 22,"
+    ],
+    [
+      0.000050,
+      "\r\n"
+    ],
+    [
+      0.000045,
+      "    u'protocol': u'tcp',"
+    ],
+    [
+      0.000047,
+      "\r\n"
+    ],
+    [
+      0.000045,
+      "    u'remote_group_id': None,"
+    ],
+    [
+      0.000047,
+      "\r\n"
+    ],
+    [
+      0.000045,
+      "    u'remote_ip_prefix': None,"
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.000058,
+      "    u'security_group_id': u'349ad0f0-671f-43cc-9578-8d9f191cc9f1',"
+    ],
+    [
+      0.000051,
+      "\r\n"
+    ],
+    [
+      0.000045,
+      "    u'tenant_id': u'5d013ac5962749a49af7ff18c2fb228c'},"
+    ],
+    [
+      0.000052,
+      "\r\n"
+    ],
+    [
+      0.000044,
+      "   {u'direction': u'ingress',"
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.000057,
+      "    u'ethertype': u'IPv4',"
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.000057,
+      "    u'id': u'80bbeebb-9f24-4fcd-bbc9-655e087098fb',"
+    ],
+    [
+      0.000047,
+      "\r\n"
+    ],
+    [
+      0.000044,
+      "    u'port_range_max': 443,"
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.000058,
+      "    u'port_range_min': 443,"
+    ],
+    [
+      0.000067,
+      "\r\n"
+    ],
+    [
+      0.000049,
+      "    u'protocol': u'tcp',"
+    ],
+    [
+      0.000079,
+      "\r\n"
+    ],
+    [
+      0.000035,
+      "    u'remote_group_id': None,"
+    ],
+    [
+      0.000060,
+      "\r\n"
+    ],
+    [
+      0.000034,
+      "    u'remote_ip_prefix': None,"
+    ],
+    [
+      0.000062,
+      "\r\n"
+    ],
+    [
+      0.000037,
+      "    u'security_group_id': u'349ad0f0-671f-43cc-9578-8d9f191cc9f1',"
+    ],
+    [
+      0.000062,
+      "\r\n"
+    ],
+    [
+      0.000036,
+      "    u'tenant_id': u'5d013ac5962749a49af7ff18c2fb228c'},"
+    ],
+    [
+      0.000062,
+      "\r\n"
+    ],
+    [
+      0.000035,
+      "   {u'direction': u'egress',"
+    ],
+    [
+      0.000060,
+      "\r\n"
+    ],
+    [
+      0.000035,
+      "    u'ethertype': u'IPv4',"
+    ],
+    [
+      0.000063,
+      "\r\n"
+    ],
+    [
+      0.000036,
+      "    u'id': u'e8383f20-f7a2-4621-819c-073e55d45504',"
+    ],
+    [
+      0.000062,
+      "\r\n"
+    ],
+    [
+      0.000036,
+      "    u'port_range_max': None,"
+    ],
+    [
+      0.000074,
+      "\r\n"
+    ],
+    [
+      0.000036,
+      "    u'port_range_min': None,"
+    ],
+    [
+      0.000064,
+      "\r\n"
+    ],
+    [
+      0.000036,
+      "    u'protocol': None,"
+    ],
+    [
+      0.000036,
+      "\r\n"
+    ],
+    [
+      0.000036,
+      "    u'remote_group_id': None,"
+    ],
+    [
+      0.000064,
+      "\r\n"
+    ],
+    [
+      0.000036,
+      "    u'remote_ip_prefix': None,"
+    ],
+    [
+      0.000036,
+      "\r\n"
+    ],
+    [
+      0.000036,
+      "    u'security_group_id': u'349ad0f0-671f-43cc-9578-8d9f191cc9f1',"
+    ],
+    [
+      0.000037,
+      "\r\n"
+    ],
+    [
+      0.000040,
+      "    u'tenant_id': u'5d013ac5962749a49af7ff18c2f"
+    ],
+    [
+      0.000072,
+      "b228c'}],"
+    ],
+    [
+      0.000038,
+      "\r\n"
+    ],
+    [
+      0.000049,
+      "  u'tenant_id': u'5d013ac5962749a49af7ff18c2fb228c'}]"
+    ],
+    [
+      0.000038,
+      "\r\n"
+    ],
+    [
+      0.000519,
+      "\r\n"
+    ],
+    [
+      0.000058,
+      "\u001b[0;34mIn [\u001b[1;34m6\u001b[0;34m]: \u001b[0m"
+    ],
+    [
+      2.955018,
+      "\r\nDo you really want to exit ([y]/n)? "
+    ],
+    [
+      1.745114,
+      "\r\n"
+    ],
+    [
+      0.514978,
+      "\u001b]0;dhc-user@python: ~\u0007dhc-user@python:~$ "
+    ],
+    [
+      1.038293,
+      "exit\r\n"
+    ]
+  ]
+}
