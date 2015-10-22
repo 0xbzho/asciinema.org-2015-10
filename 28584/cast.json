@@ -1,0 +1,738 @@
+{
+  "version": 1,
+  "width": 138,
+  "height": 32,
+  "duration": 76.395980,
+  "command": "/bin/bash",
+  "title": "Upload SSH keys to DreamCompute with python shade",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.052455,
+      "\u001b]0;dhc-user@python: ~\u0007dhc-user@python:~$ "
+    ],
+    [
+      1.188297,
+      "i"
+    ],
+    [
+      0.153674,
+      "p"
+    ],
+    [
+      0.177486,
+      "y"
+    ],
+    [
+      0.164298,
+      "t"
+    ],
+    [
+      0.097476,
+      "h"
+    ],
+    [
+      0.086461,
+      "o"
+    ],
+    [
+      0.136549,
+      "n"
+    ],
+    [
+      0.466056,
+      "\r\n"
+    ],
+    [
+      0.332756,
+      "Python 2.7.6 (default, Jun 22 2015, 17:58:13) "
+    ],
+    [
+      0.000178,
+      "\r\n"
+    ],
+    [
+      0.000096,
+      "Type \"copyright\", \"credits\" or \"license\" for more information."
+    ],
+    [
+      0.000081,
+      "\r\n"
+    ],
+    [
+      0.000057,
+      "\r\n"
+    ],
+    [
+      0.000080,
+      "IPython 1.2.1 -- An enhanced Interactive Python."
+    ],
+    [
+      0.000076,
+      "\r\n"
+    ],
+    [
+      0.000038,
+      "?         -\u003e Introduction and overview of IPython's features."
+    ],
+    [
+      0.000101,
+      "\r\n"
+    ],
+    [
+      0.000065,
+      "%quickref -\u003e Quick reference."
+    ],
+    [
+      0.000063,
+      "\r\n"
+    ],
+    [
+      0.000037,
+      "help      -\u003e Python's own help system."
+    ],
+    [
+      0.000062,
+      "\r\n"
+    ],
+    [
+      0.000037,
+      "object?   -\u003e Details about 'object', use 'object??' for extra details."
+    ],
+    [
+      0.000063,
+      "\r\n"
+    ],
+    [
+      0.002907,
+      "\r\n"
+    ],
+    [
+      0.000094,
+      "\u001b[0;34mIn [\u001b[1;34m1\u001b[0;34m]: \u001b[0m"
+    ],
+    [
+      2.580419,
+      "from shade import *"
+    ],
+    [
+      1.394265,
+      "\r\n"
+    ],
+    [
+      0.430386,
+      "\r\n"
+    ],
+    [
+      0.000206,
+      "\u001b[0;34mIn [\u001b[1;34m2\u001b[0;34m]: \u001b[0m"
+    ],
+    [
+      1.604323,
+      "conn = openstack_cloud(cloud='dream')"
+    ],
+    [
+      1.205571,
+      "\r\n"
+    ],
+    [
+      0.057523,
+      "\r\n"
+    ],
+    [
+      0.000191,
+      "\u001b[0;34mIn [\u001b[1;34m3\u001b[0;34m]: \u001b[0m"
+    ],
+    [
+      3.052870,
+      "keypair_name = 'mykey'"
+    ],
+    [
+      1.389878,
+      "\r\n"
+    ],
+    [
+      0.001608,
+      "\r\n"
+    ],
+    [
+      0.000115,
+      "\u001b[0;34mIn [\u001b[1;34m4\u001b[0;34m]: \u001b[0m"
+    ],
+    [
+      1.955909,
+      "pub_key_file = '/home/dhc-user/.ssh/demo_key.pub'"
+    ],
+    [
+      1.121376,
+      "\r\n"
+    ],
+    [
+      0.001641,
+      "\r\n"
+    ],
+    [
+      0.000117,
+      "\u001b[0;34mIn [\u001b[1;34m5\u001b[0;34m]: \u001b[0m"
+    ],
+    [
+      3.374031,
+      "if conn.search_keypairs(keypair_name):"
+    ],
+    [
+      0.591663,
+      "\r\n\u001b[0;34m   ...: \u001b[0m    "
+    ],
+    [
+      3.315233,
+      "print('Keypair already exists. Skipping import.')"
+    ],
+    [
+      1.142216,
+      "\r\n\u001b[0;34m   ...: \u001b[0m    "
+    ],
+    [
+      2.049296,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.157375,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.174288,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.182921,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.503362,
+      "e"
+    ],
+    [
+      0.299492,
+      "l"
+    ],
+    [
+      0.211222,
+      "s"
+    ],
+    [
+      0.064826,
+      "e"
+    ],
+    [
+      0.730427,
+      ":"
+    ],
+    [
+      0.610477,
+      "\r\n\u001b[0;34m   ...: \u001b[0m    "
+    ],
+    [
+      2.945534,
+      "print('Adding keypair...')"
+    ],
+    [
+      1.787465,
+      "\r\n\u001b[0;34m   ...: \u001b[0m    "
+    ],
+    [
+      2.363508,
+      "conn.create_keypair(keypair_name, open(pub_key_file, 'r').read().strip())"
+    ],
+    [
+      1.228225,
+      "\r\n\u001b[0;34m   ...: \u001b[0m    "
+    ],
+    [
+      0.543233,
+      "\r\n"
+    ],
+    [
+      0.030873,
+      "/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning."
+    ],
+    [
+      0.000214,
+      "\r\n"
+    ],
+    [
+      0.000068,
+      "  InsecurePlatformWarning"
+    ],
+    [
+      0.000069,
+      "\r\n"
+    ],
+    [
+      0.567796,
+      "/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning."
+    ],
+    [
+      0.000206,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "  InsecurePlatformWarning"
+    ],
+    [
+      0.000068,
+      "\r\n"
+    ],
+    [
+      0.303074,
+      "Adding keypair..."
+    ],
+    [
+      0.000213,
+      "\r\n"
+    ],
+    [
+      0.510990,
+      "\r\n"
+    ],
+    [
+      0.000280,
+      "\u001b[0;34mIn [\u001b[1;34m6\u001b[0;34m]: \u001b[0m"
+    ],
+    [
+      4.999115,
+      "for keypair in conn.list_keypairs():"
+    ],
+    [
+      1.729934,
+      "\r\n\u001b[0;34m   ...: \u001b[0m    "
+    ],
+    [
+      0.466343,
+      "p"
+    ],
+    [
+      0.211903,
+      "r"
+    ],
+    [
+      0.232752,
+      "i"
+    ],
+    [
+      0.583326,
+      "n"
+    ],
+    [
+      0.360143,
+      "t"
+    ],
+    [
+      2.361713,
+      "("
+    ],
+    [
+      0.511882,
+      "k"
+    ],
+    [
+      0.152480,
+      "e"
+    ],
+    [
+      0.206767,
+      "y"
+    ],
+    [
+      0.143968,
+      "p"
+    ],
+    [
+      0.190586,
+      "a"
+    ],
+    [
+      0.207645,
+      "i"
+    ],
+    [
+      0.144769,
+      "r"
+    ],
+    [
+      0.337016,
+      ")"
+    ],
+    [
+      0.648071,
+      "\r\n\u001b[0;34m   ...: \u001b[0m    "
+    ],
+    [
+      0.904459,
+      "\r\n"
+    ],
+    [
+      0.158398,
+      "HUMAN_ID: false"
+    ],
+    [
+      0.000199,
+      "\r\n"
+    ],
+    [
+      0.000069,
+      "NAME_ATTR: name"
+    ],
+    [
+      0.000069,
+      "\r\n"
+    ],
+    [
+      0.000118,
+      "fingerprint: 7d:d8:ac:33:6b:de:7c:10:a0:ff:33:a3:3d:bb:47:bf"
+    ],
+    [
+      0.000080,
+      "\r\n"
+    ],
+    [
+      0.000074,
+      "human_id: null"
+    ],
+    [
+      0.000081,
+      "\r\n"
+    ],
+    [
+      0.000035,
+      "id: demokey"
+    ],
+    [
+      0.000059,
+      "\r\n"
+    ],
+    [
+      0.000034,
+      "name: demokey"
+    ],
+    [
+      0.000061,
+      "\r\n"
+    ],
+    [
+      0.000070,
+      "public_key: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCv5jTg3oOe6dsMDE9KALVklqU5k3YTm703BT71g9EvU3sWrR9KnnRC/r2ifa+3CLCl3PkjzeSsa6cDNOtov31ZbSFnaQ5nQousqV/7KAS7rw05lU96WMetQ1HcSmVScpXcU1agSSqyD4b9ioE4mWzwd99HYF5OZDeGoaGdwLFqnrTfYIMXHe8QK179D/9scIVhZqMw/f0N4mnjYRlH4W477dUn6cWiR33lLIZeFF7A33w5cakcsSl7brZwWIYSF9tPqCTpA6L+jfbPiDR/n6HEoKI7zL8a0okyns0OyvlH97fYRnEyVxQrY4RRDIlWHkXu2+rrP51JZkSeCgIueerwNxtdBDbIOhP/YlGCqRMuCW7CrumvZyOBZ2dn624adprhHj3v6Q6sEFEBQhzjlSNM3+kagDxYjICOrZdrDvapEAVwvUCx1J+COyxoVUWk93E7zWBtMEyAGnUJWfh21zc0tibJF7SFuPTQH3VeJsMvCElCG0fGI2RMmDon+qtZ74DUgdFX9fAQ5uiHEorAWTv+AQNr/yUEbLQWlBFmvGTk+kqZHxR7tMDAXdK6mGcj+0Z9DSbC/ORbBcamlD8GZ6Q2t4FpIo4l6SW+f7js0xOujJmBKOyYGwyAQv6zkUpRL/0eECm0ZKwK7JwdcQuJuoHUMAKSg03v61agVy63Bzouxw=="
+    ],
+    [
+      0.000070,
+      "\r\n"
+    ],
+    [
+      0.000059,
+      "    stefano.maffulli@dreamhost.com"
+    ],
+    [
+      0.000035,
+      "\r\n"
+    ],
+    [
+      0.000085,
+      "\r\n"
+    ],
+    [
+      0.002704,
+      "HUMAN_ID: false"
+    ],
+    [
+      0.000054,
+      "\r\n"
+    ],
+    [
+      0.000052,
+      "NAME_ATTR: name"
+    ],
+    [
+      0.000046,
+      "\r\n"
+    ],
+    [
+      0.000047,
+      "fingerprint: c2:d1:fc:dc:8c:29:44:3e:e9:65:95:17:e2:05:9d:f1"
+    ],
+    [
+      0.000046,
+      "\r\n"
+    ],
+    [
+      0.000049,
+      "human_id: null"
+    ],
+    [
+      0.000045,
+      "\r\n"
+    ],
+    [
+      0.000032,
+      "id: my-ssh"
+    ],
+    [
+      0.000057,
+      "\r\n"
+    ],
+    [
+      0.000032,
+      "name: my-ssh"
+    ],
+    [
+      0.000061,
+      "\r\n"
+    ],
+    [
+      0.000043,
+      "public_key: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDD/zAvXaOUXCAT6/B4sCMu/38d/PyOIg/tYsYFAMgfDUzuZwkjZWNGrTpp/HFrOAZISER5KmOg48DKPvm91AeZOHfAXHCP6x9/FcogP9rmc48ym1B5XyIc78QVQjgN6JMSlEZsl0GWzFhQsPDjXundflY07TZfSC1IhpG9UgzamEVFcRjmNztnBuvq2uYVGpdI+ghmqFw9kfvSXJvUbj/F7Pco5XyJBx2e+gofe+X/UNee75xgoU/FyE2a6dSSc4uP4oUBvxDNU3gIsUKrSCmV8NuVQvMB8C9gXYR+JqtcvUSS9DdUAA8StP65woVsvuU+lqb+HVAe71JotDfOBd6f"
+    ],
+    [
+      0.000078,
+      "\r\n"
+    ],
+    [
+      0.000033,
+      "    stefano@mattone-E6420"
+    ],
+    [
+      0.000058,
+      "\r\n"
+    ],
+    [
+      0.000068,
+      "\r\n"
+    ],
+    [
+      0.003375,
+      "HUMAN_ID: false"
+    ],
+    [
+      0.000053,
+      "\r\n"
+    ],
+    [
+      0.000053,
+      "NAME_ATTR: name"
+    ],
+    [
+      0.000045,
+      "\r\n"
+    ],
+    [
+      0.000059,
+      "fingerprint: 7d:d8:ac:33:6b:de:7c:10:a0:ff:33:a3:3d:bb:47:bf"
+    ],
+    [
+      0.000046,
+      "\r\n"
+    ],
+    [
+      0.000047,
+      "human_id: null"
+    ],
+    [
+      0.000044,
+      "\r\n"
+    ],
+    [
+      0.000033,
+      "id: mykey"
+    ],
+    [
+      0.000060,
+      "\r\n"
+    ],
+    [
+      0.000033,
+      "name: mykey"
+    ],
+    [
+      0.000059,
+      "\r\n"
+    ],
+    [
+      0.000102,
+      "public_key: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCv5jTg3oOe6dsMDE9KALVklqU5k3YTm703BT71g9EvU3sWrR9KnnRC/r2ifa+3CLCl3PkjzeSsa6cDNOtov31ZbSFnaQ5nQousqV/7KAS7rw05lU96WMetQ1HcSmVScpXcU1agSSqyD4b9ioE4mWzwd99HYF5OZDeGoaGdwLFqnrTfYIMXHe8QK179D/9scIVhZqMw/f0N4mnjYRlH4W477dUn6cWiR33lLIZeFF7A33w5cakcsSl7brZwWIYSF9tPqCTpA6L+jfbPiDR/n6HEoKI7zL8a0okyns0OyvlH97fYRnEyVxQrY4RRDIlWHkXu2+rrP51JZkSeCgIueerwNxtdBDbIOhP/YlGCqRMuCW7CrumvZyOBZ2dn624adprhHj3v6Q6sEFEBQhzjlSNM3+kagDxYjICOrZdrDvapEAVwvUCx1J+COyxoVUWk93E7zWBtMEyAGnUJWfh21zc0tibJF7SFuPTQH3VeJsMvCElCG0fGI2RMmDon+qtZ74DUgdFX9fAQ5uiHEorAWTv+AQNr/yUEbLQWlBFmvGTk+kqZHxR7tMDAXdK6mGcj+0Z9DSbC/ORbBcamlD8GZ6Q2t4FpIo4l6SW+f7js0xOujJmBKOyYGwyAQv6zkUpRL/0eECm0ZKwK7JwdcQuJuoHUMAKSg03v61agVy63Bzouxw=="
+    ],
+    [
+      0.000062,
+      "\r\n"
+    ],
+    [
+      0.000059,
+      "    stefano.maffulli@dreamhost.com"
+    ],
+    [
+      0.000040,
+      "\r\n"
+    ],
+    [
+      0.000064,
+      "\r\n"
+    ],
+    [
+      0.002455,
+      "HUMAN_ID: false"
+    ],
+    [
+      0.000052,
+      "\r\n"
+    ],
+    [
+      0.000052,
+      "NAME_ATTR: name"
+    ],
+    [
+      0.000046,
+      "\r\n"
+    ],
+    [
+      0.000109,
+      "fingerprint: dd:bc:0f:fd:52:84:1f:34:bd:4a:69:9f:c2:7e:ad:76"
+    ],
+    [
+      0.000070,
+      "\r\n"
+    ],
+    [
+      0.000044,
+      "human_id: null"
+    ],
+    [
+      0.000033,
+      "\r\n"
+    ],
+    [
+      0.000056,
+      "id: rods"
+    ],
+    [
+      0.000033,
+      "\r\n"
+    ],
+    [
+      0.000058,
+      "name: rods"
+    ],
+    [
+      0.000032,
+      "\r\n"
+    ],
+    [
+      0.000061,
+      "public_key: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQChz+CTZt04QqDwLt1IuEkj8/geX0lTGDcsAlH5QIgmBqZv/6bcA2/HCPKZLSqq6lt3QYRVmUk8rR+YlSY28nG4mdNn0VSd1x25pq4WmjHESP7D8aFVG1jNOi7r7VngCULY6l+4sTNnCBtiSdxvqEGkrkxhyJrbAvrQOylBWdA9yJrJ2KEKsAZ9ykPEbO6rxPcDObtXW64H6TsFmzRRZdKRQOAxm9uYIr2eVt+86uDyHEUaEd02tE2KYeA027LYHjrprORWhDJku2tzCqnq7jjPVhxUP86EsKhWRs26caJfUSTP1riQ/e0DqP/DEuWiS4/T5riqrSm1tIEibEmhFihB"
+    ],
+    [
+      0.000042,
+      "\r\n"
+    ],
+    [
+      0.000065,
+      "\r\n"
+    ],
+    [
+      0.003421,
+      "HUMAN_ID: false"
+    ],
+    [
+      0.000055,
+      "\r\n"
+    ],
+    [
+      0.000053,
+      "NAME_ATTR: name"
+    ],
+    [
+      0.000046,
+      "\r\n"
+    ],
+    [
+      0.000051,
+      "fingerprint: 78:33:4a:5f:5f:cd:63:09:e0:29:25:6a:17:4f:e5:f4"
+    ],
+    [
+      0.000045,
+      "\r\n"
+    ],
+    [
+      0.000046,
+      "human_id: null"
+    ],
+    [
+      0.000044,
+      "\r\n"
+    ],
+    [
+      0.000033,
+      "id: znc-host"
+    ],
+    [
+      0.000056,
+      "\r\n"
+    ],
+    [
+      0.000081,
+      "name: znc-host"
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.000061,
+      "public_key: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDecQ/+yCFu9IFqOlmWsn9K0lkskaW3IDPfaYIAPW1BvsYqXuF8AnbHVw7zGOnb5hWu7KHH9UKQJQBhSed/sIvP5VDVXUlaZ2YSUS7iCCqj1U+wFP5GEW/GcLBWLscAbL2iw306L03rCxqmZGc0KSXKRjnHlwcLy7PENCfkTTQoNzoyb91/Pz8cvYAlbTq2gYkIinuo8nT4+tDLfM5bhBpvoopHJkE1auhxd+gToXA3u6qUzp+ZE5Y6sLjwc/O4KShmXwOypBIbE1IXghx59VYSAWHu/L1SG1I0GUbuGKXc1KZE+bJ0BbDlecARVla8b7u2nDvS4/TkIroHE78+jZZ08hMCctLiXmVlMmrZaf0zYhd7sT+lQLla2SOVnGkWSdARNzBIhpLRtbLc/SJxYt/VMhw9ge7sPO4eIZ17Z9V4yNqTRmFOiOe7sYNOqM+uZ92hM4A4m5+eq4svaBTFbZr+x/8g1+dC8DlVkxWqv0TAL0Zh2Q9UKCcb3TIjYBHZMp0ku293uo1bevupznf0Svo3BH4DSFiDmG/vpYl1LpSaWVIhYpTXLV2frEUYMAmsg+duBDWUQuw1RFSwoRJvLc4L7S2woEk1uTYecoOBecuqIP0p4NddQvWn3jhl13L4l+htl/iGpbPSH8RlG4L3fo4jswC/Gsx8kZO78HgJoAwlzw=="
+    ],
+    [
+      0.000047,
+      "\r\n"
+    ],
+    [
+      0.000081,
+      "    stefano.maffulli@dreamhost.com"
+    ],
+    [
+      0.000047,
+      "\r\n"
+    ],
+    [
+      0.000050,
+      "\r\n"
+    ],
+    [
+      0.000623,
+      "\r\n"
+    ],
+    [
+      0.000066,
+      "\u001b[0;34mIn [\u001b[1;34m7\u001b[0;34m]: \u001b[0m"
+    ],
+    [
+      15.239059,
+      "\r\nDo you really want to exit ([y]/n)? "
+    ],
+    [
+      2.680562,
+      "y"
+    ],
+    [
+      0.764311,
+      "\r\n"
+    ],
+    [
+      0.392423,
+      "\u001b]0;dhc-user@python: ~\u0007dhc-user@python:~$ "
+    ],
+    [
+      1.406031,
+      "exit\r\n"
+    ]
+  ]
+}
