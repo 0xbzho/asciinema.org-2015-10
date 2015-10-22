@@ -1,0 +1,562 @@
+{
+  "version": 1,
+  "width": 138,
+  "height": 32,
+  "duration": 226.374312,
+  "command": "/bin/bash",
+  "title": "Deploy Jotter note-taking app on DreamCompute with python shade",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.056026,
+      "\u001b]0;dhc-user@python: ~\u0007dhc-user@python:~$ "
+    ],
+    [
+      1.071765,
+      "i"
+    ],
+    [
+      0.098442,
+      "p"
+    ],
+    [
+      0.156959,
+      "y"
+    ],
+    [
+      0.246782,
+      "t"
+    ],
+    [
+      0.072479,
+      "h"
+    ],
+    [
+      0.107999,
+      "o"
+    ],
+    [
+      0.108468,
+      "n"
+    ],
+    [
+      0.302731,
+      "\r\n"
+    ],
+    [
+      0.355400,
+      "Python 2.7.6 (default, Jun 22 2015, 17:58:13) "
+    ],
+    [
+      0.000182,
+      "\r\n"
+    ],
+    [
+      0.000114,
+      "Type \"copyright\", \"credits\" or \"license\" for more information."
+    ],
+    [
+      0.000087,
+      "\r\n"
+    ],
+    [
+      0.000053,
+      "\r\n"
+    ],
+    [
+      0.000100,
+      "IPython 1.2.1 -- An enhanced Interactive Python."
+    ],
+    [
+      0.000075,
+      "\r\n"
+    ],
+    [
+      0.000080,
+      "?         -\u003e Introduction and overview of IPython's features."
+    ],
+    [
+      0.000660,
+      "\r\n"
+    ],
+    [
+      0.000083,
+      "%quickref -\u003e Quick reference."
+    ],
+    [
+      0.000079,
+      "\r\n"
+    ],
+    [
+      0.000042,
+      "help      -\u003e Python's own help system."
+    ],
+    [
+      0.000061,
+      "\r\n"
+    ],
+    [
+      0.000039,
+      "object?   -\u003e Details about 'object', use 'object??' for extra details."
+    ],
+    [
+      0.000063,
+      "\r\n"
+    ],
+    [
+      0.002715,
+      "\r\n"
+    ],
+    [
+      0.000113,
+      "\u001b[0;34mIn [\u001b[1;34m1\u001b[0;34m]: \u001b[0m"
+    ],
+    [
+      2.585417,
+      "from shade import *"
+    ],
+    [
+      1.235269,
+      "\r\n"
+    ],
+    [
+      0.438695,
+      "\r\n"
+    ],
+    [
+      0.000212,
+      "\u001b[0;34mIn [\u001b[1;34m2\u001b[0;34m]: \u001b[0m"
+    ],
+    [
+      2.374607,
+      "conn = openstack_cloud(cloud='dream')"
+    ],
+    [
+      2.427189,
+      "\r\n"
+    ],
+    [
+      0.057323,
+      "\r\n"
+    ],
+    [
+      0.000208,
+      "\u001b[0;34mIn [\u001b[1;34m3\u001b[0;34m]: \u001b[0m"
+    ],
+    [
+      3.006872,
+      "image_id = conn.get_image_id('Ubuntu-14.04')"
+    ],
+    [
+      3.343706,
+      "\r\n"
+    ],
+    [
+      0.822668,
+      "\r\n"
+    ],
+    [
+      0.000190,
+      "\u001b[0;34mIn [\u001b[1;34m4\u001b[0;34m]: \u001b[0m"
+    ],
+    [
+      2.054761,
+      "flavor_id = '100'"
+    ],
+    [
+      0.878135,
+      "\r\n"
+    ],
+    [
+      0.001789,
+      "\r\n"
+    ],
+    [
+      0.000210,
+      "\u001b[0;34mIn [\u001b[1;34m5\u001b[0;34m]: \u001b[0m"
+    ],
+    [
+      2.892924,
+      "instance_name = 'jotter'"
+    ],
+    [
+      2.813330,
+      "\r\n"
+    ],
+    [
+      0.001640,
+      "\r\n"
+    ],
+    [
+      0.000121,
+      "\u001b[0;34mIn [\u001b[1;34m6\u001b[0;34m]: \u001b[0m"
+    ],
+    [
+      2.796746,
+      "keypair_name = 'mykey'"
+    ],
+    [
+      2.881970,
+      "\r\n"
+    ],
+    [
+      0.001717,
+      "\r\n"
+    ],
+    [
+      0.000128,
+      "\u001b[0;34mIn [\u001b[1;34m7\u001b[0;34m]: \u001b[0m"
+    ],
+    [
+      3.075706,
+      "sec_group_name = 'web'"
+    ],
+    [
+      2.841136,
+      "\r\n"
+    ],
+    [
+      0.001710,
+      "\r\n"
+    ],
+    [
+      0.000121,
+      "\u001b[0;34mIn [\u001b[1;34m8\u001b[0;34m]: \u001b[0m"
+    ],
+    [
+      5.160663,
+      "my_app = '''#!/usr/bin/env bash"
+    ],
+    [
+      1.040777,
+      "\r\n\u001b[0;34m   ...: \u001b[0m"
+    ],
+    [
+      2.588960,
+      "sudo apt-get update"
+    ],
+    [
+      1.044118,
+      "\r\n\u001b[0;34m   ...: \u001b[0m"
+    ],
+    [
+      2.785940,
+      "sudo apt-get -y install git php5"
+    ],
+    [
+      1.196557,
+      "\r\n\u001b[0;34m   ...: \u001b[0m"
+    ],
+    [
+      1.008757,
+      "\r\n\u001b[0;34m   ...: \u001b[0m"
+    ],
+    [
+      2.030679,
+      "cd /var/www/html"
+    ],
+    [
+      0.476839,
+      "\r\n\u001b[0;34m   ...: \u001b[0m"
+    ],
+    [
+      3.791522,
+      "sudo git clone https://github.com/yosko/jotter.git"
+    ],
+    [
+      4.660888,
+      "\r\n\u001b[0;34m   ...: \u001b[0m"
+    ],
+    [
+      5.178103,
+      "sudo chown -R www-data:www-data /var/www/html/*"
+    ],
+    [
+      1.458179,
+      "\r\n\u001b[0;34m   ...: \u001b[0m"
+    ],
+    [
+      1.136063,
+      "\r\n\u001b[0;34m   ...: \u001b[0m"
+    ],
+    [
+      2.211688,
+      "exit 0"
+    ],
+    [
+      0.612079,
+      "\r\n\u001b[0;34m   ...: \u001b[0m"
+    ],
+    [
+      2.269757,
+      "'''"
+    ],
+    [
+      1.731450,
+      "\r\n"
+    ],
+    [
+      0.001614,
+      "\r\n"
+    ],
+    [
+      0.000199,
+      "\u001b[0;34mIn [\u001b[1;34m9\u001b[0;34m]: \u001b[0m"
+    ],
+    [
+      2.817909,
+      "testing_instance = conn.create_server(wait=True, auto_ip=True,"
+    ],
+    [
+      2.278299,
+      "\r\n\u001b[0;34m   ...: \u001b[0m"
+    ],
+    [
+      2.983061,
+      "    name=instance_name,"
+    ],
+    [
+      1.912481,
+      "\r\n\u001b[0;34m   ...: \u001b[0m"
+    ],
+    [
+      2.689309,
+      "    image=image_id,"
+    ],
+    [
+      1.060255,
+      "\r\n\u001b[0;34m   ...: \u001b[0m"
+    ],
+    [
+      2.264174,
+      "    flavor=flavor_id,"
+    ],
+    [
+      0.716368,
+      "\r\n\u001b[0;34m   ...: \u001b[0m"
+    ],
+    [
+      2.584239,
+      "    key_name=keypair_name,"
+    ],
+    [
+      0.583651,
+      "\r\n\u001b[0;34m   ...: \u001b[0m"
+    ],
+    [
+      2.639496,
+      "    security_groups=[sec_group_name],"
+    ],
+    [
+      0.783661,
+      "\r\n\u001b[0;34m   ...: \u001b[0m"
+    ],
+    [
+      3.668085,
+      "    userdata=my_app)"
+    ],
+    [
+      0.855699,
+      "\r\n"
+    ],
+    [
+      99.141456,
+      "\r\n"
+    ],
+    [
+      0.000231,
+      "\u001b[0;34mIn [\u001b[1;34m10\u001b[0;34m]: \u001b[0m"
+    ],
+    [
+      6.020040,
+      "c"
+    ],
+    [
+      0.142299,
+      "o"
+    ],
+    [
+      0.135129,
+      "n"
+    ],
+    [
+      0.178861,
+      "n"
+    ],
+    [
+      0.237728,
+      "."
+    ],
+    [
+      0.350694,
+      "s"
+    ],
+    [
+      0.064922,
+      "e"
+    ],
+    [
+      0.121190,
+      "r"
+    ],
+    [
+      0.922241,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.076634,
+      "a"
+    ],
+    [
+      0.081618,
+      "r"
+    ],
+    [
+      0.281215,
+      "\r\n"
+    ],
+    [
+      0.000174,
+      "conn.search_domains            conn.search_images             conn.search_records            conn.search_subnets"
+    ],
+    [
+      0.000085,
+      "\r\n"
+    ],
+    [
+      0.000096,
+      "conn.search_flavors            conn.search_keypairs           conn.search_routers            conn.search_users"
+    ],
+    [
+      0.000109,
+      "\r\n"
+    ],
+    [
+      0.000095,
+      "conn.search_floating_ip_pools  conn.search_networks           conn.search_security_groups    conn.search_volumes"
+    ],
+    [
+      0.000066,
+      "\r\n"
+    ],
+    [
+      0.000090,
+      "conn.search_floating_ips       conn.search_ports              conn.search_servers            "
+    ],
+    [
+      0.000082,
+      "\r\n"
+    ],
+    [
+      0.000070,
+      "\r\n"
+    ],
+    [
+      0.000098,
+      "\u001b[0;34mIn [\u001b[1;34m10\u001b[0;34m]: \u001b[0mconn.search_"
+    ],
+    [
+      0.952604,
+      "s"
+    ],
+    [
+      0.078653,
+      "e"
+    ],
+    [
+      0.069172,
+      "r"
+    ],
+    [
+      0.199928,
+      "vers"
+    ],
+    [
+      1.591520,
+      "("
+    ],
+    [
+      0.554146,
+      "'"
+    ],
+    [
+      0.599238,
+      "j"
+    ],
+    [
+      0.127697,
+      "o"
+    ],
+    [
+      0.273805,
+      "t"
+    ],
+    [
+      0.151397,
+      "t"
+    ],
+    [
+      0.078232,
+      "e"
+    ],
+    [
+      0.112309,
+      "r"
+    ],
+    [
+      0.175318,
+      "'"
+    ],
+    [
+      0.960029,
+      ")"
+    ],
+    [
+      0.555706,
+      "\r\n"
+    ],
+    [
+      0.824313,
+      "\u001b[0;31mOut[\u001b[1;31m10\u001b[0;31m]: \u001b[0m[Bunch(HUMAN_ID=True, NAME_ATTR='name', OS-DCF:diskConfig=u'MANUAL', OS-EXT-AZ:availability_zone=u'iad-1', OS-EXT-STS:power_state=1, OS-EXT-STS:task_state=None, OS-EXT-STS:vm_state=u'active', OS-SRV-USG:launched_at=u'2015-10-22T18:29:42.000000', OS-SRV-USG:terminated_at=None, accessIPv4=u'', accessIPv6=u'', addresses={u'private-network': [{u'OS-EXT-IPS-MAC:mac_addr': u'fa:16:3e:f4:58:13', u'version': 6, u'addr': u'2607:f298:6050:4e14:f816:3eff:fef4:5813', u'OS-EXT-IPS:type': u'fixed'}, {u'OS-EXT-IPS-MAC:mac_addr': u'fa:16:3e:f4:58:13', u'version': 4, u'addr': u'10.10.10.68', u'OS-EXT-IPS:type': u'fixed'}, {u'OS-EXT-IPS-MAC:mac_addr': u'fa:16:3e:f4:58:13', u'version': 4, u'addr': u'67.205.58.90', u'OS-EXT-IPS:type': u'floating'}]}, config_drive=u'', created=u'2015-10-22T18:28:16Z', flavor={u'id': u'100', u'links': [{u'href': u'https://compute.dream.io:8774/5d013ac5962749a49af7ff18c2fb228c/flavors/100', u'rel': u'bookmark'}]}, hostId=u'651f08ea38c888ba0f286e0c61932d0f4cda10cb11"
+    ],
+    [
+      0.000258,
+      "0af6662bb611b3', human_id=u'jotter', id=u'926da0be-e5a3-41a8-b7c7-5066de978161', image={u'id': u'0be6d861-0cbf-425f-b04c-73fd94c49b1e', u'links': [{u'href': u'https://compute.dream.io:8774/5d013ac5962749a49af7ff18c2fb228c/images/0be6d861-0cbf-425f-b04c-73fd94c49b1e', u'rel': u'bookmark'}]}, key_name=u'mykey', links=[{u'href': u'https://compute.dream.io:8774/v2/5d013ac5962749a49af7ff18c2fb228c/servers/926da0be-e5a3-41a8-b7c7-5066de978161', u'rel': u'self'}, {u'href': u'https://compute.dream.io:8774/5d013ac5962749a49af7ff18c2fb228c/servers/926da0be-e5a3-41a8-b7c7-5066de978161', u'rel': u'bookmark'}], metadata={}, name=u'jotter', networks={u'private-network': [u'2607:f298:6050:4e14:f816:3eff:fef4:5813', u'10.10.10.68', u'67.205.58.90']}, os-extended-volumes:volumes_attached=[], progress=0, security_groups=[{u'name': u'web'}], status=u'ACTIVE', tenant_id=u'5d013ac5962749a49af7ff18c2fb228c', updated=u'2015-10-22T18:29:42Z', user_id=u'bfd3dbf1c8a242cd90884408de547bb9')]"
+    ],
+    [
+      0.000122,
+      "\r\n"
+    ],
+    [
+      0.000610,
+      "\r\n"
+    ],
+    [
+      0.000108,
+      "\u001b[0;34mIn [\u001b[1;34m11\u001b[0;34m]: \u001b[0m"
+    ],
+    [
+      1.884205,
+      "\r\nDo you really want to exit ([y]/n)? "
+    ],
+    [
+      0.839680,
+      "\r\n"
+    ],
+    [
+      0.360949,
+      "\u001b]0;dhc-user@python: ~\u0007dhc-user@python:~$ "
+    ],
+    [
+      0.890079,
+      "exit"
+    ],
+    [
+      0.000137,
+      "\r\n"
+    ]
+  ]
+}
