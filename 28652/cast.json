@@ -1,0 +1,1490 @@
+{
+  "version": 1,
+  "width": 237,
+  "height": 43,
+  "duration": 69.812048,
+  "command": "bgshell",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.012319,
+      "alessandro at fuchikoma in ~\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[2K\r$ \r\u001b[2C"
+    ],
+    [
+      4.167023,
+      "\u001b[2K\r$ c\r\u001b[3C\u001b[2K\r$ cr\r\u001b[4C\u001b[2K\r$ cre\r\u001b[5C\u001b[2K\r$ crea\r\u001b[6C\u001b[2K\r$ creat\r\u001b[7C\u001b[2K\r$ create\r\u001b[8C\u001b[2K\r$ create \r\u001b[9C\u001b[2K\r$ create /\r\u001b[10C\u001b[2K\r$ create /h\r\u001b[11C\u001b[2K\r$ create /ho\r\u001b[12C\u001b[2K\r$ create /hom\r\u001b[13C\u001b[2K\r$ create /home\r\u001b[14C\u001b[2K\r$ create /home/\r\u001b[15C\u001b[2K\r$ create /home/a\r\u001b[16C\u001b[2K\r$ create /home/al\r\u001b[17C\u001b[2K\r$ create /home/ale\r\u001b[18C\u001b[2K\r$ create /home/ales\r\u001b[19C\u001b[2K\r$ create /home/aless\r\u001b[20C\u001b[2K\r$ create /home/alessa\r\u001b[21C\u001b[2K\r$ create /home/alessan\r\u001b[22C\u001b[2K\r$ create /home/alessand\r\u001b[23C\u001b[2K\r$ create /home/alessandr\r\u001b[24C\u001b[2K\r$ create /home/alessandro\r\u001b[25C\u001b[2K\r$ create /home/alessandro/\r\u001b[26C\u001b[2K\r$ create /home/alessandro/c\r\u001b[27C\u001b[2K\r$ create /home/alessandro/ch\r\u001b[28C\u001b[2K\r$ create /home/alessandro/cha\r\u001b[29C\u001b[2K\r$ create /home/alessandro/chal\r\u001b[30C\u001b[2K\r$ create /home/alessandro/chall\r\u001b[31C\u001b[2K\r$ create /home/alessandro/challe\r\u001b[32C\u001b[2K\r$ create /home/alessandro/challen\r\u001b[33C\u001b[2K\r$ create /home/alessandro/challeng\r\u001b[34C\u001b[2K\r$ create /home/alessandro/challenge\r\u001b[35C\u001b[2K\r$ create /home/alessandro/challenge.\r\u001b[36C\u001b[2K\r$ create /home/alessandro/challenge.a\r\u001b[37C\u001b[2K\r$ create /home/alessandro/challenge.ad\r\u001b[38C\u001b[2K\r$ create /home/alessandro/challenge.adi\r\u001b[39C\u001b[2K\r$ create /home/alessandro/challenge.adis\r\u001b[40C\u001b[2K\r$ create /home/alessandro/challenge.adis \r\u001b[41C\u001b[2K\r$ create /home/alessandro/challenge.adis /\r\u001b[42C\u001b[2K\r$ create /home/alessandro/challenge.adis /h\r\u001b[43C\u001b[2K\r$ create /home/alessandro/challenge.adis /ho\r\u001b[44C\u001b[2K\r$ create /home/alessandro/challenge.adis /hom\r\u001b[45C\u001b[2K\r$ create /home/alessandro/challenge.adis /home\r\u001b[46C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/\r\u001b[47C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/a\r\u001b[48C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/al\r\u001b[49C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/ale\r\u001b[50C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/ales\r\u001b[51C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/aless\r\u001b[52C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessa\r\u001b[53C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessan\r\u001b[54C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessand\r\u001b[55C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandr\r\u001b[56C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro\r\u001b[57C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/\r\u001b[58C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/P\r\u001b[59C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Pr\r\u001b[60C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Pro\r\u001b[61C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Proj\r\u001b[62C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Proje\r\u001b[63C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projec\r\u001b[64C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Project\r\u001b[65C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projects\r\u001b[66C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projects/\r\u001b[67C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projects/P\r\u001b[68C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projects/Pr\r\u001b[69C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projects/Pri\r\u001b[70C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projects/Priv\r\u001b[71C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projects/Priva\r\u001b[72C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projects/Privat\r\u001b[73C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projects/Private\r\u001b[74C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projects/Private/\r\u001b[75C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projects/Private/b\r\u001b[76C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projects/Private/bi\r\u001b[77C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projects/Private/bin\r\u001b[78C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projects/Private/bina\r\u001b[79C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projects/Private/binar\r\u001b[80C\u001b[2K\r$ "
+    ],
+    [
+      0.000050,
+      "create /home/alessandro/challenge.adis /home/alessandro/Projects/Private/binary\r\u001b[81C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projects/Private/binaryg\r\u001b[82C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projects/Private/binaryga\r\u001b[83C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projects/Private/binarygat\r\u001b[84C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projects/Private/binarygato\r\u001b[85C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projects/Private/binarygator\r\u001b[86C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projects/Private/binarygator/\r\u001b[87C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projects/Private/binarygator/S\r\u001b[88C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projects/Private/binarygator/Sa\r\u001b[89C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projects/Private/binarygator/Sam\r\u001b[90C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projects/Private/binarygator/Samp\r\u001b[91C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projects/Private/binarygator/Sampl\r\u001b[92C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projects/Private/binarygator/Sample\r\u001b[93C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projects/Private/binarygator/Samples\r\u001b[94C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projects/Private/binarygator/Samples/\r\u001b[95C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projects/Private/binarygator/Samples/c\r\u001b[96C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projects/Private/binarygator/Samples/ch\r\u001b[97C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projects/Private/binarygator/Samples/cha\r\u001b[98C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projects/Private/binarygator/Samples/chal\r\u001b[99C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projects/Private/binarygator/Samples/chall\r\u001b[100C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projects/Private/binarygator/Samples/challe\r\u001b[101C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projects/Private/binarygator/Samples/challen\r\u001b[102C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projects/Private/binarygator/Samples/challeng\r\u001b[103C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projects/Private/binarygator/Samples/challenge\r\u001b[104C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projects/Private/binarygator/Samples/challenge.\r\u001b[105C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projects/Private/binarygator/Samples/challenge.e\r\u001b[106C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projects/Private/binarygator/Samples/challenge.ex\r\u001b[107C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projects/Private/binarygator/Samples/challenge.exe\r\u001b[108C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projects/Private/binarygator/Samples/challenge.exe \r\u001b[109C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projects/Private/binarygator/Samples/challenge.exe p\r\u001b[110C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projects/Private/binarygator/Samples/challenge.exe po\r\u001b[111C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projects/Private/binarygator/Samples/challenge.exe por\r\u001b[112C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projects/Private/binarygator/Samples/challenge.exe port\r\u001b[113C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projects/Private/binarygator/Samples/challenge.exe porta\r\u001b[114C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projects/Private/binarygator/Samples/challenge.exe portab\r\u001b[115C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projects/Private/binarygator/Samples/challenge.exe portabl\r\u001b[116C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projects/Private/binarygator/Samples/challenge.exe portable\r\u001b[117C\u001b[2K\r$ create "
+    ],
+    [
+      0.000017,
+      "/home/alessandro/challenge.adis /home/alessandro/Projects/Private/binarygator/Samples/challenge.exe portablee\r\u001b[118C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projects/Private/binarygator/Samples/challenge.exe portableex\r\u001b[119C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projects/Private/binarygator/Samples/challenge.exe portableexe\r\u001b[120C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projects/Private/binarygator/Samples/challenge.exe portableexec\r\u001b[121C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projects/Private/binarygator/Samples/challenge.exe portableexecu\r\u001b[122C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projects/Private/binarygator/Samples/challenge.exe portableexecut\r\u001b[123C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projects/Private/binarygator/Samples/challenge.exe portableexecuta\r\u001b[124C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projects/Private/binarygator/Samples/challenge.exe portableexecutab\r\u001b[125C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projects/Private/binarygator/Samples/challenge.exe portableexecutabl\r\u001b[126C\u001b[2K\r$ create /home/alessandro/challenge.adis /home/alessandro/Projects/Private/binarygator/Samples/challenge.exe portableexecutable\r\u001b[127C"
+    ],
+    [
+      1.059025,
+      "\r\n"
+    ],
+    [
+      0.655323,
+      "\r\n\r\n"
+    ],
+    [
+      0.000086,
+      "alessandro at fuchikoma in untitled_document\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[2K\r$ \r\u001b[2C"
+    ],
+    [
+      2.070817,
+      "\u001b[2K\r$ h\r\u001b[3C"
+    ],
+    [
+      0.085479,
+      "\u001b[2K\r$ he\r\u001b[4C"
+    ],
+    [
+      0.063044,
+      "\u001b[2K\r$ hel\r\u001b[5C"
+    ],
+    [
+      0.020837,
+      "\u001b[2K\r$ help\r\u001b[6C"
+    ],
+    [
+      0.065300,
+      "\r\nUsage:\r\n\thelp \u003ccommand_name\u003e\r\n\r\nAvailable commands:\r\n\tclose\r\n\tcreate\r\n\tget\r\n\topen\r\n\trender\r\n\tset\r\n\r\n\r\nalessandro at fuchikoma in untitled_document\r\n\u001b[2K\r$ \r\u001b[2C"
+    ],
+    [
+      3.354162,
+      "\u001b[2K\r$ h\r\u001b[3C"
+    ],
+    [
+      0.057968,
+      "\u001b[2K\r$ he\r\u001b[4C"
+    ],
+    [
+      0.184822,
+      "\u001b[2K\r$ hel\r\u001b[5C"
+    ],
+    [
+      0.092006,
+      "\u001b[2K\r$ help\r\u001b[6C"
+    ],
+    [
+      0.070905,
+      "\u001b[2K\r$ help \r\u001b[7C"
+    ],
+    [
+      0.152200,
+      "\u001b[2K\r$ help s\r\u001b[8C"
+    ],
+    [
+      0.144912,
+      "\u001b[2K\r$ help se\r\u001b[9C"
+    ],
+    [
+      0.073889,
+      "\u001b[2K\r$ help set\r\u001b[10C"
+    ],
+    [
+      0.080365,
+      "\r\n  -o [ --object-type ] arg Object types: s (structure).\r\n\r\n\r\nalessandro at fuchikoma in untitled_document\r\n\u001b[2K\r$ \r\u001b[2C"
+    ],
+    [
+      1.247211,
+      "\u001b[2K\r$ s\r\u001b[3C"
+    ],
+    [
+      0.172862,
+      "\u001b[2K\r$ se\r\u001b[4C"
+    ],
+    [
+      0.232861,
+      "\u001b[2K\r$ set\r\u001b[5C"
+    ],
+    [
+      0.721876,
+      "\u001b[2K\r$ set \r\u001b[6C"
+    ],
+    [
+      0.196469,
+      "\u001b[2K\r$ set s\r\u001b[7C"
+    ],
+    [
+      0.571867,
+      "\r\n"
+    ],
+    [
+      0.052488,
+      "\u001b[?1002h\u001b[?1049h\u001b[?1h\u001b=\u001b[2;1H▽\u001b[6n\u001b[2;1H  \u001b[1;1H"
+    ],
+    [
+      0.001064,
+      "\u001b[1;43r\u001b[?12;25h\u001b[?12l\u001b[?25h\u001b[27m\u001b[23m\u001b[m\u001b[38;5;252m\u001b[48;5;233m\u001b[H\u001b[2J\u001b[?25l\u001b[43;1H\"/var/tmp/binarygator_6fcd-b466-ff30-dfe5.h\""
+    ],
+    [
+      0.000034,
+      " 15L, 286C"
+    ],
+    [
+      0.005660,
+      "\u001b[\u003ec"
+    ],
+    [
+      0.000723,
+      "\u001b[1;1H\u001b[38;5;250m\u001b[48;5;236m  1 \u001b[m\u001b[38;5;252m\u001b[48;5;233m\u001b[38;5;59m/*\u001b[m\u001b[38;5;252m\u001b[48;5;233m\r\n\u001b[38;5;250m\u001b[48;5;236m  2 \u001b[m\u001b[38;5;252m\u001b[48;5;233m\u001b[38;5;59m    valid types:\u001b[m\u001b[38;5;252m\u001b[48;5;233m\r\n\u001b[38;5;250m\u001b[48;5;236m  3 \u001b[m\u001b[38;5;252m\u001b[48;5;233m\u001b[38;5;59m        standard C types (int, char, double, etc...)\u001b[m\u001b[38;5;252m\u001b[48;5;233m\r\n\u001b[38;5;250m\u001b[48;5;236m  4 \u001b[m\u001b[38;5;252m\u001b[48;5;233m\u001b[38;5;59m        stdint.h types (uint8_t, int32_t, etc...)\u001b[m\u001b[38;5;252m\u001b[48;5;233m\r\n\u001b[38;5;250m\u001b[48;5;236m  5 \r\n  6 \u001b[m\u001b[38;5;252m\u001b[48;5;233m\u001b[38;5;59m    example:\u001b[m\u001b[38;5;252m\u001b[48;5;233m\r\n\u001b[38;5;250m\u001b[48;5;236m  7 \u001b[m\u001b[38;5;252m\u001b[48;5;233m\u001b[38;5;59m        struct SampleStructure\u001b[m\u001b[38;5;252m\u001b[48;5;233m\r\n\u001b[38;5;250m\u001b[48;5;236m  8 \u001b[m\u001b[38;5;252m\u001b[48;5;233m\u001b[38;5;59m        {\u001b[m\u001b[38;5;252m\u001b[48;5;233m\r\n\u001b[38;5;250m\u001b[48;5;236m  9 \u001b[m\u001b[38;5;252m\u001b[48;5;233m\u001b[38;5;59m            uint8_t id;\u001b[m\u001b[38;5;252m\u001b[48;5;233m\r\n\u001b[38;5;250m\u001b[48;5;236m 10 \u001b[m\u001b[38;5;252m\u001b[48;5;233m\u001b[38;5;59m            uint16_t buffer_size;\u001b[m\u001b[38;5;252m\u001b[48;5;233m\r\n\u001b[38;5;250m\u001b[48;5;236m 11 \u001b[m\u001b[38;5;252m\u001b[48;5;233m\u001b[38;5;59m            uint8_t buffer[1024];\u001b[m\u001b[38;5;252m\u001b[48;5;233m\r\n\u001b[38;5;250m\u001b[48;5;236m 12 \u001b[m\u001b[38;5;252m\u001b[48;5;233m\u001b[38;5;59m        };\u001b[m\u001b[38;5;252m\u001b[48;5;233m\r\n\u001b[38;5;250m\u001b[48;5;236m 13 \u001b[m\u001b[38;5;252m\u001b[48;5;233m\u001b[38;5;59m*/\u001b[m\u001b[38;5;252m\u001b[48;5;233m\r\n\u001b[38;5;250m\u001b[48;5;236m 14 \r\n 15 \u001b[m\u001b[38;5;252m\u001b[48;5;233m\r\n\u001b[38;5;59m~                                                                                                                                                                                                                                            \u001b[17;1H~                                                                                                                                                                                                                                            \u001b[18;1H~                                                                                                                                                      "
+    ],
+    [
+      0.000076,
+      "                                                                                      \u001b[19;1H~                                                                                                                                                                                                                                            \u001b[20;1H~                                                                                                                                                                                                                                            \u001b[21;1H~                                                                                                                                                                                                                                            \u001b[22;1H~                                                                                                                                                                                                                                            \u001b[23;1H~                                                                                                                                                                                                                                            \u001b[24;1H~                                                                                                                                                                                                                                            \u001b[25;1H~                                                                                                                                                                                                                                            \u001b[26;1H~                                                                                                                                                                                                                                            "
+    ],
+    [
+      0.000069,
+      "\u001b[27;1H~                                                                                                                                                                                                                                            \u001b[28;1H~                                                                                                                                                                                                                                            \u001b[29;1H~                                                                                                                                                                                                                                            \u001b[30;1H~                                                                                                                                                                                                                                            \u001b[31;1H~                                                                                                                                                                                                                                            \u001b[32;1H~                                                                                                                                                                                                                                            \u001b[33;1H~                                                                                                                                                                                                                                            \u001b[34;1H~                                                                                                                                                                                                                                            \u001b[35;1H~                                                                                       "
+    ],
+    [
+      0.000103,
+      "                                                                                                                                                     \u001b[36;1H~                                                                                                                                                                                                                                            \u001b[37;1H~                                                                                                                                                                                                                                            \u001b[38;1H~                                                                                                                                                                                                                                            \u001b[39;1H~                                                                                                                                                                                                                                            \u001b[40;1H~                                                                                                                                                                                                                                            \u001b[41;1H~                                                                                                                                                                                                                                            \u001b[m\u001b[38;5;252m\u001b[48;5;233m\u001b[42;1H\u001b[1m\u001b[7m\u001b[38;5;238m\u001b[48;5;253m/var/tmp/binarygator_6fcd-b466-ff30-dfe5.h                                                                                                                                                                                 15,0-1         All\u001b]2;binarygator_6fcd-b466-ff30-dfe5.h (/var/tmp) - VIM\u0007"
+    ],
+    [
+      0.000007,
+      "\u001b[15;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.159936,
+      "\u001b[?25l\u001b[m\u001b[38;5;252m\u001b[48;5;233m\u001b[43;227Hi\u001b[15;5H\u001b[43;227H \u001b[15;5H\u001b[43;1H\u001b[1m\u001b[38;5;229m-- INSERT --\u001b[m\u001b[38;5;252m\u001b[48;5;233m\u001b[43;13H\u001b[K\u001b[42;223H\u001b[1m\u001b[7m\u001b[38;5;238m\u001b[48;5;253m1   \u001b[15;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.810945,
+      "\u001b[?25l\u001b[m\u001b[38;5;252m\u001b[48;5;233ms\u001b[42;44H\u001b[1m\u001b[7m\u001b[38;5;238m\u001b[48;5;253m[+]\u001b[176C2 \u001b]2;binarygator_6fcd-b466-ff30-dfe5.h + (/var/tmp) - VIM\u0007\u001b[15;6H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.139484,
+      "\u001b[?25l\u001b[m\u001b[38;5;252m\u001b[48;5;233mt\u001b[42;223H\u001b[1m\u001b[7m\u001b[38;5;238m\u001b[48;5;253m3 \u001b[15;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.040781,
+      "\u001b[?25l\u001b[m\u001b[38;5;252m\u001b[48;5;233mr\u001b[42;223H\u001b[1m\u001b[7m\u001b[38;5;238m\u001b[48;5;253m4 \u001b[15;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.063830,
+      "\u001b[?25l\u001b[m\u001b[38;5;252m\u001b[48;5;233mu\u001b[42;223H\u001b[1m\u001b[7m\u001b[38;5;238m\u001b[48;5;253m5 \u001b[15;9H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.079065,
+      "\u001b[?25l\u001b[m\u001b[38;5;252m\u001b[48;5;233mc\u001b[42;223H\u001b[1m\u001b[7m\u001b[38;5;238m\u001b[48;5;253m6 \u001b[15;10H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.160785,
+      "\u001b[?25l\u001b[m\u001b[38;5;252m\u001b[48;5;233m\u0008\u0008\u0008\u0008\u0008\u001b[38;5;81mstruct\u001b[m\u001b[38;5;252m\u001b[48;5;233m\u001b[42;223H\u001b[1m\u001b[7m\u001b[38;5;238m\u001b[48;5;253m7 \u001b[15;11H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.069354,
+      "\u001b[?25l\u001b[m\u001b[38;5;252m\u001b[48;5;233m\u001b[38;5;219m\u001b[48;5;89m \u001b[m\u001b[38;5;252m\u001b[48;5;233m\u001b[42;223H\u001b[1m\u001b[7m\u001b[38;5;238m\u001b[48;5;253m8 \u001b[15;12H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.438305,
+      "\u001b[?25l\u001b[m\u001b[38;5;252m\u001b[48;5;233m\u0008 p\u001b[42;223H\u001b[1m\u001b[7m\u001b[38;5;238m\u001b[48;5;253m9 \u001b[15;13H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.063796,
+      "\u001b[?25l\u001b[m\u001b[38;5;252m\u001b[48;5;233mr\u001b[42;223H\u001b[1m\u001b[7m\u001b[38;5;238m\u001b[48;5;253m10\u001b[15;14H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.110108,
+      "\u001b[?25l\u001b[m\u001b[38;5;252m\u001b[48;5;233mo\u001b[42;224H\u001b[1m\u001b[7m\u001b[38;5;238m\u001b[48;5;253m1 \u001b[15;15H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.065626,
+      "\u001b[?25l\u001b[m\u001b[38;5;252m\u001b[48;5;233mv\u001b[42;224H\u001b[1m\u001b[7m\u001b[38;5;238m\u001b[48;5;253m2 \u001b[15;16H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.083742,
+      "\u001b[?25l\u001b[m\u001b[38;5;252m\u001b[48;5;233ma\u001b[42;224H\u001b[1m\u001b[7m\u001b[38;5;238m\u001b[48;5;253m3 \u001b[15;17H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.165222,
+      "\u001b[?25l\u001b[m\u001b[38;5;252m\u001b[48;5;233m\r\n\u001b[38;5;250m\u001b[48;5;236m 16 \u001b[m\u001b[38;5;252m\u001b[48;5;233m\u001b[16;5H\u001b[K\u001b[42;221H\u001b[1m\u001b[7m\u001b[38;5;238m\u001b[48;5;253m6,1  \u001b[16;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.196177,
+      "\u001b[?25l\u001b[m\u001b[38;5;252m\u001b[48;5;233m{\u001b[42;223H\u001b[1m\u001b[7m\u001b[38;5;238m\u001b[48;5;253m2 \u001b[16;6H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.225162,
+      "\u001b[?25l\u001b[m\u001b[38;5;252m\u001b[48;5;233m\r\n\u001b[38;5;250m\u001b[48;5;236m 17 \u001b[m\u001b[38;5;252m\u001b[48;5;233m\u001b[38;5;219m\u001b[48;5;89m    \u001b[m\u001b[38;5;252m\u001b[48;5;233m\u001b[17;9H\u001b[K\u001b[42;221H\u001b[1m\u001b[7m\u001b[38;5;238m\u001b[48;5;253m7,2-5\u001b[17;9H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.311694,
+      "\u001b[?25l\u001b[m\u001b[38;5;252m\u001b[48;5;233m\u0008\u0008\u0008\u0008    i\u001b[42;223H\u001b[1m\u001b[7m\u001b[38;5;238m\u001b[48;5;253m3-6 \u001b[17;10H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.063784,
+      "\u001b[?25l\u001b[m\u001b[38;5;252m\u001b[48;5;233mn\u001b[42;223H\u001b[1m\u001b[7m\u001b[38;5;238m\u001b[48;5;253m4-7 \u001b[17;11H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.332405,
+      "\u001b[?25l\u001b[m\u001b[38;5;252m\u001b[48;5;233m\u0008\u0008\u001b[38;5;81mint\u001b[m\u001b[38;5;252m\u001b[48;5;233m\u001b[42;223H\u001b[1m\u001b[7m\u001b[38;5;238m\u001b[48;5;253m5-8 \u001b[17;12H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.377064,
+      "\u001b[?25l\u001b[m\u001b[38;5;252m\u001b[48;5;233m\u001b[38;5;219m\u001b[48;5;89m \u001b[m\u001b[38;5;252m\u001b[48;5;233m\u001b[42;223H\u001b[1m\u001b[7m\u001b[38;5;238m\u001b[48;5;253m6-9 \u001b[17;13H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.140931,
+      "\u001b[?25l\u001b[m\u001b[38;5;252m\u001b[48;5;233m\u0008 k\u001b[42;223H\u001b[1m\u001b[7m\u001b[38;5;238m\u001b[48;5;253m7-10\u001b[17;14H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.231057,
+      "\u001b[?25l\u001b[m\u001b[38;5;252m\u001b[48;5;233m;\u001b[42;223H\u001b[1m\u001b[7m\u001b[38;5;238m\u001b[48;5;253m8-11 \u001b[17;15H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.393679,
+      "\u001b[?25l\u001b[m\u001b[38;5;252m\u001b[48;5;233m\r\n\u001b[38;5;250m\u001b[48;5;236m 18 \u001b[m\u001b[38;5;252m\u001b[48;5;233m\u001b[38;5;219m\u001b[48;5;89m    \u001b[m\u001b[38;5;252m\u001b[48;5;233m\u001b[18;9H\u001b[K\u001b[42;221H\u001b[1m\u001b[7m\u001b[38;5;238m\u001b[48;5;253m8,2-5  \u001b[18;9H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.954590,
+      "\u001b[?25l\u001b[m\u001b[38;5;252m\u001b[48;5;233m\u0008\u0008\u0008\u0008    c\u001b[42;223H\u001b[1m\u001b[7m\u001b[38;5;238m\u001b[48;5;253m3-6 \u001b[18;10H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.133672,
+      "\u001b[?25l\u001b[m\u001b[38;5;252m\u001b[48;5;233mh\u001b[42;223H\u001b[1m\u001b[7m\u001b[38;5;238m\u001b[48;5;253m4-7 \u001b[18;11H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.078807,
+      "\u001b[?25l\u001b[m\u001b[38;5;252m\u001b[48;5;233ma\u001b[42;223H\u001b[1m\u001b[7m\u001b[38;5;238m\u001b[48;5;253m5-8 \u001b[18;12H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.177273,
+      "\u001b[?25l\u001b[m\u001b[38;5;252m\u001b[48;5;233m\u0008\u0008\u0008\u001b[38;5;81mchar\u001b[m\u001b[38;5;252m\u001b[48;5;233m\u001b[42;223H\u001b[1m\u001b[7m\u001b[38;5;238m\u001b[48;5;253m6-9 \u001b[18;13H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.621819,
+      "\u001b[?25l\u001b[m\u001b[38;5;252m\u001b[48;5;233m\u001b[38;5;219m\u001b[48;5;89m \u001b[m\u001b[38;5;252m\u001b[48;5;233m\u001b[42;223H\u001b[1m\u001b[7m\u001b[38;5;238m\u001b[48;5;253m7-10\u001b[18;14H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.593063,
+      "\u001b[?25l\u001b[m\u001b[38;5;252m\u001b[48;5;233m\u0008 a\u001b[42;223H\u001b[1m\u001b[7m\u001b[38;5;238m\u001b[48;5;253m8-11 \u001b[18;15H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.085199,
+      "\u001b[?25l\u001b[m\u001b[38;5;252m\u001b[48;5;233mr\u001b[42;223H\u001b[1m\u001b[7m\u001b[38;5;238m\u001b[48;5;253m9-12 \u001b[18;16H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.131035,
+      "\u001b[?25l\u001b[m\u001b[38;5;252m\u001b[48;5;233mr\u001b[42;223H\u001b[1m\u001b[7m\u001b[38;5;238m\u001b[48;5;253m10-13\u001b[18;17H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.061882,
+      "\u001b[?25l\u001b[m\u001b[38;5;252m\u001b[48;5;233ma\u001b[42;224H\u001b[1m\u001b[7m\u001b[38;5;238m\u001b[48;5;253m1-14 \u001b[18;18H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.416122,
+      "\u001b[?25l\u001b[m\u001b[38;5;252m\u001b[48;5;233my\u001b[42;224H\u001b[1m\u001b[7m\u001b[38;5;238m\u001b[48;5;253m2-15 \u001b[18;19H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.351455,
+      "\u001b[?25l\u001b[m\u001b[38;5;252m\u001b[48;5;233m[\u001b[42;224H\u001b[1m\u001b[7m\u001b[38;5;238m\u001b[48;5;253m3-16 \u001b[18;20H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.282155,
+      "\u001b[?25l\u001b[m\u001b[38;5;252m\u001b[48;5;233m\u001b[38;5;135m1\u001b[m\u001b[38;5;252m\u001b[48;5;233m\u001b[42;224H\u001b[1m\u001b[7m\u001b[38;5;238m\u001b[48;5;253m4-17 \u001b[18;21H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.169737,
+      "\u001b[?25l\u001b[m\u001b[38;5;252m\u001b[48;5;233m\u001b[38;5;135m0\u001b[m\u001b[38;5;252m\u001b[48;5;233m\u001b[42;224H\u001b[1m\u001b[7m\u001b[38;5;238m\u001b[48;5;253m5-18 \u001b[18;22H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.716449,
+      "\u001b[?25l\u001b[m\u001b[38;5;252m\u001b[48;5;233m]\u001b[42;224H\u001b[1m\u001b[7m\u001b[38;5;238m\u001b[48;5;253m2-15 \u001b[18;19H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.317042,
+      "\u001b[?25l\u001b[m\u001b[38;5;252m\u001b[48;5;233m\u001b[4C;\u001b[42;224H\u001b[1m\u001b[7m\u001b[38;5;238m\u001b[48;5;253m7-20 \u001b[18;24H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.335798,
+      "\u001b[?25l\u001b[m\u001b[38;5;252m\u001b[48;5;233m\r\n\u001b[38;5;250m\u001b[48;5;236m 19 \u001b[m\u001b[38;5;252m\u001b[48;5;233m\u001b[38;5;219m\u001b[48;5;89m    \u001b[m\u001b[38;5;252m\u001b[48;5;233m\u001b[19;9H\u001b[K\u001b[42;221H\u001b[1m\u001b[7m\u001b[38;5;238m\u001b[48;5;253m9,2-5   \u001b[19;9H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.974928,
+      "\u001b[?25l\u001b[m\u001b[38;5;252m\u001b[48;5;233m\u0008\u0008\u0008\u0008    }\u001b[42;221H\u001b[1m\u001b[7m\u001b[38;5;238m\u001b[48;5;253m6,1   \u001b[16;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.429381,
+      "\u001b[?25l\u001b[m\u001b[38;5;252m\u001b[48;5;233m\u001b[19;5H};\u001b[19;9H\u001b[K\u001b[42;221H\u001b[1m\u001b[7m\u001b[38;5;238m\u001b[48;5;253m9,3 \u001b[19;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.219549,
+      "\u001b[?25l\u001b[m\u001b[38;5;252m\u001b[48;5;233m\r\n\u001b[38;5;250m\u001b[48;5;236m 20 \u001b[m\u001b[38;5;252m\u001b[48;5;233m\u001b[20;5H\u001b[K\u001b[42;220H\u001b[1m\u001b[7m\u001b[38;5;238m\u001b[48;5;253m20,1 \u001b[20;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.429483,
+      "\u001b[m\u001b[38;5;252m\u001b[48;5;233m\u001b[43;1H\u001b[K\u001b[20;5H\u001b[?25l\u001b[43;227H^[\u001b[20;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.360787,
+      "\u001b[?25l\u001b[43;227H  \u001b[20;5H\u001b[42;223H\u001b[1m\u001b[7m\u001b[38;5;238m\u001b[48;5;253m0-1\u001b[20;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[m\u001b[38;5;252m\u001b[48;5;233m\u001b[43;227H:\u001b[20;5H\u001b[43;227H\u001b[K\u001b[43;1H:\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.137934,
+      "w\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.128215,
+      "\r\u001b[?25l\"/var/tmp/binarygator_6fcd-b466-ff30-dfe5.h\""
+    ],
+    [
+      0.029298,
+      " 20L, 329C written\u001b[20;5H\u001b[42;44H\u001b[1m\u001b[7m\u001b[38;5;238m\u001b[48;5;253m    \u001b]2;binarygator_6fcd-b466-ff30-dfe5.h (/var/tmp) - VIM\u0007\u001b[20;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.273118,
+      "\u001b[?25l\u001b[m\u001b[38;5;252m\u001b[48;5;233m\u001b[43;227H:\u001b[20;5H\u001b[43;1H\u001b[K\u001b[43;1H:\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.156938,
+      "q\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.309625,
+      "\r\u001b[?25l\u001b[?1002l\u001b]2;Thanks for flying Vim\u0007\u001b[43;1H\u001b[K\u001b[43;1H\u001b[?1l\u001b\u003e\u001b[?12l\u001b[?25h\u001b[?1049l"
+    ],
+    [
+      0.002182,
+      "DEBUG:\r\n\r\n\tstructure name: prova\r\n\tstructure fields: array(char [10]) k(int) \r\n\r\n\r\nalessandro at fuchikoma in untitled_document\r\n\u001b[2K\r$ \r\u001b[2C"
+    ],
+    [
+      4.987051,
+      "\u001b[2K\r$ h\r\u001b[3C"
+    ],
+    [
+      0.426224,
+      "\u001b[2K\r$ he\r\u001b[4C"
+    ],
+    [
+      0.137083,
+      "\u001b[2K\r$ hel\r\u001b[5C"
+    ],
+    [
+      0.070889,
+      "\u001b[2K\r$ help\r\u001b[6C"
+    ],
+    [
+      0.041334,
+      "\r\nUsage:\r\n\thelp \u003ccommand_name\u003e\r\n\r\nAvailable commands:\r\n\tclose\r\n\tcreate\r\n\tget\r\n\topen\r\n\trender\r\n\tset\r\n\r\n\r\nalessandro at fuchikoma in untitled_document\r\n\u001b[2K\r$ \r\u001b[2C"
+    ],
+    [
+      0.127776,
+      "\u001b[2K\r$ g\r\u001b[3C"
+    ],
+    [
+      0.077856,
+      "\u001b[2K\r$ ge\r\u001b[4C"
+    ],
+    [
+      0.117123,
+      "\u001b[2K\r$ get\r\u001b[5C"
+    ],
+    [
+      0.082048,
+      "\u001b[2K\r$ get \r\u001b[6C"
+    ],
+    [
+      2.207968,
+      "\u001b[2K\r$ get\r\u001b[5C"
+    ],
+    [
+      0.094106,
+      "\u001b[2K\r$ ge\r\u001b[4C"
+    ],
+    [
+      0.110152,
+      "\u001b[2K\r$ g\r\u001b[3C"
+    ],
+    [
+      0.120780,
+      "\u001b[2K\r$ \r\u001b[2C"
+    ],
+    [
+      0.117012,
+      "\u001b[2K\r$ \r\u001b[2C"
+    ],
+    [
+      1.264205,
+      "\u001b[2K\r$ h\r\u001b[3C"
+    ],
+    [
+      0.080773,
+      "\u001b[2K\r$ he\r\u001b[4C"
+    ],
+    [
+      0.147980,
+      "\u001b[2K\r$ hel\r\u001b[5C"
+    ],
+    [
+      0.052187,
+      "\u001b[2K\r$ help\r\u001b[6C"
+    ],
+    [
+      0.053842,
+      "\u001b[2K\r$ help \r\u001b[7C"
+    ],
+    [
+      0.044990,
+      "\u001b[2K\r$ help g\r\u001b[8C"
+    ],
+    [
+      0.067011,
+      "\u001b[2K\r$ help ge\r\u001b[9C"
+    ],
+    [
+      0.114813,
+      "\u001b[2K\r$ help get\r\u001b[10C"
+    ],
+    [
+      0.094493,
+      "\r\n  -o [ --object-type ] arg Object types: p (public image functions), f \r\n                           (functions), s (executable sections).\r\n\r\n\r\nalessandro at fuchikoma in untitled_document\r\n\u001b[2K\r$ \r\u001b[2C"
+    ],
+    [
+      5.596637,
+      "\u001b[2K\r$ g\r\u001b[3C"
+    ],
+    [
+      0.201163,
+      "\u001b[2K\r$ ge\r\u001b[4C"
+    ],
+    [
+      0.519095,
+      "\u001b[2K\r$ get\r\u001b[5C"
+    ],
+    [
+      0.928774,
+      "\u001b[2K\r$ get \r\u001b[6C"
+    ],
+    [
+      0.572122,
+      "\u001b[2K\r$ get p\r\u001b[7C"
+    ],
+    [
+      0.203180,
+      "\r\nEntryP Returning 0000000000403a8a start\r\nImport Returning 0000000000405014 kernel32.dll_InterlockedCompareExchange\r\nImport Returning 0000000000405018 kernel32.dll_HeapSetInformation\r\nImport Returning 000000000040501c kernel32.dll_TerminateProcess\r\nImport Returning 0000000000405020 kernel32.dll_GetCurrentProcess\r\nImport Returning 0000000000405024 kernel32.dll_UnhandledExceptionFilter\r\nImport Returning 0000000000405028 kernel32.dll_SetUnhandledExceptionFilter\r\nImport Returning 000000000040502c kernel32.dll_Sleep\r\nImport Returning 0000000000405030 kernel32.dll_QueryPerformanceCounter\r\nImport Returning 0000000000405034 kernel32.dll_GetTickCount\r\nImport Returning 0000000000405038 kernel32.dll_GetCurrentThreadId\r\nImport Returning 000000000040503c kernel32.dll_GetCurrentProcessId\r\nImport Returning 0000000000405040 kernel32.dll_GetSystemTimeAsFileTime\r\nImport Returning 0000000000405044 kernel32.dll_InterlockedExchange\r\nImport Returning 0000000000405048 kernel32.dll_EncodePointer\r\nImport Returning 000000000040504c kernel32.dll_GetCommandLineW\r\nImport Returning 0000000000405050 kernel32.dll_IsDebuggerPresent\r\nImport Returning 0000000000405054 kernel32.dll_DecodePointer\r\nImport Returning 0000000000405058 kernel32.dll_GetModuleHandleW\r\nImport Returning 0000000000405000 advapi32.dll_CryptGetHashParam\r\nImport Returning 0000000000405004 advapi32.dll_CryptHashData\r\nImport Returning 0000000000405008 advapi32.dll_CryptCreateHash\r\nImport Returning 000000000040500c advapi32.dll_CryptAcquireContextW\r\nImport Returning 0000000000405060 msvcp100.dll_?uncaught_exception@std@@YA_NXZ\r\nImport Returning 0000000000405064 msvcp100.dll_?_Xout_of_range@std@@YAXPBD@Z\r\nImport Returning 0000000000405068 msvcp100.dll_?_Xlength_error@std@@YAXPBD@Z\r\nImport Returning 000000000040506c msvcp100.dll_?cout@std@@3V?$basic_ostream@DU?$char_traits@D@std@@@1@A\r\nImport Returning 0000000000405070 msvcp100.dll_?flush@?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEAAV12@XZ\r\nImport Returning 0000000000405074 msvcp100.dll_?setstate@?$basic_ios@DU?$char_traits@D@std@@@std@@QAEXH_N@Z\r\nImport Returning 0000000000405078 msvcp100.dll_?sputc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QAEHD@Z\r\nImport Returning 000000000040507c msvcp100.dll_?sputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QAE_JPBD_J@Z\r\nImport Returning 0000000000405080 msvcp100.dll_??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEAAV01@H@Z\r\nImport Returning 0000000000405084 msvcp100.dll_?_Osfx@?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEXXZ\r\nImport Returning 0000000000405088 msvcp100.dll_?_Orphan_all@_Container_base0@std@@QAEXXZ\r\nImport Returning 0000000000405090 msvcr100.dll__controlfp_s\r\nImport Returning 0000000000405094 msvcr100.dll__invoke_watson\r\nImport Returning 0000000000405098 msvcr100.dll__CxxThrowException\r\nImport Returning 000000000040509c msvcr100.dll__except_handler4_common\r\nImport Returning 00000000004050a0 msvcr100.dll__crt_debugger_hook\r\nImport Returning 00000000004050a4 msvcr100.dll_?terminate@@YAXXZ\r\nImport Returning 00000000004050a8 msvcr100.dll___set_app_type\r\nImport Returning 00000000004050ac msvcr100.dll__fmode\r\nImport Returning 00000000004050b0 msvcr100.dll__commode\r\nImport Returning 00000000004050b4 msvcr100.dll___setusermatherr\r\nImport Returning 00000000004050b8 msvcr100.dll__configthreadlocale\r\nImport Returning 00000000004050bc msvcr100.dll__initterm_e\r\nImport Returning 00000000004050c0 msvcr100.dll__initterm\r\nImport Returning 00000000004050c4 msvcr100.dll___initenv\r\nImport NotReturn 00000000004050c8 msvcr100.dll_exit\r\nImport Returning 00000000004050cc msvcr100.dll__XcptFilter\r\nImport NotReturn 00000000004050d0 msvcr100.dll__exit\r\nImport NotReturn 00000000004050d4 msvcr100.dll__cexit\r\nImport Returning 00000000004050d8 msvcr100.dll___getmainargs\r\nImport Returning 00000000004050dc msvcr100.dll__amsg_exit\r\nImport Returning 00000000004050e0 msvcr100.dll__onexit\r\nImport Returning 00000000004050e4 msvcr100.dll__lock\r\nImport Returning 00000000004050e8 msvcr100.dll___dllonexit\r\nImport Returning 00000000004050ec msvcr100.dll__unlock\r\nImport Returning 00000000004050f0 msvcr100.dll"
+    ],
+    [
+      0.000046,
+      "__localtime64_s\r\nImport Returning 00000000004050f4 msvcr100.dll_atoi\r\nImport Returning 00000000004050f8 msvcr100.dll__time64\r\nImport Returning 00000000004050fc msvcr100.dll_memmove\r\nImport Returning 0000000000405100 msvcr100.dll_??0exception@std@@QAE@ABQBD@Z\r\nImport Returning 0000000000405104 msvcr100.dll_??1exception@std@@UAE@XZ\r\nImport Returning 0000000000405108 msvcr100.dll_?what@exception@std@@UBEPBDXZ\r\nImport Returning 000000000040510c msvcr100.dll_??0exception@std@@QAE@ABV01@@Z\r\nImport Returning 0000000000405110 msvcr100.dll_memcpy\r\nImport Returning 0000000000405114 msvcr100.dll___CxxFrameHandler3\r\nImport Returning 0000000000405118 msvcr100.dll_?_type_info_dtor_internal_method@type_info@@QAEXXZ\r\n\r\n\r\nalessandro at fuchikoma in untitled_document\r\n\u001b[2K\r$ \r\u001b[2C"
+    ],
+    [
+      5.221838,
+      "\u001b[2K\r$ r\r\u001b[3C"
+    ],
+    [
+      0.064063,
+      "\u001b[2K\r$ re\r\u001b[4C"
+    ],
+    [
+      0.068945,
+      "\u001b[2K\r$ ren\r\u001b[5C"
+    ],
+    [
+      0.088031,
+      "\u001b[2K\r$ rend\r\u001b[6C"
+    ],
+    [
+      0.069223,
+      "\u001b[2K\r$ rende\r\u001b[7C"
+    ],
+    [
+      0.103802,
+      "\u001b[2K\r$ render\r\u001b[8C"
+    ],
+    [
+      0.061863,
+      "\u001b[2K\r$ render \r\u001b[9C"
+    ],
+    [
+      0.113078,
+      "\u001b[2K\r$ render s\r\u001b[10C"
+    ],
+    [
+      0.030878,
+      "\u001b[2K\r$ render st\r\u001b[11C"
+    ],
+    [
+      0.074327,
+      "\u001b[2K\r$ render sta\r\u001b[12C"
+    ],
+    [
+      0.132688,
+      "\u001b[2K\r$ render star\r\u001b[13C"
+    ],
+    [
+      0.147267,
+      "\u001b[2K\r$ render start\r\u001b[14C"
+    ],
+    [
+      0.100137,
+      "\r\n"
+    ],
+    [
+      0.022794,
+      " .text:00403847    ; referenced functions:"
+    ],
+    [
+      0.000013,
+      "\r\n .text:00403847        sub_401350\r\n .text:00403847        sub_403c70\r\n .text:00403847        sub_403cb5\r\n .text:00403847        sub_403d3e\r\n .text:00403847        sub_403e30\r\n .text:00403847        sub_403eec\r\n .text:00403847        sub_403ef2\r\n"
+    ],
+    [
+      0.000004,
+      " .text:00403847        sub_403f23\r\n .text:00403847        kernel32.dll_InterlockedCompareExchange"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      " .text:00403847        kernel32.dll_HeapSetInformation"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      " .text:00403847        kernel32.dll_Sleep"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      " .text:00403847        kernel32.dll_InterlockedExchange"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      " .text:00403847        msvcr100.dll_exit"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      " .text:00403847        msvcr100.dll__cexit\r\n"
+    ],
+    [
+      0.000004,
+      " .text:00403847        sub_4074b4\r\n .text:00403847\r\n"
+    ],
+    [
+      0.000003,
+      " .text:00403847    proc start\r\n"
+    ],
+    [
+      0.000003,
+      " .text:00403847    ; functions starts at address 403a8a"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      " .text:00403847    ; start of chunk # 0\r\n"
+    ],
+    [
+      0.000003,
+      " .text:00403847        \r\n"
+    ],
+    [
+      0.000003,
+      " .text:00403847        __403847:\r\n"
+    ],
+    [
+      0.000003,
+      " .text:00403847            push 10"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      " .text:00403849            push 405ac8"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      " .text:0040384e            call sub_403c70\r\n"
+    ],
+    [
+      0.000004,
+      " .text:00403853            xor ebx, ebx\r\n"
+    ],
+    [
+      0.000003,
+      " .text:00403855    "
+    ],
+    [
+      0.000012,
+      "        cmp dword ptr [4074b0], ebx\r\n"
+    ],
+    [
+      0.000003,
+      " .text:0040385b            jne __403868"
+    ],
+    [
+      0.000003,
+      "\r\n .text:0040385d        "
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      " .text:0040385d        __40385d:"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      " .text:0040385d            push ebx"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      " .text:0040385e            push ebx"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      " .text:0040385f            push 1\r\n"
+    ],
+    [
+      0.000002,
+      " .text:00403861            push ebx"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      " .text:00403862            call kernel32.dll_HeapSetInformation"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      " .text:00403868        "
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      " .text:00403868        __403868:"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      " .text:00403868            mov dword ptr [ebp+fffffffc], ebx\r\n"
+    ],
+    [
+      0.000007,
+      " .text:0040386b            mov eax, dword ptr fs:[18]\r\n"
+    ],
+    [
+      0.000003,
+      " .text:00403871            mov esi, dword ptr [eax+4]\r\n"
+    ],
+    [
+      0.000003,
+      " .text:00403874            mov dword ptr [ebp+ffffffe4], ebx\r\n"
+    ],
+    [
+      0.000002,
+      " .text:00403877            mov edi, 4074ac"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      " .text:0040387c        \r\n"
+    ],
+    [
+      0.000003,
+      " .text:0040387c        __40387c:"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      " .text:0040387c            push ebx\r\n"
+    ],
+    [
+      0.000003,
+      " .text:0040387d            push esi"
+    ],
+    [
+      0.000003,
+      "\r\n .text:0040387e            push edi"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      " .text:0040387f            call kernel32.dll_InterlockedCompareExchange"
+    ],
+    [
+      0.000003,
+      "\r\n .text:00403885            cmp eax, ebx"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      " .text:00403887            je __4038a2"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      " .text:00403889        \r\n"
+    ],
+    [
+      0.000003,
+      " .text:00403889        __403889:"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      " .text:00403889            cmp eax, esi"
+    ],
+    [
+      0.000003,
+      "\r\n .text:0040388b            jne __403895"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      " .text:0040388d        \r\n"
+    ],
+    [
+      0.000003,
+      " .text:0040388d        __40388d:"
+    ],
+    [
+      0.000003,
+      "\r\n .text:0040388d            xor esi, esi"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      " .text:0040388f            inc esi"
+    ],
+    [
+      0.000003,
+      "\r\n .text:00403890            mov dword ptr [ebp+ffffffe4], esi"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      " .text:00403893            jmp __4038a5\r\n"
+    ],
+    [
+      0.000003,
+      " .text:00403895        "
+    ],
+    [
+      0.000003,
+      "\r\n .text:00403895        __403895:"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      " .text:00403895            push 3e8\r\n"
+    ],
+    [
+      0.000003,
+      " .text:0040389a            call kernel32.dll_Sleep"
+    ],
+    [
+      0.000003,
+      "\r\n .text:004038a0            jmp __40387c"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      " .text:004038a2        \r\n"
+    ],
+    [
+      0.000003,
+      " .text:004038a2        __4038a2:"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      " .text:004038a2            xor esi, esi"
+    ],
+    [
+      0.000003,
+      "\r\n .text:004038a4            inc esi"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      " .text:004038a5        \r\n"
+    ],
+    [
+      0.000009,
+      " .text:004038a5        __4038a5:"
+    ],
+    [
+      0.000003,
+      "\r\n .text:004038a5            mov eax, dword ptr [4074a8]"
+    ],
+    [
+      0.000003,
+      "\r\n .text:004038aa            cmp eax, esi"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      " .text:004038ac            jne __4038b8\r\n"
+    ],
+    [
+      0.000003,
+      " .text:004038ae        "
+    ],
+    [
+      0.000003,
+      "\r\n .text:004038ae        __4038ae:"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      " .text:004038ae            push 1f"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      " .text:004038b0            call sub_403d3e\r\n"
+    ],
+    [
+      0.000003,
+      " .text:004038b5            pop ecx"
+    ],
+    [
+      0.000003,
+      "\r\n .text:004038b6"
+    ],
+    [
+      0.000003,
+      "            jmp __4038f3"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      " .text:004038b8        \r\n"
+    ],
+    [
+      0.000003,
+      " .text:004038b8        __4038b8:\r\n"
+    ],
+    [
+      0.000003,
+      " .text:004038b8            mov eax, dword ptr [4074a8]"
+    ],
+    [
+      0.000003,
+      "\r\n .text:004038bd            test eax, eax"
+    ],
+    [
+      0.000004,
+      "\r\n .text:004038bf            jne __4038ed"
+    ],
+    [
+      0.000003,
+      "\r\n .text:004038c1        "
+    ],
+    [
+      0.000003,
+      "\r\n .text:004038c1        __4038c1:"
+    ],
+    [
+      0.000006,
+      "\r\n .text:004038c1            mov dword ptr [4074a8], esi\r\n"
+    ],
+    [
+      0.000003,
+      " .text:004038c7            push 405160\r\n"
+    ],
+    [
+      0.000003,
+      " .text:004038cc            push 405154\r\n"
+    ],
+    [
+      0.000003,
+      " .text:004038d1            call sub_403ef2"
+    ],
+    [
+      0.000003,
+      "\r\n .text:004038d6            pop ecx"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      " .text:004038d7            pop ecx\r\n"
+    ],
+    [
+      0.000002,
+      " .text:004038d8            test eax, eax"
+    ],
+    [
+      0.000003,
+      "\r\n .text:004038da            je __4038f3"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      " .text:004038dc        \r\n"
+    ],
+    [
+      0.000024,
+      " .text:004038dc        __4038dc:\r\n .text:004038dc            mov dword ptr [ebp+fffffffc], fffffffe\r\n .text:004038e3            mov eax, ff\r\n .text:004038e8            jmp __4039ca\r\n .text:004038ed        \r\n .text:004038ed        __4038ed:\r\n"
+    ],
+    [
+      0.000017,
+      " .text:004038ed            mov dword ptr [4070ac], esi\r\n .text:004038f3        "
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      " .text:004038f3        __4038f3:"
+    ],
+    [
+      0.000003,
+      "\r\n .text:004038f3            mov eax, dword ptr [4074a8]"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      " .text:004038f8            cmp eax, esi"
+    ],
+    [
+      0.000003,
+      "\r\n .text:004038fa            jne __403917"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      " .text:004038fc        \r\n"
+    ],
+    [
+      0.000003,
+      " .text:004038fc        __4038fc:\r\n .text:004038fc            push 405150"
+    ],
+    [
+      0.000003,
+      "\r\n .text:00403901            push 405144"
+    ],
+    [
+      0.000017,
+      "\r\n .text:00403906            call sub_403eec"
+    ],
+    [
+      0.000003,
+      "\r\n .text:0040390b            pop ecx"
+    ],
+    [
+      0.000003,
+      "\r\n .text:0040390c            pop ecx\r\n"
+    ],
+    [
+      0.000003,
+      " .text:0040390d            mov dword ptr [4074a8], 2\r\n"
+    ],
+    [
+      0.000003,
+      " .text:00403917        \r\n .text:00403917        __403917:"
+    ],
+    [
+      0.000003,
+      "\r\n .text:00403917            cmp dword ptr [ebp+ffffffe4], ebx"
+    ],
+    [
+      0.000002,
+      "\r\n .text:0040391a            jne __403924"
+    ],
+    [
+      0.000003,
+      "\r\n .text:0040391c        \r\n"
+    ],
+    [
+      0.000003,
+      " .text:0040391c        __40391c:\r\n"
+    ],
+    [
+      0.000002,
+      " .text:0040391c            push ebx\r\n"
+    ],
+    [
+      0.000003,
+      " .text:0040391d            push edi\r\n"
+    ],
+    [
+      0.000003,
+      " .text:0040391e            call kernel32.dll_InterlockedExchange\r\n"
+    ],
+    [
+      0.000003,
+      " .text:00403924        \r\n .text:00403924        __403924:"
+    ],
+    [
+      0.000003,
+      "\r\n .text:00403924            cmp sub_4074b4, ebx\r\n"
+    ],
+    [
+      0.000004,
+      " .text:0040392a            je __403945\r\n .text:0040392c        "
+    ],
+    [
+      0.000003,
+      "\r\n .text:0040392c        __40392c:\r\n"
+    ],
+    [
+      0.000003,
+      " .text:0040392c            push sub_4074b4\r\n"
+    ],
+    [
+      0.000003,
+      " .text:00403931            call sub_403e30\r\n ."
+    ],
+    [
+      0.000003,
+      "text:00403936            pop ecx"
+    ],
+    [
+      0.000003,
+      "\r\n .text:00403937            test eax, eax\r\n"
+    ],
+    [
+      0.000004,
+      " .text:00403939            je __403945\r\n .text:0040393b        "
+    ],
+    [
+      0.000003,
+      "\r\n .text:0040393b        __40393b:"
+    ],
+    [
+      0.000003,
+      "\r\n .text:0040393b            push ebx"
+    ],
+    [
+      0.000003,
+      "\r\n .text:0040393c            push 2"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      " .text:0040393e            push ebx"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      " .text:0040393f            call sub_4074b4\r\n"
+    ],
+    [
+      0.000002,
+      " .text:00403945        "
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      " .text:00403945        __403945:"
+    ],
+    [
+      0.000003,
+      "\r\n .text:00403945            mov eax, dword ptr [407094]"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      " .text:0040394a            mov ecx, msvcr100.dll___initenv"
+    ],
+    [
+      0.000003,
+      "\r\n .text:00403950            mov dword ptr [ecx], eax"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      " .text:00403952            push dword ptr [407094]\r\n"
+    ],
+    [
+      0.000003,
+      " .text:00403958            push dword ptr [407098]\r\n"
+    ],
+    [
+      0.000003,
+      " .text:0040395e            push dword ptr [407090]"
+    ],
+    [
+      0.000003,
+      "\r\n .text:00403964            call sub_401350"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      " .text:00403969            add esp, c\r\n"
+    ],
+    [
+      0.000004,
+      " .text:0040396c            mov dword ptr [4070a8], eax"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      " .text:00403971            cmp dword ptr [40709c], ebx\r\n"
+    ],
+    [
+      0.000002,
+      " .text:00403977            jne __4039b0"
+    ],
+    [
+      0.000002,
+      "\r\n .text:00403979        "
+    ],
+    [
+      0.000002,
+      "\r\n .text:00403979        __403979:"
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.000018,
+      " .text:00403979            push eax"
+    ],
+    [
+      0.000003,
+      "\r\n .text:0040397a            call msvcr100.dll_exit ; __no_return call"
+    ],
+    [
+      0.000002,
+      "\r\n .text:00403980    ; end of chunk # 0"
+    ],
+    [
+      0.000002,
+      "\r\n .text:00403980        "
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      " .text:00403980        ...\r\n"
+    ],
+    [
+      0.000002,
+      " .text:00403980        "
+    ],
+    [
+      0.000002,
+      "\r\n .text:004039b0    ; start of chunk # 1"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      " .text:004039b0        \r\n"
+    ],
+    [
+      0.000002,
+      " .text:004039b0        __4039b0:"
+    ],
+    [
+      0.000002,
+      "\r\n .text:004039b0            cmp dword ptr [4070ac], ebx"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      " .text:004039b6            jne __4039be\r\n"
+    ],
+    [
+      0.000002,
+      " .text:004039b8        "
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      " .text:004039b8        __4039b8:\r\n .text:004039b8            call msvcr100.dll__cexit ; __no_return call\r\n"
+    ],
+    [
+      0.000002,
+      " .text:004039be        \r\n"
+    ],
+    [
+      0.000002,
+      " .text:004039be        __4039be:"
+    ],
+    [
+      0.000002,
+      "\r\n .text:004039be            mov dword ptr [ebp+fffffffc], fffffffe"
+    ],
+    [
+      0.000003,
+      "\r\n .text:004039c5            mov eax, dword ptr [4070a8]"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      " .text:004039ca        \r\n"
+    ],
+    [
+      0.000003,
+      " .text:004039ca        __4039ca:"
+    ],
+    [
+      0.000002,
+      "\r\n .text:004039ca            call sub_403cb5"
+    ],
+    [
+      0.000002,
+      "\r\n .text:004039cf            ret "
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      " .text:004039d0    ; end of chunk # 1"
+    ],
+    [
+      0.000002,
+      "\r\n .text:004039d0        "
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      " .text:004039d0        ..."
+    ],
+    [
+      0.000002,
+      "\r\n .text:004039d0        "
+    ],
+    [
+      0.000002,
+      "\r\n .text:00403a8a    ; start of chunk # 2"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      " .text:00403a8a            call sub_403f23\r\n"
+    ],
+    [
+      0.000017,
+      " .text:00403a8f            jmp __403847\r\n .text:00403a94    ; end of chunk # 2\r\n"
+    ],
+    [
+      0.000069,
+      " .text:00403a94    endproc\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000124,
+      "alessandro at fuchikoma in untitled_document\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[2K\r$ \r\u001b[2C"
+    ],
+    [
+      10.247243,
+      "\u001b[2K\r$ c\r\u001b[3C"
+    ],
+    [
+      0.088902,
+      "\u001b[2K\r$ cl\r\u001b[4C"
+    ],
+    [
+      0.132913,
+      "\u001b[2K\r$ clo\r\u001b[5C"
+    ],
+    [
+      0.046990,
+      "\u001b[2K\r$ clos\r\u001b[6C"
+    ],
+    [
+      0.042131,
+      "\u001b[2K\r$ close\r\u001b[7C"
+    ],
+    [
+      0.173384,
+      "\r\n\r\n\r\nalessandro at fuchikoma in ~\r\n\u001b[2K\r$ \r\u001b[2C"
+    ],
+    [
+      1.012799,
+      "\u001b[2K\r$ e\r\u001b[3C"
+    ],
+    [
+      0.192849,
+      "\u001b[2K\r$ ex\r\u001b[4C"
+    ],
+    [
+      0.685239,
+      "\u001b[2K\r$ exi\r\u001b[5C"
+    ],
+    [
+      0.238764,
+      "\u001b[2K\r$ exit\r\u001b[6C"
+    ],
+    [
+      0.777643,
+      "\r\nExiting...\r\n\r\n\r\n"
+    ]
+  ]
+}
