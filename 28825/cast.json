@@ -1,0 +1,6206 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 614.405544,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.178284,
+      "\u001b[0m"
+    ],
+    [
+      0.000958,
+      "\u001b[0m"
+    ],
+    [
+      0.007504,
+      "\u001b]0;edps: edps@debian: /home/edps\u0007\u001b[00m\u001b[0;90m----------------------------------------------------------------------- 11:51:53\r\r\n\u001b[00medps@debian:~$ \u001b[00m\u001b[1;29m"
+    ],
+    [
+      0.915221,
+      "clear"
+    ],
+    [
+      0.294304,
+      "\u0008\u0008\u0008\u0008\u0008sudo apt-get -t jessie-backports dist-upgrade "
+    ],
+    [
+      0.169204,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[20P\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.168057,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[12Pcat /etc/issue"
+    ],
+    [
+      0.168645,
+      "\u0008\u0008\u0008\u0008\u0008debian_version "
+    ],
+    [
+      0.313750,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[4Pos-release\u001b[C"
+    ],
+    [
+      0.199627,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[6Plsb_release -a"
+    ],
+    [
+      0.200110,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008screenfetch -n"
+    ],
+    [
+      1.106541,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.597383,
+      " \u001b[0m\u001b[1;31medps\u001b[0m\u001b[1m@\u001b[0m\u001b[0m\u001b[1;31mdebian\r\n\u001b[0m\u001b[1;31m OS:\u001b[0m Debian 8.2 jessie\r\n\u001b[0m\u001b[1;31m Kernel:\u001b[0m i686 Linux 3.16.0-4-686-pae\r\n\u001b[0m\u001b[1;31m Uptime:\u001b[0m 5m\r\n\u001b[0m\u001b[1;31m Packages:\u001b[0m 2253\r\n\u001b[0m\u001b[1;31m Shell:\u001b[0m bash 4.3.30\r\n\u001b[0m\u001b[1;31m Resolution:\u001b[0m 1920x1080\r\n\u001b[0m\u001b[1;31m WM:\u001b[0m OpenBox\r\n\u001b[0m\u001b[1;31m WM Theme:\u001b[0m Boje-Blue\r\nBunsen-Blue [GTK2]\r\n, Bunsen-Blue [GTK3]\r\n\u001b[0m\u001b[1;31m Icon Theme:\u001b[0m Vertex-Icons-tweak\r\n\u001b[0m\u001b[1;31m Font:\u001b[0m Coda 13\r\n\u001b[0m\u001b[1;31m CPU:\u001b[0m AMD Athlon 64 3000+ @ 1.8GHz\r\n\u001b[0m\u001b[1;31m GPU:\u001b[0m Gallium 0.4 on NV96\r\n\u001b[0m\u001b[1;31m RAM:\u001b[0m 143MB / 3039MB\r\n\u001b[0m"
+    ],
+    [
+      0.006238,
+      "\u001b]0;edps: edps@debian: /home/edps\u0007\u001b[00m\u001b[0;90m----------------------------------------------------------------------- 11:51:57\r\r\n\u001b[00medps@debian:~$ \u001b[00m\u001b[1;29m"
+    ],
+    [
+      0.762586,
+      "screenfetch -n"
+    ],
+    [
+      0.439987,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[9Pclear"
+    ],
+    [
+      0.376100,
+      "\u0008\u0008\u0008\u0008\u0008sudo apt-get -t jessie-backports dist-upgrade "
+    ],
+    [
+      0.200715,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[20P\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.167927,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[12Pcat /etc/issue"
+    ],
+    [
+      0.168628,
+      "\u0008\u0008\u0008\u0008\u0008debian_version "
+    ],
+    [
+      0.168991,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[4Pos-release\u001b[C"
+    ],
+    [
+      0.199437,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[6Plsb_release -a"
+    ],
+    [
+      1.587218,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008screenfetch -n"
+    ],
+    [
+      0.534184,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008lsb_release -a"
+    ],
+    [
+      0.413127,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.210939,
+      "No LSB modules are available.\r\nDistributor ID:\tDebian\r\nDescription:\tDebian GNU/Linux 8.2 (jessie)\r\nRelease:\t8.2\r\nCodename:\tjessie\r\n"
+    ],
+    [
+      0.010946,
+      "\u001b[0m"
+    ],
+    [
+      0.005854,
+      "\u001b]0;edps: edps@debian: /home/edps\u0007\u001b[00m\u001b[0;90m----------------------------------------------------------------------- 11:52:02\r\r\n\u001b[00medps@debian:~$ \u001b[00m\u001b[1;29m"
+    ],
+    [
+      0.634201,
+      "lsb_release -a"
+    ],
+    [
+      0.219182,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008screenfetch -n"
+    ],
+    [
+      0.168834,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[9Pclear"
+    ],
+    [
+      0.168396,
+      "\u0008\u0008\u0008\u0008\u0008sudo apt-get -t jessie-backports dist-upgrade "
+    ],
+    [
+      0.169049,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[20P\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.200033,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[12Pcat /etc/issue"
+    ],
+    [
+      0.168372,
+      "\u0008\u0008\u0008\u0008\u0008debian_version "
+    ],
+    [
+      0.767683,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[4Pos-release\u001b[C"
+    ],
+    [
+      0.633372,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.002554,
+      "PRETTY_NAME=\"Debian GNU/Linux 8 (jessie)\""
+    ],
+    [
+      0.000249,
+      "\r\n"
+    ],
+    [
+      0.000126,
+      "NAME=\"Debian GNU/Linux\""
+    ],
+    [
+      0.000122,
+      "\r\n"
+    ],
+    [
+      0.000120,
+      "VERSION_ID=\"8\""
+    ],
+    [
+      0.000147,
+      "\r\n"
+    ],
+    [
+      0.000119,
+      "VERSION=\"8 (jessie)\""
+    ],
+    [
+      0.000119,
+      "\r\n"
+    ],
+    [
+      0.000119,
+      "ID=debian"
+    ],
+    [
+      0.000119,
+      "\r\n"
+    ],
+    [
+      0.000119,
+      "HOME_URL=\"http://www.debian.org/\""
+    ],
+    [
+      0.000119,
+      "\r\n"
+    ],
+    [
+      0.000120,
+      "SUPPORT_URL=\"http://www.debian.org/support/\""
+    ],
+    [
+      0.000120,
+      "\r\n"
+    ],
+    [
+      0.000119,
+      "BUG_REPORT_URL=\"https://bugs.debian.org/\""
+    ],
+    [
+      0.000120,
+      "\r\n"
+    ],
+    [
+      0.001472,
+      "\u001b[0m"
+    ],
+    [
+      0.012033,
+      "\u001b]0;edps: edps@debian: /home/edps\u0007"
+    ],
+    [
+      0.000780,
+      "\u001b[00m\u001b[0;90m----------------------------------------------------------------------- 11:52:05\r"
+    ],
+    [
+      0.000161,
+      "\r\n"
+    ],
+    [
+      0.000149,
+      "\u001b[00medps@debian:~$ \u001b[00m\u001b[1;29m"
+    ],
+    [
+      0.672817,
+      "cat /etc/os-release "
+    ],
+    [
+      0.200425,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[6Plsb_release -a"
+    ],
+    [
+      0.168346,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008screenfetch -n"
+    ],
+    [
+      0.168650,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[9Pclear"
+    ],
+    [
+      0.199953,
+      "\u0008\u0008\u0008\u0008\u0008sudo apt-get -t jessie-backports dist-upgrade "
+    ],
+    [
+      0.231782,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[20P\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.388857,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[12Pcat /etc/issue"
+    ],
+    [
+      0.483356,
+      "\u0008\u0008\u0008\u0008\u0008debian_version "
+    ],
+    [
+      1.736967,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.002466,
+      "8.2"
+    ],
+    [
+      0.000247,
+      "\r\n"
+    ],
+    [
+      0.004992,
+      "\u001b[0m"
+    ],
+    [
+      0.008079,
+      "\u001b]0;edps: edps@debian: /home/edps\u0007"
+    ],
+    [
+      0.000865,
+      "\u001b[00m\u001b[0;90m----------------------------------------------------------------------- 11:52:10\r"
+    ],
+    [
+      0.000157,
+      "\r\n"
+    ],
+    [
+      0.000151,
+      "\u001b[00medps@debian:~$ \u001b[00m\u001b[1;29m"
+    ],
+    [
+      0.498265,
+      "cat /etc/debian_version "
+    ],
+    [
+      0.200334,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[4Pos-release\u001b[C"
+    ],
+    [
+      0.199604,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[6Plsb_release -a"
+    ],
+    [
+      0.168903,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008screenfetch -n"
+    ],
+    [
+      0.199707,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[9Pclear"
+    ],
+    [
+      0.199902,
+      "\u0008\u0008\u0008\u0008\u0008sudo apt-get -t jessie-backports dist-upgrade "
+    ],
+    [
+      0.452400,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[20P\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.577679,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[12Pcat /etc/issue"
+    ],
+    [
+      0.664923,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.002520,
+      "Debian GNU/Linux 8 \\n \\l"
+    ],
+    [
+      0.000248,
+      "\r\n"
+    ],
+    [
+      0.000125,
+      "\r\n"
+    ],
+    [
+      0.002156,
+      "\u001b[0m"
+    ],
+    [
+      0.011243,
+      "\u001b]0;edps: edps@debian: /home/edps\u0007\u001b[00m\u001b[0;90m----------------------------------------------------------------------- 11:52:13\r\r\n\u001b[00medps@debian:~$ \u001b[00m\u001b[1;29m"
+    ],
+    [
+      1.161454,
+      "cat /etc/issue"
+    ],
+    [
+      0.609824,
+      "\u0008\u0008\u0008\u0008\u0008debian_version "
+    ],
+    [
+      0.483421,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[4Pos-release\u001b[C"
+    ],
+    [
+      0.514869,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[6Plsb_release -a"
+    ],
+    [
+      0.987878,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008screenfetch -n"
+    ],
+    [
+      0.483291,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[9Pclear"
+    ],
+    [
+      0.420603,
+      "\u0008\u0008\u0008\u0008\u0008sudo apt-get -t jessie-backports dist-upgrade "
+    ],
+    [
+      2.020563,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.041607,
+      "\rLendo listas de pacotes... 0%\r"
+    ],
+    [
+      0.014906,
+      "\rLendo listas de pacotes... 100%\r"
+    ],
+    [
+      0.000273,
+      "\rLendo listas de pacotes... Pronto\r"
+    ],
+    [
+      0.000189,
+      "\r\n"
+    ],
+    [
+      0.021963,
+      "\rConstruindo árvore de dependências... 0%\r"
+    ],
+    [
+      0.000311,
+      "\rConstruindo árvore de dependências... 0%\r"
+    ],
+    [
+      0.059360,
+      "\rConstruindo árvore de dependências... 50%\r"
+    ],
+    [
+      0.000237,
+      "\rConstruindo árvore de dependências... 50%\r"
+    ],
+    [
+      0.310562,
+      "\rConstruindo árvore de dependências       \r"
+    ],
+    [
+      0.000199,
+      "\r\n"
+    ],
+    [
+      0.000102,
+      "\rLendo informação de estado... 0%  \r"
+    ],
+    [
+      0.000216,
+      "\rLendo informação de estado... 0%\r"
+    ],
+    [
+      0.011863,
+      "\rLendo informação de estado... Pronto\r"
+    ],
+    [
+      0.000167,
+      "\r\n"
+    ],
+    [
+      0.272058,
+      "Calculando atualização... "
+    ],
+    [
+      0.357439,
+      "Os seguintes pacotes foram instalados automaticamente e já não são necessários:"
+    ],
+    [
+      0.000196,
+      "\r\n"
+    ],
+    [
+      0.000096,
+      "  libavahi-client-dev libavahi-common-dev libcmis-0.4-4 libetonyek-0.1-1"
+    ],
+    [
+      0.000083,
+      "\r\n"
+    ],
+    [
+      0.000089,
+      "  libgltf-0.0-0 libmwaw-0.3-3 liborcus-0.8-0 libuuid-perl libwebkit2gtk-3.0-25"
+    ],
+    [
+      0.000080,
+      "\r\n"
+    ],
+    [
+      0.000086,
+      "  libwps-0.3-3"
+    ],
+    [
+      0.000079,
+      "\r\n"
+    ],
+    [
+      0.000094,
+      "Utilize 'apt-get autoremove' para os remover."
+    ],
+    [
+      0.000080,
+      "\r\n"
+    ],
+    [
+      0.081235,
+      "Pronto"
+    ],
+    [
+      0.000189,
+      "\r\n"
+    ],
+    [
+      0.005337,
+      "Os pacotes a seguir serão REMOVIDOS:"
+    ],
+    [
+      0.000170,
+      "\r\n"
+    ],
+    [
+      0.000095,
+      "  python-uno"
+    ],
+    [
+      0.000082,
+      "\r\n"
+    ],
+    [
+      0.006162,
+      "Os NOVOS pacotes a seguir serão instalados:"
+    ],
+    [
+      0.000144,
+      "\r\n"
+    ],
+    [
+      0.000116,
+      "  libclutter-1.0-0 libclutter-1.0-common libclutter-gtk-1.0-0 libcogl-common"
+    ],
+    [
+      0.000083,
+      "\r\n"
+    ],
+    [
+      0.000091,
+      "  libcogl-pango20 libcogl-path20 libcogl20 libgphoto2-port12 libinput5"
+    ],
+    [
+      0.000081,
+      "\r\n"
+    ],
+    [
+      0.000088,
+      "  libjavascriptcoregtk-4.0-18 libpagemaker-0.0-0 libpython3.4"
+    ],
+    [
+      0.000081,
+      "\r\n"
+    ],
+    [
+      0.000087,
+      "  libwebkit2gtk-4.0-37 linux-compiler-gcc-4.9-x86"
+    ],
+    [
+      0.000080,
+      "\r\n"
+    ],
+    [
+      0.000073,
+      "  linux-headers-4.2.0-0.bpo.1-686-pae linux-headers-4.2.0-0.bpo.1-common"
+    ],
+    [
+      0.000075,
+      "\r\n"
+    ],
+    [
+      0.000086,
+      "  linux-image-4.2.0-0.bpo.1-686-pae linux-kbuild-4.2 python3-uno"
+    ],
+    [
+      0.000080,
+      "\r\n"
+    ],
+    [
+      0.005623,
+      "Os pacotes a seguir serão mantidos em suas versões atuais:"
+    ],
+    [
+      0.000176,
+      "\r\n"
+    ],
+    [
+      0.000095,
+      "  policykit-1"
+    ],
+    [
+      0.000081,
+      "\r\n"
+    ],
+    [
+      0.016411,
+      "Os pacotes a seguir serão atualizados:"
+    ],
+    [
+      0.000179,
+      "\r\n"
+    ],
+    [
+      0.000099,
+      "  adequate autodep8 autopkgtest conky-std devscripts diskscan fonts-opensymbol"
+    ],
+    [
+      0.000084,
+      "\r\n"
+    ],
+    [
+      0.000090,
+      "  geoip-database gthumb gthumb-data libgphoto2-6 libgphoto2-l10n"
+    ],
+    [
+      0.000080,
+      "\r\n"
+    ],
+    [
+      0.000088,
+      "  libnet-dbus-perl libpcap0.8 libpulse-dev libpulse-mainloop-glib0 libpulse0"
+    ],
+    [
+      0.000081,
+      "\r\n"
+    ],
+    [
+      0.000072,
+      "  libreoffice libreoffice-avmedia-backend-gstreamer libreoffice-base"
+    ],
+    [
+      0.000075,
+      "\r\n"
+    ],
+    [
+      0.000086,
+      "  libreoffice-base-core libreoffice-base-drivers libreoffice-calc"
+    ],
+    [
+      0.000080,
+      "\r\n"
+    ],
+    [
+      0.000087,
+      "  libreoffice-common libreoffice-core libreoffice-draw libreoffice-help-pt-br"
+    ],
+    [
+      0.000067,
+      "\r\n"
+    ],
+    [
+      0.000080,
+      "  libreoffice-impress libreoffice-java-common libreoffice-l10n-pt-br"
+    ],
+    [
+      0.000079,
+      "\r\n"
+    ],
+    [
+      0.000085,
+      "  libreoffice-math libreoffice-pdfimport libreoffice-report-builder-bin"
+    ],
+    [
+      0.000080,
+      "\r\n"
+    ],
+    [
+      0.000085,
+      "  libreoffice-sdbc-firebird libreoffice-sdbc-hsqldb libreoffice-style-galaxy"
+    ],
+    [
+      0.000172,
+      "\r\n"
+    ],
+    [
+      0.000089,
+      "  libreoffice-style-tango libreoffice-writer libvdpau1 lintian linux-base"
+    ],
+    [
+      0.000080,
+      "\r\n"
+    ],
+    [
+      0.000087,
+      "  linux-headers-686-pae linux-image-686-pae linux-libc-dev mercurial"
+    ],
+    [
+      0.000080,
+      "\r\n"
+    ],
+    [
+      0.000072,
+      "  mercurial-common pbuilder piuparts piuparts-common python-six python3-six"
+    ],
+    [
+      0.000074,
+      "\r\n"
+    ],
+    [
+      0.000085,
+      "  uno-libs3 ure xserver-xorg-video-intel"
+    ],
+    [
+      0.000080,
+      "\r\n"
+    ],
+    [
+      0.018598,
+      "54 pacotes atualizados, 19 pacotes novos instalados, 1 a serem removidos e 1 não atualizados."
+    ],
+    [
+      0.000179,
+      "\r\n"
+    ],
+    [
+      0.199506,
+      "É preciso baixar 0 B/167 MB de arquivos."
+    ],
+    [
+      0.000198,
+      "\r\n"
+    ],
+    [
+      0.000104,
+      "Depois desta operação, 269 MB adicionais de espaço em disco serão usados."
+    ],
+    [
+      0.000083,
+      "\r\n"
+    ],
+    [
+      0.000123,
+      "Você quer continuar?"
+    ],
+    [
+      0.000134,
+      " [S/n] "
+    ],
+    [
+      2.354179,
+      "s"
+    ],
+    [
+      0.922199,
+      "\r\n"
+    ],
+    [
+      0.000140,
+      "\r\r"
+    ],
+    [
+      0.558800,
+      "Lendo logs de mudanças... 1%\r"
+    ],
+    [
+      0.174723,
+      "Lendo logs de mudanças... 3%\r"
+    ],
+    [
+      0.374096,
+      "Lendo logs de mudanças... 5%\r"
+    ],
+    [
+      0.057620,
+      "Lendo logs de mudanças... 7%\r"
+    ],
+    [
+      0.294647,
+      "Lendo logs de mudanças... 9%\r"
+    ],
+    [
+      0.268008,
+      "Lendo logs de mudanças... 11%\r"
+    ],
+    [
+      4.026650,
+      "Lendo logs de mudanças... 12%\r"
+    ],
+    [
+      6.851489,
+      "Lendo logs de mudanças... 14%\r"
+    ],
+    [
+      0.182620,
+      "Lendo logs de mudanças... 16%\r"
+    ],
+    [
+      1.386492,
+      "Lendo logs de mudanças... 18%\r"
+    ],
+    [
+      0.522011,
+      "Lendo logs de mudanças... 20%\r"
+    ],
+    [
+      0.229255,
+      "Lendo logs de mudanças... 22%\r"
+    ],
+    [
+      1.531795,
+      "Lendo logs de mudanças... 24%\r"
+    ],
+    [
+      0.128540,
+      "Lendo logs de mudanças... 25%\r"
+    ],
+    [
+      0.143060,
+      "Lendo logs de mudanças... 27%\r"
+    ],
+    [
+      0.379652,
+      "Lendo logs de mudanças... 29%\r"
+    ],
+    [
+      0.016469,
+      "Lendo logs de mudanças... 31%\r"
+    ],
+    [
+      0.019819,
+      "Lendo logs de mudanças... 33%\r"
+    ],
+    [
+      0.014130,
+      "Lendo logs de mudanças... 35%\r"
+    ],
+    [
+      0.018593,
+      "Lendo logs de mudanças... 37%\r"
+    ],
+    [
+      0.015212,
+      "Lendo logs de mudanças... 38%\r"
+    ],
+    [
+      0.022229,
+      "Lendo logs de mudanças... 40%\r"
+    ],
+    [
+      0.373860,
+      "Lendo logs de mudanças... 42%\r"
+    ],
+    [
+      0.214897,
+      "Lendo logs de mudanças... 44%\r"
+    ],
+    [
+      0.238801,
+      "Lendo logs de mudanças... 46%\r"
+    ],
+    [
+      0.057526,
+      "Lendo logs de mudanças... 48%\r"
+    ],
+    [
+      0.081805,
+      "Lendo logs de mudanças... 50%\r"
+    ],
+    [
+      0.037086,
+      "Lendo logs de mudanças... 51%\r"
+    ],
+    [
+      0.052823,
+      "Lendo logs de mudanças... 53%\r"
+    ],
+    [
+      0.035046,
+      "Lendo logs de mudanças... 55%\r"
+    ],
+    [
+      0.032169,
+      "Lendo logs de mudanças... 57%\r"
+    ],
+    [
+      0.034949,
+      "Lendo logs de mudanças... 59%\r"
+    ],
+    [
+      0.052900,
+      "Lendo logs de mudanças... 61%\r"
+    ],
+    [
+      0.034922,
+      "Lendo logs de mudanças... 62%\r"
+    ],
+    [
+      0.032955,
+      "Lendo logs de mudanças... 64%\r"
+    ],
+    [
+      0.058953,
+      "Lendo logs de mudanças... 66%\r"
+    ],
+    [
+      0.098280,
+      "Lendo logs de mudanças... 68%\r"
+    ],
+    [
+      0.181042,
+      "Lendo logs de mudanças... 70%\r"
+    ],
+    [
+      0.035514,
+      "Lendo logs de mudanças... 72%\r"
+    ],
+    [
+      0.436533,
+      "Lendo logs de mudanças... 74%\r"
+    ],
+    [
+      0.120611,
+      "Lendo logs de mudanças... 75%\r"
+    ],
+    [
+      0.092801,
+      "Lendo logs de mudanças... 77%\r"
+    ],
+    [
+      0.022512,
+      "Lendo logs de mudanças... 79%\r"
+    ],
+    [
+      0.017840,
+      "Lendo logs de mudanças... 81%\r"
+    ],
+    [
+      0.027701,
+      "Lendo logs de mudanças... 83%\r"
+    ],
+    [
+      0.158065,
+      "Lendo logs de mudanças... 85%\r"
+    ],
+    [
+      0.029053,
+      "Lendo logs de mudanças... 87%\r"
+    ],
+    [
+      0.032146,
+      "Lendo logs de mudanças... 88%\r"
+    ],
+    [
+      0.238283,
+      "Lendo logs de mudanças... 90%\r"
+    ],
+    [
+      0.357070,
+      "Lendo logs de mudanças... 92%\r"
+    ],
+    [
+      0.023864,
+      "Lendo logs de mudanças... 94%\r"
+    ],
+    [
+      0.029024,
+      "Lendo logs de mudanças... 96%\r"
+    ],
+    [
+      0.032936,
+      "Lendo logs de mudanças... 98%\r"
+    ],
+    [
+      0.191277,
+      "Lendo logs de mudanças... 100%\r"
+    ],
+    [
+      0.062326,
+      "                               \rLendo logs de mudanças... Feito"
+    ],
+    [
+      0.000206,
+      "\r\n"
+    ],
+    [
+      0.037143,
+      "\u001b[?1049h\u001b[?1h\u001b=\r"
+    ],
+    [
+      0.000542,
+      "conky (1.10.0-1) unstable; urgency=medium"
+    ],
+    [
+      0.000079,
+      "\r\n"
+    ],
+    [
+      0.000080,
+      "\r\n"
+    ],
+    [
+      0.000080,
+      "    Conky 1.10.0 introduces a new Lua-based configuration format, which"
+    ],
+    [
+      0.000079,
+      "\r\n"
+    ],
+    [
+      0.000066,
+      "    supersedes the older free-form text format. An example can be found in"
+    ],
+    [
+      0.000140,
+      "\r\n"
+    ],
+    [
+      0.000080,
+      "    /usr/share/doc/conky-{std,cli,all}/conky.conf, and documented at [1][2]."
+    ],
+    [
+      0.000066,
+      "\r\n"
+    ],
+    [
+      0.000075,
+      "    You may attempt to convert your old conkyrc by using a Lua script that can"
+    ],
+    [
+      0.000079,
+      "\r\n"
+    ],
+    [
+      0.000066,
+      "    be found at /usr/share/doc/conky-{std,cli,all}/convert.lua."
+    ],
+    [
+      0.000073,
+      "\r\n"
+    ],
+    [
+      0.000079,
+      "\r\n"
+    ],
+    [
+      0.000066,
+      "    Support for the older pre-1.10.0 conkyrc format will continue to be"
+    ],
+    [
+      0.000073,
+      "\r\n"
+    ],
+    [
+      0.000080,
+      "    enabled in the Debian packages for as long as it is supported and"
+    ],
+    [
+      0.000066,
+      "\r\n"
+    ],
+    [
+      0.000073,
+      "    maintained upstream."
+    ],
+    [
+      0.000079,
+      "\r\n"
+    ],
+    [
+      0.000065,
+      "\r\n"
+    ],
+    [
+      0.000074,
+      "    [1] https://github.com/brndnmtthws/conky/wiki/Configuration-Settings"
+    ],
+    [
+      0.000079,
+      "\r\n"
+    ],
+    [
+      0.000066,
+      "    [2] https://github.com/brndnmtthws/conky/wiki/Configuration-Variables"
+    ],
+    [
+      0.000127,
+      "\r\n"
+    ],
+    [
+      0.000079,
+      "\r\n"
+    ],
+    [
+      0.000066,
+      " -- Vincent Cheng \u003cvcheng@debian.org\u003e  Tue, 30 Jun 2015 21:35:43 -0700"
+    ],
+    [
+      0.000073,
+      "\r\n"
+    ],
+    [
+      0.000120,
+      "\r\n"
+    ],
+    [
+      0.000080,
+      "pbuilder (0.216) experimental; urgency=medium"
+    ],
+    [
+      0.000082,
+      "\r\n"
+    ],
+    [
+      0.000081,
+      "\r\n"
+    ],
+    [
+      0.000082,
+      "  The default build directory has been moved from /tmp/buildd to /build."
+    ],
+    [
+      0.000082,
+      "\r\n"
+    ],
+    [
+      0.000084,
+      "  This both prevents tempering with /tmp (which is normally world-writable, and"
+    ],
+    [
+      0.000083,
+      "\r\n"
+    ],
+    [
+      0.000084,
+      "  as such a user could c"
+    ],
+    [
+      0.000184,
+      "reate the directory before pbuilder and thus owning it,"
+    ],
+    [
+      0.000083,
+      "\r\n"
+    ],
+    [
+      0.000082,
+      "  and then it could temper with the build process).  See #789404 for more info."
+    ],
+    [
+      0.000082,
+      "\r\n"
+    ],
+    [
+      0.000083,
+      ":\u001b[K"
+    ],
+    [
+      2.533680,
+      "\r\u001b[K\u001b[?1l\u001b\u003e\u001b[?1049l"
+    ],
+    [
+      1.269519,
+      "\rExtraindo templates dos pacotes: 41%"
+    ],
+    [
+      0.229853,
+      "\rExtraindo templates dos pacotes: 82%"
+    ],
+    [
+      0.180184,
+      "\rExtraindo templates dos pacotes: 100%\r\n"
+    ],
+    [
+      0.055888,
+      "Pré-configurando pacotes ...\r\n"
+    ],
+    [
+      0.840385,
+      "(Lendo banco de dados ... \r"
+    ],
+    [
+      0.158636,
+      "(Lendo banco de dados ... 5%\r"
+    ],
+    [
+      0.000389,
+      "(Lendo banco de dados ... 10%\r"
+    ],
+    [
+      0.000280,
+      "(Lendo banco de dados ... 15%\r"
+    ],
+    [
+      0.000373,
+      "(Lendo banco de dados ... 20%\r"
+    ],
+    [
+      0.000300,
+      "(Lendo banco de dados ... 25%\r"
+    ],
+    [
+      0.000291,
+      "(Lendo banco de dados ... 30%\r"
+    ],
+    [
+      0.000281,
+      "(Lendo banco de dados ... 35%\r"
+    ],
+    [
+      0.000608,
+      "(Lendo banco de dados ... 40%\r"
+    ],
+    [
+      0.000222,
+      "(Lendo banco de dados ... 45%\r"
+    ],
+    [
+      0.000198,
+      "(Lendo banco de dados ... 50%\r"
+    ],
+    [
+      0.632153,
+      "(Lendo banco de dados ... 55%\r"
+    ],
+    [
+      1.132495,
+      "(Lendo banco de dados ... 60%\r"
+    ],
+    [
+      0.687265,
+      "(Lendo banco de dados ... 65%\r"
+    ],
+    [
+      0.780393,
+      "(Lendo banco de dados ... 70%\r"
+    ],
+    [
+      0.600118,
+      "(Lendo banco de dados ... 75%\r"
+    ],
+    [
+      0.787826,
+      "(Lendo banco de dados ... 80%\r"
+    ],
+    [
+      0.767726,
+      "(Lendo banco de dados ... 85%\r"
+    ],
+    [
+      1.014779,
+      "(Lendo banco de dados ... 90%\r"
+    ],
+    [
+      0.958627,
+      "(Lendo banco de dados ... 95%\r"
+    ],
+    [
+      1.048802,
+      "(Lendo banco de dados ... 100%\r(Lendo banco de dados ... 278884 ficheiros e directórios actualmente instalados.)\r\n"
+    ],
+    [
+      0.052146,
+      "A preparar para desempacotar .../uno-libs3_5.0.2-1~bpo8+1_i386.deb ..."
+    ],
+    [
+      0.000298,
+      "\r\n"
+    ],
+    [
+      0.149819,
+      "A descompactar uno-libs3 (5.0.2-1~bpo8+1) sobre (4.3.3-2+deb8u1) ..."
+    ],
+    [
+      0.001638,
+      "\r\n"
+    ],
+    [
+      0.891464,
+      "A preparar para desempacotar .../ure_5.0.2-1~bpo8+1_i386.deb ..."
+    ],
+    [
+      0.000308,
+      "\r\n"
+    ],
+    [
+      0.159867,
+      "A descompactar ure (5.0.2-1~bpo8+1) sobre (4.3.3-2+deb8u1) ...\r\n"
+    ],
+    [
+      0.863321,
+      "A substituir ficheiros no pacote antigo libreoffice-common (1:4.3.3-2+deb8u1) ...\r\n"
+    ],
+    [
+      0.677814,
+      "A preparar para desempacotar .../libreoffice-calc_1%3a5.0.2-1~bpo8+1_i386.deb ..."
+    ],
+    [
+      0.000557,
+      "\r\n"
+    ],
+    [
+      0.146053,
+      "A descompactar libreoffice-calc (1:5.0.2-1~bpo8+1) sobre (1:4.3.3-2+deb8u1) ...\r\n"
+    ],
+    [
+      3.765079,
+      "A preparar para desempacotar .../libreoffice-impress_1%3a5.0.2-1~bpo8+1_i386.deb ..."
+    ],
+    [
+      0.001373,
+      "\r\n"
+    ],
+    [
+      0.150604,
+      "A descompactar libreoffice-impress (1:5.0.2-1~bpo8+1) sobre (1:4.3.3-2+deb8u1) ...\r\n"
+    ],
+    [
+      1.206290,
+      "A preparar para desempacotar .../libreoffice-draw_1%3a5.0.2-1~bpo8+1_i386.deb ..."
+    ],
+    [
+      0.000244,
+      "\r\n"
+    ],
+    [
+      0.150789,
+      "A descompactar libreoffice-draw (1:5.0.2-1~bpo8+1) sobre (1:4.3.3-2+deb8u1) ...\r\n"
+    ],
+    [
+      1.688719,
+      "A preparar para desempacotar .../libreoffice-writer_1%3a5.0.2-1~bpo8+1_i386.deb ..."
+    ],
+    [
+      0.000237,
+      "\r\n"
+    ],
+    [
+      0.154980,
+      "A descompactar libreoffice-writer (1:5.0.2-1~bpo8+1) sobre (1:4.3.3-2+deb8u1) ...\r\n"
+    ],
+    [
+      2.981937,
+      "A processar 'triggers' para man-db (2.7.0.2-5) ..."
+    ],
+    [
+      0.000357,
+      "\r\n"
+    ],
+    [
+      2.848205,
+      "A processar 'triggers' para gnome-menus (3.13.3-6) ...\r\n"
+    ],
+    [
+      0.632126,
+      "A processar 'triggers' para desktop-file-utils (0.22-1) ..."
+    ],
+    [
+      0.000296,
+      "\r\n"
+    ],
+    [
+      0.183582,
+      "A processar 'triggers' para mime-support (3.58) ..."
+    ],
+    [
+      0.000215,
+      "\r\n"
+    ],
+    [
+      1.063548,
+      "A processar 'triggers' para menu (2.1.47) ..."
+    ],
+    [
+      0.000214,
+      "\r\n"
+    ],
+    [
+      3.842170,
+      "dpkg: python-uno: problemas com dependências, mas mesmo assim a remover conforme você pediu:"
+    ],
+    [
+      0.000216,
+      "\r\n"
+    ],
+    [
+      0.000108,
+      " libreoffice depende de python3-uno (\u003e= 4.0~) | python-uno; porém:"
+    ],
+    [
+      0.000106,
+      "\r\n"
+    ],
+    [
+      0.000104,
+      "  Pacote python3-uno não está instalado."
+    ],
+    [
+      0.000104,
+      "\r\n"
+    ],
+    [
+      0.000104,
+      "  Pacote python-uno está para ser removido."
+    ],
+    [
+      0.000103,
+      "\r\n"
+    ],
+    [
+      0.000104,
+      "\r\n"
+    ],
+    [
+      0.000142,
+      "(Lendo banco de dados ... \r"
+    ],
+    [
+      0.036660,
+      "(Lendo banco de dados ... 5%\r"
+    ],
+    [
+      0.000323,
+      "(Lendo banco de dados ... 10%\r"
+    ],
+    [
+      0.000270,
+      "(Lendo banco de dados ... 15%\r"
+    ],
+    [
+      0.000281,
+      "(Lendo banco de dados ... 20%\r"
+    ],
+    [
+      0.000283,
+      "(Lendo banco de dados ... 25%\r"
+    ],
+    [
+      0.000596,
+      "(Lendo banco de dados ... 30%\r"
+    ],
+    [
+      0.000204,
+      "(Lendo banco de dados ... 35%\r"
+    ],
+    [
+      0.000203,
+      "(Lendo banco de dados ... 40%\r"
+    ],
+    [
+      0.000216,
+      "(Lendo banco de dados ... 45%\r"
+    ],
+    [
+      0.000203,
+      "(Lendo banco de dados ... 50%\r"
+    ],
+    [
+      0.026923,
+      "(Lendo banco de dados ... 55%\r"
+    ],
+    [
+      0.055686,
+      "(Lendo banco de dados ... 60%\r"
+    ],
+    [
+      0.045101,
+      "(Lendo banco de dados ... 65%\r"
+    ],
+    [
+      0.018379,
+      "(Lendo banco de dados ... 70%\r"
+    ],
+    [
+      0.019100,
+      "(Lendo banco de dados ... 75%\r"
+    ],
+    [
+      0.017952,
+      "(Lendo banco de dados ... 80%\r"
+    ],
+    [
+      0.019756,
+      "(Lendo banco de dados ... 85%\r"
+    ],
+    [
+      0.051030,
+      "(Lendo banco de dados ... 90%\r"
+    ],
+    [
+      0.105584,
+      "(Lendo banco de dados ... 95%\r"
+    ],
+    [
+      0.136830,
+      "(Lendo banco de dados ... 100%\r"
+    ],
+    [
+      0.000232,
+      "(Lendo banco de dados ... "
+    ],
+    [
+      0.000149,
+      "278867 ficheiros e directórios actualmente instalados.)"
+    ],
+    [
+      0.000127,
+      "\r\n"
+    ],
+    [
+      0.046547,
+      "A remover python-uno (1:4.3.3-2+deb8u1) ..."
+    ],
+    [
+      0.000224,
+      "\r\n"
+    ],
+    [
+      1.227057,
+      "A seleccionar pacote anteriormente não seleccionado python3-uno."
+    ],
+    [
+      0.000385,
+      "\r\n"
+    ],
+    [
+      0.000306,
+      "(Lendo banco de dados ... \r"
+    ],
+    [
+      0.032916,
+      "(Lendo banco de dados ... 5%\r"
+    ],
+    [
+      0.000425,
+      "(Lendo banco de dados ... 10%\r"
+    ],
+    [
+      0.000306,
+      "(Lendo banco de dados ... 15%\r"
+    ],
+    [
+      0.000492,
+      "(Lendo banco de dados ... 20%\r"
+    ],
+    [
+      0.000342,
+      "(Lendo banco de dados ... 25%\r"
+    ],
+    [
+      0.000320,
+      "(Lendo banco de dados ... 30%\r"
+    ],
+    [
+      0.000305,
+      "(Lendo banco de dados ... 35%\r"
+    ],
+    [
+      0.000329,
+      "(Lendo banco de dados ... 40%\r"
+    ],
+    [
+      0.000334,
+      "(Lendo banco de dados ... 45%\r"
+    ],
+    [
+      0.000322,
+      "(Lendo banco de dados ... 50%\r"
+    ],
+    [
+      0.035086,
+      "(Lendo banco de dados ... 55%\r"
+    ],
+    [
+      0.087574,
+      "(Lendo banco de dados ... 60%\r"
+    ],
+    [
+      0.041126,
+      "(Lendo banco de dados ... 65%\r"
+    ],
+    [
+      0.020880,
+      "(Lendo banco de dados ... 70%\r"
+    ],
+    [
+      0.016214,
+      "(Lendo banco de dados ... 75%\r"
+    ],
+    [
+      0.020606,
+      "(Lendo banco de dados ... 80%\r"
+    ],
+    [
+      0.017745,
+      "(Lendo banco de dados ... 85%\r"
+    ],
+    [
+      0.051505,
+      "(Lendo banco de dados ... 90%\r"
+    ],
+    [
+      0.100060,
+      "(Lendo banco de dados ... 95%\r"
+    ],
+    [
+      0.151964,
+      "(Lendo banco de dados ... 100%\r"
+    ],
+    [
+      0.000570,
+      "(Lendo banco de dados ... "
+    ],
+    [
+      0.000167,
+      "278833 ficheiros e directórios actualmente instalados.)"
+    ],
+    [
+      0.000134,
+      "\r\n"
+    ],
+    [
+      0.084814,
+      "A preparar para desempacotar .../python3-uno_1%3a5.0.2-1~bpo8+1_i386.deb ..."
+    ],
+    [
+      0.000234,
+      "\r\n"
+    ],
+    [
+      0.045190,
+      "A descompactar python3-uno (1:5.0.2-1~bpo8+1) ..."
+    ],
+    [
+      0.000223,
+      "\r\n"
+    ],
+    [
+      0.116758,
+      "A substituir ficheiros no pacote antigo libreoffice-common (1:4.3.3-2+deb8u1) ...\r\n"
+    ],
+    [
+      0.553506,
+      "A preparar para desempacotar .../libreoffice-l10n-pt-br_1%3a5.0.2-1~bpo8+1_all.deb ..."
+    ],
+    [
+      0.000241,
+      "\r\n"
+    ],
+    [
+      0.148992,
+      "A descompactar libreoffice-l10n-pt-br (1:5.0.2-1~bpo8+1) sobre (1:4.3.3-2+deb8u1) ...\r\n"
+    ],
+    [
+      1.007326,
+      "A preparar para desempacotar .../libreoffice-style-galaxy_1%3a5.0.2-1~bpo8+1_all.deb ..."
+    ],
+    [
+      0.000331,
+      "\r\n"
+    ],
+    [
+      0.150385,
+      "A descompactar libreoffice-style-galaxy (1:5.0.2-1~bpo8+1) sobre (1:4.3.3-2+deb8u1) ...\r\n"
+    ],
+    [
+      0.831231,
+      "A preparar para desempacotar .../libreoffice-style-tango_1%3a5.0.2-1~bpo8+1_all.deb ..."
+    ],
+    [
+      0.000335,
+      "\r\n"
+    ],
+    [
+      0.149118,
+      "A descompactar libreoffice-style-tango (1:5.0.2-1~bpo8+1) sobre (1:4.3.3-2+deb8u1) ..."
+    ],
+    [
+      0.000338,
+      "\r\n"
+    ],
+    [
+      0.956076,
+      "A preparar para desempacotar .../libreoffice-base_1%3a5.0.2-1~bpo8+1_i386.deb ..."
+    ],
+    [
+      0.000330,
+      "\r\n"
+    ],
+    [
+      0.149849,
+      "A descompactar libreoffice-base (1:5.0.2-1~bpo8+1) sobre (1:4.3.3-2+deb8u1) ...\r\n"
+    ],
+    [
+      1.880415,
+      "A preparar para desempacotar .../libreoffice-core_1%3a5.0.2-1~bpo8+1_i386.deb ..."
+    ],
+    [
+      0.000316,
+      "\r\n"
+    ],
+    [
+      0.196410,
+      "A descompactar libreoffice-core (1:5.0.2-1~bpo8+1) sobre (1:4.3.3-2+deb8u1) ...\r\n"
+    ],
+    [
+      12.413745,
+      "A preparar para desempacotar .../libreoffice-common_1%3a5.0.2-1~bpo8+1_all.deb ..."
+    ],
+    [
+      0.001120,
+      "\r\n"
+    ],
+    [
+      0.542513,
+      "A descompactar libreoffice-common (1:5.0.2-1~bpo8+1) sobre (1:4.3.3-2+deb8u1) ...\r\n"
+    ],
+    [
+      31.129650,
+      "A preparar para desempacotar .../libreoffice-pdfimport_1%3a5.0.2-1~bpo8+1_i386.deb ..."
+    ],
+    [
+      0.001441,
+      "\r\n"
+    ],
+    [
+      0.141506,
+      "A descompactar libreoffice-pdfimport (1:5.0.2-1~bpo8+1) sobre (1:4.3.3-2+deb8u1) ...\r\n"
+    ],
+    [
+      0.635492,
+      "A preparar para desempacotar .../libreoffice-math_1%3a5.0.2-1~bpo8+1_i386.deb ..."
+    ],
+    [
+      0.000363,
+      "\r\n"
+    ],
+    [
+      0.130497,
+      "A descompactar libreoffice-math (1:5.0.2-1~bpo8+1) sobre (1:4.3.3-2+deb8u1) ...\r\n"
+    ],
+    [
+      0.894706,
+      "A preparar para desempacotar .../libreoffice-base-core_1%3a5.0.2-1~bpo8+1_i386.deb ..."
+    ],
+    [
+      0.000240,
+      "\r\n"
+    ],
+    [
+      0.134806,
+      "A descompactar libreoffice-base-core (1:5.0.2-1~bpo8+1) sobre (1:4.3.3-2+deb8u1) ..."
+    ],
+    [
+      0.000326,
+      "\r\n"
+    ],
+    [
+      0.765034,
+      "A preparar para desempacotar .../libreoffice_1%3a5.0.2-1~bpo8+1_i386.deb ..."
+    ],
+    [
+      0.000337,
+      "\r\n"
+    ],
+    [
+      0.150070,
+      "A descompactar libreoffice (1:5.0.2-1~bpo8+1) sobre (1:4.3.3-2+deb8u1) ...\r\n"
+    ],
+    [
+      0.537102,
+      "A preparar para desempacotar .../libreoffice-base-drivers_1%3a5.0.2-1~bpo8+1_i386.deb ..."
+    ],
+    [
+      0.001121,
+      "\r\n"
+    ],
+    [
+      0.152420,
+      "A descompactar libreoffice-base-drivers (1:5.0.2-1~bpo8+1) sobre (1:4.3.3-2+deb8u1) ...\r\n"
+    ],
+    [
+      0.632076,
+      "A seleccionar pacote anteriormente não seleccionado libpagemaker-0.0-0."
+    ],
+    [
+      0.000307,
+      "\r\n"
+    ],
+    [
+      0.117071,
+      "A preparar para desempacotar .../libpagemaker-0.0-0_0.0.1-1_i386.deb ..."
+    ],
+    [
+      0.000241,
+      "\r\n"
+    ],
+    [
+      0.049942,
+      "A descompactar libpagemaker-0.0-0 (0.0.1-1) ...\r\n"
+    ],
+    [
+      0.420289,
+      "A preparar para desempacotar .../fonts-opensymbol_2%3a102.6+LibO5.0.2-1~bpo8+1_all.deb ..."
+    ],
+    [
+      0.000364,
+      "\r\n"
+    ],
+    [
+      0.149701,
+      "A descompactar fonts-opensymbol (2:102.6+LibO5.0.2-1~bpo8+1) sobre (2:102.6+LibO4.3.3-2+deb8u1) ..."
+    ],
+    [
+      0.000356,
+      "\r\n"
+    ],
+    [
+      0.731077,
+      "A preparar para desempacotar .../libreoffice-report-builder-bin_1%3a5.0.2-1~bpo8+1_i386.deb ..."
+    ],
+    [
+      0.000231,
+      "\r\n"
+    ],
+    [
+      0.153014,
+      "A descompactar libreoffice-report-builder-bin (1:5.0.2-1~bpo8+1) sobre (1:4.3.3-2+deb8u1) ...\r\n"
+    ],
+    [
+      0.720545,
+      "A preparar para desempacotar .../libreoffice-avmedia-backend-gstreamer_1%3a5.0.2-1~bpo8+1_i386.deb ..."
+    ],
+    [
+      0.000317,
+      "\r\n"
+    ],
+    [
+      0.137567,
+      "A descompactar libreoffice-avmedia-backend-gstreamer (1:5.0.2-1~bpo8+1) sobre (1:4.3.3-2+deb8u1) ...\r\n"
+    ],
+    [
+      0.501820,
+      "A preparar para desempacotar .../libreoffice-java-common_1%3a5.0.2-1~bpo8+1_all.deb ..."
+    ],
+    [
+      0.000386,
+      "\r\n"
+    ],
+    [
+      0.163329,
+      "A descompactar libreoffice-java-common (1:5.0.2-1~bpo8+1) sobre (1:4.3.3-2+deb8u1) ...\r\n"
+    ],
+    [
+      1.153875,
+      "A seleccionar pacote anteriormente não seleccionado libpython3.4:i386."
+    ],
+    [
+      0.000225,
+      "\r\n"
+    ],
+    [
+      0.056179,
+      "A preparar para desempacotar .../libpython3.4_3.4.2-1_i386.deb ..."
+    ],
+    [
+      0.000225,
+      "\r\n"
+    ],
+    [
+      0.050781,
+      "A descompactar libpython3.4:i386 (3.4.2-1) ..."
+    ],
+    [
+      0.000201,
+      "\r\n"
+    ],
+    [
+      0.868499,
+      "A preparar para desempacotar .../gthumb_3%3a3.4.0-2~bpo8+1_i386.deb ..."
+    ],
+    [
+      0.000246,
+      "\r\n"
+    ],
+    [
+      0.146132,
+      "A descompactar gthumb (3:3.4.0-2~bpo8+1) sobre (3:3.3.1-2+b2) ...\r\n"
+    ],
+    [
+      1.382240,
+      "A preparar para desempacotar .../gthumb-data_3%3a3.4.0-2~bpo8+1_all.deb ..."
+    ],
+    [
+      0.001103,
+      "\r\n"
+    ],
+    [
+      0.162310,
+      "A descompactar gthumb-data (3:3.4.0-2~bpo8+1) sobre (3:3.3.1-2) ...\r\n"
+    ],
+    [
+      3.086600,
+      "A seleccionar pacote anteriormente não seleccionado libcogl20:i386."
+    ],
+    [
+      0.000222,
+      "\r\n"
+    ],
+    [
+      0.122971,
+      "A preparar para desempacotar .../libcogl20_1.18.2-3_i386.deb ..."
+    ],
+    [
+      0.000308,
+      "\r\n"
+    ],
+    [
+      0.052569,
+      "A descompactar libcogl20:i386 (1.18.2-3) ...\r\n"
+    ],
+    [
+      0.557997,
+      "A seleccionar pacote anteriormente não seleccionado libcogl-pango20:i386.\r\n"
+    ],
+    [
+      0.064742,
+      "A preparar para desempacotar .../libcogl-pango20_1.18.2-3_i386.deb ..."
+    ],
+    [
+      0.000352,
+      "\r\n"
+    ],
+    [
+      0.046981,
+      "A descompactar libcogl-pango20:i386 (1.18.2-3) ..."
+    ],
+    [
+      0.000215,
+      "\r\n"
+    ],
+    [
+      0.491684,
+      "A seleccionar pacote anteriormente não seleccionado libcogl-path20:i386.\r\n"
+    ],
+    [
+      0.074810,
+      "A preparar para desempacotar .../libcogl-path20_1.18.2-3_i386.deb ..."
+    ],
+    [
+      0.000308,
+      "\r\n"
+    ],
+    [
+      0.046652,
+      "A descompactar libcogl-path20:i386 (1.18.2-3) ..."
+    ],
+    [
+      0.000097,
+      "\r\n"
+    ],
+    [
+      0.490052,
+      "A seleccionar pacote anteriormente não seleccionado libinput5:i386."
+    ],
+    [
+      0.000327,
+      "\r\n"
+    ],
+    [
+      0.125539,
+      "A preparar para desempacotar .../libinput5_0.6.0+dfsg-2_i386.deb ..."
+    ],
+    [
+      0.000236,
+      "\r\n"
+    ],
+    [
+      0.048584,
+      "A descompactar libinput5:i386 (0.6.0+dfsg-2) ...\r\n"
+    ],
+    [
+      0.501424,
+      "A seleccionar pacote anteriormente não seleccionado libclutter-1.0-0:i386.\r\n"
+    ],
+    [
+      0.063822,
+      "A preparar para desempacotar .../libclutter-1.0-0_1.20.0-1_i386.deb ..."
+    ],
+    [
+      0.000334,
+      "\r\n"
+    ],
+    [
+      0.047083,
+      "A descompactar libclutter-1.0-0:i386 (1.20.0-1) ..."
+    ],
+    [
+      0.000066,
+      "\r\n"
+    ],
+    [
+      1.812695,
+      "A seleccionar pacote anteriormente não seleccionado libclutter-gtk-1.0-0:i386.\r\n"
+    ],
+    [
+      0.076017,
+      "A preparar para desempacotar .../libclutter-gtk-1.0-0_1.6.0-1_i386.deb ..."
+    ],
+    [
+      0.000327,
+      "\r\n"
+    ],
+    [
+      0.211415,
+      "A descompactar libclutter-gtk-1.0-0:i386 (1.6.0-1) ...\r\n"
+    ],
+    [
+      0.440522,
+      "A seleccionar pacote anteriormente não seleccionado libjavascriptcoregtk-4.0-18:i386.\r\n"
+    ],
+    [
+      0.089707,
+      "A preparar para desempacotar .../libjavascriptcoregtk-4.0-18_2.6.2+dfsg1-4_i386.deb ..."
+    ],
+    [
+      0.000307,
+      "\r\n"
+    ],
+    [
+      0.048253,
+      "A descompactar libjavascriptcoregtk-4.0-18:i386 (2.6.2+dfsg1-4) ..."
+    ],
+    [
+      0.000066,
+      "\r\n"
+    ],
+    [
+      1.057385,
+      "A seleccionar pacote anteriormente não seleccionado libwebkit2gtk-4.0-37:i386.\r\n"
+    ],
+    [
+      0.067666,
+      "A preparar para desempacotar .../libwebkit2gtk-4.0-37_2.6.2+dfsg1-4_i386.deb ..."
+    ],
+    [
+      0.000268,
+      "\r\n"
+    ],
+    [
+      0.052391,
+      "A descompactar libwebkit2gtk-4.0-37:i386 (2.6.2+dfsg1-4) ..."
+    ],
+    [
+      0.000225,
+      "\r\n"
+    ],
+    [
+      7.031550,
+      "A seleccionar pacote anteriormente não seleccionado libgphoto2-port12:i386."
+    ],
+    [
+      0.000222,
+      "\r\n"
+    ],
+    [
+      0.090803,
+      "A preparar para desempacotar .../libgphoto2-port12_2.5.8-1~bpo8+1_i386.deb ..."
+    ],
+    [
+      0.000227,
+      "\r\n"
+    ],
+    [
+      0.064661,
+      "A descompactar libgphoto2-port12:i386 (2.5.8-1~bpo8+1) ...\r\n"
+    ],
+    [
+      1.381457,
+      "A preparar para desempacotar .../libgphoto2-6_2.5.8-1~bpo8+1_i386.deb ..."
+    ],
+    [
+      0.000242,
+      "\r\n"
+    ],
+    [
+      0.457674,
+      "A descompactar libgphoto2-6:i386 (2.5.8-1~bpo8+1) sobre (2.5.4-1.1+b2) ...\r\n"
+    ],
+    [
+      1.492646,
+      "A preparar para desempacotar .../libpcap0.8_1.7.4-1~bpo8+1_i386.deb ..."
+    ],
+    [
+      0.000241,
+      "\r\n"
+    ],
+    [
+      0.154284,
+      "A descompactar libpcap0.8:i386 (1.7.4-1~bpo8+1) sobre (1.6.2-2) ...\r\n"
+    ],
+    [
+      0.543777,
+      "A preparar para desempacotar .../libpulse-dev_7.0-1~bpo8+1_i386.deb ..."
+    ],
+    [
+      0.000319,
+      "\r\n"
+    ],
+    [
+      0.147926,
+      "A descompactar libpulse-dev:i386 (7.0-1~bpo8+1) sobre (5.0-13) ...\r\n"
+    ],
+    [
+      0.868357,
+      "A preparar para desempacotar .../libpulse-mainloop-glib0_7.0-1~bpo8+1_i386.deb ..."
+    ],
+    [
+      0.000318,
+      "\r\n"
+    ],
+    [
+      0.160216,
+      "A descompactar libpulse-mainloop-glib0:i386 (7.0-1~bpo8+1) sobre (5.0-13) ...\r\n"
+    ],
+    [
+      0.641843,
+      "A preparar para desempacotar .../libpulse0_7.0-1~bpo8+1_i386.deb ..."
+    ],
+    [
+      0.000337,
+      "\r\n"
+    ],
+    [
+      0.158719,
+      "A descompactar libpulse0:i386 (7.0-1~bpo8+1) sobre (5.0-13) ...\r\n"
+    ],
+    [
+      0.775416,
+      "A preparar para desempacotar .../libvdpau1_1.1.1-1~bpo8+1_i386.deb ..."
+    ],
+    [
+      0.000357,
+      "\r\n"
+    ],
+    [
+      0.143316,
+      "A descompactar libvdpau1:i386 (1.1.1-1~bpo8+1) sobre (0.8-3+deb8u1) ...\r\n"
+    ],
+    [
+      0.538488,
+      "A preparar para desempacotar .../linux-base_4.0~bpo8+1_all.deb ..."
+    ],
+    [
+      0.000243,
+      "\r\n"
+    ],
+    [
+      0.153005,
+      "A descompactar linux-base (4.0~bpo8+1) sobre (3.5) ...\r\n"
+    ],
+    [
+      0.574865,
+      "A seleccionar pacote anteriormente não seleccionado linux-image-4.2.0-0.bpo.1-686-pae."
+    ],
+    [
+      0.000305,
+      "\r\n"
+    ],
+    [
+      0.125007,
+      "A preparar para desempacotar .../linux-image-4.2.0-0.bpo.1-686-pae_4.2.3-2~bpo8+1_i386.deb ..."
+    ],
+    [
+      0.000555,
+      "\r\n"
+    ],
+    [
+      0.726467,
+      "A descompactar linux-image-4.2.0-0.bpo.1-686-pae (4.2.3-2~bpo8+1) ...\r\n"
+    ],
+    [
+      20.747412,
+      "A preparar para desempacotar .../piuparts_0.64~bpo8+1_all.deb ..."
+    ],
+    [
+      0.000218,
+      "\r\n"
+    ],
+    [
+      0.325423,
+      "A descompactar piuparts (0.64~bpo8+1) sobre (0.62) ...\r\n"
+    ],
+    [
+      1.023437,
+      "A preparar para desempacotar .../piuparts-common_0.64~bpo8+1_all.deb ..."
+    ],
+    [
+      0.000220,
+      "\r\n"
+    ],
+    [
+      0.592376,
+      "A descompactar piuparts-common (0.64~bpo8+1) sobre (0.62) ...\r\n"
+    ],
+    [
+      0.581779,
+      "A preparar para desempacotar .../adequate_0.15~bpo8+1_all.deb ..."
+    ],
+    [
+      0.000318,
+      "\r\n"
+    ],
+    [
+      0.159570,
+      "A descompactar adequate (0.15~bpo8+1) sobre (0.12.1) ...\r\n"
+    ],
+    [
+      0.492300,
+      "A preparar para desempacotar .../autodep8_0.2~bpo8+1_all.deb ..."
+    ],
+    [
+      0.000320,
+      "\r\n"
+    ],
+    [
+      0.150788,
+      "A descompactar autodep8 (0.2~bpo8+1) sobre (0.1) ...\r\n"
+    ],
+    [
+      0.533075,
+      "A preparar para desempacotar .../autopkgtest_3.17.2~bpo8+1_all.deb ..."
+    ],
+    [
+      0.000319,
+      "\r\n"
+    ],
+    [
+      0.139896,
+      "A descompactar autopkgtest (3.17.2~bpo8+1) sobre (3.6jessie1) ..."
+    ],
+    [
+      0.000252,
+      "\r\n"
+    ],
+    [
+      0.814992,
+      "A preparar para desempacotar .../conky-std_1.10.0-1~bpo8+1_i386.deb ..."
+    ],
+    [
+      0.000238,
+      "\r\n"
+    ],
+    [
+      0.148712,
+      "A descompactar conky-std (1.10.0-1~bpo8+1) sobre (1.9.0-6) ...\r\n"
+    ],
+    [
+      0.971112,
+      "A preparar para desempacotar .../devscripts_2.15.8~bpo8+1_i386.deb ..."
+    ],
+    [
+      0.000335,
+      "\r\n"
+    ],
+    [
+      1.280955,
+      "A descompactar devscripts (2.15.8~bpo8+1) sobre (2.15.3) ...\r\n"
+    ],
+    [
+      2.014150,
+      "A preparar para desempacotar .../diskscan_0.15-1~bpo8+1_i386.deb ..."
+    ],
+    [
+      0.000337,
+      "\r\n"
+    ],
+    [
+      0.132610,
+      "A descompactar diskscan (0.15-1~bpo8+1) sobre (0.14.1-6) ...\r\n"
+    ],
+    [
+      0.474782,
+      "A preparar para desempacotar .../geoip-database_20151008-1~bpo8+1_all.deb ..."
+    ],
+    [
+      0.000315,
+      "\r\n"
+    ],
+    [
+      0.141550,
+      "A descompactar geoip-database (20151008-1~bpo8+1) sobre (20150317-1) ...\r\n"
+    ],
+    [
+      1.019440,
+      "A seleccionar pacote anteriormente não seleccionado libclutter-1.0-common."
+    ],
+    [
+      0.000323,
+      "\r\n"
+    ],
+    [
+      0.056704,
+      "A preparar para desempacotar .../libclutter-1.0-common_1.20.0-1_all.deb ..."
+    ],
+    [
+      0.000224,
+      "\r\n"
+    ],
+    [
+      0.050343,
+      "A descompactar libclutter-1.0-common (1.20.0-1) ..."
+    ],
+    [
+      0.000197,
+      "\r\n"
+    ],
+    [
+      0.807361,
+      "A seleccionar pacote anteriormente não seleccionado libcogl-common."
+    ],
+    [
+      0.000224,
+      "\r\n"
+    ],
+    [
+      0.152412,
+      "A preparar para desempacotar .../libcogl-common_1.18.2-3_all.deb ..."
+    ],
+    [
+      0.000560,
+      "\r\n"
+    ],
+    [
+      0.055138,
+      "A descompactar libcogl-common (1.18.2-3) ...\r\n"
+    ],
+    [
+      0.574637,
+      "A preparar para desempacotar .../libgphoto2-l10n_2.5.8-1~bpo8+1_all.deb ..."
+    ],
+    [
+      0.000263,
+      "\r\n"
+    ],
+    [
+      0.150918,
+      "A descompactar libgphoto2-l10n (2.5.8-1~bpo8+1) sobre (2.5.4-1.1) ...\r\n"
+    ],
+    [
+      0.625665,
+      "A preparar para desempacotar .../libnet-dbus-perl_1.1.0-3~bpo8+1_i386.deb ..."
+    ],
+    [
+      0.001126,
+      "\r\n"
+    ],
+    [
+      0.134878,
+      "A descompactar libnet-dbus-perl (1.1.0-3~bpo8+1) sobre (1.0.0-2+b2) ...\r\n"
+    ],
+    [
+      1.001938,
+      "A preparar para desempacotar .../libreoffice-help-pt-br_1%3a5.0.2-1~bpo8+1_all.deb ..."
+    ],
+    [
+      0.000241,
+      "\r\n"
+    ],
+    [
+      0.143522,
+      "A descompactar libreoffice-help-pt-br (1:5.0.2-1~bpo8+1) sobre (1:4.3.3-2+deb8u1) ...\r\n"
+    ],
+    [
+      1.973661,
+      "A preparar para desempacotar .../libreoffice-sdbc-firebird_1%3a5.0.2-1~bpo8+1_i386.deb ..."
+    ],
+    [
+      0.000558,
+      "\r\n"
+    ],
+    [
+      0.154105,
+      "A descompactar libreoffice-sdbc-firebird (1:5.0.2-1~bpo8+1) sobre (1:4.3.3-2+deb8u1) ...\r\n"
+    ],
+    [
+      0.612682,
+      "A preparar para desempacotar .../libreoffice-sdbc-hsqldb_1%3a5.0.2-1~bpo8+1_i386.deb ..."
+    ],
+    [
+      0.001689,
+      "\r\n"
+    ],
+    [
+      0.151123,
+      "A descompactar libreoffice-sdbc-hsqldb (1:5.0.2-1~bpo8+1) sobre (1:4.3.3-2+deb8u1) ...\r\n"
+    ],
+    [
+      0.805782,
+      "A preparar para desempacotar .../lintian_2.5.38~bpo8+1_all.deb ..."
+    ],
+    [
+      0.000242,
+      "\r\n"
+    ],
+    [
+      0.144887,
+      "A descompactar lintian (2.5.38~bpo8+1) sobre (2.5.30+deb8u4) ...\r\n"
+    ],
+    [
+      1.999373,
+      "A seleccionar pacote anteriormente não seleccionado linux-compiler-gcc-4.9-x86."
+    ],
+    [
+      0.000234,
+      "\r\n"
+    ],
+    [
+      0.103707,
+      "A preparar para desempacotar .../linux-compiler-gcc-4.9-x86_4.2.3-2~bpo8+1_i386.deb ..."
+    ],
+    [
+      0.000237,
+      "\r\n"
+    ],
+    [
+      0.044834,
+      "A descompactar linux-compiler-gcc-4.9-x86 (4.2.3-2~bpo8+1) ..."
+    ],
+    [
+      0.000224,
+      "\r\n"
+    ],
+    [
+      0.364345,
+      "A seleccionar pacote anteriormente não seleccionado linux-headers-4.2.0-0.bpo.1-common.\r\n"
+    ],
+    [
+      0.066831,
+      "A preparar para desempacotar .../linux-headers-4.2.0-0.bpo.1-common_4.2.3-2~bpo8+1_i386.deb ..."
+    ],
+    [
+      0.000304,
+      "\r\n"
+    ],
+    [
+      0.047525,
+      "A descompactar linux-headers-4.2.0-0.bpo.1-common (4.2.3-2~bpo8+1) ..."
+    ],
+    [
+      0.000310,
+      "\r\n"
+    ],
+    [
+      12.654513,
+      "A seleccionar pacote anteriormente não seleccionado linux-kbuild-4.2."
+    ],
+    [
+      0.000677,
+      "\r\n"
+    ],
+    [
+      0.092481,
+      "A preparar para desempacotar .../linux-kbuild-4.2_4.2-2~bpo8+1_i386.deb ..."
+    ],
+    [
+      0.000308,
+      "\r\n"
+    ],
+    [
+      0.048885,
+      "A descompactar linux-kbuild-4.2 (4.2-2~bpo8+1) ...\r\n"
+    ],
+    [
+      0.504771,
+      "A seleccionar pacote anteriormente não seleccionado linux-headers-4.2.0-0.bpo.1-686-pae."
+    ],
+    [
+      0.000221,
+      "\r\n"
+    ],
+    [
+      0.106759,
+      "A preparar para desempacotar .../linux-headers-4.2.0-0.bpo.1-686-pae_4.2.3-2~bpo8+1_i386.deb ..."
+    ],
+    [
+      0.000351,
+      "\r\n"
+    ],
+    [
+      0.051052,
+      "A descompactar linux-headers-4.2.0-0.bpo.1-686-pae (4.2.3-2~bpo8+1) ...\r\n"
+    ],
+    [
+      3.446671,
+      "A preparar para desempacotar .../linux-headers-686-pae_4.2+68~bpo8+2_i386.deb ..."
+    ],
+    [
+      0.000336,
+      "\r\n"
+    ],
+    [
+      0.135193,
+      "A descompactar linux-headers-686-pae (4.2+68~bpo8+2) sobre (3.16+63) ..."
+    ],
+    [
+      0.000252,
+      "\r\n"
+    ],
+    [
+      0.437292,
+      "A preparar para desempacotar .../linux-image-686-pae_4.2+68~bpo8+2_i386.deb ..."
+    ],
+    [
+      0.000225,
+      "\r\n"
+    ],
+    [
+      0.144326,
+      "A descompactar linux-image-686-pae (4.2+68~bpo8+2) sobre (3.16+63) ..."
+    ],
+    [
+      0.000241,
+      "\r\n"
+    ],
+    [
+      0.498388,
+      "A preparar para desempacotar .../linux-libc-dev_4.2.3-2~bpo8+1_i386.deb ..."
+    ],
+    [
+      0.000225,
+      "\r\n"
+    ],
+    [
+      0.151395,
+      "A descompactar linux-libc-dev:i386 (4.2.3-2~bpo8+1) sobre (3.16.7-ckt17-1) ...\r\n"
+    ],
+    [
+      2.480373,
+      "A preparar para desempacotar .../mercurial_3.5.2-2~bpo8+1_i386.deb ..."
+    ],
+    [
+      0.000339,
+      "\r\n"
+    ],
+    [
+      0.154008,
+      "A descompactar mercurial (3.5.2-2~bpo8+1) sobre (3.1.2-2+deb8u1) ...\r\n"
+    ],
+    [
+      0.779237,
+      "A preparar para desempacotar .../mercurial-common_3.5.2-2~bpo8+1_all.deb ..."
+    ],
+    [
+      0.000336,
+      "\r\n"
+    ],
+    [
+      0.907425,
+      "A descompactar mercurial-common (3.5.2-2~bpo8+1) sobre (3.1.2-2+deb8u1) ...\r\n"
+    ],
+    [
+      2.220504,
+      "A preparar para desempacotar .../python-six_1.9.0-3~bpo8+1_all.deb ..."
+    ],
+    [
+      0.000268,
+      "\r\n"
+    ],
+    [
+      0.311908,
+      "A descompactar python-six (1.9.0-3~bpo8+1) sobre (1.8.0-1) ...\r\n"
+    ],
+    [
+      0.528280,
+      "A preparar para desempacotar .../python3-six_1.9.0-3~bpo8+1_all.deb ..."
+    ],
+    [
+      0.000364,
+      "\r\n"
+    ],
+    [
+      0.396279,
+      "A descompactar python3-six (1.9.0-3~bpo8+1) sobre (1.8.0-1) ...\r\n"
+    ],
+    [
+      0.661030,
+      "A preparar para desempacotar .../xserver-xorg-video-intel_2%3a2.99.917-2~bpo8+1_i386.deb ..."
+    ],
+    [
+      0.000334,
+      "\r\n"
+    ],
+    [
+      0.172723,
+      "A descompactar xserver-xorg-video-intel (2:2.99.917-2~bpo8+1) sobre (2:2.21.15-2+b2) ...\r\n"
+    ],
+    [
+      1.048594,
+      "A preparar para desempacotar .../pbuilder_0.219~bpo8+1_all.deb ..."
+    ],
+    [
+      0.000359,
+      "\r\n"
+    ],
+    [
+      0.590390,
+      "A descompactar pbuilder (0.219~bpo8+1) sobre (0.215+nmu3) ...\r\n"
+    ],
+    [
+      0.626239,
+      "A processar 'triggers' para man-db (2.7.0.2-5) ...\r\n"
+    ],
+    [
+      10.064505,
+      "A processar 'triggers' para gnome-menus (3.13.3-6) ..."
+    ],
+    [
+      0.000217,
+      "\r\n"
+    ],
+    [
+      0.226545,
+      "A processar 'triggers' para desktop-file-utils (0.22-1) ..."
+    ],
+    [
+      0.000244,
+      "\r\n"
+    ],
+    [
+      0.142905,
+      "A processar 'triggers' para mime-support (3.58) ...\r\n"
+    ],
+    [
+      0.582500,
+      "A processar 'triggers' para menu (2.1.47) ..."
+    ],
+    [
+      0.000217,
+      "\r\n"
+    ],
+    [
+      0.859425,
+      "A processar 'triggers' para gnome-icon-theme (3.12.0-1) ..."
+    ],
+    [
+      0.000975,
+      "\r\n"
+    ],
+    [
+      1.697545,
+      "A processar 'triggers' para hicolor-icon-theme (0.13-1) ..."
+    ],
+    [
+      0.001009,
+      "\r\n"
+    ],
+    [
+      0.872841,
+      "A processar 'triggers' para shared-mime-info (1.3-1) ...\r\n"
+    ],
+    [
+      1.073727,
+      "Unknown media type in type 'all/all'"
+    ],
+    [
+      0.000224,
+      "\r\n"
+    ],
+    [
+      0.000923,
+      "Unknown media type in type 'all/allfiles'"
+    ],
+    [
+      0.000131,
+      "\r\n"
+    ],
+    [
+      0.000874,
+      "Unknown media type in type 'uri/mms'"
+    ],
+    [
+      0.000127,
+      "\r\n"
+    ],
+    [
+      0.000852,
+      "Unknown media type in type 'uri/mmst'"
+    ],
+    [
+      0.000127,
+      "\r\n"
+    ],
+    [
+      0.000850,
+      "Unknown media type in type 'uri/mmsu'"
+    ],
+    [
+      0.000125,
+      "\r\n"
+    ],
+    [
+      0.000871,
+      "Unknown media type in type 'uri/pnm'"
+    ],
+    [
+      0.000128,
+      "\r\n"
+    ],
+    [
+      0.000852,
+      "Unknown media type in type 'uri/rtspt'"
+    ],
+    [
+      0.000128,
+      "\r\n"
+    ],
+    [
+      0.000851,
+      "Unknown media type in type 'uri/rtspu'"
+    ],
+    [
+      0.000128,
+      "\r\n"
+    ],
+    [
+      30.279910,
+      "A processar 'triggers' para fontconfig (2.11.0-6.3) ...\r\n"
+    ],
+    [
+      3.934319,
+      "A processar 'triggers' para libglib2.0-0:i386 (2.42.1-1) ...\r\n"
+    ],
+    [
+      0.384913,
+      "A processar 'triggers' para udev (215-17+deb8u2) ..."
+    ],
+    [
+      0.000386,
+      "\r\n"
+    ],
+    [
+      0.792105,
+      "A processar 'triggers' para readahead-fedora (2:1.5.6-5.2) ...\r\n"
+    ],
+    [
+      0.518686,
+      "Configurando uno-libs3 (5.0.2-1~bpo8+1) ..."
+    ],
+    [
+      0.000256,
+      "\r\n"
+    ],
+    [
+      0.279551,
+      "Configurando ure (5.0.2-1~bpo8+1) ...\r\n"
+    ],
+    [
+      0.144559,
+      "Configurando fonts-opensymbol (2:102.6+LibO5.0.2-1~bpo8+1) ...\r\n"
+    ],
+    [
+      0.160118,
+      "Configurando libreoffice-style-galaxy (1:5.0.2-1~bpo8+1) ...\r\n"
+    ],
+    [
+      0.151392,
+      "Configurando libreoffice-style-tango (1:5.0.2-1~bpo8+1) ...\r\n"
+    ],
+    [
+      0.144771,
+      "Configurando libreoffice-common (1:5.0.2-1~bpo8+1) ...\r\n"
+    ],
+    [
+      0.051143,
+      "Instalando nova versão do arquivo de configuração /etc/bash_completion.d/libreoffice.sh ...\r\n"
+    ],
+    [
+      0.395482,
+      "Configurando libreoffice-core (1:5.0.2-1~bpo8+1) ...\r\n"
+    ],
+    [
+      0.144355,
+      "Configurando libreoffice-base-core (1:5.0.2-1~bpo8+1) ...\r\n"
+    ],
+    [
+      0.151731,
+      "Configurando libreoffice-calc (1:5.0.2-1~bpo8+1) ...\r\n"
+    ],
+    [
+      0.159375,
+      "Configurando libpagemaker-0.0-0 (0.0.1-1) ...\r\n"
+    ],
+    [
+      0.195874,
+      "Configurando libreoffice-draw (1:5.0.2-1~bpo8+1) ...\r\n"
+    ],
+    [
+      0.151524,
+      "Configurando libreoffice-impress (1:5.0.2-1~bpo8+1) ...\r\n"
+    ],
+    [
+      0.151657,
+      "Configurando libreoffice-writer (1:5.0.2-1~bpo8+1) ...\r\n"
+    ],
+    [
+      0.135068,
+      "Configurando libpython3.4:i386 (3.4.2-1) ...\r\n"
+    ],
+    [
+      0.236645,
+      "Configurando python3-uno (1:5.0.2-1~bpo8+1) ...\r\n"
+    ],
+    [
+      1.532471,
+      "Configurando libreoffice-l10n-pt-br (1:5.0.2-1~bpo8+1) ...\r\n"
+    ],
+    [
+      0.151657,
+      "Configurando libreoffice-base-drivers (1:5.0.2-1~bpo8+1) ...\r\n"
+    ],
+    [
+      0.152062,
+      "Configurando libreoffice-base (1:5.0.2-1~bpo8+1) ...\r\n"
+    ],
+    [
+      0.143027,
+      "Configurando libreoffice-pdfimport (1:5.0.2-1~bpo8+1) ...\r\n"
+    ],
+    [
+      0.152675,
+      "Configurando libreoffice-math (1:5.0.2-1~bpo8+1) ...\r\n"
+    ],
+    [
+      0.151892,
+      "Configurando libreoffice-report-builder-bin (1:5.0.2-1~bpo8+1) ...\r\n"
+    ],
+    [
+      0.135103,
+      "Configurando libreoffice-avmedia-backend-gstreamer (1:5.0.2-1~bpo8+1) ...\r\n"
+    ],
+    [
+      0.152873,
+      "Configurando libreoffice-java-common (1:5.0.2-1~bpo8+1) ...\r\n"
+    ],
+    [
+      0.151736,
+      "Configurando libreoffice (1:5.0.2-1~bpo8+1) ...\r\n"
+    ],
+    [
+      0.143644,
+      "Configurando libcogl20:i386 (1.18.2-3) ...\r\n"
+    ],
+    [
+      0.219802,
+      "Configurando libcogl-pango20:i386 (1.18.2-3) ...\r\n"
+    ],
+    [
+      0.202431,
+      "Configurando libcogl-path20:i386 (1.18.2-3) ...\r\n"
+    ],
+    [
+      0.210638,
+      "Configurando libinput5:i386 (0.6.0+dfsg-2) ...\r\n"
+    ],
+    [
+      0.203600,
+      "Configurando libclutter-1.0-0:i386 (1.20.0-1) ...\r\n"
+    ],
+    [
+      0.194195,
+      "Configurando libclutter-gtk-1.0-0:i386 (1.6.0-1) ...\r\n"
+    ],
+    [
+      0.219800,
+      "Configurando libjavascriptcoregtk-4.0-18:i386 (2.6.2+dfsg1-4) ...\r\n"
+    ],
+    [
+      0.219314,
+      "Configurando libwebkit2gtk-4.0-37:i386 (2.6.2+dfsg1-4) ...\r\n"
+    ],
+    [
+      0.210543,
+      "Configurando gthumb-data (3:3.4.0-2~bpo8+1) ...\r\n"
+    ],
+    [
+      0.152941,
+      "Configurando gthumb (3:3.4.0-2~bpo8+1) ...\r\n"
+    ],
+    [
+      0.295213,
+      "Configurando libgphoto2-port12:i386 (2.5.8-1~bpo8+1) ...\r\n"
+    ],
+    [
+      0.211640,
+      "Configurando libgphoto2-6:i386 (2.5.8-1~bpo8+1) ...\r\n"
+    ],
+    [
+      0.243850,
+      "Configurando libpcap0.8:i386 (1.7.4-1~bpo8+1) ...\r\n"
+    ],
+    [
+      0.210873,
+      "Configurando libpulse0:i386 (7.0-1~bpo8+1) ...\r\n"
+    ],
+    [
+      0.061452,
+      "Instalando nova versão do arquivo de configuração /etc/pulse/client.conf ...\r\n"
+    ],
+    [
+      0.225989,
+      "Configurando libpulse-mainloop-glib0:i386 (7.0-1~bpo8+1) ...\r\n"
+    ],
+    [
+      0.218638,
+      "Configurando libpulse-dev:i386 (7.0-1~bpo8+1) ...\r\n"
+    ],
+    [
+      0.144634,
+      "Configurando libvdpau1:i386 (1.1.1-1~bpo8+1) ...\r\n"
+    ],
+    [
+      0.269670,
+      "Configurando linux-base (4.0~bpo8+1) ...\r\n"
+    ],
+    [
+      0.143460,
+      "Configurando linux-image-4.2.0-0.bpo.1-686-pae (4.2.3-2~bpo8+1) ...\r\n"
+    ],
+    [
+      168.660151,
+      "/etc/kernel/postinst.d/initramfs-tools:\r\nupdate-initramfs: Generating /boot/initrd.img-4.2.0-0.bpo.1-686-pae\r\n"
+    ],
+    [
+      16.308712,
+      "/etc/kernel/postinst.d/zz-update-grub:\r\nGenerating grub configuration file ..."
+    ],
+    [
+      0.000232,
+      "\r\n"
+    ],
+    [
+      1.836307,
+      "Found background image: /usr/share/images/desktop-base/desktop-grub.png\r\n"
+    ],
+    [
+      0.141059,
+      "Imagem Linux encontrada: /boot/vmlinuz-4.2.0-0.bpo.1-686-pae\r\n"
+    ],
+    [
+      0.018634,
+      "Imagem initrd encontrada: /boot/initrd.img-4.2.0-0.bpo.1-686-pae\r\n"
+    ],
+    [
+      0.922171,
+      "Imagem Linux encontrada: /boot/vmlinuz-3.16.0-4-686-pae\r\n"
+    ],
+    [
+      0.035470,
+      "Imagem initrd encontrada: /boot/initrd.img-3.16.0-4-686-pae\r\n"
+    ],
+    [
+      0.103851,
+      "Imagem Linux encontrada: /boot/vmlinuz-3.16.0-0.bpo.4-686-pae\r\n"
+    ],
+    [
+      0.034719,
+      "Imagem initrd encontrada: /boot/initrd.img-3.16.0-0.bpo.4-686-pae\r\n"
+    ],
+    [
+      0.233508,
+      "Imagem Linux encontrada: /boot/vmlinuz-3.2.0-4-686-pae\r\n"
+    ],
+    [
+      0.069129,
+      "Imagem initrd encontrada: /boot/initrd.img-3.2.0-4-686-pae\r\n"
+    ],
+    [
+      2.991496,
+      "Encontrado Slackware Linux (Slackware 14.1) em /dev/sdb2\r\n"
+    ],
+    [
+      3.405616,
+      "Encontrado Debian GNU/Linux (7.9) em /dev/sdb6\r\n"
+    ],
+    [
+      2.914993,
+      "concluído"
+    ],
+    [
+      0.002001,
+      "\r\n"
+    ],
+    [
+      0.227653,
+      "Configurando piuparts-common (0.64~bpo8+1) ...\r\n"
+    ],
+    [
+      0.062298,
+      "Instalando nova versão do arquivo de configuração /etc/piuparts/distros.conf ...\r\n"
+    ],
+    [
+      0.689426,
+      "Configurando piuparts (0.64~bpo8+1) ...\r\n"
+    ],
+    [
+      0.424151,
+      "Instalando nova versão do arquivo de configuração /etc/piuparts/scripts-leftovers/post_purge_manual_cleanup ...\r\n"
+    ],
+    [
+      0.144240,
+      "Instalando nova versão do arquivo de configuração /etc/piuparts/scripts-leftovers/pre_remove_preseed_cleanup ...\r\n"
+    ],
+    [
+      0.042321,
+      "Instalando nova versão do arquivo de configuração /etc/piuparts/scripts-no-usr-share-doc/post_setup_disable_usr_share_doc ...\r\n"
+    ],
+    [
+      0.204229,
+      "Instalando nova versão do arquivo de configuração /etc/piuparts/scripts-squeeze/post_setup_squeeze-fake-essential ...\r\n"
+    ],
+    [
+      0.295939,
+      "Instalando nova versão do arquivo de configuração /etc/piuparts/scripts/post_distupgrade_exceptions ...\r\n"
+    ],
+    [
+      0.594515,
+      "Instalando nova versão do arquivo de configuração /etc/piuparts/scripts/pre_distupgrade_exceptions ...\r\n"
+    ],
+    [
+      0.042678,
+      "Instalando nova versão do arquivo de configuração /etc/piuparts/scripts/pre_distupgrade_foreign_architecture_i386 ...\r\n"
+    ],
+    [
+      0.042431,
+      "Instalando nova versão do arquivo de configuração /etc/piuparts/scripts/pre_distupgrade_zz_database-server ...\r\n"
+    ],
+    [
+      0.051193,
+      "Instalando nova versão do arquivo de configuração /etc/piuparts/scripts/pre_distupgrade_zz_upgrade_early ...\r\n"
+    ],
+    [
+      0.050885,
+      "Instalando nova versão do arquivo de configuração /etc/piuparts/scripts/pre_install_database-server ...\r\n"
+    ],
+    [
+      0.050899,
+      "Instalando nova versão do arquivo de configuração /etc/piuparts/scripts/pre_install_exceptions ...\r\n"
+    ],
+    [
+      0.102547,
+      "Instalando nova versão do arquivo de configuração /etc/piuparts/scripts/pre_install_foreign_architecture ...\r\n"
+    ],
+    [
+      0.186375,
+      "Instalando nova versão do arquivo de configuração /etc/piuparts/scripts/pre_remove_40_find_unowned_lib_links ...\r\n"
+    ],
+    [
+      0.050967,
+      "Instalando nova versão do arquivo de configuração /etc/piuparts/scripts/pre_remove_50_find_bad_permissions ...\r\n"
+    ],
+    [
+      0.102601,
+      "Instalando nova versão do arquivo de configuração /etc/piuparts/scripts/pre_remove_exceptions ...\r\n"
+    ],
+    [
+      0.252021,
+      "Configurando adequate (0.15~bpo8+1) ...\r\n"
+    ],
+    [
+      0.202276,
+      "Configurando autodep8 (0.2~bpo8+1) ...\r\n"
+    ],
+    [
+      0.152911,
+      "Configurando autopkgtest (3.17.2~bpo8+1) ...\r\n"
+    ],
+    [
+      0.143313,
+      "Configurando conky-std (1.10.0-1~bpo8+1) ...\r\n"
+    ],
+    [
+      0.058667,
+      "Instalando nova versão do arquivo de configuração /etc/conky/conky.conf ...\r\n"
+    ],
+    [
+      0.051592,
+      "Instalando nova versão do arquivo de configuração /etc/conky/conky_no_x11.conf ...\r\n"
+    ],
+    [
+      0.211593,
+      "Configurando devscripts (2.15.8~bpo8+1) ...\r\n"
+    ],
+    [
+      0.453894,
+      "Removing obsolete conffile /etc/bash_completion.d/devscripts.chdist ...\r\n"
+    ],
+    [
+      0.023631,
+      "Removing obsolete conffile /etc/bash_completion.d/devscripts.pkgnames ...\r\n"
+    ],
+    [
+      0.613761,
+      "Configurando diskscan (0.15-1~bpo8+1) ...\r\n"
+    ],
+    [
+      0.151450,
+      "Configurando geoip-database (20151008-1~bpo8+1) ...\r\n"
+    ],
+    [
+      0.136084,
+      "Configurando libclutter-1.0-common (1.20.0-1) ...\r\n"
+    ],
+    [
+      0.151748,
+      "Configurando libcogl-common (1.18.2-3) ...\r\n"
+    ],
+    [
+      0.151527,
+      "Configurando libgphoto2-l10n (2.5.8-1~bpo8+1) ...\r\n"
+    ],
+    [
+      0.152747,
+      "Configurando libnet-dbus-perl (1.1.0-3~bpo8+1) ...\r\n"
+    ],
+    [
+      0.135121,
+      "Configurando libreoffice-help-pt-br (1:5.0.2-1~bpo8+1) ...\r\n"
+    ],
+    [
+      0.151509,
+      "Configurando libreoffice-sdbc-firebird (1:5.0.2-1~bpo8+1) ...\r\n"
+    ],
+    [
+      0.151385,
+      "Configurando libreoffice-sdbc-hsqldb (1:5.0.2-1~bpo8+1) ...\r\n"
+    ],
+    [
+      0.144484,
+      "Configurando lintian (2.5.38~bpo8+1) ...\r\n"
+    ],
+    [
+      0.194144,
+      "Configurando linux-compiler-gcc-4.9-x86 (4.2.3-2~bpo8+1) ...\r\n"
+    ],
+    [
+      0.151514,
+      "Configurando linux-headers-4.2.0-0.bpo.1-common (4.2.3-2~bpo8+1) ...\r\n"
+    ],
+    [
+      0.144305,
+      "Configurando linux-kbuild-4.2 (4.2-2~bpo8+1) ...\r\n"
+    ],
+    [
+      0.375608,
+      "Configurando linux-headers-4.2.0-0.bpo.1-686-pae (4.2.3-2~bpo8+1) ...\r\n"
+    ],
+    [
+      0.103964,
+      "Examining /etc/kernel/header_postinst.d."
+    ],
+    [
+      0.000218,
+      "\r\n"
+    ],
+    [
+      0.013952,
+      "run-parts: executing /etc/kernel/header_postinst.d/dkms"
+    ],
+    [
+      0.000178,
+      " 4.2.0-0.bpo.1-686-pae"
+    ],
+    [
+      0.000116,
+      "\r\n"
+    ],
+    [
+      1.228217,
+      "Configurando linux-headers-686-pae (4.2+68~bpo8+2) ...\r\n"
+    ],
+    [
+      0.151546,
+      "Configurando linux-image-686-pae (4.2+68~bpo8+2) ...\r\n"
+    ],
+    [
+      0.144437,
+      "Configurando linux-libc-dev:i386 (4.2.3-2~bpo8+1) ...\r\n"
+    ],
+    [
+      0.151650,
+      "Configurando mercurial-common (3.5.2-2~bpo8+1) ...\r\n"
+    ],
+    [
+      0.211175,
+      "Instalando nova versão do arquivo de configuração /etc/mercurial/hgrc.d/mergetools.rc ...\r\n"
+    ],
+    [
+      2.337087,
+      "Removing obsolete conffile /etc/bash_completion.d/mercurial ...\r\n"
+    ],
+    [
+      0.060243,
+      "Configurando mercurial (3.5.2-2~bpo8+1) ...\r\n"
+    ],
+    [
+      1.323507,
+      "Configurando python-six (1.9.0-3~bpo8+1) ...\r\n"
+    ],
+    [
+      0.624511,
+      "Configurando python3-six (1.9.0-3~bpo8+1) ...\r\n"
+    ],
+    [
+      0.998149,
+      "Configurando xserver-xorg-video-intel (2:2.99.917-2~bpo8+1) ...\r\n"
+    ],
+    [
+      0.220076,
+      "Configurando pbuilder (0.219~bpo8+1) ...\r\n"
+    ],
+    [
+      0.787178,
+      "Removing obsolete conffile /etc/bash_completion.d/pbuilder ...\r\n"
+    ],
+    [
+      0.247376,
+      "A processar 'triggers' para libc-bin (2.19-18+deb8u1) ..."
+    ],
+    [
+      0.000354,
+      "\r\n"
+    ],
+    [
+      0.436068,
+      "A processar 'triggers' para menu (2.1.47) ..."
+    ],
+    [
+      0.000216,
+      "\r\n"
+    ],
+    [
+      3.304091,
+      "\u001b[0m"
+    ],
+    [
+      0.011057,
+      "\u001b]0;edps: edps@debian: /home/edps\u0007"
+    ],
+    [
+      0.001154,
+      "\u001b[00m\u001b[0;90m----------------------------------------------------------------------- 12:00:40\r"
+    ],
+    [
+      0.000159,
+      "\r\n"
+    ],
+    [
+      0.000152,
+      "\u001b[00medps@debian:~$ \u001b[00m\u001b[1;29m"
+    ],
+    [
+      2.010959,
+      "sudo apt-get -t jessie-backports dist-upgrade "
+    ],
+    [
+      1.169093,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.022975,
+      "\rLendo listas de pacotes... 0%\r"
+    ],
+    [
+      0.014232,
+      "\rLendo listas de pacotes... 100%\r"
+    ],
+    [
+      0.000207,
+      "\rLendo listas de pacotes... Pronto\r"
+    ],
+    [
+      0.000104,
+      "\r\n"
+    ],
+    [
+      0.010471,
+      "\rConstruindo árvore de dependências... 0%\r"
+    ],
+    [
+      0.000246,
+      "\rConstruindo árvore de dependências... 0%\r"
+    ],
+    [
+      0.050447,
+      "\rConstruindo árvore de dependências... 50%\r"
+    ],
+    [
+      0.000211,
+      "\rConstruindo árvore de dependências... 50%\r"
+    ],
+    [
+      0.590945,
+      "\rConstruindo árvore de dependências       \r"
+    ],
+    [
+      0.000211,
+      "\r\n"
+    ],
+    [
+      0.000102,
+      "\rLendo informação de estado... 0%  \r"
+    ],
+    [
+      0.000225,
+      "\rLendo informação de estado... 0%\r"
+    ],
+    [
+      0.012448,
+      "\rLendo informação de estado... Pronto\r"
+    ],
+    [
+      0.000179,
+      "\r\n"
+    ],
+    [
+      0.232363,
+      "Calculando atualização... "
+    ],
+    [
+      0.423790,
+      "Os seguintes pacotes foram instalados automaticamente e já não são necessários:"
+    ],
+    [
+      0.004108,
+      "\r\n"
+    ],
+    [
+      0.000154,
+      "  libavahi-client-dev libavahi-common-dev libcmis-0.4-4 libetonyek-0.1-1"
+    ],
+    [
+      0.000084,
+      "\r\n"
+    ],
+    [
+      0.000091,
+      "  libgltf-0.0-0 libmwaw-0.3-3 liborcus-0.8-0 libuuid-perl libwebkit2gtk-3.0-25"
+    ],
+    [
+      0.000081,
+      "\r\n"
+    ],
+    [
+      0.000089,
+      "  libwps-0.3-3 linux-compiler-gcc-4.6-x86 linux-headers-3.16.0-0.bpo.4-686-pae"
+    ],
+    [
+      0.000081,
+      "\r\n"
+    ],
+    [
+      0.000088,
+      "  linux-headers-3.16.0-0.bpo.4-common linux-image-3.16.0-0.bpo.4-686-pae"
+    ],
+    [
+      0.000081,
+      "\r\n"
+    ],
+    [
+      0.000105,
+      "Utilize 'apt-get autoremove' para os remover."
+    ],
+    [
+      0.000082,
+      "\r\n"
+    ],
+    [
+      0.162452,
+      "Pronto"
+    ],
+    [
+      0.005655,
+      "\r\n"
+    ],
+    [
+      0.034668,
+      "Os pacotes a seguir serão mantidos em suas versões atuais:"
+    ],
+    [
+      0.000186,
+      "\r\n"
+    ],
+    [
+      0.000099,
+      "  policykit-1"
+    ],
+    [
+      0.000082,
+      "\r\n"
+    ],
+    [
+      0.060757,
+      "0 pacotes atualizados, 0 pacotes novos instalados, 0 a serem removidos e 1 não atualizados."
+    ],
+    [
+      0.004210,
+      "\r\n"
+    ],
+    [
+      0.009321,
+      "\u001b[0m"
+    ],
+    [
+      0.012539,
+      "\u001b]0;edps: edps@debian: /home/edps\u0007\u001b[00m\u001b[0;90m----------------------------------------------------------------------- 12:00:45\r\r\n\u001b[00medps@debian:~$ \u001b[00m\u001b[1;29m"
+    ],
+    [
+      2.036280,
+      "s"
+    ],
+    [
+      0.222724,
+      "u"
+    ],
+    [
+      0.167074,
+      "d"
+    ],
+    [
+      0.127578,
+      "o"
+    ],
+    [
+      0.127224,
+      " "
+    ],
+    [
+      0.187776,
+      "a"
+    ],
+    [
+      0.256099,
+      "p"
+    ],
+    [
+      0.256283,
+      "t"
+    ],
+    [
+      0.224264,
+      "-"
+    ],
+    [
+      0.413904,
+      "g"
+    ],
+    [
+      0.096918,
+      "e"
+    ],
+    [
+      0.161100,
+      "t"
+    ],
+    [
+      0.130533,
+      " "
+    ],
+    [
+      0.541865,
+      "a"
+    ],
+    [
+      0.313939,
+      "u"
+    ],
+    [
+      0.291148,
+      "t"
+    ],
+    [
+      0.186395,
+      "o"
+    ],
+    [
+      0.226233,
+      "r"
+    ],
+    [
+      0.193118,
+      "e"
+    ],
+    [
+      0.224367,
+      "m"
+    ],
+    [
+      0.128575,
+      "o"
+    ],
+    [
+      0.065878,
+      "v"
+    ],
+    [
+      0.131538,
+      "e"
+    ],
+    [
+      0.274846,
+      " "
+    ],
+    [
+      0.729546,
+      "-"
+    ],
+    [
+      0.193175,
+      "-"
+    ],
+    [
+      0.224769,
+      "p"
+    ],
+    [
+      0.350757,
+      "u"
+    ],
+    [
+      0.173040,
+      "r"
+    ],
+    [
+      0.161356,
+      "g"
+    ],
+    [
+      0.124987,
+      "e"
+    ],
+    [
+      0.763304,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.053168,
+      "\rLendo listas de pacotes... 0%\r"
+    ],
+    [
+      0.018818,
+      "\rLendo listas de pacotes... 100%\r"
+    ],
+    [
+      0.000197,
+      "\rLendo listas de pacotes... Pronto\r"
+    ],
+    [
+      0.000104,
+      "\r\n"
+    ],
+    [
+      0.014089,
+      "\rConstruindo árvore de dependências... 0%\r"
+    ],
+    [
+      0.005221,
+      "\rConstruindo árvore de dependências... 0%\r"
+    ],
+    [
+      0.094225,
+      "\rConstruindo árvore de dependências... 50%\r"
+    ],
+    [
+      0.000215,
+      "\rConstruindo árvore de dependências... 50%\r"
+    ],
+    [
+      0.317442,
+      "\rConstruindo árvore de dependências       \r"
+    ],
+    [
+      0.000211,
+      "\r\n"
+    ],
+    [
+      0.000103,
+      "\rLendo informação de estado... 0%  \r"
+    ],
+    [
+      0.000219,
+      "\rLendo informação de estado... 0%\r"
+    ],
+    [
+      0.012298,
+      "\rLendo informação de estado... Pronto\r"
+    ],
+    [
+      0.000173,
+      "\r\n"
+    ],
+    [
+      2.129776,
+      "Os pacotes a seguir serão REMOVIDOS:"
+    ],
+    [
+      0.000197,
+      "\r\n"
+    ],
+    [
+      0.000101,
+      "  libavahi-client-dev* libavahi-common-dev* libcmis-0.4-4* libetonyek-0.1-1*"
+    ],
+    [
+      0.000083,
+      "\r\n"
+    ],
+    [
+      0.000090,
+      "  libgltf-0.0-0* libmwaw-0.3-3* liborcus-0.8-0* libuuid-perl*"
+    ],
+    [
+      0.000080,
+      "\r\n"
+    ],
+    [
+      0.000089,
+      "  libwebkit2gtk-3.0-25* libwps-0.3-3* linux-compiler-gcc-4.6-x86*"
+    ],
+    [
+      0.000080,
+      "\r\n"
+    ],
+    [
+      0.000089,
+      "  linux-headers-3.16.0-0.bpo.4-686-pae* linux-headers-3.16.0-0.bpo.4-common*"
+    ],
+    [
+      0.000081,
+      "\r\n"
+    ],
+    [
+      0.000087,
+      "  linux-image-3.16.0-0.bpo.4-686-pae*"
+    ],
+    [
+      0.000067,
+      "\r\n"
+    ],
+    [
+      0.039221,
+      "0 pacotes atualizados, 0 pacotes novos instalados, 14 a serem removidos e 1 não atualizados."
+    ],
+    [
+      0.000184,
+      "\r\n"
+    ],
+    [
+      0.015334,
+      "Depois desta operação, 222 MB de espaço em disco serão liberados."
+    ],
+    [
+      0.000188,
+      "\r\n"
+    ],
+    [
+      0.000149,
+      "Você quer continuar?"
+    ],
+    [
+      0.000153,
+      " [S/n] "
+    ],
+    [
+      1.491451,
+      "s"
+    ],
+    [
+      0.481155,
+      "\r\n"
+    ],
+    [
+      0.000079,
+      "\r\r"
+    ],
+    [
+      1.364484,
+      "(Lendo banco de dados ... \r"
+    ],
+    [
+      0.034152,
+      "(Lendo banco de dados ... 5%\r"
+    ],
+    [
+      0.000320,
+      "(Lendo banco de dados ... 10%\r"
+    ],
+    [
+      0.000206,
+      "(Lendo banco de dados ... 15%\r"
+    ],
+    [
+      0.000286,
+      "(Lendo banco de dados ... 20%\r"
+    ],
+    [
+      0.000213,
+      "(Lendo banco de dados ... 25%\r"
+    ],
+    [
+      0.000294,
+      "(Lendo banco de dados ... 30%\r"
+    ],
+    [
+      0.000279,
+      "(Lendo banco de dados ... 35%\r"
+    ],
+    [
+      0.000621,
+      "(Lendo banco de dados ... 40%\r"
+    ],
+    [
+      0.000222,
+      "(Lendo banco de dados ... 45%\r"
+    ],
+    [
+      0.000197,
+      "(Lendo banco de dados ... 50%\r"
+    ],
+    [
+      0.027718,
+      "(Lendo banco de dados ... 55%\r"
+    ],
+    [
+      0.051816,
+      "(Lendo banco de dados ... 60%\r"
+    ],
+    [
+      0.036441,
+      "(Lendo banco de dados ... 65%\r"
+    ],
+    [
+      0.022586,
+      "(Lendo banco de dados ... 70%\r"
+    ],
+    [
+      0.018642,
+      "(Lendo banco de dados ... 75%\r"
+    ],
+    [
+      0.016714,
+      "(Lendo banco de dados ... 80%\r"
+    ],
+    [
+      0.020628,
+      "(Lendo banco de dados ... 85%\r"
+    ],
+    [
+      0.041904,
+      "(Lendo banco de dados ... 90%\r"
+    ],
+    [
+      0.076229,
+      "(Lendo banco de dados ... 95%\r"
+    ],
+    [
+      0.101772,
+      "(Lendo banco de dados ... 100%\r"
+    ],
+    [
+      0.000228,
+      "(Lendo banco de dados ... "
+    ],
+    [
+      0.000149,
+      "295146 ficheiros e directórios actualmente instalados.)"
+    ],
+    [
+      0.000129,
+      "\r\n"
+    ],
+    [
+      0.048180,
+      "A remover libavahi-client-dev (0.6.31-5) ..."
+    ],
+    [
+      0.000225,
+      "\r\n"
+    ],
+    [
+      0.542210,
+      "A remover libavahi-common-dev (0.6.31-5) ..."
+    ],
+    [
+      0.000559,
+      "\r\n"
+    ],
+    [
+      0.485890,
+      "A remover libcmis-0.4-4 (0.4.1-7) ..."
+    ],
+    [
+      0.000312,
+      "\r\n"
+    ],
+    [
+      0.364062,
+      "A purgar os ficheiros de configuração para libcmis-0.4-4 (0.4.1-7) ...\r\n"
+    ],
+    [
+      0.490327,
+      "A remover libetonyek-0.1-1 (0.1.1-2) ..."
+    ],
+    [
+      0.000359,
+      "\r\n"
+    ],
+    [
+      0.318271,
+      "A purgar os ficheiros de configuração para libetonyek-0.1-1 (0.1.1-2) ..."
+    ],
+    [
+      0.000335,
+      "\r\n"
+    ],
+    [
+      0.468259,
+      "A remover libgltf-0.0-0 (0.0.2-2) ..."
+    ],
+    [
+      0.000237,
+      "\r\n"
+    ],
+    [
+      0.284402,
+      "A purgar os ficheiros de configuração para libgltf-0.0-0 (0.0.2-2) ..."
+    ],
+    [
+      0.000329,
+      "\r\n"
+    ],
+    [
+      0.513611,
+      "A remover libmwaw-0.3-3 (0.3.1-2) ..."
+    ],
+    [
+      0.000238,
+      "\r\n"
+    ],
+    [
+      0.295692,
+      "A purgar os ficheiros de configuração para libmwaw-0.3-3 (0.3.1-2) ..."
+    ],
+    [
+      0.000249,
+      "\r\n"
+    ],
+    [
+      0.466204,
+      "A remover liborcus-0.8-0 (0.7.0+dfsg-9) ..."
+    ],
+    [
+      0.000356,
+      "\r\n"
+    ],
+    [
+      0.270035,
+      "A purgar os ficheiros de configuração para liborcus-0.8-0 (0.7.0+dfsg-9) ...\r\n"
+    ],
+    [
+      0.812555,
+      "A remover libuuid-perl (0.05-1+b1) ..."
+    ],
+    [
+      0.000299,
+      "\r\n"
+    ],
+    [
+      0.552669,
+      "A remover libwebkit2gtk-3.0-25:i386 (2.4.8-2) ..."
+    ],
+    [
+      0.000345,
+      "\r\n"
+    ],
+    [
+      0.295320,
+      "A purgar os ficheiros de configuração para libwebkit2gtk-3.0-25:i386 (2.4.8-2) ..."
+    ],
+    [
+      0.000331,
+      "\r\n"
+    ],
+    [
+      0.513921,
+      "A remover libwps-0.3-3 (0.3.0-2) ..."
+    ],
+    [
+      0.000237,
+      "\r\n"
+    ],
+    [
+      0.270579,
+      "A purgar os ficheiros de configuração para libwps-0.3-3 (0.3.0-2) ..."
+    ],
+    [
+      0.000331,
+      "\r\n"
+    ],
+    [
+      0.521587,
+      "A remover linux-headers-3.16.0-0.bpo.4-686-pae (3.16.7-ckt11-1+deb8u4~bpo70+1) ..."
+    ],
+    [
+      0.000240,
+      "\r\n"
+    ],
+    [
+      2.546792,
+      "A remover linux-compiler-gcc-4.6-x86 (3.16.7-ckt11-1+deb8u4~bpo70+1) ..."
+    ],
+    [
+      0.000312,
+      "\r\n"
+    ],
+    [
+      0.552291,
+      "A remover linux-headers-3.16.0-0.bpo.4-common (3.16.7-ckt11-1+deb8u4~bpo70+1) ..."
+    ],
+    [
+      0.000534,
+      "\r\n"
+    ],
+    [
+      1.187673,
+      "A remover linux-image-3.16.0-0.bpo.4-686-pae (3.16.7-ckt11-1+deb8u4~bpo70+1) ..."
+    ],
+    [
+      0.000315,
+      "\r\n"
+    ],
+    [
+      1.244269,
+      "/etc/kernel/prerm.d/dkms:\r\ndkms: removing: vboxhost 5.0.4 (3.16.0-0.bpo.4-686-pae) (i686)\r\n"
+    ],
+    [
+      12.174901,
+      "/etc/kernel/postrm.d/initramfs-tools:\r\nupdate-initramfs: Deleting /boot/initrd.img-3.16.0-0.bpo.4-686-pae\r\n"
+    ],
+    [
+      0.640964,
+      "/etc/kernel/postrm.d/zz-update-grub:\r\nGenerating grub configuration file ..."
+    ],
+    [
+      0.000679,
+      "\r\n"
+    ],
+    [
+      1.421376,
+      "Found background image: /usr/share/images/desktop-base/desktop-grub.png\r\n"
+    ],
+    [
+      0.265391,
+      "Imagem Linux encontrada: /boot/vmlinuz-4.2.0-0.bpo.1-686-pae\r\n"
+    ],
+    [
+      0.050938,
+      "Imagem initrd encontrada: /boot/initrd.img-4.2.0-0.bpo.1-686-pae\r\n"
+    ],
+    [
+      1.005802,
+      "Imagem Linux encontrada: /boot/vmlinuz-3.16.0-4-686-pae\r\n"
+    ],
+    [
+      0.055963,
+      "Imagem initrd encontrada: /boot/initrd.img-3.16.0-4-686-pae\r\n"
+    ],
+    [
+      0.179613,
+      "Imagem Linux encontrada: /boot/vmlinuz-3.2.0-4-686-pae\r\n"
+    ],
+    [
+      0.018717,
+      "Imagem initrd encontrada: /boot/initrd.img-3.2.0-4-686-pae\r\n"
+    ],
+    [
+      1.267335,
+      "Encontrado Slackware Linux (Slackware 14.1) em /dev/sdb2\r\n"
+    ],
+    [
+      3.275860,
+      "Encontrado Debian GNU/Linux (7.9) em /dev/sdb6\r\n"
+    ],
+    [
+      2.732426,
+      "concluído"
+    ],
+    [
+      0.001835,
+      "\r\n"
+    ],
+    [
+      0.101683,
+      "A purgar os ficheiros de configuração para linux-image-3.16.0-0.bpo.4-686-pae (3.16.7-ckt11-1+deb8u4~bpo70+1) ..."
+    ],
+    [
+      0.000212,
+      "\r\n"
+    ],
+    [
+      1.163071,
+      "A processar 'triggers' para libc-bin (2.19-18+deb8u1) ..."
+    ],
+    [
+      0.000214,
+      "\r\n"
+    ],
+    [
+      0.269211,
+      "A processar 'triggers' para man-db (2.7.0.2-5) ..."
+    ],
+    [
+      0.000213,
+      "\r\n"
+    ],
+    [
+      5.106429,
+      "A processar 'triggers' para readahead-fedora (2:1.5.6-5.2) ..."
+    ],
+    [
+      0.000217,
+      "\r\n"
+    ],
+    [
+      2.408251,
+      "\u001b[0m"
+    ],
+    [
+      0.009749,
+      "\u001b]0;edps: edps@debian: /home/edps\u0007\u001b[00m\u001b[0;90m----------------------------------------------------------------------- 12:01:46\r\r\n\u001b[00medps@debian:~$ \u001b[00m\u001b[1;29m"
+    ],
+    [
+      2.214601,
+      "sudo apt-get autoremove --purge"
+    ],
+    [
+      1.043985,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.053688,
+      "\rLendo listas de pacotes... 0%\r"
+    ],
+    [
+      0.018255,
+      "\rLendo listas de pacotes... 100%\r"
+    ],
+    [
+      0.000198,
+      "\rLendo listas de pacotes... Pronto\r"
+    ],
+    [
+      0.000104,
+      "\r\n"
+    ],
+    [
+      0.017593,
+      "\rConstruindo árvore de dependências... 0%\r"
+    ],
+    [
+      0.001718,
+      "\rConstruindo árvore de dependências... 0%\r"
+    ],
+    [
+      0.094764,
+      "\rConstruindo árvore de dependências... 50%\r"
+    ],
+    [
+      0.000224,
+      "\rConstruindo árvore de dependências... 50%\r"
+    ],
+    [
+      0.393804,
+      "\rConstruindo árvore de dependências       \r"
+    ],
+    [
+      0.000204,
+      "\r\n"
+    ],
+    [
+      0.000103,
+      "\rLendo informação de estado... 0%  \r"
+    ],
+    [
+      0.000254,
+      "\rLendo informação de estado... 0%\r"
+    ],
+    [
+      0.012271,
+      "\rLendo informação de estado... Pronto\r"
+    ],
+    [
+      0.000175,
+      "\r\n"
+    ],
+    [
+      0.957684,
+      "0 pacotes atualizados, 0 pacotes novos instalados, 0 a serem removidos e 1 não atualizados."
+    ],
+    [
+      0.000203,
+      "\r\n"
+    ],
+    [
+      0.008132,
+      "\u001b[0m"
+    ],
+    [
+      0.006510,
+      "\u001b]0;edps: edps@debian: /home/edps\u0007\u001b[00m\u001b[0;90m----------------------------------------------------------------------- 12:01:51\r\r\n\u001b[00medps@debian:~$ \u001b[00m\u001b[1;29m"
+    ],
+    [
+      0.888803,
+      "Os pacotes a seguir serão REMOVIDOS:\r\n\u001b[0m"
+    ],
+    [
+      0.001305,
+      "bash: Os: comando não encontrado"
+    ],
+    [
+      0.000180,
+      "\r\n"
+    ],
+    [
+      0.003409,
+      "\u001b[0m"
+    ],
+    [
+      0.009921,
+      "\u001b]0;edps: edps@debian: /home/edps\u0007\u001b[00m\u001b[0;90m----------------------------------------------------------------------- 12:01:52\r\r\n\u001b[00medps@debian:~$ \u001b[00m\u001b[1;29m  cpp-4.7 foom"
+    ],
+    [
+      0.000293,
+      "a"
+    ],
+    [
+      0.000253,
+      "t"
+    ],
+    [
+      0.000246,
+      "i"
+    ],
+    [
+      0.000244,
+      "c"
+    ],
+    [
+      0.000246,
+      "-"
+    ],
+    [
+      0.000246,
+      "f"
+    ],
+    [
+      0.000250,
+      "i"
+    ],
+    [
+      0.000303,
+      "l"
+    ],
+    [
+      0.000254,
+      "t"
+    ],
+    [
+      0.000251,
+      "e"
+    ],
+    [
+      0.000253,
+      "r"
+    ],
+    [
+      0.000259,
+      "s"
+    ],
+    [
+      0.000295,
+      " "
+    ],
+    [
+      0.000260,
+      "g"
+    ],
+    [
+      0.000261,
+      "+"
+    ],
+    [
+      0.000263,
+      "+"
+    ],
+    [
+      0.000265,
+      "-"
+    ],
+    [
+      0.000267,
+      "4"
+    ],
+    [
+      0.000269,
+      "."
+    ],
+    [
+      0.000269,
+      "7"
+    ],
+    [
+      0.000270,
+      " "
+    ],
+    [
+      0.000271,
+      "g"
+    ],
+    [
+      0.000295,
+      "c"
+    ],
+    [
+      0.000276,
+      "c"
+    ],
+    [
+      0.000276,
+      "-"
+    ],
+    [
+      0.000276,
+      "4"
+    ],
+    [
+      0.000279,
+      "."
+    ],
+    [
+      0.000279,
+      "7"
+    ],
+    [
+      0.000280,
+      " "
+    ],
+    [
+      0.000281,
+      "g"
+    ],
+    [
+      0.000282,
+      "c"
+    ],
+    [
+      0.000284,
+      "c"
+    ],
+    [
+      0.000284,
+      "-"
+    ],
+    [
+      0.000286,
+      "4"
+    ],
+    [
+      0.000288,
+      "."
+    ],
+    [
+      0.000289,
+      "7"
+    ],
+    [
+      0.000312,
+      "-"
+    ],
+    [
+      0.000294,
+      "b"
+    ],
+    [
+      0.000294,
+      "a"
+    ],
+    [
+      0.000294,
+      "s"
+    ],
+    [
+      0.000295,
+      "e"
+    ],
+    [
+      0.000298,
+      " "
+    ],
+    [
+      0.000297,
+      "g"
+    ],
+    [
+      0.000299,
+      "h"
+    ],
+    [
+      0.000301,
+      "o"
+    ],
+    [
+      0.000302,
+      "s"
+    ],
+    [
+      0.000305,
+      "t"
+    ],
+    [
+      0.000299,
+      "s"
+    ],
+    [
+      0.009331,
+      "c"
+    ],
+    [
+      0.001990,
+      "r"
+    ],
+    [
+      0.000375,
+      "i \r"
+    ],
+    [
+      0.000273,
+      "p"
+    ],
+    [
+      0.000195,
+      "t"
+    ],
+    [
+      0.000194,
+      "-"
+    ],
+    [
+      0.000081,
+      "c"
+    ],
+    [
+      0.000260,
+      "u"
+    ],
+    [
+      0.000195,
+      "p"
+    ],
+    [
+      0.000197,
+      "s"
+    ],
+    [
+      0.000196,
+      " "
+    ],
+    [
+      0.000464,
+      "g"
+    ],
+    [
+      0.000096,
+      "v"
+    ],
+    [
+      0.000204,
+      "f"
+    ],
+    [
+      0.000096,
+      "s"
+    ],
+    [
+      0.000263,
+      "\r\n"
+    ],
+    [
+      0.000387,
+      "\u001b[0m"
+    ],
+    [
+      0.004830,
+      "bash: cpp-4.7: comando não encontrado"
+    ],
+    [
+      0.000664,
+      "\r\n"
+    ],
+    [
+      0.001341,
+      "\u001b[0m"
+    ],
+    [
+      0.023150,
+      "\u001b]0;edps: edps@debian: /home/edps\u0007\u001b[00m\u001b[0;90m----------------------------------------------------------------------- 12:01:52\r\r\n\u001b[00medps@debian:~$ \u001b[00m\u001b[1;29m  gvfs-backend"
+    ],
+    [
+      0.000253,
+      "s"
+    ],
+    [
+      0.000229,
+      " "
+    ],
+    [
+      0.000227,
+      "g"
+    ],
+    [
+      0.000229,
+      "v"
+    ],
+    [
+      0.000230,
+      "f"
+    ],
+    [
+      0.000230,
+      "s"
+    ],
+    [
+      0.000232,
+      "-"
+    ],
+    [
+      0.000232,
+      "d"
+    ],
+    [
+      0.000234,
+      "a"
+    ],
+    [
+      0.000236,
+      "e"
+    ],
+    [
+      0.000236,
+      "m"
+    ],
+    [
+      0.000237,
+      "o"
+    ],
+    [
+      0.000239,
+      "n"
+    ],
+    [
+      0.000241,
+      "s"
+    ],
+    [
+      0.000241,
+      " "
+    ],
+    [
+      0.000243,
+      "k"
+    ],
+    [
+      0.000271,
+      "3"
+    ],
+    [
+      0.000263,
+      "b"
+    ],
+    [
+      0.000270,
+      " "
+    ],
+    [
+      0.000262,
+      "k"
+    ],
+    [
+      0.000262,
+      "3"
+    ],
+    [
+      0.000265,
+      "b"
+    ],
+    [
+      0.000266,
+      "-"
+    ],
+    [
+      0.000266,
+      "i"
+    ],
+    [
+      0.000267,
+      "1"
+    ],
+    [
+      0.000269,
+      "8"
+    ],
+    [
+      0.000271,
+      "n"
+    ],
+    [
+      0.000272,
+      " "
+    ],
+    [
+      0.000273,
+      "l"
+    ],
+    [
+      0.000275,
+      "i"
+    ],
+    [
+      0.000275,
+      "b"
+    ],
+    [
+      0.000307,
+      "a"
+    ],
+    [
+      0.000279,
+      "u"
+    ],
+    [
+      0.000279,
+      "d"
+    ],
+    [
+      0.000280,
+      "c"
+    ],
+    [
+      0.000282,
+      "o"
+    ],
+    [
+      0.000284,
+      "r"
+    ],
+    [
+      0.000285,
+      "e"
+    ],
+    [
+      0.000286,
+      "1"
+    ],
+    [
+      0.000308,
+      " "
+    ],
+    [
+      0.000291,
+      "l"
+    ],
+    [
+      0.000290,
+      "i"
+    ],
+    [
+      0.000290,
+      "b"
+    ],
+    [
+      0.000292,
+      "a"
+    ],
+    [
+      0.000325,
+      "u"
+    ],
+    [
+      0.000318,
+      "d"
+    ],
+    [
+      0.000297,
+      "i"
+    ],
+    [
+      0.000298,
+      "t"
+    ],
+    [
+      0.000298,
+      "0"
+    ],
+    [
+      0.000300,
+      " "
+    ],
+    [
+      0.000294,
+      "l \r"
+    ],
+    [
+      0.000187,
+      "i"
+    ],
+    [
+      0.000203,
+      "b"
+    ],
+    [
+      0.000196,
+      "c"
+    ],
+    [
+      0.000197,
+      "u"
+    ],
+    [
+      0.000198,
+      "p"
+    ],
+    [
+      0.000200,
+      "s"
+    ],
+    [
+      0.000200,
+      "d"
+    ],
+    [
+      0.000202,
+      "r"
+    ],
+    [
+      0.000203,
+      "i"
+    ],
+    [
+      0.000204,
+      "v"
+    ],
+    [
+      0.000205,
+      "e"
+    ],
+    [
+      0.000231,
+      "r"
+    ],
+    [
+      0.000208,
+      "1"
+    ],
+    [
+      0.000159,
+      "\r\n"
+    ],
+    [
+      0.000374,
+      "\u001b[0m"
+    ],
+    [
+      0.001624,
+      "bash: gvfs-backends: comando não encontrado"
+    ],
+    [
+      0.000249,
+      "\r\n"
+    ],
+    [
+      0.010763,
+      "\u001b[0m"
+    ],
+    [
+      0.030506,
+      "\u001b]0;edps: edps@debian: /home/edps\u0007\u001b[00m\u001b[0;90m----------------------------------------------------------------------- 12:01:52\r\r\n\u001b[00medps@debian:~$ \u001b[00m\u001b[1;29m  libescpr1 libexttextcat0 libfreerdp1 libgnutls-dev libgraphite2 \r-2.0.0\r\n\u001b[0m"
+    ],
+    [
+      0.001203,
+      "bash: libescpr1: comando não encontrado"
+    ],
+    [
+      0.000198,
+      "\r\n"
+    ],
+    [
+      0.002586,
+      "\u001b[0m"
+    ],
+    [
+      0.007984,
+      "\u001b]0;edps: edps@debian: /home/edps\u0007\u001b[00m\u001b[0;90m----------------------------------------------------------------------- 12:01:52\r\r\n\u001b[00medps@debian:~$ \u001b[00m\u001b[1;29m  libkadm5srv-mit8 libmenu-cache1 libpackagekit-glib2-14 lib"
+    ],
+    [
+      0.000235,
+      "p"
+    ],
+    [
+      0.000185,
+      "e"
+    ],
+    [
+      0.000178,
+      "r"
+    ],
+    [
+      0.000177,
+      "l"
+    ],
+    [
+      0.000177,
+      "5 \r"
+    ],
+    [
+      0.000123,
+      "."
+    ],
+    [
+      0.000101,
+      "1"
+    ],
+    [
+      0.000102,
+      "4"
+    ],
+    [
+      0.000103,
+      " "
+    ],
+    [
+      0.000103,
+      "l"
+    ],
+    [
+      0.000104,
+      "i"
+    ],
+    [
+      0.000105,
+      "b"
+    ],
+    [
+      0.000105,
+      "s"
+    ],
+    [
+      0.000106,
+      "n"
+    ],
+    [
+      0.000106,
+      "m"
+    ],
+    [
+      0.000107,
+      "p"
+    ],
+    [
+      0.000108,
+      "1"
+    ],
+    [
+      0.000109,
+      "5"
+    ],
+    [
+      0.000086,
+      "\r\n"
+    ],
+    [
+      0.000236,
+      "\u001b[0m"
+    ],
+    [
+      0.001186,
+      "bash: libkadm5srv-mit8: comando não encontrado"
+    ],
+    [
+      0.000246,
+      "\r\n"
+    ],
+    [
+      0.003914,
+      "\u001b[0m"
+    ],
+    [
+      0.004010,
+      "\u001b]0;edps: edps@debian: /home/edps\u0007"
+    ],
+    [
+      0.005861,
+      "\u001b[00m\u001b[0;90m----------------------------------------------------------------------- 12:01:52\r"
+    ],
+    [
+      0.000040,
+      "\r\n"
+    ],
+    [
+      0.000034,
+      "\u001b[00medps@debian:~$ \u001b[00m\u001b[1;29m"
+    ],
+    [
+      0.000067,
+      " "
+    ],
+    [
+      0.000044,
+      " "
+    ],
+    [
+      0.000053,
+      "l"
+    ],
+    [
+      0.000060,
+      "i"
+    ],
+    [
+      0.000040,
+      "b"
+    ],
+    [
+      0.000061,
+      "s"
+    ],
+    [
+      0.000046,
+      "t"
+    ],
+    [
+      0.000055,
+      "d"
+    ],
+    [
+      0.000063,
+      "c"
+    ],
+    [
+      0.000044,
+      "+"
+    ],
+    [
+      0.000063,
+      "+"
+    ],
+    [
+      0.000065,
+      "6"
+    ],
+    [
+      0.000050,
+      "-"
+    ],
+    [
+      0.000060,
+      "4"
+    ],
+    [
+      0.000067,
+      "."
+    ],
+    [
+      0.000106,
+      "7"
+    ],
+    [
+      0.000192,
+      "-"
+    ],
+    [
+      0.000070,
+      "d"
+    ],
+    [
+      0.000089,
+      "e"
+    ],
+    [
+      0.000182,
+      "v"
+    ],
+    [
+      0.000073,
+      " "
+    ],
+    [
+      0.000180,
+      "l"
+    ],
+    [
+      0.000078,
+      "i"
+    ],
+    [
+      0.000365,
+      "b"
+    ],
+    [
+      0.000070,
+      "v"
+    ],
+    [
+      0.000094,
+      "l"
+    ],
+    [
+      0.001256,
+      "c"
+    ],
+    [
+      0.000078,
+      "c"
+    ],
+    [
+      0.000179,
+      "o"
+    ],
+    [
+      0.000175,
+      "r"
+    ],
+    [
+      0.000170,
+      "e"
+    ],
+    [
+      0.000192,
+      "7"
+    ],
+    [
+      0.000176,
+      " "
+    ],
+    [
+      0.000182,
+      "l"
+    ],
+    [
+      0.000194,
+      "i"
+    ],
+    [
+      0.000358,
+      "b"
+    ],
+    [
+      0.000077,
+      "w"
+    ],
+    [
+      0.000328,
+      "a"
+    ],
+    [
+      0.000080,
+      "y"
+    ],
+    [
+      0.000218,
+      "l"
+    ],
+    [
+      0.000197,
+      "a"
+    ],
+    [
+      0.000279,
+      "n"
+    ],
+    [
+      0.000196,
+      "d"
+    ],
+    [
+      0.000198,
+      "0"
+    ],
+    [
+      0.000756,
+      " "
+    ],
+    [
+      0.001184,
+      "p"
+    ],
+    [
+      0.000104,
+      "y"
+    ],
+    [
+      0.000090,
+      "t"
+    ],
+    [
+      0.000089,
+      "h"
+    ],
+    [
+      0.000090,
+      "o"
+    ],
+    [
+      0.000090,
+      "n"
+    ],
+    [
+      0.000091,
+      "-"
+    ],
+    [
+      0.000092,
+      "a"
+    ],
+    [
+      0.000092,
+      "p"
+    ],
+    [
+      0.000093,
+      "t"
+    ],
+    [
+      0.000094,
+      "d"
+    ],
+    [
+      0.000095,
+      "a"
+    ],
+    [
+      0.000095,
+      "e"
+    ],
+    [
+      0.000232,
+      "m"
+    ],
+    [
+      0.000258,
+      "o"
+    ],
+    [
+      0.000267,
+      "n"
+    ],
+    [
+      0.000262,
+      "."
+    ],
+    [
+      0.000233,
+      "p"
+    ],
+    [
+      0.000215,
+      "k"
+    ],
+    [
+      0.000407,
+      "c \r"
+    ],
+    [
+      0.000057,
+      "o"
+    ],
+    [
+      0.000054,
+      "m"
+    ],
+    [
+      0.000035,
+      "p"
+    ],
+    [
+      0.000054,
+      "a"
+    ],
+    [
+      0.000036,
+      "t"
+    ],
+    [
+      0.000054,
+      "\r\n"
+    ],
+    [
+      0.000359,
+      "\u001b[0m"
+    ],
+    [
+      0.004667,
+      "bash: libstdc++6-4.7-dev: comando não encontrado"
+    ],
+    [
+      0.000667,
+      "\r\n"
+    ],
+    [
+      0.001140,
+      "\u001b[0m"
+    ],
+    [
+      0.011194,
+      "\u001b]0;edps: edps@debian: /home/edps\u0007\u001b[00m\u001b[0;90m----------------------------------------------------------------------- 12:01:52\r\r\n\u001b[00medps@debian:~$ \u001b[00m\u001b[1;29m  xserver"
+    ],
+    [
+      0.000197,
+      "-"
+    ],
+    [
+      0.000116,
+      "x"
+    ],
+    [
+      0.000114,
+      "o"
+    ],
+    [
+      0.000113,
+      "r"
+    ],
+    [
+      0.000114,
+      "g"
+    ],
+    [
+      0.000115,
+      "-"
+    ],
+    [
+      0.000116,
+      "v"
+    ],
+    [
+      0.000115,
+      "i"
+    ],
+    [
+      0.000116,
+      "d"
+    ],
+    [
+      0.000117,
+      "e"
+    ],
+    [
+      0.000117,
+      "o"
+    ],
+    [
+      0.000119,
+      "-"
+    ],
+    [
+      0.000118,
+      "a"
+    ],
+    [
+      0.000119,
+      "p"
+    ],
+    [
+      0.000120,
+      "m"
+    ],
+    [
+      0.000121,
+      " "
+    ],
+    [
+      0.000121,
+      "x"
+    ],
+    [
+      0.000122,
+      "s"
+    ],
+    [
+      0.000123,
+      "e"
+    ],
+    [
+      0.000123,
+      "r"
+    ],
+    [
+      0.000124,
+      "v"
+    ],
+    [
+      0.000125,
+      "e"
+    ],
+    [
+      0.000126,
+      "r"
+    ],
+    [
+      0.000127,
+      "-"
+    ],
+    [
+      0.000127,
+      "x"
+    ],
+    [
+      0.000127,
+      "o"
+    ],
+    [
+      0.000128,
+      "r"
+    ],
+    [
+      0.000159,
+      "g"
+    ],
+    [
+      0.000161,
+      "-"
+    ],
+    [
+      0.000164,
+      "v"
+    ],
+    [
+      0.000185,
+      "i"
+    ],
+    [
+      0.000164,
+      "d"
+    ],
+    [
+      0.000134,
+      "e"
+    ],
+    [
+      0.000161,
+      "o"
+    ],
+    [
+      0.000166,
+      "-"
+    ],
+    [
+      0.000167,
+      "a"
+    ],
+    [
+      0.000169,
+      "r"
+    ],
+    [
+      0.000170,
+      "k"
+    ],
+    [
+      0.000170,
+      " "
+    ],
+    [
+      0.000171,
+      "x"
+    ],
+    [
+      0.000172,
+      "s"
+    ],
+    [
+      0.000172,
+      "e"
+    ],
+    [
+      0.000173,
+      "r"
+    ],
+    [
+      0.000174,
+      "v"
+    ],
+    [
+      0.000175,
+      "e"
+    ],
+    [
+      0.000175,
+      "r"
+    ],
+    [
+      0.000176,
+      "-"
+    ],
+    [
+      0.000175,
+      "x"
+    ],
+    [
+      0.000175,
+      "o"
+    ],
+    [
+      0.000175,
+      "r"
+    ],
+    [
+      0.000175,
+      "g"
+    ],
+    [
+      0.000174,
+      "-"
+    ],
+    [
+      0.000182,
+      "v"
+    ],
+    [
+      0.000221,
+      "i"
+    ],
+    [
+      0.000177,
+      "d"
+    ],
+    [
+      0.000175,
+      "e \r"
+    ],
+    [
+      0.000150,
+      "o"
+    ],
+    [
+      0.000104,
+      "-"
+    ],
+    [
+      0.000106,
+      "c"
+    ],
+    [
+      0.000130,
+      "h"
+    ],
+    [
+      0.000104,
+      "i"
+    ],
+    [
+      0.000108,
+      "p"
+    ],
+    [
+      0.000132,
+      "s"
+    ],
+    [
+      0.000089,
+      "\r\n"
+    ],
+    [
+      0.000252,
+      "\u001b[0m"
+    ],
+    [
+      0.001173,
+      "bash: xserver-xorg-video-apm: comando não encontrado"
+    ],
+    [
+      0.000200,
+      "\r\n"
+    ],
+    [
+      0.004048,
+      "\u001b[0m"
+    ],
+    [
+      0.005011,
+      "\u001b]0;edps: edps@debian: /home/edps\u0007\u001b[00m\u001b[0;90m----------------------------------------------------------------------- 12:01:52\r\r\n\u001b[00medps@debian:~$ \u001b[00m\u001b[1;29m  xserver-xorg-video-i128 xser"
+    ],
+    [
+      0.000248,
+      "v"
+    ],
+    [
+      0.000159,
+      "e"
+    ],
+    [
+      0.000129,
+      "r"
+    ],
+    [
+      0.000129,
+      "-"
+    ],
+    [
+      0.000128,
+      "x"
+    ],
+    [
+      0.000128,
+      "o"
+    ],
+    [
+      0.000129,
+      "r"
+    ],
+    [
+      0.000130,
+      "g"
+    ],
+    [
+      0.000159,
+      "-"
+    ],
+    [
+      0.000132,
+      "v"
+    ],
+    [
+      0.000161,
+      "i"
+    ],
+    [
+      0.000134,
+      "d"
+    ],
+    [
+      0.000161,
+      "e"
+    ],
+    [
+      0.000135,
+      "o"
+    ],
+    [
+      0.000163,
+      "-"
+    ],
+    [
+      0.000141,
+      "i"
+    ],
+    [
+      0.000159,
+      "7"
+    ],
+    [
+      0.000143,
+      "4"
+    ],
+    [
+      0.000162,
+      "0"
+    ],
+    [
+      0.000144,
+      " "
+    ],
+    [
+      0.000163,
+      "x"
+    ],
+    [
+      0.000146,
+      "s"
+    ],
+    [
+      0.000163,
+      "e"
+    ],
+    [
+      0.000146,
+      "r"
+    ],
+    [
+      0.000165,
+      "v"
+    ],
+    [
+      0.000171,
+      "e"
+    ],
+    [
+      0.000191,
+      "r"
+    ],
+    [
+      0.000172,
+      "-"
+    ],
+    [
+      0.008833,
+      "x"
+    ],
+    [
+      0.000299,
+      "o"
+    ],
+    [
+      0.000269,
+      "r"
+    ],
+    [
+      0.000337,
+      "g"
+    ],
+    [
+      0.000384,
+      "-"
+    ],
+    [
+      0.000261,
+      "v"
+    ],
+    [
+      0.000877,
+      "i \r"
+    ],
+    [
+      0.000173,
+      "d"
+    ],
+    [
+      0.000061,
+      "e"
+    ],
+    [
+      0.000086,
+      "o"
+    ],
+    [
+      0.001068,
+      "-"
+    ],
+    [
+      0.000074,
+      "r"
+    ],
+    [
+      0.000060,
+      "e"
+    ],
+    [
+      0.000038,
+      "n"
+    ],
+    [
+      0.000058,
+      "d"
+    ],
+    [
+      0.000057,
+      "i"
+    ],
+    [
+      0.000041,
+      "t"
+    ],
+    [
+      0.000061,
+      "i"
+    ],
+    [
+      0.000041,
+      "o"
+    ],
+    [
+      0.000060,
+      "n"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000257,
+      "\u001b[0m"
+    ],
+    [
+      0.005177,
+      "bash: xserver-xorg-video-i128: comando não encontrado"
+    ],
+    [
+      0.000866,
+      "\r\n"
+    ],
+    [
+      0.004291,
+      "\u001b[0m"
+    ],
+    [
+      0.008002,
+      "\u001b]0;edps: edps@debian: /home/edps\u0007"
+    ],
+    [
+      0.000438,
+      "\u001b[00m\u001b[0;90m----------------------------------------------------------------------- 12:01:52\r"
+    ],
+    [
+      0.000079,
+      "\r\n"
+    ],
+    [
+      0.000105,
+      "\u001b[00medps@debian:~$ \u001b[00m\u001b[1;29m"
+    ],
+    [
+      0.000133,
+      " "
+    ],
+    [
+      0.000108,
+      " "
+    ],
+    [
+      0.000107,
+      "x"
+    ],
+    [
+      0.000107,
+      "s"
+    ],
+    [
+      0.000108,
+      "e"
+    ],
+    [
+      0.000108,
+      "r"
+    ],
+    [
+      0.000109,
+      "v"
+    ],
+    [
+      0.000109,
+      "e"
+    ],
+    [
+      0.000110,
+      "r"
+    ],
+    [
+      0.000111,
+      "-"
+    ],
+    [
+      0.000111,
+      "x"
+    ],
+    [
+      0.000112,
+      "o"
+    ],
+    [
+      0.000112,
+      "r"
+    ],
+    [
+      0.000113,
+      "g"
+    ],
+    [
+      0.000115,
+      "-"
+    ],
+    [
+      0.000146,
+      "v"
+    ],
+    [
+      0.000139,
+      "i"
+    ],
+    [
+      0.000117,
+      "d"
+    ],
+    [
+      0.000117,
+      "e"
+    ],
+    [
+      0.000117,
+      "o"
+    ],
+    [
+      0.000118,
+      "-"
+    ],
+    [
+      0.000118,
+      "s"
+    ],
+    [
+      0.000120,
+      "3"
+    ],
+    [
+      0.000120,
+      " "
+    ],
+    [
+      0.000121,
+      "x"
+    ],
+    [
+      0.000153,
+      "s"
+    ],
+    [
+      0.000153,
+      "e"
+    ],
+    [
+      0.000148,
+      "r"
+    ],
+    [
+      0.000148,
+      "v"
+    ],
+    [
+      0.000157,
+      "e"
+    ],
+    [
+      0.000135,
+      "r"
+    ],
+    [
+      0.000148,
+      "-"
+    ],
+    [
+      0.000160,
+      "x"
+    ],
+    [
+      0.000168,
+      "o"
+    ],
+    [
+      0.000138,
+      "r"
+    ],
+    [
+      0.000151,
+      "g"
+    ],
+    [
+      0.000161,
+      "-"
+    ],
+    [
+      0.000163,
+      "v"
+    ],
+    [
+      0.000164,
+      "i"
+    ],
+    [
+      0.000138,
+      "d"
+    ],
+    [
+      0.000156,
+      "e"
+    ],
+    [
+      0.000164,
+      "o"
+    ],
+    [
+      0.000166,
+      "-"
+    ],
+    [
+      0.000167,
+      "s"
+    ],
+    [
+      0.000169,
+      "3"
+    ],
+    [
+      0.000169,
+      "v"
+    ],
+    [
+      0.000170,
+      "i"
+    ],
+    [
+      0.000170,
+      "r"
+    ],
+    [
+      0.000170,
+      "g"
+    ],
+    [
+      0.000169,
+      "e"
+    ],
+    [
+      0.000145,
+      " "
+    ],
+    [
+      0.000163,
+      "x"
+    ],
+    [
+      0.000211,
+      "s"
+    ],
+    [
+      0.000165,
+      "e"
+    ],
+    [
+      0.000170,
+      "r"
+    ],
+    [
+      0.000172,
+      "v"
+    ],
+    [
+      0.000172,
+      "e"
+    ],
+    [
+      0.000172,
+      "r"
+    ],
+    [
+      0.000173,
+      "-"
+    ],
+    [
+      0.000174,
+      "x"
+    ],
+    [
+      0.000175,
+      "o"
+    ],
+    [
+      0.000175,
+      "r"
+    ],
+    [
+      0.000182,
+      "g"
+    ],
+    [
+      0.000179,
+      "-"
+    ],
+    [
+      0.000177,
+      "v \r"
+    ],
+    [
+      0.000125,
+      "i"
+    ],
+    [
+      0.000103,
+      "d"
+    ],
+    [
+      0.000107,
+      "e"
+    ],
+    [
+      0.000130,
+      "o"
+    ],
+    [
+      0.000104,
+      "-"
+    ],
+    [
+      0.000108,
+      "s"
+    ],
+    [
+      0.000132,
+      "i"
+    ],
+    [
+      0.000108,
+      "s"
+    ],
+    [
+      0.000089,
+      "\r\n"
+    ],
+    [
+      0.000251,
+      "\u001b[0m"
+    ],
+    [
+      0.001211,
+      "bash: xserver-xorg-video-s3: comando não encontrado"
+    ],
+    [
+      0.000195,
+      "\r\n"
+    ],
+    [
+      0.003230,
+      "\u001b[0m"
+    ],
+    [
+      0.006721,
+      "\u001b]0;edps: edps@debian: /home/edps\u0007\u001b[00m\u001b[0;90m----------------------------------------------------------------------- 12:01:52\r\r\n\u001b[00medps@debian:~$ \u001b[00m\u001b[1;29m  xserver-xorg-video-tseng xserver-xorg-video-voodoo"
+    ],
+    [
+      7.047530,
+      "e"
+    ],
+    [
+      0.287112,
+      "x"
+    ],
+    [
+      0.255926,
+      "i"
+    ],
+    [
+      0.286781,
+      "t"
+    ],
+    [
+      2.083586,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.660982,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040533,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.041339,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040277,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040592,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.039766,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040608,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040887,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040342,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040082,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.039672,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040432,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040350,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.042142,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.041239,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.041687,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040206,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.039886,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040353,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.039730,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040171,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040227,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.041135,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.039929,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040434,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.041145,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040350,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.039836,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040226,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040121,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.039744,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.039818,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.039917,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040004,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040393,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.039833,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040276,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040059,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.039450,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.041267,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.039480,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040541,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.039872,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040032,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040019,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040493,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040748,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.041179,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040866,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.041076,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040617,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040230,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.039920,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.039737,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040292,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.039524,
+      "\u0007"
+    ],
+    [
+      0.040024,
+      "\u0007"
+    ],
+    [
+      0.746670,
+      "\u0007"
+    ],
+    [
+      0.319103,
+      "e"
+    ],
+    [
+      0.288018,
+      "x"
+    ],
+    [
+      0.192493,
+      "i"
+    ],
+    [
+      0.224167,
+      "t"
+    ],
+    [
+      0.383663,
+      "\r\n\u001b[0mexit\r\n"
+    ]
+  ]
+}
