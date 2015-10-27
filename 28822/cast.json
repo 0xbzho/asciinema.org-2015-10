@@ -1,0 +1,6230 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 329.448710,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.431039,
+      "\u001b[0m"
+    ],
+    [
+      0.000862,
+      "\u001b[0m"
+    ],
+    [
+      0.007837,
+      "\u001b]0;edps: edps@debian: /home/edps\u0007"
+    ],
+    [
+      0.011539,
+      "\u001b[00m\u001b[0;90m----------------------------------------------------------------------- 11:28:20\r"
+    ],
+    [
+      0.000170,
+      "\r\n"
+    ],
+    [
+      0.000114,
+      "\u001b[00medps@debian:~$ \u001b[00m\u001b[1;29m"
+    ],
+    [
+      0.644977,
+      "exit"
+    ],
+    [
+      0.452277,
+      "\u0008\u0008\u0008\u0008sudo apt-get dist-upgrade "
+    ],
+    [
+      0.798865,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[4Pdpkg -l | grep udisks2"
+    ],
+    [
+      0.704157,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Csudo apt-get dist-upgrade "
+    ],
+    [
+      0.231759,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Cexit\u001b[K"
+    ],
+    [
+      0.197601,
+      "\u0008\u0008\u0008\u0008\u001b[K"
+    ],
+    [
+      1.484696,
+      "s"
+    ],
+    [
+      0.168375,
+      "u"
+    ],
+    [
+      0.098420,
+      "d"
+    ],
+    [
+      0.161995,
+      "o"
+    ],
+    [
+      0.135166,
+      " "
+    ],
+    [
+      0.189792,
+      "n"
+    ],
+    [
+      0.097484,
+      "a"
+    ],
+    [
+      0.098857,
+      "n"
+    ],
+    [
+      0.258467,
+      "o"
+    ],
+    [
+      0.133345,
+      " "
+    ],
+    [
+      0.410483,
+      "/"
+    ],
+    [
+      0.128294,
+      "e"
+    ],
+    [
+      0.258221,
+      "t"
+    ],
+    [
+      0.224310,
+      "c"
+    ],
+    [
+      0.224542,
+      "/"
+    ],
+    [
+      0.224687,
+      "a"
+    ],
+    [
+      0.193115,
+      "p"
+    ],
+    [
+      0.192878,
+      "t"
+    ],
+    [
+      0.287553,
+      "/"
+    ],
+    [
+      0.224850,
+      "s"
+    ],
+    [
+      0.159884,
+      "o"
+    ],
+    [
+      0.257780,
+      "u"
+    ],
+    [
+      0.169652,
+      "\u0007"
+    ],
+    [
+      0.000412,
+      "rces.list"
+    ],
+    [
+      3.746869,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.052155,
+      "\u001b[?1049h\u001b[1;24r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000464,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000303,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000172,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.023249,
+      "\u001b[39;49m\u001b[39;49m\u001b(B\u001b[m\u001b[H\u001b[2J\u001b(B\u001b[0;7m  GNU nano 2.2.6        Arquivo: /etc/apt/sources.list                          \u001b[3;1H\u001b(B\u001b[0;1m\u001b[34m### Debian Jessie/Stable + Backports + LoadBalancer (http://httpredir.debian.or\u001b[39m\u001b(B\u001b[m$\u001b[4;1H\u001b(B\u001b[0;1m\u001b[34m### GPGKey: apt-get update \u0026\u0026 apt-get install debian-archive-keyring\r\u001b[5d\u001b(B\u001b[0m\u001b[33mdeb\u001b(B\u001b[0;1m\u001b[31m \u001b[32mhttp://httpredir.debian.org/debian/\u001b[31m jessie\u001b[35m main contrib non-free\r\u001b[6d\u001b(B\u001b[0m\u001b[33mdeb\u001b(B\u001b[0;1m\u001b[31m \u001b[32mhttp://httpredir.debian.org/debian-security/\u001b[31m jessie/updates\u001b[35m main contrib no\u001b[39m\u001b(B\u001b[m$\u001b[7;1H\u001b[33mdeb\u001b(B\u001b[0;1m\u001b[31m \u001b[32mhttp://httpredir.debian.org/debian/\u001b[31m jessie-updates\u001b[35m main contrib non-free\r\u001b[8d\u001b(B\u001b[0m\u001b[33mdeb\u001b(B\u001b[0;1m\u001b[31m \u001b[32mhttp://httpredir.debian.org/debian/\u001b[31m jessie-proposed-updates\u001b[35m main contrib no\u001b[39m\u001b(B\u001b[m$\u001b[9;1H\u001b[33mdeb\u001b(B\u001b[0;1m\u001b[31m \u001b[32mhttp://httpredir.debian.org/debian/\u001b[31m jessie-backports\u001b[35m main contrib non-free\r\u001b[11d\u001b[34m### Devuan repository.\r\u001b[12d### GPGKey: apt-get update \u0026\u0026 apt-get install devuan-keyring devuan-baseconf\r\u001b[13d#deb http://packages.devuan.org/merged jessie main contrib non-free\r\u001b[14d#deb http://packages.devuan.org/merged jessie-updates main contrib non-free\r\u001b[15d#deb http://packages.devuan.org/merged jessie-proposed-updates main contrib non\u001b[39m\u001b(B\u001b[m$\u001b[16;1H\u001b(B\u001b[0;1m\u001b[34m#deb http://packages.devuan.org/merged jessie-backports main contrib non-free\r\u001b[18d### Debian Wheezy/OldStable + Backports + LoadBalancer (http://httpredir.debian\u001b[39m\u001b(B\u001b[m$\u001b[19;1H\u001b(B\u001b[0;1m\u001b[34m### GPGKey: apt-get update \u0026\u0026 apt-get install debian-archive-keyring\r\u001b[20d#deb http://httpredir.debian.org/debian/ wheezy main contrib non-free\r\u001b[21d#deb http://httpredir.debian.org/debian-security/ wheezy/updates main contrib n\u001b[39m\u001b(B\u001b[m$\u001b[22;31H\u001b(B\u001b[0;7m[ 23 linhas lidas ]\r\u001b[23d^G\u001b(B\u001b[m Ajuda     \u001b(B\u001b[0;7m^O\u001b(B\u001b[m Gravar    \u001b(B\u001b[0;7m^R\u001b(B\u001b[m Ler o Arq \u001b(B\u001b[0;7m^Y\u001b(B\u001b[m Pág Anter \u001b(B\u001b[0;7m^K\u001b(B\u001b[m Recort Txt\u001b(B\u001b[0;7m^C\u001b(B\u001b[m Pos Atual\r\u001b[24d\u001b(B\u001b[0;7m^X\u001b(B\u001b[m Sair\u001b[14G\u001b(B\u001b[0;7m^J\u001b(B\u001b[m Justificar\u001b(B\u001b[0;7m^W\u001b(B\u001b[m Onde es"
+    ],
+    [
+      0.000317,
+      "tá?\u001b(B\u001b[0;7m^V\u001b(B\u001b[m Próx Pág  \u001b(B\u001b[0;7m^U\u001b(B\u001b[m Colar Txt \u001b(B\u001b[0;7m^T\u001b(B\u001b[m Para Spell\r\u001b[3d"
+    ],
+    [
+      1.070196,
+      "\u001b[4d"
+    ],
+    [
+      0.200363,
+      "\u001b[5d"
+    ],
+    [
+      0.200351,
+      "\u001b[6d"
+    ],
+    [
+      0.418336,
+      "\u001b[A"
+    ],
+    [
+      0.708024,
+      "\u001b[1;69H\u001b(B\u001b[0;7mModificado\r\u001b[5d\u001b(B\u001b[0;1m\u001b[34m#deb http://httpredir.debian.org/debian/ jessie main contrib non-free\r#\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.217899,
+      "\u001b[6d"
+    ],
+    [
+      0.262267,
+      "\u0008"
+    ],
+    [
+      0.268484,
+      "\u001b(B\u001b[0;1m\u001b[34m#deb http://httpredir.debian.org/debian-security/ jessie/updates main contrib n\r#\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.224318,
+      "\u001b[7d"
+    ],
+    [
+      0.262481,
+      "\u0008"
+    ],
+    [
+      0.269692,
+      "\u001b(B\u001b[0;1m\u001b[34m#deb http://httpredir.debian.org/debian/ jessie-updates main contrib non-free\r#\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.191744,
+      "\u001b[8d"
+    ],
+    [
+      0.262518,
+      "\u0008"
+    ],
+    [
+      0.270071,
+      "\u001b(B\u001b[0;1m\u001b[34m#deb http://httpredir.debian.org/debian/ jessie-proposed-updates main contrib n\r#\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.222669,
+      "\u001b[9d"
+    ],
+    [
+      0.294101,
+      "\u0008"
+    ],
+    [
+      0.269722,
+      "\u001b(B\u001b[0;1m\u001b[34m#deb http://httpredir.debian.org/debian/ jessie-backports main contrib non-free\r#\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.506252,
+      "\u001b[10d\u0008"
+    ],
+    [
+      0.231795,
+      "\u001b[11;2H"
+    ],
+    [
+      0.200499,
+      "\u001b[12d"
+    ],
+    [
+      0.231726,
+      "\u001b[13d"
+    ],
+    [
+      0.514851,
+      "\u0008"
+    ],
+    [
+      0.705178,
+      "\u001b[33mdeb\u001b(B\u001b[0;1m\u001b[31m \u001b[32mhttp://packages.devuan.org/merged\u001b[31m jessie\u001b[35m main contrib non-free\u001b[39m\u001b(B\u001b[m\u001b[K\r"
+    ],
+    [
+      0.270869,
+      "\u001b[14d"
+    ],
+    [
+      0.327929,
+      "\u001b[33mdeb\u001b(B\u001b[0;1m\u001b[31m \u001b[32mhttp://packages.devuan.org/merged\u001b[31m jessie-updates\u001b[35m main contrib non-free\u001b[39m\u001b(B\u001b[m\u001b[K\r"
+    ],
+    [
+      0.199242,
+      "\u001b[22d\u001b[K\u001b[15d"
+    ],
+    [
+      0.200210,
+      "\u001b[33mdeb\u001b(B\u001b[0;1m\u001b[31m \u001b[32mhttp://packages.devuan.org/merged\u001b[31m jessie-proposed-updates\u001b[35m main contrib non-\r\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.236825,
+      "\u001b[16d"
+    ],
+    [
+      0.171398,
+      "\u001b[33mdeb\u001b(B\u001b[0;1m\u001b[31m \u001b[32mhttp://packages.devuan.org/merged\u001b[31m jessie-backports\u001b[35m main contrib non-free\u001b[39m\u001b(B\u001b[m\u001b[K\r"
+    ],
+    [
+      1.661432,
+      "\u001b[22d\u001b(B\u001b[0;7mNome do Arquivo para Gravar: /etc/apt/sources.list                              \u001b[23;14H\u001b(B\u001b[m       \u001b(B\u001b[0;7mM-D\u001b(B\u001b[m Formato DOS     \u001b(B\u001b[0;7mM-A\u001b(B\u001b[m Anexar          \u001b(B\u001b[0;7mM-B\u001b(B\u001b[m Arquivo Reserva\u001b[24;2H\u001b(B\u001b[0;7mC\u001b(B\u001b[m Cancelar         \u001b(B\u001b[0;7mM-M\u001b(B\u001b[m Formato Mac     \u001b(B\u001b[0;7mM-P\u001b(B\u001b[m Pre-anexar\u001b[K\u001b[22;51H"
+    ],
+    [
+      1.341412,
+      "\u001b[1;69H\u001b[39;49m\u001b(B\u001b[0;7m          \u001b[22;29H\u001b(B\u001b[m\u001b[1K \u001b(B\u001b[0;7m[ Escrito 23 linhas ]\u001b(B\u001b[m\u001b[K\u001b[23;14H\u001b(B\u001b[0;7m^O\u001b(B\u001b[m Gravar    \u001b(B\u001b[0;7m^R\u001b(B\u001b[m Ler o Arq \u001b(B\u001b[0;7m^Y\u001b(B\u001b[m Pág Anter \u001b(B\u001b[0;7m^K\u001b(B\u001b[m Recort Txt\u001b(B\u001b[0;7m^C\u001b(B\u001b[m Pos Atual\u001b[K\u001b[24;2H\u001b(B\u001b[0;7mX\u001b(B\u001b[m Sair      \u001b(B\u001b[0;7m^J\u001b(B\u001b[m Justificar\u001b(B\u001b[0;7m^W\u001b(B\u001b[m Onde está?\u001b(B\u001b[0;7m^V\u001b(B\u001b[m Próx Pág  \u001b(B\u001b[0;7m^U\u001b(B\u001b[m Colar Txt \u001b(B\u001b[0;7m^T\u001b(B\u001b[m Para Spell\r\u001b[16d"
+    ],
+    [
+      0.982277,
+      "\u001b[23d\u001b[J\u001b[24;80H\u001b[24;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e\u001b[0m"
+    ],
+    [
+      0.010576,
+      "\u001b]0;edps: edps@debian: /home/edps\u0007\u001b[00m\u001b[0;90m----------------------------------------------------------------------- 11:28:46\r\r\n\u001b[00medps@debian:~$ \u001b[00m\u001b[1;29m"
+    ],
+    [
+      7.280195,
+      "sudo apt-get install gvfs gvfs-backends gvfs-daemons udisks"
+    ],
+    [
+      0.000042,
+      "2"
+    ],
+    [
+      1.006404,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.042993,
+      "\rLendo listas de pacotes... 0%\r"
+    ],
+    [
+      0.071593,
+      "\rLendo listas de pacotes... 0%\r"
+    ],
+    [
+      0.021136,
+      "\rLendo listas de pacotes... 1%\r"
+    ],
+    [
+      0.715992,
+      "\rLendo listas de pacotes... 29%\r"
+    ],
+    [
+      0.733213,
+      "\rLendo listas de pacotes... 54%\r"
+    ],
+    [
+      0.716097,
+      "\rLendo listas de pacotes... 76%\r"
+    ],
+    [
+      0.322142,
+      "\rLendo listas de pacotes... 85%\r"
+    ],
+    [
+      0.000342,
+      "\rLendo listas de pacotes... 85%\r"
+    ],
+    [
+      0.019644,
+      "\rLendo listas de pacotes... 86%\r"
+    ],
+    [
+      0.000328,
+      "\rLendo listas de pacotes... 86%\r"
+    ],
+    [
+      0.031491,
+      "\rLendo listas de pacotes... 86%\r"
+    ],
+    [
+      0.000303,
+      "\rLendo listas de pacotes... 86%\r"
+    ],
+    [
+      0.001527,
+      "\rLendo listas de pacotes... 87%\r"
+    ],
+    [
+      0.000279,
+      "\rLendo listas de pacotes... 87%\r"
+    ],
+    [
+      0.001131,
+      "\rLendo listas de pacotes... 87%\r"
+    ],
+    [
+      0.000267,
+      "\rLendo listas de pacotes... 87%\r"
+    ],
+    [
+      0.001552,
+      "\rLendo listas de pacotes... 87%\r"
+    ],
+    [
+      0.000304,
+      "\rLendo listas de pacotes... 87%\r"
+    ],
+    [
+      0.026915,
+      "\rLendo listas de pacotes... 87%\r"
+    ],
+    [
+      0.000298,
+      "\rLendo listas de pacotes... 87%\r"
+    ],
+    [
+      0.002155,
+      "\rLendo listas de pacotes... 87%\r"
+    ],
+    [
+      0.000290,
+      "\rLendo listas de pacotes... 87%\r"
+    ],
+    [
+      0.002445,
+      "\rLendo listas de pacotes... 87%\r"
+    ],
+    [
+      0.003127,
+      "\rLendo listas de pacotes... 87%\r"
+    ],
+    [
+      0.145682,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.000323,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.002863,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.000342,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.005916,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.000309,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.012217,
+      "\rLendo listas de pacotes... 93%\r"
+    ],
+    [
+      0.000315,
+      "\rLendo listas de pacotes... 93%\r"
+    ],
+    [
+      0.001229,
+      "\rLendo listas de pacotes... 93%\r"
+    ],
+    [
+      0.000283,
+      "\rLendo listas de pacotes... 93%\r"
+    ],
+    [
+      0.002224,
+      "\rLendo listas de pacotes... 93%\r"
+    ],
+    [
+      0.000282,
+      "\rLendo listas de pacotes... 93%\r"
+    ],
+    [
+      0.000794,
+      "\rLendo listas de pacotes... 93%\r"
+    ],
+    [
+      0.003069,
+      "\rLendo listas de pacotes... 93%\r"
+    ],
+    [
+      0.004752,
+      "\rLendo listas de pacotes... 93%\r"
+    ],
+    [
+      0.000321,
+      "\rLendo listas de pacotes... 93%\r"
+    ],
+    [
+      0.008776,
+      "\rLendo listas de pacotes... 93%\r"
+    ],
+    [
+      0.000312,
+      "\rLendo listas de pacotes... 93%\r"
+    ],
+    [
+      0.004570,
+      "\rLendo listas de pacotes... 94%\r"
+    ],
+    [
+      0.000288,
+      "\rLendo listas de pacotes... 94%\r"
+    ],
+    [
+      0.001338,
+      "\rLendo listas de pacotes... 94%\r"
+    ],
+    [
+      0.000303,
+      "\rLendo listas de pacotes... 94%\r"
+    ],
+    [
+      0.574101,
+      "\rLendo listas de pacotes... 94%\r"
+    ],
+    [
+      0.005745,
+      "\rLendo listas de pacotes... 94%\r"
+    ],
+    [
+      0.056013,
+      "\rLendo listas de pacotes... 95%\r"
+    ],
+    [
+      0.489906,
+      "\rLendo listas de pacotes... Pronto\r"
+    ],
+    [
+      0.000339,
+      "\r\n"
+    ],
+    [
+      0.023962,
+      "\rConstruindo árvore de dependências... 0%\r"
+    ],
+    [
+      0.000318,
+      "\rConstruindo árvore de dependências... 0%\r"
+    ],
+    [
+      0.084734,
+      "\rConstruindo árvore de dependências... 50%\r"
+    ],
+    [
+      0.000225,
+      "\rConstruindo árvore de dependências... 50%\r"
+    ],
+    [
+      0.105776,
+      "\rConstruindo árvore de dependências... 65%\r"
+    ],
+    [
+      0.235347,
+      "\rConstruindo árvore de dependências       \r"
+    ],
+    [
+      0.000202,
+      "\r\n"
+    ],
+    [
+      0.000110,
+      "\rLendo informação de estado... 0%  \r"
+    ],
+    [
+      0.000218,
+      "\rLendo informação de estado... 0%\r"
+    ],
+    [
+      0.014615,
+      "\rLendo informação de estado... Pronto\r"
+    ],
+    [
+      0.000188,
+      "\r\n"
+    ],
+    [
+      0.249469,
+      "udisks2 já é a versão mais nova."
+    ],
+    [
+      0.000203,
+      "\r\n"
+    ],
+    [
+      0.000107,
+      "gvfs já é a versão mais nova."
+    ],
+    [
+      0.000090,
+      "\r\n"
+    ],
+    [
+      0.000099,
+      "gvfs-backends já é a versão mais nova."
+    ],
+    [
+      0.000088,
+      "\r\n"
+    ],
+    [
+      0.000098,
+      "gvfs-daemons já é a versão mais nova."
+    ],
+    [
+      0.000088,
+      "\r\n"
+    ],
+    [
+      0.313090,
+      "Os seguintes pacotes foram instalados automaticamente e já não são necessários:"
+    ],
+    [
+      0.000198,
+      "\r\n"
+    ],
+    [
+      0.000104,
+      "  a2ps guile-1.8-libs html2text libarchive12 libattica0 libaudclient2"
+    ],
+    [
+      0.000092,
+      "\r\n"
+    ],
+    [
+      0.000094,
+      "  libavcodec55 libavformat55 libavresample1 libavutil53 libclucene0ldbl"
+    ],
+    [
+      0.000088,
+      "\r\n"
+    ],
+    [
+      0.000094,
+      "  libcolamd2.7.1 libcolord1 libdconf0 libdirac-dev libdiscid0 libdrm-nouveau1a"
+    ],
+    [
+      0.000087,
+      "\r\n"
+    ],
+    [
+      0.000094,
+      "  libdvbpsi7 libebml3 libee0 libexiv2-12 libffms2-2 libfftw3-3 libfftw3-long3"
+    ],
+    [
+      0.000088,
+      "\r\n"
+    ],
+    [
+      0.000092,
+      "  libgail-3-0 libgcr-3-1 libgcrypt11-dev libgd2-xpm libgdu0 libgeoclue0"
+    ],
+    [
+      0.000088,
+      "\r\n"
+    ],
+    [
+      0.000093,
+      "  libglew1.7 libgnutlsxx27 libgphoto2-2 libgphoto2-port0 libgssglue1"
+    ],
+    [
+      0.000087,
+      "\r\n"
+    ],
+    [
+      0.000093,
+      "  libhsqldb-java libicu48 libidl0 libimobiledevice2 libjavascriptcoregtk-1.0-0"
+    ],
+    [
+      0.000087,
+      "\r\n"
+    ],
+    [
+      0.000092,
+      "  libjim0debian2 libkadm5clnt-mit8 libkdb5-6 libkdecorations4 libkidletime4"
+    ],
+    [
+      0.000087,
+      "\r\n"
+    ],
+    [
+      0.000093,
+      "  liblavfile-2.0-0 liblavjpeg-2.0-0 liblavplay-2.0-0 liblcms1 liblognorm0"
+    ],
+    [
+      0.000087,
+      "\r\n"
+    ],
+    [
+      0.000093,
+      "  libmatroska5 libminiupnpc5 libmjpegutils-2.0-0 libmkv0 libmowgli2"
+    ],
+    [
+      0.000087,
+      "\r\n"
+    ],
+    [
+      0.000092,
+      "  libmpeg2encpp-2.0-0 libmplex2-2.0-0 libmusicbrainz3-6 libntfs10 libodbc1"
+    ],
+    [
+      0.000092,
+      "\r\n"
+    ],
+    [
+      0.000097,
+      "  liborbit2 libp11-kit-dev libparted0debian1 libplist1 libpoppler19"
+    ],
+    [
+      0.000092,
+      "\r\n"
+    ],
+    [
+      0.000097,
+      "  libproxy-tools libproxy0 libpthread-stubs0 libssh-4 libsystemd-login0"
+    ],
+    [
+      0.000088,
+      "\r\n"
+    ],
+    [
+      0.000097,
+      "  libtar0 libtasn1-3-dev libtry-tiny-perl libts-0.0-0 libupower-glib1"
+    ],
+    [
+      0.000082,
+      "\r\n"
+    ],
+    [
+      0.000097,
+      "  libusbmuxd1 libvte-common libvte9 libwebkitgtk-1.0-0 libwebkitgtk-1.0-common"
+    ],
+    [
+      0.000082,
+      "\r\n"
+    ],
+    [
+      0.000098,
+      "  libwebp2 libwine-alsa libwine-bin libwine-gecko-1.4 libwine-gl libx264-132"
+    ],
+    [
+      0.000082,
+      "\r\n"
+    ],
+    [
+      0.000096,
+      "  libxdo2 libxfce4util4 libxmmsclient6 python-aptdaemon"
+    ],
+    [
+      0.000099,
+      "\r\n"
+    ],
+    [
+      0.000093,
+      "  python-aptdaemon.gtk3widgets python-defer python-fpconst"
+    ],
+    [
+      0.000082,
+      "\r\n"
+    ],
+    [
+      0.000097,
+      "  python-gnupginterface python-packagekit python-software-properties python3.2"
+    ],
+    [
+      0.000081,
+      "\r\n"
+    ],
+    [
+      0.000097,
+      "  python3.2-minimal ruby-archive-tar-minitar ruby-json rubygems"
+    ],
+    [
+      0.000082,
+      "\r\n"
+    ],
+    [
+      0.000096,
+      "  shared-desktop-ontologies tsconf wine-bin wwwconfig-common"
+    ],
+    [
+      0.000082,
+      "\r\n"
+    ],
+    [
+      0.000105,
+      "Utilize 'apt-get autoremove' para os remover."
+    ],
+    [
+      0.000082,
+      "\r\n"
+    ],
+    [
+      0.150649,
+      "0 pacotes atualizados, 0 pacotes novos instalados, 0 a serem removidos e 90 não atualizados."
+    ],
+    [
+      0.000196,
+      "\r\n"
+    ],
+    [
+      0.009356,
+      "\u001b[0m"
+    ],
+    [
+      0.006993,
+      "\u001b]0;edps: edps@debian: /home/edps\u0007\u001b[00m\u001b[0;90m----------------------------------------------------------------------- 11:29:00\r\r\n\u001b[00medps@debian:~$ \u001b[00m\u001b[1;29m"
+    ],
+    [
+      2.529782,
+      "sudo apt-get install k3b k3b-i18n"
+    ],
+    [
+      0.873595,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.054426,
+      "\rLendo listas de pacotes... 0%\r"
+    ],
+    [
+      0.018285,
+      "\rLendo listas de pacotes... 100%\r"
+    ],
+    [
+      0.000253,
+      "\rLendo listas de pacotes... Pronto\r"
+    ],
+    [
+      0.000204,
+      "\r\n"
+    ],
+    [
+      0.017194,
+      "\rConstruindo árvore de dependências... 0%\r"
+    ],
+    [
+      0.000311,
+      "\rConstruindo árvore de dependências... 0%\r"
+    ],
+    [
+      0.066143,
+      "\rConstruindo árvore de dependências... 50%\r"
+    ],
+    [
+      0.000223,
+      "\rConstruindo árvore de dependências... 50%\r"
+    ],
+    [
+      0.323916,
+      "\rConstruindo árvore de dependências       \r"
+    ],
+    [
+      0.000202,
+      "\r\n"
+    ],
+    [
+      0.000109,
+      "\rLendo informação de estado... 0%  \r"
+    ],
+    [
+      0.000225,
+      "\rLendo informação de estado... 0%\r"
+    ],
+    [
+      0.014146,
+      "\rLendo informação de estado... Pronto\r"
+    ],
+    [
+      0.000196,
+      "\r\n"
+    ],
+    [
+      0.254219,
+      "k3b já é a versão mais nova."
+    ],
+    [
+      0.000199,
+      "\r\n"
+    ],
+    [
+      0.000106,
+      "k3b-i18n já é a versão mais nova."
+    ],
+    [
+      0.000090,
+      "\r\n"
+    ],
+    [
+      0.278961,
+      "Os seguintes pacotes foram instalados automaticamente e já não são necessários:"
+    ],
+    [
+      0.000196,
+      "\r\n"
+    ],
+    [
+      0.000104,
+      "  a2ps guile-1.8-libs html2text libarchive12 libattica0 libaudclient2"
+    ],
+    [
+      0.000091,
+      "\r\n"
+    ],
+    [
+      0.000097,
+      "  libavcodec55 libavformat55 libavresample1 libavutil53 libclucene0ldbl"
+    ],
+    [
+      0.000089,
+      "\r\n"
+    ],
+    [
+      0.000094,
+      "  libcolamd2.7.1 libcolord1 libdconf0 libdirac-dev libdiscid0 libdrm-nouveau1a"
+    ],
+    [
+      0.000089,
+      "\r\n"
+    ],
+    [
+      0.000093,
+      "  libdvbpsi7 libebml3 libee0 libexiv2-12 libffms2-2 libfftw3-3 libfftw3-long3"
+    ],
+    [
+      0.000089,
+      "\r\n"
+    ],
+    [
+      0.000093,
+      "  libgail-3-0 libgcr-3-1 libgcrypt11-dev libgd2-xpm libgdu0 libgeoclue0"
+    ],
+    [
+      0.000089,
+      "\r\n"
+    ],
+    [
+      0.000094,
+      "  libglew1.7 libgnutlsxx27 libgphoto2-2 libgphoto2-port0 libgssglue1"
+    ],
+    [
+      0.000089,
+      "\r\n"
+    ],
+    [
+      0.000094,
+      "  libhsqldb-java libicu48 libidl0 libimobiledevice2 libjavascriptcoregtk-1.0-0"
+    ],
+    [
+      0.000089,
+      "\r\n"
+    ],
+    [
+      0.000094,
+      "  libjim0debian2 libkadm5clnt-mit8 libkdb5-6 libkdecorations4 libkidletime4"
+    ],
+    [
+      0.000089,
+      "\r\n"
+    ],
+    [
+      0.000093,
+      "  liblavfile-2.0-0 liblavjpeg-2.0-0 liblavplay-2.0-0 liblcms1 liblognorm0"
+    ],
+    [
+      0.000089,
+      "\r\n"
+    ],
+    [
+      0.000093,
+      "  libmatroska5 libminiupnpc5 libmjpegutils-2.0-0 libmkv0 libmowgli2"
+    ],
+    [
+      0.000089,
+      "\r\n"
+    ],
+    [
+      0.000094,
+      "  libmpeg2encpp-2.0-0 libmplex2-2.0-0 libmusicbrainz3-6 libntfs10 libodbc1"
+    ],
+    [
+      0.000092,
+      "\r\n"
+    ],
+    [
+      0.000098,
+      "  liborbit2 libp11-kit-dev libparted0debian1 libplist1 libpoppler19"
+    ],
+    [
+      0.000093,
+      "\r\n"
+    ],
+    [
+      0.000874,
+      "  libproxy-tools libproxy0 libpthread-stubs0 libssh-4 libsystemd-login0"
+    ],
+    [
+      0.000103,
+      "\r\n"
+    ],
+    [
+      0.000098,
+      "  libtar0 libtasn1-3-dev libtry-tiny-perl libts-0.0-0 libupower-glib1"
+    ],
+    [
+      0.000084,
+      "\r\n"
+    ],
+    [
+      0.000102,
+      "  libusbmuxd1 libvte-common libvte9 libwebkitgtk-1.0-0 libwebkitgtk-1.0-common"
+    ],
+    [
+      0.000084,
+      "\r\n"
+    ],
+    [
+      0.000099,
+      "  libwebp2 libwine-alsa libwine-bin libwine-gecko-1.4 libwine-gl libx264-132"
+    ],
+    [
+      0.000083,
+      "\r\n"
+    ],
+    [
+      0.000099,
+      "  libxdo2 libxfce4util4 libxmmsclient6 python-aptdaemon"
+    ],
+    [
+      0.000084,
+      "\r\n"
+    ],
+    [
+      0.000099,
+      "  python-aptdaemon.gtk3widgets python-defer python-fpconst"
+    ],
+    [
+      0.000084,
+      "\r\n"
+    ],
+    [
+      0.000100,
+      "  python-gnupginterface python-packagekit python-software-properties python3.2"
+    ],
+    [
+      0.000084,
+      "\r\n"
+    ],
+    [
+      0.000100,
+      "  python3.2-minimal ruby-archive-tar-minitar ruby-json rubygems"
+    ],
+    [
+      0.000084,
+      "\r\n"
+    ],
+    [
+      0.000100,
+      "  shared-desktop-ontologies tsconf wine-bin wwwconfig-common"
+    ],
+    [
+      0.000084,
+      "\r\n"
+    ],
+    [
+      0.000148,
+      "Utilize 'apt-get autoremove' para os remover."
+    ],
+    [
+      0.000096,
+      "\r\n"
+    ],
+    [
+      0.145848,
+      "0 pacotes atualizados, 0 pacotes novos instalados, 0 a serem removidos e 90 não atualizados."
+    ],
+    [
+      0.000213,
+      "\r\n"
+    ],
+    [
+      0.007677,
+      "\u001b[0m"
+    ],
+    [
+      0.006613,
+      "\u001b]0;edps: edps@debian: /home/edps\u0007"
+    ],
+    [
+      0.000407,
+      "\u001b[00m\u001b[0;90m----------------------------------------------------------------------- 11:29:04\r"
+    ],
+    [
+      0.000129,
+      "\r\n"
+    ],
+    [
+      0.000096,
+      "\u001b[00medps@debian:~$ \u001b[00m\u001b[1;29m"
+    ],
+    [
+      2.116089,
+      "s"
+    ],
+    [
+      0.190759,
+      "u"
+    ],
+    [
+      0.163521,
+      "d"
+    ],
+    [
+      0.128107,
+      "o"
+    ],
+    [
+      0.166799,
+      " "
+    ],
+    [
+      0.442085,
+      "a"
+    ],
+    [
+      0.159945,
+      "p"
+    ],
+    [
+      0.224845,
+      "t"
+    ],
+    [
+      0.192362,
+      "-"
+    ],
+    [
+      0.353081,
+      "g"
+    ],
+    [
+      0.128492,
+      "e"
+    ],
+    [
+      0.195044,
+      "t"
+    ],
+    [
+      0.160892,
+      " "
+    ],
+    [
+      0.539896,
+      "a"
+    ],
+    [
+      0.159916,
+      "u"
+    ],
+    [
+      0.225723,
+      "t"
+    ],
+    [
+      0.159214,
+      "o"
+    ],
+    [
+      0.163571,
+      "r"
+    ],
+    [
+      0.224484,
+      "e"
+    ],
+    [
+      0.224191,
+      "m"
+    ],
+    [
+      0.159721,
+      "o"
+    ],
+    [
+      0.098897,
+      "v"
+    ],
+    [
+      0.130051,
+      "e"
+    ],
+    [
+      0.289699,
+      " "
+    ],
+    [
+      0.791955,
+      "-"
+    ],
+    [
+      0.193421,
+      "-"
+    ],
+    [
+      0.256378,
+      "p"
+    ],
+    [
+      0.350531,
+      "u"
+    ],
+    [
+      0.164374,
+      "r"
+    ],
+    [
+      0.192688,
+      "g"
+    ],
+    [
+      0.093564,
+      "e"
+    ],
+    [
+      0.984034,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.052552,
+      "\rLendo listas de pacotes... 0%\r"
+    ],
+    [
+      0.018378,
+      "\rLendo listas de pacotes... 100%\r"
+    ],
+    [
+      0.000251,
+      "\rLendo listas de pacotes... Pronto\r"
+    ],
+    [
+      0.000203,
+      "\r\n"
+    ],
+    [
+      0.017427,
+      "\rConstruindo árvore de dependências... 0%\r"
+    ],
+    [
+      0.000301,
+      "\rConstruindo árvore de dependências... 0%\r"
+    ],
+    [
+      0.078982,
+      "\rConstruindo árvore de dependências... 50%\r"
+    ],
+    [
+      0.000221,
+      "\rConstruindo árvore de dependências... 50%\r"
+    ],
+    [
+      0.330051,
+      "\rConstruindo árvore de dependências       \r"
+    ],
+    [
+      0.000202,
+      "\r\n"
+    ],
+    [
+      0.000110,
+      "\rLendo informação de estado... 0%  \r"
+    ],
+    [
+      0.000229,
+      "\rLendo informação de estado... 0%\r"
+    ],
+    [
+      0.013718,
+      "\rLendo informação de estado... Pronto\r"
+    ],
+    [
+      0.000211,
+      "\r\n"
+    ],
+    [
+      9.327207,
+      "Os pacotes a seguir serão REMOVIDOS:"
+    ],
+    [
+      0.000198,
+      "\r\n"
+    ],
+    [
+      0.000106,
+      "  a2ps* guile-1.8-libs* html2text* libarchive12* libattica0* libaudclient2*"
+    ],
+    [
+      0.000090,
+      "\r\n"
+    ],
+    [
+      0.000096,
+      "  libavcodec55* libavformat55* libavresample1* libavutil53* libclucene0ldbl*"
+    ],
+    [
+      0.000089,
+      "\r\n"
+    ],
+    [
+      0.000111,
+      "  libcolamd2.7.1* libcolord1* libdconf0* libdirac-dev* libdiscid0*"
+    ],
+    [
+      0.000089,
+      "\r\n"
+    ],
+    [
+      0.000094,
+      "  libdrm-nouveau1a* libdvbpsi7* libebml3* libee0* libexiv2-12* libffms2-2*"
+    ],
+    [
+      0.000088,
+      "\r\n"
+    ],
+    [
+      0.000093,
+      "  libfftw3-3* libfftw3-long3* libgail-3-0* libgcr-3-1* libgcrypt11-dev*"
+    ],
+    [
+      0.000088,
+      "\r\n"
+    ],
+    [
+      0.000093,
+      "  libgd2-xpm* libgdu0* libgeoclue0* libglew1.7* libgnutlsxx27* libgphoto2-2*"
+    ],
+    [
+      0.000088,
+      "\r\n"
+    ],
+    [
+      0.000093,
+      "  libgphoto2-port0* libgssglue1* libhsqldb-java* libicu48* libidl0*"
+    ],
+    [
+      0.000088,
+      "\r\n"
+    ],
+    [
+      0.000093,
+      "  libimobiledevice2* libjavascriptcoregtk-1.0-0* libjim0debian2*"
+    ],
+    [
+      0.000088,
+      "\r\n"
+    ],
+    [
+      0.000093,
+      "  libkadm5clnt-mit8* libkdb5-6* libkdecorations4* libkidletime4*"
+    ],
+    [
+      0.000088,
+      "\r\n"
+    ],
+    [
+      0.000094,
+      "  liblavfile-2.0-0* liblavjpeg-2.0-0* liblavplay-2.0-0* liblcms1* liblognorm0*"
+    ],
+    [
+      0.000087,
+      "\r\n"
+    ],
+    [
+      0.000094,
+      "  libmatroska5* libminiupnpc5* libmjpegutils-2.0-0* libmkv0* libmowgli2*"
+    ],
+    [
+      0.000092,
+      "\r\n"
+    ],
+    [
+      0.000098,
+      "  libmpeg2encpp-2.0-0* libmplex2-2.0-0* libmusicbrainz3-6* libntfs10*"
+    ],
+    [
+      0.000097,
+      "\r\n"
+    ],
+    [
+      0.000097,
+      "  libodbc1* liborbit2* libp11-kit-dev* libparted0debian1* libplist1*"
+    ],
+    [
+      0.000088,
+      "\r\n"
+    ],
+    [
+      0.000099,
+      "  libpoppler19* libproxy-tools* libproxy0* libpthread-stubs0* libssh-4*"
+    ],
+    [
+      0.000082,
+      "\r\n"
+    ],
+    [
+      0.000098,
+      "  libsystemd-login0* libtar0* libtasn1-3-dev* libtry-tiny-perl* libts-0.0-0*"
+    ],
+    [
+      0.000083,
+      "\r\n"
+    ],
+    [
+      0.000098,
+      "  libupower-glib1* libusbmuxd1* libvte-common* libvte9* libwebkitgtk-1.0-0*"
+    ],
+    [
+      0.000083,
+      "\r\n"
+    ],
+    [
+      0.000098,
+      "  libwebkitgtk-1.0-common* libwebp2* libwine-alsa* libwine-bin*"
+    ],
+    [
+      0.000082,
+      "\r\n"
+    ],
+    [
+      0.000097,
+      "  libwine-gecko-1.4* libwine-gl* libx264-132* libxdo2* libxfce4util4*"
+    ],
+    [
+      0.000082,
+      "\r\n"
+    ],
+    [
+      0.000098,
+      "  libxmmsclient6* python-aptdaemon* python-aptdaemon.gtk3widgets*"
+    ],
+    [
+      0.000081,
+      "\r\n"
+    ],
+    [
+      0.000098,
+      "  python-defer* python-fpconst* python-gnupginterface* python-packagekit*"
+    ],
+    [
+      0.000082,
+      "\r\n"
+    ],
+    [
+      0.000098,
+      "  python-software-properties* python3.2* python3.2-minimal*"
+    ],
+    [
+      0.000082,
+      "\r\n"
+    ],
+    [
+      0.000098,
+      "  ruby-archive-tar-minitar* ruby-json* rubygems* shared-desktop-ontologies*"
+    ],
+    [
+      0.000082,
+      "\r\n"
+    ],
+    [
+      0.000098,
+      "  tsconf* wine-bin* wwwconfig-common*"
+    ],
+    [
+      0.000082,
+      "\r\n"
+    ],
+    [
+      0.043383,
+      "0 pacotes atualizados, 0 pacotes novos instalados, 105 a serem removidos e 90 não atualizados."
+    ],
+    [
+      0.000189,
+      "\r\n"
+    ],
+    [
+      0.021826,
+      "Depois desta operação, 170 MB de espaço em disco serão liberados."
+    ],
+    [
+      0.000188,
+      "\r\n"
+    ],
+    [
+      0.000156,
+      "Você quer continuar?"
+    ],
+    [
+      0.000161,
+      " [S/n] "
+    ],
+    [
+      2.193164,
+      "s"
+    ],
+    [
+      6.849241,
+      "\r\n"
+    ],
+    [
+      0.000072,
+      "\r\r"
+    ],
+    [
+      1.084057,
+      "(Lendo banco de dados ... \r"
+    ],
+    [
+      0.012867,
+      "(Lendo banco de dados ... 5%\r"
+    ],
+    [
+      0.000319,
+      "(Lendo banco de dados ... 10%\r"
+    ],
+    [
+      0.000214,
+      "(Lendo banco de dados ... 15%\r"
+    ],
+    [
+      0.000213,
+      "(Lendo banco de dados ... 20%\r"
+    ],
+    [
+      0.000282,
+      "(Lendo banco de dados ... 25%\r"
+    ],
+    [
+      0.000221,
+      "(Lendo banco de dados ... 30%\r"
+    ],
+    [
+      0.000196,
+      "(Lendo banco de dados ... 35%\r"
+    ],
+    [
+      0.000221,
+      "(Lendo banco de dados ... 40%\r"
+    ],
+    [
+      0.000224,
+      "(Lendo banco de dados ... 45%\r"
+    ],
+    [
+      0.000203,
+      "(Lendo banco de dados ... 50%\r"
+    ],
+    [
+      0.026900,
+      "(Lendo banco de dados ... 55%\r"
+    ],
+    [
+      0.023918,
+      "(Lendo banco de dados ... 60%\r"
+    ],
+    [
+      0.018636,
+      "(Lendo banco de dados ... 65%\r"
+    ],
+    [
+      0.012411,
+      "(Lendo banco de dados ... 70%\r"
+    ],
+    [
+      0.010020,
+      "(Lendo banco de dados ... 75%\r"
+    ],
+    [
+      0.009393,
+      "(Lendo banco de dados ... 80%\r"
+    ],
+    [
+      0.012556,
+      "(Lendo banco de dados ... 85%\r"
+    ],
+    [
+      0.034515,
+      "(Lendo banco de dados ... 90%\r"
+    ],
+    [
+      0.049699,
+      "(Lendo banco de dados ... 95%\r"
+    ],
+    [
+      0.077754,
+      "(Lendo banco de dados ... 100%\r"
+    ],
+    [
+      0.000235,
+      "(Lendo banco de dados ... "
+    ],
+    [
+      0.000185,
+      "281954 ficheiros e directórios actualmente instalados.)"
+    ],
+    [
+      0.000116,
+      "\r\n"
+    ],
+    [
+      0.054941,
+      "A remover a2ps (1:4.14-1.3) ..."
+    ],
+    [
+      0.000226,
+      "\r\n"
+    ],
+    [
+      0.417994,
+      "A purgar os ficheiros de configuração para a2ps (1:4.14-1.3) ...\r\n"
+    ],
+    [
+      0.490354,
+      "A remover guile-1.8-libs (1.8.8+1-10) ..."
+    ],
+    [
+      0.000243,
+      "\r\n"
+    ],
+    [
+      0.533088,
+      "A purgar os ficheiros de configuração para guile-1.8-libs (1.8.8+1-10) ...\r\n"
+    ],
+    [
+      0.489285,
+      "A remover html2text (1.3.2a-18) ..."
+    ],
+    [
+      0.000241,
+      "\r\n"
+    ],
+    [
+      0.561147,
+      "A remover libarchive12:i386 (3.0.4-3+wheezy1) ..."
+    ],
+    [
+      0.000244,
+      "\r\n"
+    ],
+    [
+      0.307671,
+      "A purgar os ficheiros de configuração para libarchive12:i386 (3.0.4-3+wheezy1) ...\r\n"
+    ],
+    [
+      0.489895,
+      "A remover libattica0 (0.2.0-1) ..."
+    ],
+    [
+      0.000241,
+      "\r\n"
+    ],
+    [
+      0.347944,
+      "A purgar os ficheiros de configuração para libattica0 (0.2.0-1) ...\r\n"
+    ],
+    [
+      0.481506,
+      "A remover libaudclient2 (3.5~rc2-dmo1) ..."
+    ],
+    [
+      0.000244,
+      "\r\n"
+    ],
+    [
+      0.293631,
+      "A purgar os ficheiros de configuração para libaudclient2 (3.5~rc2-dmo1) ...\r\n"
+    ],
+    [
+      0.498518,
+      "A remover libavformat55:i386 (6:10.1-1~bpo70+1) ..."
+    ],
+    [
+      0.000346,
+      "\r\n"
+    ],
+    [
+      0.321647,
+      "A purgar os ficheiros de configuração para libavformat55:i386 (6:10.1-1~bpo70+1) ...\r\n"
+    ],
+    [
+      0.485745,
+      "A remover libavcodec55:i386 (6:10.1-1~bpo70+1) ..."
+    ],
+    [
+      0.001122,
+      "\r\n"
+    ],
+    [
+      0.897329,
+      "A purgar os ficheiros de configuração para libavcodec55:i386 (6:10.1-1~bpo70+1) ...\r\n"
+    ],
+    [
+      0.485567,
+      "A remover libavresample1:i386 (6:10.1-1~bpo70+1) ..."
+    ],
+    [
+      0.000342,
+      "\r\n"
+    ],
+    [
+      0.333570,
+      "A purgar os ficheiros de configuração para libavresample1:i386 (6:10.1-1~bpo70+1) ...\r\n"
+    ],
+    [
+      0.468503,
+      "A remover libavutil53:i386 (6:10.1-1~bpo70+1) ..."
+    ],
+    [
+      0.000248,
+      "\r\n"
+    ],
+    [
+      0.318969,
+      "A purgar os ficheiros de configuração para libavutil53:i386 (6:10.1-1~bpo70+1) ...\r\n"
+    ],
+    [
+      0.476232,
+      "A remover libclucene0ldbl (0.9.21b-2+b1) ..."
+    ],
+    [
+      0.000244,
+      "\r\n"
+    ],
+    [
+      0.341775,
+      "A purgar os ficheiros de configuração para libclucene0ldbl (0.9.21b-2+b1) ...\r\n"
+    ],
+    [
+      0.483905,
+      "A remover libcolamd2.7.1 (1:3.4.0-3) ..."
+    ],
+    [
+      0.000342,
+      "\r\n"
+    ],
+    [
+      0.327445,
+      "A purgar os ficheiros de configuração para libcolamd2.7.1 (1:3.4.0-3) ...\r\n"
+    ],
+    [
+      0.486156,
+      "A remover libcolord1:i386 (0.1.21-1) ..."
+    ],
+    [
+      0.000241,
+      "\r\n"
+    ],
+    [
+      0.315850,
+      "A purgar os ficheiros de configuração para libcolord1:i386 (0.1.21-1) ...\r\n"
+    ],
+    [
+      0.485122,
+      "A remover libdconf0:i386 (0.12.1-3) ..."
+    ],
+    [
+      0.000244,
+      "\r\n"
+    ],
+    [
+      0.316397,
+      "A purgar os ficheiros de configuração para libdconf0:i386 (0.12.1-3) ...\r\n"
+    ],
+    [
+      0.494414,
+      "A remover libdirac-dev:i386 (1.0.2-7.1) ..."
+    ],
+    [
+      0.000242,
+      "\r\n"
+    ],
+    [
+      0.571226,
+      "A remover libmusicbrainz3-6 (3.0.2-2.1) ..."
+    ],
+    [
+      0.000244,
+      "\r\n"
+    ],
+    [
+      0.336820,
+      "A purgar os ficheiros de configuração para libmusicbrainz3-6 (3.0.2-2.1) ...\r\n"
+    ],
+    [
+      0.545571,
+      "A remover libdiscid0:i386 (0.6.1-3) ..."
+    ],
+    [
+      0.000239,
+      "\r\n"
+    ],
+    [
+      0.314492,
+      "A purgar os ficheiros de configuração para libdiscid0:i386 (0.6.1-3) ...\r\n"
+    ],
+    [
+      0.523262,
+      "A remover libdrm-nouveau1a:i386 (2.4.40-1~deb7u2) ..."
+    ],
+    [
+      0.000325,
+      "\r\n"
+    ],
+    [
+      0.338050,
+      "A purgar os ficheiros de configuração para libdrm-nouveau1a:i386 (2.4.40-1~deb7u2) ...\r\n"
+    ],
+    [
+      0.496818,
+      "A remover libdvbpsi7 (0.2.2-1) ..."
+    ],
+    [
+      0.000365,
+      "\r\n"
+    ],
+    [
+      0.347539,
+      "A purgar os ficheiros de configuração para libdvbpsi7 (0.2.2-1) ...\r\n"
+    ],
+    [
+      0.479363,
+      "A remover libmatroska5:i386 (1.3.0-2) ..."
+    ],
+    [
+      0.000223,
+      "\r\n"
+    ],
+    [
+      0.330833,
+      "A purgar os ficheiros de configuração para libmatroska5:i386 (1.3.0-2) ...\r\n"
+    ],
+    [
+      0.504909,
+      "A remover libebml3:i386 (1.2.2-2) ..."
+    ],
+    [
+      0.000239,
+      "\r\n"
+    ],
+    [
+      0.273448,
+      "A purgar os ficheiros de configuração para libebml3:i386 (1.2.2-2) ...\r\n"
+    ],
+    [
+      0.511162,
+      "A remover liblognorm0 (0.3.4-1) ..."
+    ],
+    [
+      0.000245,
+      "\r\n"
+    ],
+    [
+      0.323162,
+      "A purgar os ficheiros de configuração para liblognorm0 (0.3.4-1) ...\r\n"
+    ],
+    [
+      0.488417,
+      "A remover libee0 (0.4.1-1.1) ..."
+    ],
+    [
+      0.000262,
+      "\r\n"
+    ],
+    [
+      0.323556,
+      "A purgar os ficheiros de configuração para libee0 (0.4.1-1.1) ...\r\n"
+    ],
+    [
+      0.474181,
+      "A remover libexiv2-12 (0.23-1) ..."
+    ],
+    [
+      0.000242,
+      "\r\n"
+    ],
+    [
+      0.319368,
+      "A purgar os ficheiros de configuração para libexiv2-12 (0.23-1) ...\r\n"
+    ],
+    [
+      0.492614,
+      "A remover libffms2-2 (2.17-1) ..."
+    ],
+    [
+      0.000338,
+      "\r\n"
+    ],
+    [
+      0.326623,
+      "A purgar os ficheiros de configuração para libffms2-2 (2.17-1) ...\r\n"
+    ],
+    [
+      0.492228,
+      "A remover libfftw3-3:i386 (3.3.4-2) ..."
+    ],
+    [
+      0.000242,
+      "\r\n"
+    ],
+    [
+      0.694899,
+      "A remover libfftw3-long3:i386 (3.3.4-2) ..."
+    ],
+    [
+      0.000241,
+      "\r\n"
+    ],
+    [
+      0.319497,
+      "A purgar os ficheiros de configuração para libfftw3-long3:i386 (3.3.4-2) ...\r\n"
+    ],
+    [
+      0.486758,
+      "A remover libgail-3-0:i386 (3.14.5-1+deb8u1) ..."
+    ],
+    [
+      0.000234,
+      "\r\n"
+    ],
+    [
+      0.310457,
+      "A purgar os ficheiros de configuração para libgail-3-0:i386 (3.14.5-1+deb8u1) ...\r\n"
+    ],
+    [
+      0.494538,
+      "A remover libgcr-3-1:i386 (3.14.0-2) ..."
+    ],
+    [
+      0.000244,
+      "\r\n"
+    ],
+    [
+      0.516399,
+      "A remover libgcrypt11-dev (1.5.4-3+really1.6.3-2) ..."
+    ],
+    [
+      0.000331,
+      "\r\n"
+    ],
+    [
+      0.508419,
+      "A remover libgphoto2-2:i386 (2.4.14-2) ..."
+    ],
+    [
+      0.000243,
+      "\r\n"
+    ],
+    [
+      0.379265,
+      "A purgar os ficheiros de configuração para libgphoto2-2:i386 (2.4.14-2) ...\r\n"
+    ],
+    [
+      0.561394,
+      "A remover libgd2-xpm:i386 (2.0.36~rc1~dfsg-6.1+deb7u1) ..."
+    ],
+    [
+      0.000338,
+      "\r\n"
+    ],
+    [
+      0.324440,
+      "A purgar os ficheiros de configuração para libgd2-xpm:i386 (2.0.36~rc1~dfsg-6.1+deb7u1) ...\r\n"
+    ],
+    [
+      0.492084,
+      "A remover libgdu0 (3.0.2-3) ..."
+    ],
+    [
+      0.000338,
+      "\r\n"
+    ],
+    [
+      0.376758,
+      "A purgar os ficheiros de configuração para libgdu0 (3.0.2-3) ...\r\n"
+    ],
+    [
+      0.514111,
+      "A remover libgeoclue0:i386 (0.12.99-4) ..."
+    ],
+    [
+      0.000243,
+      "\r\n"
+    ],
+    [
+      0.333559,
+      "A purgar os ficheiros de configuração para libgeoclue0:i386 (0.12.99-4) ...\r\n"
+    ],
+    [
+      0.482759,
+      "A remover libglew1.7:i386 (1.7.0-3) ..."
+    ],
+    [
+      0.000300,
+      "\r\n"
+    ],
+    [
+      0.317129,
+      "A purgar os ficheiros de configuração para libglew1.7:i386 (1.7.0-3) ...\r\n"
+    ],
+    [
+      0.491423,
+      "A remover libgnutlsxx27:i386 (2.12.20-8+deb7u3) ..."
+    ],
+    [
+      0.000361,
+      "\r\n"
+    ],
+    [
+      0.344231,
+      "A purgar os ficheiros de configuração para libgnutlsxx27:i386 (2.12.20-8+deb7u3) ...\r\n"
+    ],
+    [
+      0.485591,
+      "A remover libgphoto2-port0:i386 (2.4.14-2) ..."
+    ],
+    [
+      0.000246,
+      "\r\n"
+    ],
+    [
+      0.309741,
+      "A purgar os ficheiros de configuração para libgphoto2-port0:i386 (2.4.14-2) ...\r\n"
+    ],
+    [
+      0.505296,
+      "A remover libgssglue1:i386 (0.4-2) ..."
+    ],
+    [
+      0.000244,
+      "\r\n"
+    ],
+    [
+      0.324137,
+      "A purgar os ficheiros de configuração para libgssglue1:i386 (0.4-2) ...\r\n"
+    ],
+    [
+      0.493125,
+      "A remover libhsqldb-java (2.2.9+dfsg-4) ..."
+    ],
+    [
+      0.000245,
+      "\r\n"
+    ],
+    [
+      0.707741,
+      "A remover libicu48:i386 (4.8.1.1-12+deb7u3) ..."
+    ],
+    [
+      0.000341,
+      "\r\n"
+    ],
+    [
+      0.309266,
+      "A purgar os ficheiros de configuração para libicu48:i386 (4.8.1.1-12+deb7u3) ...\r\n"
+    ],
+    [
+      0.477892,
+      "A remover liborbit2:i386 (1:2.14.19-0.3) ..."
+    ],
+    [
+      0.000244,
+      "\r\n"
+    ],
+    [
+      0.333319,
+      "A purgar os ficheiros de configuração para liborbit2:i386 (1:2.14.19-0.3) ...\r\n"
+    ],
+    [
+      0.486520,
+      "A remover libidl0:i386 (0.8.14-0.4+b1) ..."
+    ],
+    [
+      0.000342,
+      "\r\n"
+    ],
+    [
+      0.316237,
+      "A purgar os ficheiros de configuração para libidl0:i386 (0.8.14-0.4+b1) ...\r\n"
+    ],
+    [
+      0.528883,
+      "A remover libimobiledevice2 (1.1.1-4) ..."
+    ],
+    [
+      0.000259,
+      "\r\n"
+    ],
+    [
+      0.299331,
+      "A purgar os ficheiros de configuração para libimobiledevice2 (1.1.1-4) ...\r\n"
+    ],
+    [
+      0.507486,
+      "A remover libwebkitgtk-1.0-0:i386 (2.4.8-2) ..."
+    ],
+    [
+      0.000244,
+      "\r\n"
+    ],
+    [
+      0.320010,
+      "A purgar os ficheiros de configuração para libwebkitgtk-1.0-0:i386 (2.4.8-2) ...\r\n"
+    ],
+    [
+      0.482258,
+      "A remover libjavascriptcoregtk-1.0-0:i386 (2.4.8-2) ..."
+    ],
+    [
+      0.000245,
+      "\r\n"
+    ],
+    [
+      0.278734,
+      "A purgar os ficheiros de configuração para libjavascriptcoregtk-1.0-0:i386 (2.4.8-2) ...\r\n"
+    ],
+    [
+      1.313570,
+      "A remover libjim0debian2:i386 (0.73-3) ..."
+    ],
+    [
+      0.000246,
+      "\r\n"
+    ],
+    [
+      0.301191,
+      "A purgar os ficheiros de configuração para libjim0debian2:i386 (0.73-3) ...\r\n"
+    ],
+    [
+      0.466154,
+      "A remover libkadm5clnt-mit8:i386 (1.10.1+dfsg-5+deb7u3) ..."
+    ],
+    [
+      0.000248,
+      "\r\n"
+    ],
+    [
+      0.312776,
+      "A purgar os ficheiros de configuração para libkadm5clnt-mit8:i386 (1.10.1+dfsg-5+deb7u3) ...\r\n"
+    ],
+    [
+      0.512776,
+      "A remover libkdb5-6:i386 (1.10.1+dfsg-5+deb7u3) ..."
+    ],
+    [
+      0.000244,
+      "\r\n"
+    ],
+    [
+      0.258462,
+      "A purgar os ficheiros de configuração para libkdb5-6:i386 (1.10.1+dfsg-5+deb7u3) ...\r\n"
+    ],
+    [
+      0.481246,
+      "A remover libkdecorations4 (4:4.8.4-6) ..."
+    ],
+    [
+      0.000340,
+      "\r\n"
+    ],
+    [
+      0.319904,
+      "A purgar os ficheiros de configuração para libkdecorations4 (4:4.8.4-6) ...\r\n"
+    ],
+    [
+      0.482925,
+      "A remover libkidletime4 (4:4.14.2-5) ..."
+    ],
+    [
+      0.000337,
+      "\r\n"
+    ],
+    [
+      0.310700,
+      "A purgar os ficheiros de configuração para libkidletime4 (4:4.14.2-5) ...\r\n"
+    ],
+    [
+      0.482793,
+      "A remover liblavplay-2.0-0 (2:2.0.0-dmo5) ..."
+    ],
+    [
+      0.000243,
+      "\r\n"
+    ],
+    [
+      0.311052,
+      "A purgar os ficheiros de configuração para liblavplay-2.0-0 (2:2.0.0-dmo5) ...\r\n"
+    ],
+    [
+      0.488773,
+      "A remover liblavfile-2.0-0 (2:2.0.0-dmo5) ..."
+    ],
+    [
+      0.000342,
+      "\r\n"
+    ],
+    [
+      0.322111,
+      "A purgar os ficheiros de configuração para liblavfile-2.0-0 (2:2.0.0-dmo5) ...\r\n"
+    ],
+    [
+      0.674485,
+      "A remover liblavjpeg-2.0-0 (2:2.0.0-dmo5) ..."
+    ],
+    [
+      0.000246,
+      "\r\n"
+    ],
+    [
+      0.293713,
+      "A purgar os ficheiros de configuração para liblavjpeg-2.0-0 (2:2.0.0-dmo5) ...\r\n"
+    ],
+    [
+      0.505906,
+      "A remover libpoppler19:i386 (0.18.4-6) ..."
+    ],
+    [
+      0.000246,
+      "\r\n"
+    ],
+    [
+      0.321785,
+      "A purgar os ficheiros de configuração para libpoppler19:i386 (0.18.4-6) ...\r\n"
+    ],
+    [
+      0.497323,
+      "A remover liblcms1:i386 (1.19.dfsg2-1.2+deb7u1) ..."
+    ],
+    [
+      0.000240,
+      "\r\n"
+    ],
+    [
+      0.321322,
+      "A purgar os ficheiros de configuração para liblcms1:i386 (1.19.dfsg2-1.2+deb7u1) ...\r\n"
+    ],
+    [
+      0.486436,
+      "A remover libminiupnpc5 (1.5-2) ..."
+    ],
+    [
+      0.000340,
+      "\r\n"
+    ],
+    [
+      0.323175,
+      "A purgar os ficheiros de configuração para libminiupnpc5 (1.5-2) ...\r\n"
+    ],
+    [
+      0.475531,
+      "A remover libmplex2-2.0-0 (2:2.0.0-dmo5) ..."
+    ],
+    [
+      0.000242,
+      "\r\n"
+    ],
+    [
+      0.287834,
+      "A purgar os ficheiros de configuração para libmplex2-2.0-0 (2:2.0.0-dmo5) ...\r\n"
+    ],
+    [
+      0.479625,
+      "A remover libmpeg2encpp-2.0-0 (2:2.0.0-dmo5) ..."
+    ],
+    [
+      0.000243,
+      "\r\n"
+    ],
+    [
+      0.273441,
+      "A purgar os ficheiros de configuração para libmpeg2encpp-2.0-0 (2:2.0.0-dmo5) ...\r\n"
+    ],
+    [
+      0.487612,
+      "A remover libmjpegutils-2.0-0 (2:2.0.0-dmo5) ..."
+    ],
+    [
+      0.000242,
+      "\r\n"
+    ],
+    [
+      0.297989,
+      "A purgar os ficheiros de configuração para libmjpegutils-2.0-0 (2:2.0.0-dmo5) ...\r\n"
+    ],
+    [
+      0.492420,
+      "A remover libmkv0:i386 (0.6.5.1-dmo3) ..."
+    ],
+    [
+      0.000242,
+      "\r\n"
+    ],
+    [
+      0.276256,
+      "A purgar os ficheiros de configuração para libmkv0:i386 (0.6.5.1-dmo3) ...\r\n"
+    ],
+    [
+      0.489107,
+      "A remover libmowgli2:i386 (1.0.0-4) ..."
+    ],
+    [
+      0.000242,
+      "\r\n"
+    ],
+    [
+      0.363931,
+      "A purgar os ficheiros de configuração para libmowgli2:i386 (1.0.0-4) ...\r\n"
+    ],
+    [
+      0.484944,
+      "A remover libntfs10 (2.0.0-1+b1) ..."
+    ],
+    [
+      0.000339,
+      "\r\n"
+    ],
+    [
+      0.309817,
+      "A purgar os ficheiros de configuração para libntfs10 (2.0.0-1+b1) ...\r\n"
+    ],
+    [
+      0.495056,
+      "A remover libodbc1:i386 (2.3.1-3) ..."
+    ],
+    [
+      0.001492,
+      "\r\n"
+    ],
+    [
+      0.297880,
+      "A purgar os ficheiros de configuração para libodbc1:i386 (2.3.1-3) ...\r\n"
+    ],
+    [
+      0.504602,
+      "A remover libp11-kit-dev (0.20.7-1) ..."
+    ],
+    [
+      0.000467,
+      "\r\n"
+    ],
+    [
+      0.622896,
+      "A remover libparted0debian1:i386 (2.3-12) ..."
+    ],
+    [
+      0.000246,
+      "\r\n"
+    ],
+    [
+      0.316681,
+      "A purgar os ficheiros de configuração para libparted0debian1:i386 (2.3-12) ...\r\n"
+    ],
+    [
+      0.482984,
+      "A remover libusbmuxd1 (1.0.7-2) ..."
+    ],
+    [
+      0.000245,
+      "\r\n"
+    ],
+    [
+      0.305340,
+      "A purgar os ficheiros de configuração para libusbmuxd1 (1.0.7-2) ...\r\n"
+    ],
+    [
+      0.478752,
+      "A remover libplist1 (1.8-1) ..."
+    ],
+    [
+      0.000247,
+      "\r\n"
+    ],
+    [
+      0.288687,
+      "A purgar os ficheiros de configuração para libplist1 (1.8-1) ...\r\n"
+    ],
+    [
+      0.495198,
+      "A remover libproxy-tools (0.4.11-4+b2) ..."
+    ],
+    [
+      0.000246,
+      "\r\n"
+    ],
+    [
+      0.516526,
+      "A remover libproxy0:i386 (0.3.1-6) ..."
+    ],
+    [
+      0.000369,
+      "\r\n"
+    ],
+    [
+      0.323140,
+      "A purgar os ficheiros de configuração para libproxy0:i386 (0.3.1-6) ...\r\n"
+    ],
+    [
+      0.493904,
+      "A remover libpthread-stubs0:i386 (0.3-3) ..."
+    ],
+    [
+      0.000222,
+      "\r\n"
+    ],
+    [
+      0.544165,
+      "A remover libssh-4:i386 (0.6.3-4) ..."
+    ],
+    [
+      0.000244,
+      "\r\n"
+    ],
+    [
+      0.304210,
+      "A purgar os ficheiros de configuração para libssh-4:i386 (0.6.3-4) ...\r\n"
+    ],
+    [
+      0.466923,
+      "A remover libsystemd-login0:i386 (215-17+deb8u2) ..."
+    ],
+    [
+      0.000248,
+      "\r\n"
+    ],
+    [
+      0.311276,
+      "A purgar os ficheiros de configuração para libsystemd-login0:i386 (215-17+deb8u2) ...\r\n"
+    ],
+    [
+      0.467787,
+      "A remover libtar0 (1.2.20-4+b1) ..."
+    ],
+    [
+      0.000239,
+      "\r\n"
+    ],
+    [
+      0.293301,
+      "A purgar os ficheiros de configuração para libtar0 (1.2.20-4+b1) ...\r\n"
+    ],
+    [
+      0.480341,
+      "A remover libtasn1-3-dev (2.13-2+deb7u2) ..."
+    ],
+    [
+      0.000241,
+      "\r\n"
+    ],
+    [
+      0.598338,
+      "A remover libtry-tiny-perl (0.22-1) ..."
+    ],
+    [
+      0.000242,
+      "\r\n"
+    ],
+    [
+      0.505764,
+      "A remover libts-0.0-0:i386 (1.0-11) ..."
+    ],
+    [
+      0.000240,
+      "\r\n"
+    ],
+    [
+      0.317128,
+      "A purgar os ficheiros de configuração para libts-0.0-0:i386 (1.0-11) ...\r\n"
+    ],
+    [
+      0.494609,
+      "A remover libupower-glib1 (0.9.17-1) ..."
+    ],
+    [
+      0.000232,
+      "\r\n"
+    ],
+    [
+      0.334188,
+      "A purgar os ficheiros de configuração para libupower-glib1 (0.9.17-1) ...\r\n"
+    ],
+    [
+      0.533625,
+      "A remover libvte9 (1:0.28.2-5) ..."
+    ],
+    [
+      0.000242,
+      "\r\n"
+    ],
+    [
+      0.303333,
+      "A purgar os ficheiros de configuração para libvte9 (1:0.28.2-5) ...\r\n"
+    ],
+    [
+      0.481032,
+      "A remover libvte-common (1:0.28.2-5) ..."
+    ],
+    [
+      0.000240,
+      "\r\n"
+    ],
+    [
+      0.718469,
+      "A remover libwebkitgtk-1.0-common (2.4.8-2) ..."
+    ],
+    [
+      0.000244,
+      "\r\n"
+    ],
+    [
+      0.562022,
+      "A remover libwebp2:i386 (0.1.3-3+nmu1) ..."
+    ],
+    [
+      0.000242,
+      "\r\n"
+    ],
+    [
+      0.304871,
+      "A purgar os ficheiros de configuração para libwebp2:i386 (0.1.3-3+nmu1) ...\r\n"
+    ],
+    [
+      0.506432,
+      "A remover libwine-alsa (1.6.2-20) ..."
+    ],
+    [
+      0.000269,
+      "\r\n"
+    ],
+    [
+      0.287466,
+      "A purgar os ficheiros de configuração para libwine-alsa (1.6.2-20) ...\r\n"
+    ],
+    [
+      0.484932,
+      "A remover libwine-bin (1.6.2-20) ..."
+    ],
+    [
+      0.000241,
+      "\r\n"
+    ],
+    [
+      0.258910,
+      "A purgar os ficheiros de configuração para libwine-bin (1.6.2-20) ...\r\n"
+    ],
+    [
+      0.484665,
+      "A remover libwine-gecko-1.4 (1.4+dfsg1-3) ..."
+    ],
+    [
+      0.000332,
+      "\r\n"
+    ],
+    [
+      0.953262,
+      "A remover libwine-gl:i386 (1.6.2-20) ..."
+    ],
+    [
+      0.000343,
+      "\r\n"
+    ],
+    [
+      0.791179,
+      "A purgar os ficheiros de configuração para libwine-gl:i386 (1.6.2-20) ...\r\n"
+    ],
+    [
+      0.476122,
+      "A remover libx264-132:i386 (3:0.132.2310+git76a5c3a-dmo1) ..."
+    ],
+    [
+      0.000341,
+      "\r\n"
+    ],
+    [
+      0.326395,
+      "A purgar os ficheiros de configuração para libx264-132:i386 (3:0.132.2310+git76a5c3a-dmo1) ...\r\n"
+    ],
+    [
+      0.476241,
+      "A remover libxdo2 (1:2.20100701.2961-3+deb7u3) ..."
+    ],
+    [
+      0.000244,
+      "\r\n"
+    ],
+    [
+      0.326729,
+      "A purgar os ficheiros de configuração para libxdo2 (1:2.20100701.2961-3+deb7u3) ...\r\n"
+    ],
+    [
+      0.464583,
+      "A remover libxfce4util4 (4.8.2-1) ..."
+    ],
+    [
+      0.000244,
+      "\r\n"
+    ],
+    [
+      0.313354,
+      "A purgar os ficheiros de configuração para libxfce4util4 (4.8.2-1) ...\r\n"
+    ],
+    [
+      0.491711,
+      "A remover libxmmsclient6 (0.8+dfsg-12) ..."
+    ],
+    [
+      0.000338,
+      "\r\n"
+    ],
+    [
+      0.326968,
+      "A purgar os ficheiros de configuração para libxmmsclient6 (0.8+dfsg-12) ...\r\n"
+    ],
+    [
+      0.492895,
+      "A remover python-aptdaemon.gtk3widgets (1.1.1-4) ..."
+    ],
+    [
+      0.000338,
+      "\r\n"
+    ],
+    [
+      0.740396,
+      "A remover python-aptdaemon (1.1.1-4) ..."
+    ],
+    [
+      0.000239,
+      "\r\n"
+    ],
+    [
+      0.693278,
+      "A remover python-defer (1.0.6-2) ..."
+    ],
+    [
+      0.000275,
+      "\r\n"
+    ],
+    [
+      0.754726,
+      "A remover python-fpconst (0.7.2-5) ..."
+    ],
+    [
+      0.000344,
+      "\r\n"
+    ],
+    [
+      0.719081,
+      "A remover python-gnupginterface (0.3.2-9.1) ..."
+    ],
+    [
+      0.000243,
+      "\r\n"
+    ],
+    [
+      0.669966,
+      "A remover python-packagekit (0.7.6-3) ..."
+    ],
+    [
+      0.000254,
+      "\r\n"
+    ],
+    [
+      0.750529,
+      "A remover python-software-properties (0.92.25debian1) ..."
+    ],
+    [
+      0.000340,
+      "\r\n"
+    ],
+    [
+      0.742935,
+      "A remover python3.2 (3.2.3-7) ..."
+    ],
+    [
+      0.000344,
+      "\r\n"
+    ],
+    [
+      1.225609,
+      "A purgar os ficheiros de configuração para python3.2 (3.2.3-7) ...\r\n"
+    ],
+    [
+      0.550990,
+      "A remover python3.2-minimal (3.2.3-7) ..."
+    ],
+    [
+      0.001086,
+      "\r\n"
+    ],
+    [
+      0.060109,
+      "Unlinking and removing bytecode for runtime python3.2"
+    ],
+    [
+      0.000226,
+      "\r\n"
+    ],
+    [
+      1.103119,
+      "A purgar os ficheiros de configuração para python3.2-minimal (3.2.3-7) ...\r\n"
+    ],
+    [
+      0.494209,
+      "A remover ruby-archive-tar-minitar (0.5.2-2) ..."
+    ],
+    [
+      0.000337,
+      "\r\n"
+    ],
+    [
+      0.535845,
+      "A remover ruby-json (1.8.1-1+b2) ..."
+    ],
+    [
+      0.000234,
+      "\r\n"
+    ],
+    [
+      0.561845,
+      "A remover rubygems (1.8.24-1) ..."
+    ],
+    [
+      0.000238,
+      "\r\n"
+    ],
+    [
+      0.343819,
+      "A purgar os ficheiros de configuração para rubygems (1.8.24-1) ...\r\n"
+    ],
+    [
+      0.504118,
+      "A remover shared-desktop-ontologies (0.11.0-1) ..."
+    ],
+    [
+      0.001678,
+      "\r\n"
+    ],
+    [
+      0.562986,
+      "A remover tsconf (1.0-11) ..."
+    ],
+    [
+      0.000337,
+      "\r\n"
+    ],
+    [
+      0.256806,
+      "A purgar os ficheiros de configuração para tsconf (1.0-11) ...\r\n"
+    ],
+    [
+      0.484158,
+      "A remover wine-bin (1.6.2-20) ..."
+    ],
+    [
+      0.000338,
+      "\r\n"
+    ],
+    [
+      0.267645,
+      "A purgar os ficheiros de configuração para wine-bin (1.6.2-20) ...\r\n"
+    ],
+    [
+      0.493505,
+      "A remover wwwconfig-common (0.2.2) ..."
+    ],
+    [
+      0.000243,
+      "\r\n"
+    ],
+    [
+      0.418162,
+      "A processar 'triggers' para install-info (5.2.0.dfsg.1-6) ..."
+    ],
+    [
+      0.000328,
+      "\r\n"
+    ],
+    [
+      0.721249,
+      "install-info: warning: no info dir entry in `/usr/share/info/gmpopenh264.info.gz'\r\n"
+    ],
+    [
+      0.177957,
+      "A processar 'triggers' para man-db (2.7.0.2-5) ...\r\n"
+    ],
+    [
+      5.289299,
+      "A processar 'triggers' para libc-bin (2.19-18+deb8u1) ...\r\n"
+    ],
+    [
+      0.227800,
+      "A processar 'triggers' para mime-support (3.58) ..."
+    ],
+    [
+      0.000326,
+      "\r\n"
+    ],
+    [
+      0.591718,
+      "A processar 'triggers' para python-support (1.0.15) ...\r\n"
+    ],
+    [
+      0.274747,
+      "A processar 'triggers' para menu (2.1.47) ...\r\n"
+    ],
+    [
+      0.795815,
+      "A processar 'triggers' para gnome-menus (3.13.3-6) ...\r\n"
+    ],
+    [
+      0.167618,
+      "A processar 'triggers' para desktop-file-utils (0.22-1) ...\r\n"
+    ],
+    [
+      2.122772,
+      "\u001b[0m"
+    ],
+    [
+      0.009751,
+      "\u001b]0;edps: edps@debian: /home/edps\u0007"
+    ],
+    [
+      0.008127,
+      "\u001b[00m\u001b[0;90m----------------------------------------------------------------------- 11:31:10\r"
+    ],
+    [
+      0.005411,
+      "\r\n"
+    ],
+    [
+      0.000291,
+      "\u001b[00medps@debian:~$ \u001b[00m\u001b[1;29m"
+    ],
+    [
+      2.039016,
+      "sudo apt-get autoremove --purge"
+    ],
+    [
+      0.791539,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.047173,
+      "\rLendo listas de pacotes... 0%\r"
+    ],
+    [
+      0.023566,
+      "\rLendo listas de pacotes... 100%\r"
+    ],
+    [
+      0.000204,
+      "\rLendo listas de pacotes... Pronto\r"
+    ],
+    [
+      0.000110,
+      "\r\n"
+    ],
+    [
+      0.010896,
+      "\rConstruindo árvore de dependências... 0%\r"
+    ],
+    [
+      0.000245,
+      "\rConstruindo árvore de dependências... 0%\r"
+    ],
+    [
+      0.052350,
+      "\rConstruindo árvore de dependências... 50%\r"
+    ],
+    [
+      0.000214,
+      "\rConstruindo árvore de dependências... 50%\r"
+    ],
+    [
+      0.329392,
+      "\rConstruindo árvore de dependências       \r"
+    ],
+    [
+      0.000213,
+      "\r\n"
+    ],
+    [
+      0.000109,
+      "\rLendo informação de estado... 0%  \r"
+    ],
+    [
+      0.000272,
+      "\rLendo informação de estado... 0%\r"
+    ],
+    [
+      0.012013,
+      "\rLendo informação de estado... Pronto\r"
+    ],
+    [
+      0.000177,
+      "\r\n"
+    ],
+    [
+      0.634992,
+      "0 pacotes atualizados, 0 pacotes novos instalados, 0 a serem removidos e 90 não atualizados."
+    ],
+    [
+      0.000197,
+      "\r\n"
+    ],
+    [
+      0.005748,
+      "\u001b[0m"
+    ],
+    [
+      0.009262,
+      "\u001b]0;edps: edps@debian: /home/edps\u0007\u001b[00m\u001b[0;90m----------------------------------------------------------------------- 11:31:13\r\r\n\u001b[00medps@debian:~$ \u001b[00m\u001b[1;29m"
+    ],
+    [
+      0.954609,
+      "sudo deborphan | xargs sudo apt-get -y remove --p"
+    ],
+    [
+      0.001776,
+      "u"
+    ],
+    [
+      0.000321,
+      "r"
+    ],
+    [
+      0.000306,
+      "g"
+    ],
+    [
+      0.000305,
+      "e"
+    ],
+    [
+      2.493099,
+      "\r\n\u001b[0m\u001b[0m"
+    ],
+    [
+      0.216244,
+      "\rLendo listas de pacotes... 0%\r"
+    ],
+    [
+      0.007882,
+      "\rLendo listas de pacotes... 100%\r"
+    ],
+    [
+      0.000253,
+      "\rLendo listas de pacotes... Pronto\r"
+    ],
+    [
+      0.000111,
+      "\r\n"
+    ],
+    [
+      0.012816,
+      "\rConstruindo árvore de dependências... 0%\r"
+    ],
+    [
+      0.000224,
+      "\rConstruindo árvore de dependências... 0%\r"
+    ],
+    [
+      0.053574,
+      "\rConstruindo árvore de dependências... 50%\r"
+    ],
+    [
+      0.000224,
+      "\rConstruindo árvore de dependências... 50%\r"
+    ],
+    [
+      0.323352,
+      "\rConstruindo árvore de dependências       \r"
+    ],
+    [
+      0.000204,
+      "\r\n"
+    ],
+    [
+      0.000110,
+      "\rLendo informação de estado... 0%  \r"
+    ],
+    [
+      0.000225,
+      "\rLendo informação de estado... 0%\r"
+    ],
+    [
+      0.013050,
+      "\rLendo informação de estado... Pronto\r"
+    ],
+    [
+      0.000183,
+      "\r\n"
+    ],
+    [
+      0.504343,
+      "Os seguintes pacotes foram instalados automaticamente e já não são necessários:"
+    ],
+    [
+      0.000194,
+      "\r\n"
+    ],
+    [
+      0.000103,
+      "  fonts-georgewilliams libass4 libavfilter3 libpostproc52 libswresample0"
+    ],
+    [
+      0.000089,
+      "\r\n"
+    ],
+    [
+      0.000100,
+      "Utilize 'apt-get autoremove' para os remover."
+    ],
+    [
+      0.000088,
+      "\r\n"
+    ],
+    [
+      0.746938,
+      "Os pacotes a seguir serão REMOVIDOS:"
+    ],
+    [
+      0.000193,
+      "\r\n"
+    ],
+    [
+      0.000106,
+      "  gstreamer0.10-ffmpeg* hpijs* libavdevice54* libboost-iostreams1.49.0*"
+    ],
+    [
+      0.000090,
+      "\r\n"
+    ],
+    [
+      0.000096,
+      "  libmpeg3-1* libx264-123* ttf-freefont* ttf-georgewilliams*"
+    ],
+    [
+      0.000089,
+      "\r\n"
+    ],
+    [
+      0.042498,
+      "0 pacotes atualizados, 0 pacotes novos instalados, 8 a serem removidos e 90 não atualizados."
+    ],
+    [
+      0.000193,
+      "\r\n"
+    ],
+    [
+      0.013763,
+      "Depois desta operação, 10,6 MB de espaço em disco serão liberados."
+    ],
+    [
+      0.000190,
+      "\r\n"
+    ],
+    [
+      0.000186,
+      "\r\r"
+    ],
+    [
+      1.034642,
+      "(Lendo banco de dados ... \r"
+    ],
+    [
+      0.012970,
+      "(Lendo banco de dados ... 5%\r"
+    ],
+    [
+      0.000316,
+      "(Lendo banco de dados ... 10%\r"
+    ],
+    [
+      0.000216,
+      "(Lendo banco de dados ... 15%\r"
+    ],
+    [
+      0.000210,
+      "(Lendo banco de dados ... 20%\r"
+    ],
+    [
+      0.000217,
+      "(Lendo banco de dados ... 25%\r"
+    ],
+    [
+      0.000210,
+      "(Lendo banco de dados ... 30%\r"
+    ],
+    [
+      0.000201,
+      "(Lendo banco de dados ... 35%\r"
+    ],
+    [
+      0.000218,
+      "(Lendo banco de dados ... 40%\r"
+    ],
+    [
+      0.002825,
+      "(Lendo banco de dados ... 45%\r"
+    ],
+    [
+      0.000303,
+      "(Lendo banco de dados ... 50%\r"
+    ],
+    [
+      0.015431,
+      "(Lendo banco de dados ... 55%\r"
+    ],
+    [
+      0.030754,
+      "(Lendo banco de dados ... 60%\r"
+    ],
+    [
+      0.018283,
+      "(Lendo banco de dados ... 65%\r"
+    ],
+    [
+      0.012017,
+      "(Lendo banco de dados ... 70%\r"
+    ],
+    [
+      0.008895,
+      "(Lendo banco de dados ... 75%\r"
+    ],
+    [
+      0.009306,
+      "(Lendo banco de dados ... 80%\r"
+    ],
+    [
+      0.013492,
+      "(Lendo banco de dados ... 85%\r"
+    ],
+    [
+      0.033552,
+      "(Lendo banco de dados ... 90%\r"
+    ],
+    [
+      0.047172,
+      "(Lendo banco de dados ... 95%\r"
+    ],
+    [
+      0.082991,
+      "(Lendo banco de dados ... 100%\r"
+    ],
+    [
+      0.000234,
+      "(Lendo banco de dados ... "
+    ],
+    [
+      0.000179,
+      "278999 ficheiros e directórios actualmente instalados.)"
+    ],
+    [
+      0.000117,
+      "\r\r\n"
+    ],
+    [
+      0.050799,
+      "A remover gstreamer0.10-ffmpeg:i386 (1:0.10.13-dmo2) ..."
+    ],
+    [
+      0.000232,
+      "\r\r\n"
+    ],
+    [
+      0.529428,
+      "A remover hpijs (3.12.6-3.1+deb7u1) ..."
+    ],
+    [
+      0.000341,
+      "\r\r\n"
+    ],
+    [
+      0.499203,
+      "A remover libavdevice54:i386 (10:1.2.12-dmo1+wheezy+bp1) ..."
+    ],
+    [
+      0.000340,
+      "\r\r\n"
+    ],
+    [
+      0.362761,
+      "A purgar os ficheiros de configuração para libavdevice54:i386 (10:1.2.12-dmo1+wheezy+bp1) ...\r\r\n"
+    ],
+    [
+      0.466319,
+      "A remover libboost-iostreams1.49.0 (1.49.0-3.2) ..."
+    ],
+    [
+      0.000243,
+      "\r\r\n"
+    ],
+    [
+      0.304165,
+      "A purgar os ficheiros de configuração para libboost-iostreams1.49.0 (1.49.0-3.2) ...\r\r\n"
+    ],
+    [
+      0.481574,
+      "A remover libmpeg3-1 (1.5.4-5) ..."
+    ],
+    [
+      0.000242,
+      "\r\r\n"
+    ],
+    [
+      0.311297,
+      "A purgar os ficheiros de configuração para libmpeg3-1 (1.5.4-5) ...\r\r\n"
+    ],
+    [
+      0.484981,
+      "A remover libx264-123:i386 (2:0.123.2189+git35cf912-1) ..."
+    ],
+    [
+      0.000243,
+      "\r\r\n"
+    ],
+    [
+      0.309951,
+      "A purgar os ficheiros de configuração para libx264-123:i386 (2:0.123.2189+git35cf912-1) ...\r\r\n"
+    ],
+    [
+      0.488901,
+      "A remover ttf-freefont (20120503-4) ..."
+    ],
+    [
+      0.000237,
+      "\r\r\n"
+    ],
+    [
+      0.487668,
+      "A remover ttf-georgewilliams (20031023-2) ..."
+    ],
+    [
+      0.000241,
+      "\r\r\n"
+    ],
+    [
+      0.418690,
+      "A processar 'triggers' para libc-bin (2.19-18+deb8u1) ...\r\r\n"
+    ],
+    [
+      2.156027,
+      "\u001b[0m"
+    ],
+    [
+      0.011905,
+      "\u001b]0;edps: edps@debian: /home/edps\u0007"
+    ],
+    [
+      0.001431,
+      "\u001b[00m\u001b[0;90m----------------------------------------------------------------------- 11:31:28\r"
+    ],
+    [
+      0.000173,
+      "\r\n"
+    ],
+    [
+      0.000163,
+      "\u001b[00medps@debian:~$ \u001b[00m\u001b[1;29m"
+    ],
+    [
+      1.922371,
+      "sudo deborphan | xargs sudo apt-get -y remove --purge"
+    ],
+    [
+      0.571528,
+      "\r\n\u001b[0m\u001b[0m"
+    ],
+    [
+      0.233787,
+      "\rLendo listas de pacotes... 0%\r"
+    ],
+    [
+      0.008087,
+      "\rLendo listas de pacotes... 100%\r"
+    ],
+    [
+      0.000229,
+      "\rLendo listas de pacotes... Pronto\r"
+    ],
+    [
+      0.000112,
+      "\r\n"
+    ],
+    [
+      0.012812,
+      "\rConstruindo árvore de dependências... 0%\r"
+    ],
+    [
+      0.000226,
+      "\rConstruindo árvore de dependências... 0%\r"
+    ],
+    [
+      0.053898,
+      "\rConstruindo árvore de dependências... 50%\r"
+    ],
+    [
+      0.000216,
+      "\rConstruindo árvore de dependências... 50%\r"
+    ],
+    [
+      0.322256,
+      "\rConstruindo árvore de dependências       \r"
+    ],
+    [
+      0.000200,
+      "\r\n"
+    ],
+    [
+      0.000109,
+      "\rLendo informação de estado... 0%  \r"
+    ],
+    [
+      0.000241,
+      "\rLendo informação de estado... 0%\r"
+    ],
+    [
+      0.012895,
+      "\rLendo informação de estado... Pronto\r"
+    ],
+    [
+      0.000184,
+      "\r\n"
+    ],
+    [
+      0.510155,
+      "Os seguintes pacotes foram instalados automaticamente e já não são necessários:"
+    ],
+    [
+      0.000196,
+      "\r\n"
+    ],
+    [
+      0.000103,
+      "  fonts-georgewilliams libass4 libpostproc52 libswresample0"
+    ],
+    [
+      0.000090,
+      "\r\n"
+    ],
+    [
+      0.000101,
+      "Utilize 'apt-get autoremove' para os remover."
+    ],
+    [
+      0.000088,
+      "\r\n"
+    ],
+    [
+      0.194480,
+      "Os pacotes a seguir serão REMOVIDOS:"
+    ],
+    [
+      0.000198,
+      "\r\n"
+    ],
+    [
+      0.000104,
+      "  libavfilter3*"
+    ],
+    [
+      0.000089,
+      "\r\n"
+    ],
+    [
+      0.042542,
+      "0 pacotes atualizados, 0 pacotes novos instalados, 1 a serem removidos e 90 não atualizados."
+    ],
+    [
+      0.000191,
+      "\r\n"
+    ],
+    [
+      0.014504,
+      "Depois desta operação, 1.732 kB de espaço em disco serão liberados."
+    ],
+    [
+      0.005421,
+      "\r\n"
+    ],
+    [
+      0.000237,
+      "\r\r"
+    ],
+    [
+      1.042647,
+      "(Lendo banco de dados ... \r"
+    ],
+    [
+      0.018254,
+      "(Lendo banco de dados ... 5%\r"
+    ],
+    [
+      0.000324,
+      "(Lendo banco de dados ... 10%\r"
+    ],
+    [
+      0.000213,
+      "(Lendo banco de dados ... 15%\r"
+    ],
+    [
+      0.000212,
+      "(Lendo banco de dados ... 20%\r"
+    ],
+    [
+      0.000215,
+      "(Lendo banco de dados ... 25%\r"
+    ],
+    [
+      0.000210,
+      "(Lendo banco de dados ... 30%\r"
+    ],
+    [
+      0.000205,
+      "(Lendo banco de dados ... 35%\r"
+    ],
+    [
+      0.000250,
+      "(Lendo banco de dados ... 40%\r"
+    ],
+    [
+      0.000217,
+      "(Lendo banco de dados ... 45%\r"
+    ],
+    [
+      0.000211,
+      "(Lendo banco de dados ... 50%\r"
+    ],
+    [
+      0.014637,
+      "(Lendo banco de dados ... 55%\r"
+    ],
+    [
+      0.031357,
+      "(Lendo banco de dados ... 60%\r"
+    ],
+    [
+      0.018010,
+      "(Lendo banco de dados ... 65%\r"
+    ],
+    [
+      0.011706,
+      "(Lendo banco de dados ... 70%\r"
+    ],
+    [
+      0.009232,
+      "(Lendo banco de dados ... 75%\r"
+    ],
+    [
+      0.009162,
+      "(Lendo banco de dados ... 80%\r"
+    ],
+    [
+      0.013900,
+      "(Lendo banco de dados ... 85%\r"
+    ],
+    [
+      0.027436,
+      "(Lendo banco de dados ... 90%\r"
+    ],
+    [
+      0.053783,
+      "(Lendo banco de dados ... 95%\r"
+    ],
+    [
+      0.081875,
+      "(Lendo banco de dados ... 100%\r"
+    ],
+    [
+      0.000234,
+      "(Lendo banco de dados ... "
+    ],
+    [
+      0.001018,
+      "278954 ficheiros e directórios actualmente instalados.)"
+    ],
+    [
+      0.000119,
+      "\r\r\n"
+    ],
+    [
+      0.049330,
+      "A remover libavfilter3:i386 (10:1.2.12-dmo1+wheezy+bp1) ..."
+    ],
+    [
+      0.000227,
+      "\r\r\n"
+    ],
+    [
+      0.379071,
+      "A purgar os ficheiros de configuração para libavfilter3:i386 (10:1.2.12-dmo1+wheezy+bp1) ...\r\r\n"
+    ],
+    [
+      0.372664,
+      "A processar 'triggers' para libc-bin (2.19-18+deb8u1) ..."
+    ],
+    [
+      0.000323,
+      "\r\r\n"
+    ],
+    [
+      2.169511,
+      "\u001b[0m"
+    ],
+    [
+      0.008033,
+      "\u001b]0;edps: edps@debian: /home/edps\u0007"
+    ],
+    [
+      0.001184,
+      "\u001b[00m\u001b[0;90m----------------------------------------------------------------------- 11:31:36\r"
+    ],
+    [
+      0.000172,
+      "\r\n"
+    ],
+    [
+      0.000165,
+      "\u001b[00medps@debian:~$ \u001b[00m\u001b[1;29m"
+    ],
+    [
+      1.339261,
+      "sudo deborphan | xargs sudo apt-get -y remove --purge"
+    ],
+    [
+      0.780810,
+      "\r\n\u001b[0m\u001b[0m"
+    ],
+    [
+      0.198817,
+      "\rLendo listas de pacotes... 0%\r"
+    ],
+    [
+      0.007996,
+      "\rLendo listas de pacotes... 100%\r"
+    ],
+    [
+      0.000190,
+      "\rLendo listas de pacotes... Pronto\r"
+    ],
+    [
+      0.000110,
+      "\r\n"
+    ],
+    [
+      0.012767,
+      "\rConstruindo árvore de dependências... 0%\r"
+    ],
+    [
+      0.000236,
+      "\rConstruindo árvore de dependências... 0%\r"
+    ],
+    [
+      0.053245,
+      "\rConstruindo árvore de dependências... 50%\r"
+    ],
+    [
+      0.000209,
+      "\rConstruindo árvore de dependências... 50%\r"
+    ],
+    [
+      0.331932,
+      "\rConstruindo árvore de dependências       \r"
+    ],
+    [
+      0.000201,
+      "\r\n"
+    ],
+    [
+      0.000109,
+      "\rLendo informação de estado... 0%  \r"
+    ],
+    [
+      0.000261,
+      "\rLendo informação de estado... 0%\r"
+    ],
+    [
+      0.012881,
+      "\rLendo informação de estado... Pronto\r"
+    ],
+    [
+      0.000185,
+      "\r\n"
+    ],
+    [
+      0.513019,
+      "O seguinte pacote foi instalado automaticamente e já não é necessário:"
+    ],
+    [
+      0.000197,
+      "\r\n"
+    ],
+    [
+      0.000102,
+      "  fonts-georgewilliams"
+    ],
+    [
+      0.000103,
+      "\r\n"
+    ],
+    [
+      0.000103,
+      "Utilize 'apt-get autoremove' para o remover."
+    ],
+    [
+      0.000088,
+      "\r\n"
+    ],
+    [
+      0.340579,
+      "Os pacotes a seguir serão REMOVIDOS:"
+    ],
+    [
+      0.000196,
+      "\r\n"
+    ],
+    [
+      0.000104,
+      "  libass4* libpostproc52* libswresample0*"
+    ],
+    [
+      0.000089,
+      "\r\n"
+    ],
+    [
+      0.040545,
+      "0 pacotes atualizados, 0 pacotes novos instalados, 3 a serem removidos e 90 não atualizados."
+    ],
+    [
+      0.000213,
+      "\r\n"
+    ],
+    [
+      0.013670,
+      "Depois desta operação, 858 kB de espaço em disco serão liberados."
+    ],
+    [
+      0.000191,
+      "\r\n"
+    ],
+    [
+      0.000151,
+      "\r\r"
+    ],
+    [
+      1.062007,
+      "(Lendo banco de dados ... \r"
+    ],
+    [
+      0.012552,
+      "(Lendo banco de dados ... 5%\r"
+    ],
+    [
+      0.000315,
+      "(Lendo banco de dados ... 10%\r"
+    ],
+    [
+      0.000211,
+      "(Lendo banco de dados ... 15%\r"
+    ],
+    [
+      0.000204,
+      "(Lendo banco de dados ... 20%\r"
+    ],
+    [
+      0.000212,
+      "(Lendo banco de dados ... 25%\r"
+    ],
+    [
+      0.000208,
+      "(Lendo banco de dados ... 30%\r"
+    ],
+    [
+      0.000198,
+      "(Lendo banco de dados ... 35%\r"
+    ],
+    [
+      0.000215,
+      "(Lendo banco de dados ... 40%\r"
+    ],
+    [
+      0.000213,
+      "(Lendo banco de dados ... 45%\r"
+    ],
+    [
+      0.000208,
+      "(Lendo banco de dados ... 50%\r"
+    ],
+    [
+      0.013724,
+      "(Lendo banco de dados ... 55%\r"
+    ],
+    [
+      0.033712,
+      "(Lendo banco de dados ... 60%\r"
+    ],
+    [
+      0.017820,
+      "(Lendo banco de dados ... 65%\r"
+    ],
+    [
+      0.008944,
+      "(Lendo banco de dados ... 70%\r"
+    ],
+    [
+      0.011684,
+      "(Lendo banco de dados ... 75%\r"
+    ],
+    [
+      0.009068,
+      "(Lendo banco de dados ... 80%\r"
+    ],
+    [
+      0.009565,
+      "(Lendo banco de dados ... 85%\r"
+    ],
+    [
+      0.029040,
+      "(Lendo banco de dados ... 90%\r"
+    ],
+    [
+      0.052617,
+      "(Lendo banco de dados ... 95%\r"
+    ],
+    [
+      0.082794,
+      "(Lendo banco de dados ... 100%\r"
+    ],
+    [
+      0.000233,
+      "(Lendo banco de dados ... "
+    ],
+    [
+      0.000194,
+      "278946 ficheiros e directórios actualmente instalados.)"
+    ],
+    [
+      0.000115,
+      "\r\r\n"
+    ],
+    [
+      0.048677,
+      "A remover libass4:i386 (0.10.0-3) ..."
+    ],
+    [
+      0.000226,
+      "\r\r\n"
+    ],
+    [
+      0.351004,
+      "A purgar os ficheiros de configuração para libass4:i386 (0.10.0-3) ...\r\r\n"
+    ],
+    [
+      0.486364,
+      "A remover libpostproc52:i386 (10:1.2.12-dmo1+wheezy+bp1) ..."
+    ],
+    [
+      0.000310,
+      "\r\r\n"
+    ],
+    [
+      0.308553,
+      "A purgar os ficheiros de configuração para libpostproc52:i386 (10:1.2.12-dmo1+wheezy+bp1) ...\r\r\n"
+    ],
+    [
+      0.623150,
+      "A remover libswresample0:i386 (10:1.2.12-dmo1+wheezy+bp1) ..."
+    ],
+    [
+      0.000238,
+      "\r\r\n"
+    ],
+    [
+      0.313514,
+      "A purgar os ficheiros de configuração para libswresample0:i386 (10:1.2.12-dmo1+wheezy+bp1) ...\r\r\n"
+    ],
+    [
+      0.372849,
+      "A processar 'triggers' para libc-bin (2.19-18+deb8u1) ...\r\r\n"
+    ],
+    [
+      2.175066,
+      "\u001b[0m"
+    ],
+    [
+      0.010453,
+      "\u001b]0;edps: edps@debian: /home/edps\u0007"
+    ],
+    [
+      0.000694,
+      "\u001b[00m\u001b[0;90m----------------------------------------------------------------------- 11:31:45\r"
+    ],
+    [
+      0.000170,
+      "\r\n"
+    ],
+    [
+      0.000162,
+      "\u001b[00medps@debian:~$ \u001b[00m\u001b[1;29m"
+    ],
+    [
+      0.511403,
+      "sudo deborphan | xargs sudo apt-get -y remove --purge"
+    ],
+    [
+      0.508397,
+      "\r\n\u001b[0m\u001b[0m"
+    ],
+    [
+      0.187521,
+      "\rLendo listas de pacotes... 0%\r"
+    ],
+    [
+      0.007909,
+      "\rLendo listas de pacotes... 100%\r"
+    ],
+    [
+      0.000213,
+      "\rLendo listas de pacotes... Pronto\r"
+    ],
+    [
+      0.000110,
+      "\r\n"
+    ],
+    [
+      0.012562,
+      "\rConstruindo árvore de dependências... 0%\r"
+    ],
+    [
+      0.000327,
+      "\rConstruindo árvore de dependências... 0%\r"
+    ],
+    [
+      0.054087,
+      "\rConstruindo árvore de dependências... 50%\r"
+    ],
+    [
+      0.000218,
+      "\rConstruindo árvore de dependências... 50%\r"
+    ],
+    [
+      0.338498,
+      "\rConstruindo árvore de dependências       \r"
+    ],
+    [
+      0.000201,
+      "\r\n"
+    ],
+    [
+      0.000110,
+      "\rLendo informação de estado... 0%  \r"
+    ],
+    [
+      0.000261,
+      "\rLendo informação de estado... 0%\r"
+    ],
+    [
+      0.012868,
+      "\rLendo informação de estado... Pronto\r"
+    ],
+    [
+      0.000188,
+      "\r\n"
+    ],
+    [
+      0.505415,
+      "O seguinte pacote foi instalado automaticamente e já não é necessário:"
+    ],
+    [
+      0.000218,
+      "\r\n"
+    ],
+    [
+      0.000103,
+      "  fonts-georgewilliams"
+    ],
+    [
+      0.000090,
+      "\r\n"
+    ],
+    [
+      0.000101,
+      "Utilize 'apt-get autoremove' para o remover."
+    ],
+    [
+      0.000089,
+      "\r\n"
+    ],
+    [
+      0.139081,
+      "0 pacotes atualizados, 0 pacotes novos instalados, 0 a serem removidos e 90 não atualizados."
+    ],
+    [
+      0.000194,
+      "\r\n"
+    ],
+    [
+      0.007141,
+      "\u001b[0m"
+    ],
+    [
+      0.009427,
+      "\u001b]0;edps: edps@debian: /home/edps\u0007\u001b[00m\u001b[0;90m----------------------------------------------------------------------- 11:31:48\r\r\n\u001b[00medps@debian:~$ \u001b[00m\u001b[1;29m"
+    ],
+    [
+      2.073910,
+      "sudo deborphan | xargs sudo apt-get -y remove --purge"
+    ],
+    [
+      0.358107,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[22Papt-get auto\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      1.169178,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.047100,
+      "\rLendo listas de pacotes... 0%\r"
+    ],
+    [
+      0.018306,
+      "\rLendo listas de pacotes... 100%\r"
+    ],
+    [
+      0.000241,
+      "\rLendo listas de pacotes... Pronto\r"
+    ],
+    [
+      0.000202,
+      "\r\n"
+    ],
+    [
+      0.022097,
+      "\rConstruindo árvore de dependências... 0%\r"
+    ],
+    [
+      0.000306,
+      "\rConstruindo árvore de dependências... 0%\r"
+    ],
+    [
+      0.057402,
+      "\rConstruindo árvore de dependências... 50%\r"
+    ],
+    [
+      0.000220,
+      "\rConstruindo árvore de dependências... 50%\r"
+    ],
+    [
+      0.333787,
+      "\rConstruindo árvore de dependências       \r"
+    ],
+    [
+      0.000201,
+      "\r\n"
+    ],
+    [
+      0.000109,
+      "\rLendo informação de estado... 0%  \r"
+    ],
+    [
+      0.000226,
+      "\rLendo informação de estado... 0%\r"
+    ],
+    [
+      0.014586,
+      "\rLendo informação de estado... Pronto\r"
+    ],
+    [
+      0.000184,
+      "\r\n"
+    ],
+    [
+      0.681078,
+      "Os pacotes a seguir serão REMOVIDOS:"
+    ],
+    [
+      0.000197,
+      "\r\n"
+    ],
+    [
+      0.000105,
+      "  fonts-georgewilliams*"
+    ],
+    [
+      0.000090,
+      "\r\n"
+    ],
+    [
+      0.042290,
+      "0 pacotes atualizados, 0 pacotes novos instalados, 1 a serem removidos e 90 não atualizados."
+    ],
+    [
+      0.000188,
+      "\r\n"
+    ],
+    [
+      0.014550,
+      "Depois desta operação, 1.748 kB de espaço em disco serão liberados."
+    ],
+    [
+      0.005348,
+      "\r\n"
+    ],
+    [
+      0.000248,
+      "Você quer continuar?"
+    ],
+    [
+      0.000163,
+      " [S/n] "
+    ],
+    [
+      1.603269,
+      "\r\n"
+    ],
+    [
+      0.000077,
+      "\r\r"
+    ],
+    [
+      1.064044,
+      "(Lendo banco de dados ... \r"
+    ],
+    [
+      0.014299,
+      "(Lendo banco de dados ... 5%\r"
+    ],
+    [
+      0.000325,
+      "(Lendo banco de dados ... 10%\r"
+    ],
+    [
+      0.000212,
+      "(Lendo banco de dados ... 15%\r"
+    ],
+    [
+      0.000209,
+      "(Lendo banco de dados ... 20%\r"
+    ],
+    [
+      0.000215,
+      "(Lendo banco de dados ... 25%\r"
+    ],
+    [
+      0.000207,
+      "(Lendo banco de dados ... 30%\r"
+    ],
+    [
+      0.000197,
+      "(Lendo banco de dados ... 35%\r"
+    ],
+    [
+      0.000499,
+      "(Lendo banco de dados ... 40%\r"
+    ],
+    [
+      0.000241,
+      "(Lendo banco de dados ... 45%\r"
+    ],
+    [
+      0.000225,
+      "(Lendo banco de dados ... 50%\r"
+    ],
+    [
+      0.014554,
+      "(Lendo banco de dados ... 55%\r"
+    ],
+    [
+      0.031348,
+      "(Lendo banco de dados ... 60%\r"
+    ],
+    [
+      0.019866,
+      "(Lendo banco de dados ... 65%\r"
+    ],
+    [
+      0.011700,
+      "(Lendo banco de dados ... 70%\r"
+    ],
+    [
+      0.009325,
+      "(Lendo banco de dados ... 75%\r"
+    ],
+    [
+      0.009242,
+      "(Lendo banco de dados ... 80%\r"
+    ],
+    [
+      0.012436,
+      "(Lendo banco de dados ... 85%\r"
+    ],
+    [
+      0.033066,
+      "(Lendo banco de dados ... 90%\r"
+    ],
+    [
+      0.050268,
+      "(Lendo banco de dados ... 95%\r"
+    ],
+    [
+      0.077841,
+      "(Lendo banco de dados ... 100%\r"
+    ],
+    [
+      0.000241,
+      "(Lendo banco de dados ... "
+    ],
+    [
+      0.000155,
+      "278924 ficheiros e directórios actualmente instalados.)"
+    ],
+    [
+      0.000138,
+      "\r\n"
+    ],
+    [
+      0.048686,
+      "A remover fonts-georgewilliams (20031023-2) ..."
+    ],
+    [
+      0.000229,
+      "\r\n"
+    ],
+    [
+      0.324126,
+      "A purgar os ficheiros de configuração para fonts-georgewilliams (20031023-2) ...\r\n"
+    ],
+    [
+      0.389053,
+      "A processar 'triggers' para fontconfig (2.11.0-6.3) ..."
+    ],
+    [
+      0.000323,
+      "\r\n"
+    ],
+    [
+      10.246743,
+      "\u001b[0m"
+    ],
+    [
+      0.012059,
+      "\u001b]0;edps: edps@debian: /home/edps\u0007"
+    ],
+    [
+      0.000718,
+      "\u001b[00m\u001b[0;90m----------------------------------------------------------------------- 11:32:07\r"
+    ],
+    [
+      0.000172,
+      "\r\n"
+    ],
+    [
+      0.000162,
+      "\u001b[00medps@debian:~$ \u001b[00m\u001b[1;29m"
+    ],
+    [
+      1.404825,
+      "sudo apt-get autoremove --purge"
+    ],
+    [
+      1.681787,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[22@deborphan | xargs sudo apt-get -y \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.642419,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[22Papt-get auto\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      1.768588,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.046772,
+      "\rLendo listas de pacotes... 0%\r"
+    ],
+    [
+      0.014627,
+      "\rLendo listas de pacotes... 100%\r"
+    ],
+    [
+      0.003674,
+      "\rLendo listas de pacotes... Pronto\r"
+    ],
+    [
+      0.000309,
+      "\r\n"
+    ],
+    [
+      0.019752,
+      "\rConstruindo árvore de dependências... 0%\r"
+    ],
+    [
+      0.000312,
+      "\rConstruindo árvore de dependências... 0%\r"
+    ],
+    [
+      0.064340,
+      "\rConstruindo árvore de dependências... 50%\r"
+    ],
+    [
+      0.000206,
+      "\rConstruindo árvore de dependências... 50%\r"
+    ],
+    [
+      0.323040,
+      "\rConstruindo árvore de dependências       \r"
+    ],
+    [
+      0.000212,
+      "\r\n"
+    ],
+    [
+      0.000109,
+      "\rLendo informação de estado... 0%  \r"
+    ],
+    [
+      0.000263,
+      "\rLendo informação de estado... 0%\r"
+    ],
+    [
+      0.014162,
+      "\rLendo informação de estado... Pronto\r"
+    ],
+    [
+      0.000190,
+      "\r\n"
+    ],
+    [
+      0.636279,
+      "0 pacotes atualizados, 0 pacotes novos instalados, 0 a serem removidos e 90 não atualizados."
+    ],
+    [
+      0.000198,
+      "\r\n"
+    ],
+    [
+      0.008879,
+      "\u001b[0m"
+    ],
+    [
+      0.005844,
+      "\u001b]0;edps: edps@debian: /home/edps\u0007\u001b[00m\u001b[0;90m----------------------------------------------------------------------- 11:32:13\r\r\n\u001b[00medps@debian:~$ \u001b[00m\u001b[1;29m"
+    ],
+    [
+      1.939819,
+      "s"
+    ],
+    [
+      0.159423,
+      "u"
+    ],
+    [
+      0.135462,
+      "d"
+    ],
+    [
+      0.187877,
+      "o"
+    ],
+    [
+      0.135094,
+      " "
+    ],
+    [
+      0.399871,
+      "n"
+    ],
+    [
+      0.121334,
+      "a"
+    ],
+    [
+      0.098809,
+      "n"
+    ],
+    [
+      0.258397,
+      "o"
+    ],
+    [
+      0.133336,
+      " "
+    ],
+    [
+      0.410578,
+      "/"
+    ],
+    [
+      0.127930,
+      "e"
+    ],
+    [
+      0.289906,
+      "t"
+    ],
+    [
+      0.224537,
+      "c"
+    ],
+    [
+      0.224239,
+      "/"
+    ],
+    [
+      0.189290,
+      "a"
+    ],
+    [
+      0.193085,
+      "p"
+    ],
+    [
+      0.161544,
+      "t"
+    ],
+    [
+      0.319052,
+      "/"
+    ],
+    [
+      0.193317,
+      "s"
+    ],
+    [
+      0.191195,
+      "o"
+    ],
+    [
+      0.257649,
+      "u"
+    ],
+    [
+      0.136342,
+      "\u0007"
+    ],
+    [
+      0.000411,
+      "rces.list"
+    ],
+    [
+      4.882011,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.063059,
+      "\u001b[?1049h\u001b[1;24r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000319,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000205,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000092,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.009815,
+      "\u001b[39;49m\u001b[39;49m\u001b(B\u001b[m\u001b[H\u001b[2J\u001b(B\u001b[0;7m  GNU nano 2.2.6        Arquivo: /etc/apt/sources.list                          \u001b[3;1H\u001b(B\u001b[0;1m\u001b[34m### Debian Jessie/Stable + Backports + LoadBalancer (http://httpredir.debian.or\u001b[39m\u001b(B\u001b[m$\u001b[4;1H\u001b(B\u001b[0;1m\u001b[34m### GPGKey: apt-get update \u0026\u0026 apt-get install debian-archive-keyring\r\u001b[5d#deb http://httpredir.debian.org/debian/ jessie main contrib non-free\r\u001b[6d#deb http://httpredir.debian.org/debian-security/ jessie/updates main contrib n\u001b[39m\u001b(B\u001b[m$\u001b[7;1H\u001b(B\u001b[0;1m\u001b[34m#deb http://httpredir.debian.org/debian/ jessie-updates main contrib non-free\r\u001b[8d#deb http://httpredir.debian.org/debian/ jessie-proposed-updates main contrib n\u001b[39m\u001b(B\u001b[m$\u001b[9;1H\u001b(B\u001b[0;1m\u001b[34m#deb http://httpredir.debian.org/debian/ jessie-backports main contrib non-free\r\u001b[11d### Devuan repository.\r\u001b[12d### GPGKey: apt-get update \u0026\u0026 apt-get install devuan-keyring devuan-baseconf\r\u001b[13d\u001b(B\u001b[0m\u001b[33mdeb\u001b(B\u001b[0;1m\u001b[31m \u001b[32mhttp://packages.devuan.org/merged\u001b[31m jessie\u001b[35m main contrib non-free\r\u001b[14d\u001b(B\u001b[0m\u001b[33mdeb\u001b(B\u001b[0;1m\u001b[31m \u001b[32mhttp://packages.devuan.org/merged\u001b[31m jessie-updates\u001b[35m main contrib non-free\r\u001b[15d\u001b(B\u001b[0m\u001b[33mdeb\u001b(B\u001b[0;1m\u001b[31m \u001b[32mhttp://packages.devuan.org/merged\u001b[31m jessie-proposed-updates\u001b[35m main contrib non-\u001b[39m\u001b(B\u001b[m$\u001b[16;1H\u001b[33mdeb\u001b(B\u001b[0;1m\u001b[31m \u001b[32mhttp://packages.devuan.org/merged\u001b[31m jessie-backports\u001b[35m main contrib non-free\r\u001b[18d\u001b[34m### Debian Wheezy/OldStable + Backports + LoadBalancer (http://httpredir.debian\u001b[39m\u001b(B\u001b[m$\u001b[19;1H\u001b(B\u001b[0;1m\u001b[34m### GPGKey: apt-get update \u0026\u0026 apt-get install debian-archive-keyring\r\u001b[20d#deb http://httpredir.debian.org/debian/ wheezy main contrib non-free\r\u001b[21d#deb http://httpredir.debian.org/debian-security/ wheezy/updates main contrib n\u001b[39m\u001b(B\u001b[m$\u001b[22;31H\u001b(B\u001b[0;7m[ 23 linhas lidas ]\r\u001b[23d^G\u001b(B\u001b[m Ajuda     \u001b(B\u001b[0;7m^O\u001b(B\u001b[m Gravar    \u001b(B\u001b[0;7m^R\u001b(B\u001b[m Ler o Arq \u001b(B\u001b[0;7m^Y\u001b(B\u001b[m Pág Anter \u001b(B\u001b[0;7m^K\u001b(B\u001b[m Recort Txt\u001b(B\u001b[0;7m^C\u001b(B\u001b[m Pos Atual\r\u001b[24d\u001b(B\u001b[0;7m^X\u001b(B\u001b[m Sair\u001b[14G\u001b(B\u001b[0;7m^J\u001b(B\u001b[m Justificar\u001b(B\u001b[0;7m^W\u001b(B\u001b[m Onde está?\u001b(B\u001b[0;7m^V\u001b(B\u001b["
+    ],
+    [
+      0.002472,
+      "m Próx Pág  \u001b(B\u001b[0;7m^U\u001b(B\u001b[m Colar Txt \u001b(B\u001b[0;7m^T\u001b(B\u001b[m Para Spell\r\u001b[3d"
+    ],
+    [
+      1.374174,
+      "\u001b[4d"
+    ],
+    [
+      0.482732,
+      "\u001b[5d"
+    ],
+    [
+      0.421038,
+      "\u001b[1;69H\u001b(B\u001b[0;7mModificado\r\u001b[5d\u001b(B\u001b[0m\u001b[33mdeb\u001b(B\u001b[0;1m\u001b[31m \u001b[32mhttp://httpredir.debian.org/debian/\u001b[31m jessie\u001b[35m main contrib non-free\u001b[39m\u001b(B\u001b[m\u001b[K\r"
+    ],
+    [
+      0.230400,
+      "\u001b[6d"
+    ],
+    [
+      0.211367,
+      "\u001b[33mdeb\u001b(B\u001b[0;1m\u001b[31m \u001b[32mhttp://httpredir.debian.org/debian-security/\u001b[31m jessie/updates\u001b[35m main contrib no\r\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.204687,
+      "\u001b[7d"
+    ],
+    [
+      0.161029,
+      "\u001b[33mdeb\u001b(B\u001b[0;1m\u001b[31m \u001b[32mhttp://httpredir.debian.org/debian/\u001b[31m jessie-updates\u001b[35m main contrib non-free\u001b[39m\u001b(B\u001b[m\u001b[K\r"
+    ],
+    [
+      0.167328,
+      "\u001b[8d"
+    ],
+    [
+      0.229693,
+      "\u001b[33mdeb\u001b(B\u001b[0;1m\u001b[31m \u001b[32mhttp://httpredir.debian.org/debian/\u001b[31m jessie-proposed-updates\u001b[35m main contrib no\r\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.167713,
+      "\u001b[9d"
+    ],
+    [
+      0.200327,
+      "\u001b[33mdeb\u001b(B\u001b[0;1m\u001b[31m \u001b[32mhttp://httpredir.debian.org/debian/\u001b[31m jessie-backports\u001b[35m main contrib non-free\u001b[39m\u001b(B\u001b[m\u001b[K\r"
+    ],
+    [
+      0.294252,
+      "\u001b[10d"
+    ],
+    [
+      0.230758,
+      "\u001b[11d"
+    ],
+    [
+      0.198229,
+      "\u001b[12d"
+    ],
+    [
+      0.168962,
+      "\u001b[13d"
+    ],
+    [
+      0.930309,
+      "\u001b(B\u001b[0;1m\u001b[34m#deb http://packages.devuan.org/merged jessie main contrib non-free\r#\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.253061,
+      "\u001b[14d"
+    ],
+    [
+      0.294015,
+      "\u0008"
+    ],
+    [
+      0.270638,
+      "\u001b(B\u001b[0;1m\u001b[34m#deb http://packages.devuan.org/merged jessie-updates main contrib non-free\r#\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.253738,
+      "\u001b[15d"
+    ],
+    [
+      0.230872,
+      "\u0008"
+    ],
+    [
+      0.242854,
+      "\u001b(B\u001b[0;1m\u001b[34m#deb http://packages.devuan.org/merged jessie-proposed-updates main contrib non\r#\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.218796,
+      "\u001b[16d"
+    ],
+    [
+      0.231908,
+      "\u0008"
+    ],
+    [
+      0.255423,
+      "\u001b(B\u001b[0;1m\u001b[34m#deb http://packages.devuan.org/merged jessie-backports main contrib non-free\r#\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.899990,
+      "\u001b[22d\u0008\u001b(B\u001b[0;7mNome do Arquivo para Gravar: /etc/apt/sources.list                              \u001b[23;14H\u001b(B\u001b[m       \u001b(B\u001b[0;7mM-D\u001b(B\u001b[m Formato DOS     \u001b(B\u001b[0;7mM-A\u001b(B\u001b[m Anexar          \u001b(B\u001b[0;7mM-B\u001b(B\u001b[m Arquivo Reserva\u001b[24;2H\u001b(B\u001b[0;7mC\u001b(B\u001b[m Cancelar         \u001b(B\u001b[0;7mM-M\u001b(B\u001b[m Formato Mac     \u001b(B\u001b[0;7mM-P\u001b(B\u001b[m Pre-anexar\u001b[K\u001b[22;51H"
+    ],
+    [
+      0.680161,
+      "\u001b[1;69H\u001b[39;49m\u001b(B\u001b[0;7m          \u001b[22;29H\u001b(B\u001b[m\u001b[1K \u001b(B\u001b[0;7m[ Escrito 23 linhas ]\u001b(B\u001b[m\u001b[K\u001b[23;14H\u001b(B\u001b[0;7m^O\u001b(B\u001b[m Gravar    \u001b(B\u001b[0;7m^R\u001b(B\u001b[m Ler o Arq \u001b(B\u001b[0;7m^Y\u001b(B\u001b[m Pág Anter \u001b(B\u001b[0;7m^K\u001b(B\u001b[m Recort Txt\u001b(B\u001b[0;7m^C\u001b(B\u001b[m Pos Atual\u001b[K\u001b[24;2H\u001b(B\u001b[0;7mX\u001b(B\u001b[m Sair      \u001b(B\u001b[0;7m^J\u001b(B\u001b[m Justificar\u001b(B\u001b[0;7m^W\u001b(B\u001b[m Onde está?\u001b(B\u001b[0;7m^V\u001b(B\u001b[m Próx Pág  \u001b(B\u001b[0;7m^U\u001b(B\u001b[m Colar Txt \u001b(B\u001b[0;7m^T\u001b(B\u001b[m Para Spell\u001b[16;2H"
+    ],
+    [
+      0.831388,
+      "\u001b[23d\u0008\u001b[J\u001b[24;80H\u001b[24;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e\u001b[0m"
+    ],
+    [
+      0.010664,
+      "\u001b]0;edps: edps@debian: /home/edps\u0007\u001b[00m\u001b[0;90m----------------------------------------------------------------------- 11:32:35\r\r\n\u001b[00medps@debian:~$ \u001b[00m\u001b[1;29m"
+    ],
+    [
+      1.407731,
+      "s"
+    ],
+    [
+      0.191133,
+      "u"
+    ],
+    [
+      0.067173,
+      "d"
+    ],
+    [
+      0.161913,
+      "o"
+    ],
+    [
+      0.098577,
+      " "
+    ],
+    [
+      0.195281,
+      "a"
+    ],
+    [
+      0.159970,
+      "p"
+    ],
+    [
+      0.178659,
+      "t"
+    ],
+    [
+      0.161030,
+      "-"
+    ],
+    [
+      0.321572,
+      "g"
+    ],
+    [
+      0.096761,
+      "e"
+    ],
+    [
+      0.144057,
+      "t"
+    ],
+    [
+      0.135619,
+      " "
+    ],
+    [
+      0.852160,
+      "d"
+    ],
+    [
+      0.159705,
+      "i"
+    ],
+    [
+      0.126160,
+      "s"
+    ],
+    [
+      0.156695,
+      "t"
+    ],
+    [
+      0.383939,
+      "-"
+    ],
+    [
+      0.287832,
+      "u"
+    ],
+    [
+      0.318893,
+      "p"
+    ],
+    [
+      0.168150,
+      "grade "
+    ],
+    [
+      0.881780,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.050766,
+      "\rLendo listas de pacotes... 0%\r"
+    ],
+    [
+      0.057819,
+      "\rLendo listas de pacotes... 0%\r"
+    ],
+    [
+      0.059435,
+      "\rLendo listas de pacotes... 1%\r"
+    ],
+    [
+      0.729700,
+      "\rLendo listas de pacotes... 18%\r"
+    ],
+    [
+      0.750411,
+      "\rLendo listas de pacotes... 34%\r"
+    ],
+    [
+      0.701192,
+      "\rLendo listas de pacotes... 47%\r"
+    ],
+    [
+      0.101579,
+      "\rLendo listas de pacotes... 48%\r"
+    ],
+    [
+      0.000353,
+      "\rLendo listas de pacotes... 48%\r"
+    ],
+    [
+      0.018932,
+      "\rLendo listas de pacotes... 49%\r"
+    ],
+    [
+      0.000341,
+      "\rLendo listas de pacotes... 49%\r"
+    ],
+    [
+      0.028865,
+      "\rLendo listas de pacotes... 49%\r"
+    ],
+    [
+      0.000339,
+      "\rLendo listas de pacotes... 49%\r"
+    ],
+    [
+      0.004896,
+      "\rLendo listas de pacotes... 49%\r"
+    ],
+    [
+      0.000316,
+      "\rLendo listas de pacotes... 49%\r"
+    ],
+    [
+      0.557417,
+      "\rLendo listas de pacotes... 73%\r"
+    ],
+    [
+      0.247583,
+      "\rLendo listas de pacotes... 81%\r"
+    ],
+    [
+      0.000363,
+      "\rLendo listas de pacotes... 81%\r"
+    ],
+    [
+      0.054683,
+      "\rLendo listas de pacotes... 84%\r"
+    ],
+    [
+      0.000322,
+      "\rLendo listas de pacotes... 84%\r"
+    ],
+    [
+      0.111185,
+      "\rLendo listas de pacotes... 89%\r"
+    ],
+    [
+      0.000322,
+      "\rLendo listas de pacotes... 89%\r"
+    ],
+    [
+      0.009519,
+      "\rLendo listas de pacotes... 89%\r"
+    ],
+    [
+      0.000316,
+      "\rLendo listas de pacotes... 89%\r"
+    ],
+    [
+      0.042087,
+      "\rLendo listas de pacotes... 90%\r"
+    ],
+    [
+      0.000291,
+      "\rLendo listas de pacotes... 90%\r"
+    ],
+    [
+      0.002734,
+      "\rLendo listas de pacotes... 90%\r"
+    ],
+    [
+      0.000250,
+      "\rLendo listas de pacotes... 90%\r"
+    ],
+    [
+      0.002206,
+      "\rLendo listas de pacotes... 90%\r"
+    ],
+    [
+      0.001901,
+      "\rLendo listas de pacotes... 90%\r"
+    ],
+    [
+      0.007248,
+      "\rLendo listas de pacotes... 90%\r"
+    ],
+    [
+      0.000290,
+      "\rLendo listas de pacotes... 90%\r"
+    ],
+    [
+      0.001289,
+      "\rLendo listas de pacotes... 90%\r"
+    ],
+    [
+      0.000775,
+      "\rLendo listas de pacotes... 90%\r"
+    ],
+    [
+      0.006284,
+      "\rLendo listas de pacotes... 90%\r"
+    ],
+    [
+      0.000274,
+      "\rLendo listas de pacotes... 90%\r"
+    ],
+    [
+      0.000383,
+      "\rLendo listas de pacotes... 90%\r"
+    ],
+    [
+      0.000209,
+      "\rLendo listas de pacotes... 90%\r"
+    ],
+    [
+      0.000613,
+      "\rLendo listas de pacotes... 90%\r"
+    ],
+    [
+      0.000182,
+      "\rLendo listas de pacotes... 90%\r"
+    ],
+    [
+      0.000355,
+      "\rLendo listas de pacotes... 90%\r"
+    ],
+    [
+      0.000277,
+      "\rLendo listas de pacotes... 90%\r"
+    ],
+    [
+      0.020223,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.000300,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.001523,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.000292,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.001549,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.000304,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.001447,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.001063,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.008210,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.000291,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.000428,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.000263,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.123463,
+      "\rLendo listas de pacotes... 93%\r"
+    ],
+    [
+      0.000329,
+      "\rLendo listas de pacotes... 93%\r"
+    ],
+    [
+      0.003100,
+      "\rLendo listas de pacotes... 93%\r"
+    ],
+    [
+      0.000343,
+      "\rLendo listas de pacotes... 93%\r"
+    ],
+    [
+      0.005923,
+      "\rLendo listas de pacotes... 93%\r"
+    ],
+    [
+      0.000311,
+      "\rLendo listas de pacotes... 93%\r"
+    ],
+    [
+      0.000777,
+      "\rLendo listas de pacotes... 93%\r"
+    ],
+    [
+      0.000734,
+      "\rLendo listas de pacotes... 93%\r"
+    ],
+    [
+      0.042804,
+      "\rLendo listas de pacotes... 94%\r"
+    ],
+    [
+      0.000318,
+      "\rLendo listas de pacotes... 94%\r"
+    ],
+    [
+      0.001886,
+      "\rLendo listas de pacotes... 95%\r"
+    ],
+    [
+      0.000796,
+      "\rLendo listas de pacotes... 95%\r"
+    ],
+    [
+      0.003396,
+      "\rLendo listas de pacotes... 95%\r"
+    ],
+    [
+      0.053659,
+      "\rLendo listas de pacotes... 96%\r"
+    ],
+    [
+      0.000299,
+      "\rLendo listas de pacotes... 96%\r"
+    ],
+    [
+      0.002071,
+      "\rLendo listas de pacotes... 96%\r"
+    ],
+    [
+      0.000321,
+      "\rLendo listas de pacotes... 96%\r"
+    ],
+    [
+      0.011324,
+      "\rLendo listas de pacotes... 96%\r"
+    ],
+    [
+      0.000341,
+      "\rLendo listas de pacotes... 96%\r"
+    ],
+    [
+      0.001758,
+      "\rLendo listas de pacotes... 96%\r"
+    ],
+    [
+      0.000315,
+      "\rLendo listas de pacotes... 96%\r"
+    ],
+    [
+      0.004593,
+      "\rLendo listas de pacotes... 96%\r"
+    ],
+    [
+      0.000308,
+      "\rLendo listas de pacotes... 96%\r"
+    ],
+    [
+      0.005237,
+      "\rLendo listas de pacotes... 96%\r"
+    ],
+    [
+      0.000323,
+      "\rLendo listas de pacotes... 96%\r"
+    ],
+    [
+      0.006364,
+      "\rLendo listas de pacotes... 96%\r"
+    ],
+    [
+      0.000290,
+      "\rLendo listas de pacotes... 96%\r"
+    ],
+    [
+      0.003957,
+      "\rLendo listas de pacotes... 96%\r"
+    ],
+    [
+      0.000302,
+      "\rLendo listas de pacotes... 96%\r"
+    ],
+    [
+      0.498246,
+      "\rLendo listas de pacotes... 96%\r"
+    ],
+    [
+      0.000449,
+      "\rLendo listas de pacotes... 96%\r"
+    ],
+    [
+      0.473332,
+      "\rLendo listas de pacotes... Pronto\r"
+    ],
+    [
+      0.000369,
+      "\r\n"
+    ],
+    [
+      0.018643,
+      "\rConstruindo árvore de dependências... 0%\r"
+    ],
+    [
+      0.000459,
+      "\rConstruindo árvore de dependências... 0%\r"
+    ],
+    [
+      0.000199,
+      "\rConstruindo árvore de dependências... 0%\r"
+    ],
+    [
+      0.079627,
+      "\rConstruindo árvore de dependências... 50%\r"
+    ],
+    [
+      0.000224,
+      "\rConstruindo árvore de dependências... 50%\r"
+    ],
+    [
+      0.329249,
+      "\rConstruindo árvore de dependências       \r"
+    ],
+    [
+      0.000201,
+      "\r\n"
+    ],
+    [
+      0.000109,
+      "\rLendo informação de estado... 0%  \r"
+    ],
+    [
+      0.000263,
+      "\rLendo informação de estado... 0%\r"
+    ],
+    [
+      0.012014,
+      "\rLendo informação de estado... Pronto\r"
+    ],
+    [
+      0.000170,
+      "\r\n"
+    ],
+    [
+      0.258178,
+      "Calculando atualização... "
+    ],
+    [
+      0.414266,
+      "Pronto"
+    ],
+    [
+      0.000196,
+      "\r\n"
+    ],
+    [
+      0.016188,
+      "Os pacotes a seguir serão mantidos em suas versões atuais:"
+    ],
+    [
+      0.000181,
+      "\r\n"
+    ],
+    [
+      0.000104,
+      "  db5.1-util policykit-1"
+    ],
+    [
+      0.000089,
+      "\r\n"
+    ],
+    [
+      0.035642,
+      "0 pacotes atualizados, 0 pacotes novos instalados, 0 a serem removidos e 2 não atualizados."
+    ],
+    [
+      0.000182,
+      "\r\n"
+    ],
+    [
+      0.005896,
+      "\u001b[0m"
+    ],
+    [
+      0.014462,
+      "\u001b]0;edps: edps@debian: /home/edps\u0007\u001b[00m\u001b[0;90m----------------------------------------------------------------------- 11:32:48\r\r\n\u001b[00medps@debian:~$ \u001b[00m\u001b[1;29m"
+    ],
+    [
+      8.249901,
+      "s"
+    ],
+    [
+      0.192899,
+      "u"
+    ],
+    [
+      0.096667,
+      "d"
+    ],
+    [
+      0.161971,
+      "o"
+    ],
+    [
+      0.135127,
+      " "
+    ],
+    [
+      0.158391,
+      "a"
+    ],
+    [
+      0.193101,
+      "p"
+    ],
+    [
+      0.159806,
+      "t"
+    ],
+    [
+      0.166442,
+      "-"
+    ],
+    [
+      0.316266,
+      "g"
+    ],
+    [
+      0.097199,
+      "e"
+    ],
+    [
+      0.143564,
+      "t"
+    ],
+    [
+      0.135718,
+      " "
+    ],
+    [
+      0.599639,
+      "-"
+    ],
+    [
+      0.193357,
+      "-"
+    ],
+    [
+      0.224813,
+      "p"
+    ],
+    [
+      0.318933,
+      "u"
+    ],
+    [
+      0.133216,
+      "r"
+    ],
+    [
+      0.161468,
+      "g"
+    ],
+    [
+      0.093630,
+      "e"
+    ],
+    [
+      0.226490,
+      " "
+    ],
+    [
+      0.163833,
+      "r"
+    ],
+    [
+      0.253720,
+      "e"
+    ],
+    [
+      0.130390,
+      "m"
+    ],
+    [
+      0.128073,
+      "o"
+    ],
+    [
+      0.097088,
+      "v"
+    ],
+    [
+      0.131797,
+      "e"
+    ],
+    [
+      0.289706,
+      " "
+    ],
+    [
+      0.981147,
+      "db5.1-util"
+    ],
+    [
+      0.696921,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.046493,
+      "\rLendo listas de pacotes... 0%\r"
+    ],
+    [
+      0.019975,
+      "\rLendo listas de pacotes... 100%\r"
+    ],
+    [
+      0.000249,
+      "\rLendo listas de pacotes... Pronto\r"
+    ],
+    [
+      0.000200,
+      "\r\n"
+    ],
+    [
+      0.021327,
+      "\rConstruindo árvore de dependências... 0%\r"
+    ],
+    [
+      0.002478,
+      "\rConstruindo árvore de dependências... 0%\r"
+    ],
+    [
+      0.071979,
+      "\rConstruindo árvore de dependências... 50%\r"
+    ],
+    [
+      0.000220,
+      "\rConstruindo árvore de dependências... 50%\r"
+    ],
+    [
+      0.322846,
+      "\rConstruindo árvore de dependências       \r"
+    ],
+    [
+      0.000204,
+      "\r\n"
+    ],
+    [
+      0.002387,
+      "\rLendo informação de estado... 0%  \r"
+    ],
+    [
+      0.000287,
+      "\rLendo informação de estado... 0%\r"
+    ],
+    [
+      0.012019,
+      "\rLendo informação de estado... Pronto\r"
+    ],
+    [
+      0.000187,
+      "\r\n"
+    ],
+    [
+      0.693904,
+      "Os pacotes a seguir serão REMOVIDOS:"
+    ],
+    [
+      0.000201,
+      "\r\n"
+    ],
+    [
+      0.000103,
+      "  db5.1-util*"
+    ],
+    [
+      0.000091,
+      "\r\n"
+    ],
+    [
+      0.040651,
+      "0 pacotes atualizados, 0 pacotes novos instalados, 1 a serem removidos e 1 não atualizados."
+    ],
+    [
+      0.000188,
+      "\r\n"
+    ],
+    [
+      0.015663,
+      "Depois desta operação, 254 kB de espaço em disco serão liberados."
+    ],
+    [
+      0.000193,
+      "\r\n"
+    ],
+    [
+      0.000153,
+      "Você quer continuar?"
+    ],
+    [
+      0.000163,
+      " [S/n] "
+    ],
+    [
+      1.577310,
+      "s"
+    ],
+    [
+      0.292697,
+      "\r\n"
+    ],
+    [
+      0.000061,
+      "\r\r"
+    ],
+    [
+      1.100848,
+      "(Lendo banco de dados ... \r"
+    ],
+    [
+      0.013864,
+      "(Lendo banco de dados ... 5%\r"
+    ],
+    [
+      0.000323,
+      "(Lendo banco de dados ... 10%\r"
+    ],
+    [
+      0.000214,
+      "(Lendo banco de dados ... 15%\r"
+    ],
+    [
+      0.000209,
+      "(Lendo banco de dados ... 20%\r"
+    ],
+    [
+      0.000212,
+      "(Lendo banco de dados ... 25%\r"
+    ],
+    [
+      0.000255,
+      "(Lendo banco de dados ... 30%\r"
+    ],
+    [
+      0.000449,
+      "(Lendo banco de dados ... 35%\r"
+    ],
+    [
+      0.000232,
+      "(Lendo banco de dados ... 40%\r"
+    ],
+    [
+      0.000236,
+      "(Lendo banco de dados ... 45%\r"
+    ],
+    [
+      0.000224,
+      "(Lendo banco de dados ... 50%\r"
+    ],
+    [
+      0.015181,
+      "(Lendo banco de dados ... 55%\r"
+    ],
+    [
+      0.032643,
+      "(Lendo banco de dados ... 60%\r"
+    ],
+    [
+      0.017315,
+      "(Lendo banco de dados ... 65%\r"
+    ],
+    [
+      0.012286,
+      "(Lendo banco de dados ... 70%\r"
+    ],
+    [
+      0.008518,
+      "(Lendo banco de dados ... 75%\r"
+    ],
+    [
+      0.010019,
+      "(Lendo banco de dados ... 80%\r"
+    ],
+    [
+      0.011343,
+      "(Lendo banco de dados ... 85%\r"
+    ],
+    [
+      0.033593,
+      "(Lendo banco de dados ... 90%\r"
+    ],
+    [
+      0.048771,
+      "(Lendo banco de dados ... 95%\r"
+    ],
+    [
+      0.078829,
+      "(Lendo banco de dados ... 100%\r"
+    ],
+    [
+      0.000234,
+      "(Lendo banco de dados ... "
+    ],
+    [
+      0.000191,
+      "278910 ficheiros e directórios actualmente instalados.)"
+    ],
+    [
+      0.000117,
+      "\r\n"
+    ],
+    [
+      0.047660,
+      "A remover db5.1-util (5.1.29-5) ..."
+    ],
+    [
+      0.000232,
+      "\r\n"
+    ],
+    [
+      0.455800,
+      "A processar 'triggers' para man-db (2.7.0.2-5) ..."
+    ],
+    [
+      0.000325,
+      "\r\n"
+    ],
+    [
+      2.993951,
+      "\u001b[0m"
+    ],
+    [
+      0.013183,
+      "\u001b]0;edps: edps@debian: /home/edps\u0007"
+    ],
+    [
+      0.003439,
+      "\u001b[00m\u001b[0;90m----------------------------------------------------------------------- 11:33:11\r"
+    ],
+    [
+      0.000213,
+      "\r\n"
+    ],
+    [
+      0.000165,
+      "\u001b[00medps@debian:~$ \u001b[00m\u001b[1;29m"
+    ],
+    [
+      0.906156,
+      "sudo apt-get --purge remove db5.1-util"
+    ],
+    [
+      0.376722,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[12Pdist-upgrade "
+    ],
+    [
+      0.577830,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008nano /etc/apt/sources.list"
+    ],
+    [
+      0.514873,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Capt-get autoremove --purge"
+    ],
+    [
+      0.917045,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.046162,
+      "\rLendo listas de pacotes... 0%\r"
+    ],
+    [
+      0.020307,
+      "\rLendo listas de pacotes... 100%\r"
+    ],
+    [
+      0.000244,
+      "\rLendo listas de pacotes... Pronto\r"
+    ],
+    [
+      0.000199,
+      "\r\n"
+    ],
+    [
+      0.021985,
+      "\rConstruindo árvore de dependências... 0%\r"
+    ],
+    [
+      0.000311,
+      "\rConstruindo árvore de dependências... 0%\r"
+    ],
+    [
+      0.059643,
+      "\rConstruindo árvore de dependências... 50%\r"
+    ],
+    [
+      0.000215,
+      "\rConstruindo árvore de dependências... 50%\r"
+    ],
+    [
+      0.322149,
+      "\rConstruindo árvore de dependências       \r"
+    ],
+    [
+      0.000201,
+      "\r\n"
+    ],
+    [
+      0.000109,
+      "\rLendo informação de estado... 0%  \r"
+    ],
+    [
+      0.000248,
+      "\rLendo informação de estado... 0%\r"
+    ],
+    [
+      0.014486,
+      "\rLendo informação de estado... Pronto\r"
+    ],
+    [
+      0.000181,
+      "\r\n"
+    ],
+    [
+      0.635008,
+      "0 pacotes atualizados, 0 pacotes novos instalados, 0 a serem removidos e 1 não atualizados."
+    ],
+    [
+      0.000196,
+      "\r\n"
+    ],
+    [
+      0.008345,
+      "\u001b[0m"
+    ],
+    [
+      0.005977,
+      "\u001b]0;edps: edps@debian: /home/edps\u0007\u001b[00m\u001b[0;90m----------------------------------------------------------------------- 11:33:15\r\r\n\u001b[00medps@debian:~$ \u001b[00m\u001b[1;29m"
+    ],
+    [
+      1.699107,
+      "sudo apt-get autoremove --purge"
+    ],
+    [
+      0.231732,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008--purge remove db5.1-util"
+    ],
+    [
+      0.483355,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[12Pdist-upgrade "
+    ],
+    [
+      0.885511,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.046172,
+      "\rLendo listas de pacotes... 0%\r"
+    ],
+    [
+      0.025539,
+      "\rLendo listas de pacotes... 100%\r"
+    ],
+    [
+      0.000272,
+      "\rLendo listas de pacotes... Pronto\r"
+    ],
+    [
+      0.000202,
+      "\r\n"
+    ],
+    [
+      0.017319,
+      "\rConstruindo árvore de dependências... 0%\r"
+    ],
+    [
+      0.000311,
+      "\rConstruindo árvore de dependências... 0%\r"
+    ],
+    [
+      0.068121,
+      "\rConstruindo árvore de dependências... 50%\r"
+    ],
+    [
+      0.001005,
+      "\rConstruindo árvore de dependências... 50%\r"
+    ],
+    [
+      0.327447,
+      "\rConstruindo árvore de dependências       \r"
+    ],
+    [
+      0.000218,
+      "\r\n"
+    ],
+    [
+      0.000109,
+      "\rLendo informação de estado... 0%  \r"
+    ],
+    [
+      0.000229,
+      "\rLendo informação de estado... 0%\r"
+    ],
+    [
+      0.011979,
+      "\rLendo informação de estado... Pronto\r"
+    ],
+    [
+      0.000169,
+      "\r\n"
+    ],
+    [
+      0.244170,
+      "Calculando atualização... "
+    ],
+    [
+      0.407442,
+      "Pronto"
+    ],
+    [
+      0.000196,
+      "\r\n"
+    ],
+    [
+      0.016859,
+      "Os pacotes a seguir serão mantidos em suas versões atuais:"
+    ],
+    [
+      0.000181,
+      "\r\n"
+    ],
+    [
+      0.000102,
+      "  policykit-1"
+    ],
+    [
+      0.000089,
+      "\r\n"
+    ],
+    [
+      0.034988,
+      "0 pacotes atualizados, 0 pacotes novos instalados, 0 a serem removidos e 1 não atualizados."
+    ],
+    [
+      0.000208,
+      "\r\n"
+    ],
+    [
+      0.007353,
+      "\u001b[0m"
+    ],
+    [
+      0.010935,
+      "\u001b]0;edps: edps@debian: /home/edps\u0007\u001b[00m\u001b[0;90m----------------------------------------------------------------------- 11:33:20\r\r\n\u001b[00medps@debian:~$ \u001b[00m\u001b[1;29m"
+    ],
+    [
+      1.302603,
+      "l"
+    ],
+    [
+      0.128019,
+      "s"
+    ],
+    [
+      0.258803,
+      "b"
+    ],
+    [
+      0.384426,
+      "_"
+    ],
+    [
+      0.226776,
+      "r"
+    ],
+    [
+      0.193280,
+      "e"
+    ],
+    [
+      0.231916,
+      "lease "
+    ],
+    [
+      0.847376,
+      "-"
+    ],
+    [
+      0.193269,
+      "a"
+    ],
+    [
+      0.477721,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.177647,
+      "No LSB modules are available.\r\nDistributor ID:\tDebian\r\nDescription:\tDebian GNU/Linux 8.2 (jessie)\r\nRelease:\t8.2\r\nCodename:\tjessie\r\n"
+    ],
+    [
+      0.007162,
+      "\u001b[0m"
+    ],
+    [
+      0.008589,
+      "\u001b]0;edps: edps@debian: /home/edps\u0007\u001b[00m\u001b[0;90m----------------------------------------------------------------------- 11:33:24\r\r\n\u001b[00medps@debian:~$ \u001b[00m\u001b[1;29m"
+    ],
+    [
+      1.984578,
+      "u"
+    ],
+    [
+      0.193089,
+      "n"
+    ],
+    [
+      0.097333,
+      "a"
+    ],
+    [
+      0.135633,
+      "m"
+    ],
+    [
+      0.062385,
+      "e"
+    ],
+    [
+      0.226663,
+      " "
+    ],
+    [
+      0.159424,
+      "-"
+    ],
+    [
+      0.164158,
+      "a"
+    ],
+    [
+      0.666936,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.017108,
+      "Linux debian 3.16.0-0.bpo.4-686-pae #1 SMP Debian 3.16.7-ckt11-1+deb8u4~bpo70+1 (2015-09-22) i686 GNU/Linux"
+    ],
+    [
+      0.000292,
+      "\r\n"
+    ],
+    [
+      0.004819,
+      "\u001b[0m"
+    ],
+    [
+      0.020091,
+      "\u001b]0;edps: edps@debian: /home/edps\u0007"
+    ],
+    [
+      0.001957,
+      "\u001b[00m\u001b[0;90m----------------------------------------------------------------------- 11:33:28\r"
+    ],
+    [
+      0.000213,
+      "\r\n"
+    ],
+    [
+      0.000164,
+      "\u001b[00medps@debian:~$ \u001b[00m\u001b[1;29m"
+    ],
+    [
+      13.664514,
+      "sudo apt-get install linux-image-686-pae linux-headers-68"
+    ],
+    [
+      0.000520,
+      "6"
+    ],
+    [
+      0.000319,
+      "-"
+    ],
+    [
+      0.000316,
+      "p"
+    ],
+    [
+      0.000317,
+      "a"
+    ],
+    [
+      0.000315,
+      "e"
+    ],
+    [
+      0.000318,
+      " "
+    ],
+    [
+      0.000318,
+      "b"
+    ],
+    [
+      0.000317,
+      "u \r"
+    ],
+    [
+      0.000213,
+      "i"
+    ],
+    [
+      0.000214,
+      "l"
+    ],
+    [
+      0.000215,
+      "d"
+    ],
+    [
+      0.000214,
+      "-"
+    ],
+    [
+      0.000227,
+      "e"
+    ],
+    [
+      0.000236,
+      "s"
+    ],
+    [
+      0.000218,
+      "s"
+    ],
+    [
+      0.000220,
+      "e"
+    ],
+    [
+      0.000220,
+      "n"
+    ],
+    [
+      0.000221,
+      "t"
+    ],
+    [
+      0.000224,
+      "i"
+    ],
+    [
+      0.000241,
+      "a"
+    ],
+    [
+      0.000240,
+      "l"
+    ],
+    [
+      0.000241,
+      " "
+    ],
+    [
+      0.000242,
+      "d"
+    ],
+    [
+      0.000244,
+      "e"
+    ],
+    [
+      0.000248,
+      "v"
+    ],
+    [
+      0.000251,
+      "s"
+    ],
+    [
+      0.000252,
+      "c"
+    ],
+    [
+      0.000254,
+      "r"
+    ],
+    [
+      0.000255,
+      "i"
+    ],
+    [
+      0.000256,
+      "p"
+    ],
+    [
+      0.000270,
+      "t"
+    ],
+    [
+      0.000261,
+      "s"
+    ],
+    [
+      0.000262,
+      " "
+    ],
+    [
+      0.000263,
+      "d"
+    ],
+    [
+      0.000265,
+      "h"
+    ],
+    [
+      0.000266,
+      "-"
+    ],
+    [
+      0.000268,
+      "m"
+    ],
+    [
+      0.000267,
+      "a"
+    ],
+    [
+      0.006086,
+      "k"
+    ],
+    [
+      0.000315,
+      "e"
+    ],
+    [
+      0.000284,
+      " "
+    ],
+    [
+      0.000282,
+      "d"
+    ],
+    [
+      0.000282,
+      "h"
+    ],
+    [
+      0.000285,
+      "-"
+    ],
+    [
+      0.000285,
+      "m"
+    ],
+    [
+      0.000286,
+      "a"
+    ],
+    [
+      0.000286,
+      "k"
+    ],
+    [
+      0.000288,
+      "e"
+    ],
+    [
+      0.000289,
+      "-"
+    ],
+    [
+      0.000291,
+      "p"
+    ],
+    [
+      0.000291,
+      "e"
+    ],
+    [
+      0.000293,
+      "r"
+    ],
+    [
+      0.000312,
+      "l"
+    ],
+    [
+      0.000466,
+      " "
+    ],
+    [
+      0.000305,
+      "d"
+    ],
+    [
+      0.000299,
+      "k"
+    ],
+    [
+      0.000299,
+      "m"
+    ],
+    [
+      0.000299,
+      "s"
+    ],
+    [
+      0.000302,
+      " "
+    ],
+    [
+      0.000303,
+      "d"
+    ],
+    [
+      0.000375,
+      "p"
+    ],
+    [
+      0.000308,
+      "k"
+    ],
+    [
+      0.000308,
+      "g"
+    ],
+    [
+      0.000309,
+      "-"
+    ],
+    [
+      0.000327,
+      "d"
+    ],
+    [
+      0.000312,
+      "e"
+    ],
+    [
+      0.000311,
+      "v"
+    ],
+    [
+      0.000313,
+      " "
+    ],
+    [
+      0.000314,
+      "e"
+    ],
+    [
+      0.006572,
+      "q"
+    ],
+    [
+      0.001720,
+      "u"
+    ],
+    [
+      0.000379,
+      "i"
+    ],
+    [
+      0.000360,
+      "v"
+    ],
+    [
+      0.000449,
+      "s"
+    ],
+    [
+      0.000370,
+      " "
+    ],
+    [
+      0.000364,
+      "p"
+    ],
+    [
+      0.000579,
+      "a"
+    ],
+    [
+      0.000270,
+      "c"
+    ],
+    [
+      0.000230,
+      "k"
+    ],
+    [
+      0.000231,
+      "a"
+    ],
+    [
+      0.000232,
+      "g"
+    ],
+    [
+      0.000293,
+      "i"
+    ],
+    [
+      0.000362,
+      "n"
+    ],
+    [
+      0.000337,
+      "g"
+    ],
+    [
+      0.000334,
+      "-"
+    ],
+    [
+      0.000333,
+      "d"
+    ],
+    [
+      0.000336,
+      "e"
+    ],
+    [
+      0.000329,
+      "v \r"
+    ],
+    [
+      1.640717,
+      "\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Kv\r\n\u001b[0m"
+    ],
+    [
+      0.048963,
+      "\rLendo listas de pacotes... 0%\r"
+    ],
+    [
+      0.020827,
+      "\rLendo listas de pacotes... 100%\r"
+    ],
+    [
+      0.000264,
+      "\rLendo listas de pacotes... Pronto\r"
+    ],
+    [
+      0.000200,
+      "\r\n"
+    ],
+    [
+      0.017191,
+      "\rConstruindo árvore de dependências... 0%\r"
+    ],
+    [
+      0.000314,
+      "\rConstruindo árvore de dependências... 0%\r"
+    ],
+    [
+      0.066184,
+      "\rConstruindo árvore de dependências... 50%\r"
+    ],
+    [
+      0.000211,
+      "\rConstruindo árvore de dependências... 50%\r"
+    ],
+    [
+      0.330246,
+      "\rConstruindo árvore de dependências       \r"
+    ],
+    [
+      0.000202,
+      "\r\n"
+    ],
+    [
+      0.000109,
+      "\rLendo informação de estado... 0%  \r"
+    ],
+    [
+      0.000224,
+      "\rLendo informação de estado... 0%\r"
+    ],
+    [
+      0.013119,
+      "\rLendo informação de estado... Pronto\r"
+    ],
+    [
+      0.000186,
+      "\r\n"
+    ],
+    [
+      0.249807,
+      "build-essential já é a versão mais nova."
+    ],
+    [
+      0.000199,
+      "\r\n"
+    ],
+    [
+      0.000105,
+      "devscripts já é a versão mais nova."
+    ],
+    [
+      0.000089,
+      "\r\n"
+    ],
+    [
+      0.000098,
+      "dh-make já é a versão mais nova."
+    ],
+    [
+      0.000089,
+      "\r\n"
+    ],
+    [
+      0.000096,
+      "dh-make-perl já é a versão mais nova."
+    ],
+    [
+      0.000087,
+      "\r\n"
+    ],
+    [
+      0.000097,
+      "dkms já é a versão mais nova."
+    ],
+    [
+      0.000088,
+      "\r\n"
+    ],
+    [
+      0.000097,
+      "dpkg-dev já é a versão mais nova."
+    ],
+    [
+      0.000088,
+      "\r\n"
+    ],
+    [
+      0.000097,
+      "equivs já é a versão mais nova."
+    ],
+    [
+      0.000088,
+      "\r\n"
+    ],
+    [
+      0.000097,
+      "linux-headers-686-pae já é a versão mais nova."
+    ],
+    [
+      0.000088,
+      "\r\n"
+    ],
+    [
+      0.000097,
+      "linux-image-686-pae já é a versão mais nova."
+    ],
+    [
+      0.000087,
+      "\r\n"
+    ],
+    [
+      0.000096,
+      "packaging-dev já é a versão mais nova."
+    ],
+    [
+      0.000087,
+      "\r\n"
+    ],
+    [
+      0.398002,
+      "0 pacotes atualizados, 0 pacotes novos instalados, 0 a serem removidos e 1 não atualizados."
+    ],
+    [
+      0.000196,
+      "\r\n"
+    ],
+    [
+      0.007632,
+      "\u001b[0m"
+    ],
+    [
+      0.005785,
+      "\u001b]0;edps: edps@debian: /home/edps\u0007\u001b[00m\u001b[0;90m----------------------------------------------------------------------- 11:33:44\r\r\n\u001b[00medps@debian:~$ \u001b[00m\u001b[1;29m"
+    ],
+    [
+      3.284382,
+      "e"
+    ],
+    [
+      0.289697,
+      "x"
+    ],
+    [
+      0.253619,
+      "i"
+    ],
+    [
+      0.223740,
+      "t"
+    ],
+    [
+      0.667290,
+      "\r\n\u001b[0mexit\r\n"
+    ]
+  ]
+}
