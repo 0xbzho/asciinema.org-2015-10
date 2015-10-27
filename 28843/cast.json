@@ -1,0 +1,754 @@
+{
+  "version": 1,
+  "width": 237,
+  "height": 57,
+  "duration": 58.235995,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "screen",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.114237,
+      "\u001b[01;34mmwa\u001b[0m \u001b[01;32mdogmatix\u001b[00m\u001b[01;32m \u001b[01;37mraphael \u001b[00;33m~/gits/viper\r\r\n\u001b[01;30m$ \u001b[00m(git::prod) "
+    ],
+    [
+      1.085350,
+      "./viper.py "
+    ],
+    [
+      0.702884,
+      "\r\n"
+    ],
+    [
+      0.256080,
+      "         _                   \r\n        (_) \r\n   _   _ _ ____  _____  ____ \r\n  | | | | |  _ \\| ___ |/ ___)"
+    ],
+    [
+      0.000013,
+      "\r\n   \\ V /| | |_| | ____| |    \r\n    \\_/ |_|  __/|_____)_| v1.3-dev\r\n          |_|\r\n    \r\n"
+    ],
+    [
+      0.003877,
+      "\u001b[35mYou have \u001b[1m5\u001b[0m\u001b[0m\u001b[35m files in your \u001b[1mdefault\u001b[0m\u001b[35m repository\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000360,
+      "\u001b[36mviper \u003e \u001b[0m"
+    ],
+    [
+      2.913256,
+      "f"
+    ],
+    [
+      0.055525,
+      "i"
+    ],
+    [
+      0.179207,
+      "n"
+    ],
+    [
+      0.132080,
+      "d"
+    ],
+    [
+      0.104389,
+      " "
+    ],
+    [
+      0.121335,
+      "a"
+    ],
+    [
+      0.159519,
+      "l"
+    ],
+    [
+      0.125224,
+      "l"
+    ],
+    [
+      0.087490,
+      " "
+    ],
+    [
+      0.235286,
+      "\r\n"
+    ],
+    [
+      0.013110,
+      "+---+------------------------------------------------------------------+--------------------------+----------------------------------+------+\r\n| # | Name                                                             | Mime                     | MD5                              | Tags |"
+    ],
+    [
+      0.000009,
+      "\r\n+---+------------------------------------------------------------------+--------------------------+----------------------------------+------+\r\n| 1 | 14_09_2015_ihre_N231443.exe                                      | application/x-dosexec    | f4f81d82577d27842f638e6f216e1f05 |      |\r\n| 2 | fe1419e9dde6d479bd7cda27edd39fafdab2668d498931931a2769b370727129 | application/octet-stream | 5ecff6d766ec3fcce9208c3e37f36306 |      |\r\n| 3 | VirusShare_744c07e886497f7b68f6f7fe57b7ab54                      | application/x-dosexec    | 744c07e886497f7b68f6f7fe57b7ab54 |      |\r\n| 4 | 23_09_2015_quittung_13Q23N42.exe                                 | application/x-dosexec    | 2d1728641f1c36afded46fee05147604 |      |\r\n| 5 | jNEV1VeS.zip                                                     | application/zip          | 1a4d207d58182141c1e8da4937c97724 |      |\r\n"
+    ],
+    [
+      0.000014,
+      "+---+------------------------------------------------------------------+--------------------------+----------------------------------+------+"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000052,
+      "\u001b[36mviper \u003e \u001b[0m"
+    ],
+    [
+      2.462615,
+      "o"
+    ],
+    [
+      0.102799,
+      "p"
+    ],
+    [
+      0.121732,
+      "e"
+    ],
+    [
+      0.292683,
+      "n"
+    ],
+    [
+      0.085794,
+      " "
+    ],
+    [
+      6.889717,
+      "5"
+    ],
+    [
+      0.000008,
+      "e"
+    ],
+    [
+      0.000011,
+      "c"
+    ],
+    [
+      0.000017,
+      "f"
+    ],
+    [
+      0.000014,
+      "f"
+    ],
+    [
+      0.000014,
+      "6"
+    ],
+    [
+      0.000020,
+      "d"
+    ],
+    [
+      0.000015,
+      "7"
+    ],
+    [
+      0.000016,
+      "6"
+    ],
+    [
+      0.000017,
+      "6"
+    ],
+    [
+      0.000024,
+      "e"
+    ],
+    [
+      0.000009,
+      "c"
+    ],
+    [
+      0.000018,
+      "3"
+    ],
+    [
+      0.000018,
+      "f"
+    ],
+    [
+      0.000017,
+      "c"
+    ],
+    [
+      0.000022,
+      "c"
+    ],
+    [
+      0.000018,
+      "e"
+    ],
+    [
+      0.000018,
+      "9"
+    ],
+    [
+      0.000024,
+      "2"
+    ],
+    [
+      0.000016,
+      "0"
+    ],
+    [
+      0.000020,
+      "8"
+    ],
+    [
+      0.000020,
+      "c"
+    ],
+    [
+      0.000022,
+      "3"
+    ],
+    [
+      0.000020,
+      "e"
+    ],
+    [
+      0.000021,
+      "3"
+    ],
+    [
+      0.000020,
+      "7"
+    ],
+    [
+      0.000021,
+      "f"
+    ],
+    [
+      0.000021,
+      "3"
+    ],
+    [
+      0.000023,
+      "6"
+    ],
+    [
+      0.000023,
+      "3"
+    ],
+    [
+      0.000022,
+      "0"
+    ],
+    [
+      0.000023,
+      "6"
+    ],
+    [
+      0.769948,
+      "\r\n"
+    ],
+    [
+      0.018836,
+      "\u001b[1m\u001b[36m[*]\u001b[0m\u001b[0m Session opened on /home/raphael/gits/viper/binaries/f/e/1/4/fe1419e9dde6d479bd7cda27edd39fafdab2668d498931931a2769b370727129\r\n"
+    ],
+    [
+      0.003880,
+      "\u001b[36mviper \u001b[0m\u001b[37mfe1419e9dde6d479bd7cda27edd39fafdab2668d498931931a2769b370727129\u001b[0m\u001b[34m\u001b[0m\u001b[36m \u003e \u001b[0m"
+    ],
+    [
+      3.778156,
+      "m"
+    ],
+    [
+      0.086948,
+      "i"
+    ],
+    [
+      0.145860,
+      "s"
+    ],
+    [
+      0.191674,
+      "p"
+    ],
+    [
+      0.086865,
+      " "
+    ],
+    [
+      0.152391,
+      "s"
+    ],
+    [
+      0.149429,
+      "e"
+    ],
+    [
+      0.140189,
+      "a"
+    ],
+    [
+      0.293267,
+      "r"
+    ],
+    [
+      0.347207,
+      "c"
+    ],
+    [
+      0.157688,
+      "h"
+    ],
+    [
+      0.093418,
+      " "
+    ],
+    [
+      0.786416,
+      "\r\n"
+    ],
+    [
+      2.720035,
+      "\u001b[1m\u001b[32m[+]\u001b[0m\u001b[0m 5ecff6d766ec3fcce9208c3e37f36306 matches on the following events:\r\n"
+    ],
+    [
+      0.000012,
+      " \u001b[36m-\u001b[0m Secret Malware in European Union Attack Linked to U.S. and British Intelligence article by the Intercept (32 samples, 97 hashes) - https://misppriv.circl.lu/events/view/710\r\n\u001b[1m\u001b[32m[+]\u001b[0m\u001b[0m a7d84e7f091d919f4cda645db152b3a6284b578f matches on the following events:\r\n \u001b[36m-\u001b[0m Secret Malware in European Union Attack Linked to U.S. and British Intelligence article by the Intercept (32 samples, 97 hashes) - https://misppriv.circl.lu/events/view/710\r\n\u001b[1m\u001b[32m[+]\u001b[0m\u001b[0m fe1419e9dde6d479bd7cda27edd39fafdab2668d498931931a2769b370727129 matches on the following events:\r\n \u001b[36m-\u001b[0m Regin Yara rules (0 samples, 31 hashes) - https://misppriv.circl.lu/events/view/700\r\n \u001b[36m-\u001b[0m Secret Malware in European Union Attack Linked to U.S. and British Intelligence article by the Intercept (32 samples, 97 hashes) - https://misppriv.circl.lu/events/view/710\r\n \u001b[36m-\u001b[0m Regin Scanner (0 samples, 23 hashes) - https://misppriv.circl.lu/events/view/730\r\n"
+    ],
+    [
+      0.004235,
+      "\u001b[36mviper \u001b[0m\u001b[37mfe1419e9dde6d479bd7cda27edd39fafdab2668d498931931a2769b370727129\u001b[0m\u001b[34m\u001b[0m\u001b[36m \u003e \u001b[0m"
+    ],
+    [
+      7.932538,
+      "m"
+    ],
+    [
+      0.118635,
+      "i"
+    ],
+    [
+      0.130118,
+      "s"
+    ],
+    [
+      0.223366,
+      "p"
+    ],
+    [
+      0.078960,
+      " "
+    ],
+    [
+      0.264604,
+      "g"
+    ],
+    [
+      0.077956,
+      "e"
+    ],
+    [
+      0.101956,
+      "t"
+    ],
+    [
+      0.347522,
+      "_"
+    ],
+    [
+      0.177180,
+      "e"
+    ],
+    [
+      0.212851,
+      "v"
+    ],
+    [
+      0.085946,
+      "e"
+    ],
+    [
+      0.156890,
+      "n"
+    ],
+    [
+      0.124667,
+      "t"
+    ],
+    [
+      0.111783,
+      " "
+    ],
+    [
+      3.793070,
+      "7"
+    ],
+    [
+      0.139165,
+      "1"
+    ],
+    [
+      0.343013,
+      "0"
+    ],
+    [
+      3.112493,
+      "\r\n"
+    ],
+    [
+      1.671273,
+      "\u001b[1m\u001b[36m[*]\u001b[0m\u001b[0m Session opened on MISP event 710.\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[1m\u001b[36m[*]\u001b[0m\u001b[0m This event contains 32 samples.\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u001b[32m[+]\u001b[0m\u001b[0m The following samples are in this viper instance:\r\n"
+    ],
+    [
+      0.000012,
+      " \u001b[36m-\u001b[0m fe1419e9dde6d479bd7cda27edd39fafdab2668d498931931a2769b370727129\r\n"
+    ],
+    [
+      0.000011,
+      " \u001b[36m-\u001b[0m 9ddbe7e77cb5616025b92814d68adfc9c3e076dddbe29de6eb73701a172c3379\r\n"
+    ],
+    [
+      0.003703,
+      "\u001b[36mviper \u001b[0m\u001b[37mfe1419e9dde6d479bd7cda27edd39fafdab2668d498931931a2769b370727129\u001b[0m\u001b[34m [MISP 710]\u001b[0m\u001b[36m \u003e \u001b[0m"
+    ],
+    [
+      5.073208,
+      "m"
+    ],
+    [
+      0.070961,
+      "i"
+    ],
+    [
+      0.201650,
+      "s"
+    ],
+    [
+      0.326533,
+      "p"
+    ],
+    [
+      0.063098,
+      " "
+    ],
+    [
+      0.303279,
+      "s"
+    ],
+    [
+      0.126569,
+      "h"
+    ],
+    [
+      0.181705,
+      "o"
+    ],
+    [
+      0.257679,
+      "w"
+    ],
+    [
+      0.875488,
+      "\r\n"
+    ],
+    [
+      0.222393,
+      "\u001b[1m\u001b[36m[*]\u001b[0m\u001b[0m Related events:\r\n \u001b[36m-\u001b[0m https://misppriv.circl.lu/events/view/697 - OSINT - Regin: Top-tier espionage tool enables stealthy surveillance"
+    ],
+    [
+      0.000009,
+      "\r\n \u001b[36m-\u001b[0m https://misppriv.circl.lu/events/view/699 - OSINT - The Regin Espionage Toolkit\r\n \u001b[36m-\u001b[0m https://misppriv.circl.lu/events/view/700 - Regin Yara rules\r\n \u001b[36m-\u001b[0m https://misppriv.circl.lu/events/view/709 - OSINT - Regin: Nation-state ownage of GSM networks\r\n \u001b[36m-\u001b[0m https://misppriv.circl.lu/events/view/714 - Script to detect Regin VFS\r\n \u001b[36m-\u001b[0m https://misppriv.circl.lu/events/view/715 - OSINT Regin samples shared by VirusShare\r\n"
+    ],
+    [
+      0.000003,
+      " \u001b[36m-\u001b[0m https://misppriv.circl.lu/events/view/726 - Regin fake certificates thumbprints\r\n"
+    ],
+    [
+      0.000003,
+      " \u001b[36m-\u001b[0m https://misppriv.circl.lu/events/view/730 - Regin Scanner\r\n"
+    ],
+    [
+      0.000014,
+      " \u001b[36m-\u001b[0m https://misppriv.circl.lu/events/view/750 - OSINT - F-Secure W32/Regin, Stage #1\r\n"
+    ],
+    [
+      0.000005,
+      " \u001b[36m-\u001b[0m https://misppriv.circl.lu/events/view/759 - OSINT F-Secure W64/Regin, Stage #1\r\n"
+    ],
+    [
+      0.000003,
+      " \u001b[36m-\u001b[0m https://misppriv.circl.lu/events/view/833 - OSINT - An analysis of Regin's Hopscotch and Legspin\r\n"
+    ],
+    [
+      0.000004,
+      " \u001b[36m-\u001b[0m https://misppriv.circl.lu/events/view/2006 - OSINT - Regin: Top-tier espionage tool enables stealthy surveillance by Symantec"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.015399,
+      "+-----------------+-----------------------------------------------------------------------------------------------------------------------------------+---------+-------------------------------------------------------------+\r\n| type            | value                                                                                                                             | comment | related                                                     |\r\n+-----------------+-----------------------------------------------------------------------------------------------------------------------------------+---------+-------------------------------------------------------------+\r\n| filename|sha1   | fe1419e9dde6d479bd7cda27edd39fafdab2668d498931931a2769b370727129|a7d84e7f091d919f4cda645db152b3a6284b578f                         |         | 730                                                         |\r\n"
+    ],
+    [
+      0.000011,
+      "| filename|sha1   | fd92fd7d0f925ccc0b4cbb6b402e8b99b64fa6a4636d985d78e5507bd4cfecef|ba25f786a6e07696e4c9353a44b8d0457f2f3ef3                         |         | 700                                                         |\r\n| filename|sha1   | f89549fc84a8d0f8617841c6aa4bb1678ea2b6081c1f7f74ab1aebd4db4176e4|773d7fab06807b5b1bc2d74fa80343e83593caf2                         |         | 730, 700                                                    |\r\n| filename|sha1   | f1d903251db466d35533c28e3c032b7212aa43c8d64ddf8c5521b43031e69e1e|9f0dc086875e6b06efe6bb3aadf049ce00f9e486                         |         | 2006, 700, 697                                              |\r\n| filename|sha1   | ecd7de3387b64b7dab9a7fb52e8aa65cb7ec9193f8eac6a7d79407a6a932ef69|3c4d91abd0507a6b77602f0c580fe5ef943b0f68                         |         | 700                                                         |\r\n| filename|sha1   | e420d0cf7a7983f78f5a15e6cb460e93c7603683ae6c41b27bf7f2fa34b2d935|c4579ce0be83b4f38667e5fa3909b24b8d18a25e                         |         | 730, 700                                                    |\r\n| filename|sha1   | e1ba03a10a40aab909b2ba58dcdfd378b4d264f1f4a554b669797bbb8c8ac902|0a151553ef4c7d22ffb94a1fbc01f5b4f1900964                         |         | 2006, 700, 697                                              |\r\n| filename|sha1   | d42300fea6eddcb2f65ffec9e179e46d87d91affad55510279ecbb0250d7fdff|d905d4981164640f7e28c34f82e4954da6d9fac4                         |         | 715                                                         |\r\n| filename|sha1   | cca1850725f278587845cd19cbdf3dceb6f65790d11df950f17c5ff6beb18601|601e1e0539ca6f44f32e86f2ef801a0e9402b60e                         |         | 700                                                         |\r\n| filename|sha1   | c0cf8e008fbfa0cb2c61d968057b4a077d62f64d7320769982d28107db370513|f8645b71b2cb515278d3802924642124f5ba9b7d                         |         | 2006, 700, 697                                              |\r\n| filename|sha1   | b755ed82c908d92043d4ec3723611c6c5a7c162e78ac8065eb77993447368fce|b5e28342e2d6d587be1f92770e9517f44a0f279e                         |         | 700                                                         |"
+    ],
+    [
+      0.000009,
+      "\r\n| filename|sha1   | b12c7d57507286bbbe36d7acf9b34c22c96606ffd904e3c23008399a4a50c047|75a9af1e34dc0bb2f7fcde9d56b2503072ac35dd                         |         | 2006, 700, 697                                              |\r\n| filename|sha1   | a7493fac96345a989b1a03772444075754a2ef11daa22a7600466adc1f69a669|3c8d90b7bdf097811a460a0835206d4bfd56c4a2                         |         | 2006, 715, 700, 697                                         |\r\n| filename|sha1   | a6603f27c42648a857b8a1cbf301ed4f0877be75627f6bbe99c0bfd9dc4adb35|3672fd5ae126e920217d1b90a25b691e467f3ff5                         |         | 700                                                         |\r\n| filename|sha1   | a7e3ad8ea7edf1ca10b0e5b0d976675c3016e5933219f97e94900dea0d470abe|b6adfcba6797b5377154a811f70a335767a511b0                         |         | 2006, 700, 697                                              |\r\n"
+    ],
+    [
+      0.000004,
+      "| filename|sha1   | a0e3c52a2c99c39b70155a9115a6c74ea79f8a68111190faa45a8fd1e50f8880|89a366a728171e101bdf2693b44b280c543d9ee5                         |         | 700                                                         |\r\n| filename|sha1   | a0d82c3730bc41e267711480c8009883d1412b68977ab175421eabc34e4ef355|b1b874f0d4457033babb4f28f55c8a6e0590e9df                         |         | 2006, 715, 700, 697                                         |\r\n"
+    ],
+    [
+      0.000004,
+      "| filename|sha1   | 5001793790939009355ba841610412e0f8d60ef5461f2ea272ccf4fd4c83b823|bc79d07eb4ec7041dce91596a56cbe07b5e107e1                         |         | 2006, 700, 697                                              |\r\n| filename|sha1   | 4139149552b0322f2c5c993abccc0f0d1b38db4476189a9f9901ac0d57a656be|76c355bfeb859a347e38da89e3d30a6ff1f94229                         |         | 730, 700                                                    |\r\n"
+    ],
+    [
+      0.000005,
+      "| filename|sha1   | 8389b0d3fb28a5f525742ca2bf80a81cf264c806f99ef684052439d6856bc7e7|bdd2872798659ea9fc6f9e6c3300a5e949a54e41                         |         | 715, 700                                                    |\r\n"
+    ],
+    [
+      0.000004,
+      "| filename|sha1   | 20831e820af5f41353b5afab659f2ad42ec6df5d9692448872f3ed8bbb40ab92|8487a961c8244004c9276979bb4b0c14392fc3b8                         |         | 730, 700                                                    |\r\n| filename|sha1   | 7553d4a5914af58b23a9e0ce6a262cd230ed8bb2c30da3d42d26b295f9144ab7|bcf3461d67b39a427c83f9e39b9833cfec977c61                         |         | 730, 700                                                    |"
+    ],
+    [
+      0.000007,
+      "\r\n| filename|sha1   | 392f32241cd3448c7a435935f2ff0d2cdc609dda81dd4946b1c977d25134e96e|5031f07749c2639e57a6628a4361fe363d77c34e                         |         | 700                                                         |\r\n| filename|sha1   | 225e9596de85ca7b1025d6e444f6a01aa6507feef213f4d2e20da9e7d5d8e430|16c126de5e55fda930e8b01a2714cb62849eba11                         |         | 700                                                         |\r\n"
+    ],
+    [
+      0.000004,
+      "| filename|sha1   | 40c46bcab9acc0d6d235491c01a66d4c6f35d884c19c6f410901af6d1e33513b|732298fa025ed48179a3a2555b45be96f7079712                         |         | 2006, 730, 700, 697                                         |\r\n| filename|sha1   | 9ddbe7e77cb5616025b92814d68adfc9c3e076dddbe29de6eb73701a172c3379|5f39dc77ce189dbee5758fe4ca07739c5bd454f9                         |         | 715, 700                                                    |\r\n"
+    ],
+    [
+      0.000004,
+      "| filename|sha1   | 9cd5127ef31da0e8a4e36292f2af5a9ec1de3b294da367d7c05786fe2d5de44f|40ff545ced31bc32b65be19ed2739355c054ee52                         |         | 2006, 700, 697                                              |\r\n| filename|sha1   | 8d7be9ed64811ea7986d788a75cbc4ca166702c6ff68c33873270d7c6597f5db|b9d34609371481c5bc0147f46ff393e9c60805a3                         |         | 2006, 700, 697                                              |"
+    ],
+    [
+      0.000004,
+      "\r\n| filename|sha1   | 7d38eb24cf5644e090e45d5efa923aff0e69a600fb0ab627e8929bb485243926|e0895336617e0b45b312383814ec6783556d7635                         |         | 2006, 730, 700, 697                                         |\r\n"
+    ],
+    [
+      0.000004,
+      "| filename|sha1   | 5c81cf8262f9a8b0e100d2a220f7119e54edfc10c4fb906ab7848a015cd12d90|6331b41759174ae72f2e2ce3e0850d42f4e7c97d                         |         | 700                                                         |\r\n"
+    ],
+    [
+      0.000004,
+      "| filename|sha1   | 4e39bc95e35323ab586d740725a1c8cbcde01fe453f7c4cac7cced9a26e42cc9|fea8a97304a74e965bbd1149c6c23171b61ff1da                         |         | 2006, 700, 697                                              |\r\n| filename|sha1   | 4d6cebe37861ace885aa00046e2769b500084cc79750d2bf8c1e290a1c42aaff|d50dc73cb99b349a441ce374b29850ea1dc2b56b                         |         |                                                             |"
+    ],
+    [
+      0.000004,
+      "\r\n| filename|sha256 | fe1419e9dde6d479bd7cda27edd39fafdab2668d498931931a2769b370727129|fe1419e9dde6d479bd7cda27edd39fafdab2668d498931931a2769b370727129 |         | 730                                                         |\r\n"
+    ],
+    [
+      0.000004,
+      "| filename|sha256 | fd92fd7d0f925ccc0b4cbb6b402e8b99b64fa6a4636d985d78e5507bd4cfecef|fd92fd7d0f925ccc0b4cbb6b402e8b99b64fa6a4636d985d78e5507bd4cfecef |         | 700                                                         |\r\n| filename|sha256 | f89549fc84a8d0f8617841c6aa4bb1678ea2b6081c1f7f74ab1aebd4db4176e4|f89549fc84a8d0f8617841c6aa4bb1678ea2b6081c1f7f74ab1aebd4db4176e4 |         | 700                                                         |"
+    ],
+    [
+      0.000004,
+      "\r\n| filename|sha256 | f1d903251db466d35533c28e3c032b7212aa43c8d64ddf8c5521b43031e69e1e|f1d903251db466d35533c28e3c032b7212aa43c8d64ddf8c5521b43031e69e1e |         | 2006, 700, 697                                              |\r\n"
+    ],
+    [
+      0.000004,
+      "| filename|sha256 | ecd7de3387b64b7dab9a7fb52e8aa65cb7ec9193f8eac6a7d79407a6a932ef69|ecd7de3387b64b7dab9a7fb52e8aa65cb7ec9193f8eac6a7d79407a6a932ef69 |         | 700                                                         |\r\n| filename|sha256 | e420d0cf7a7983f78f5a15e6cb460e93c7603683ae6c41b27bf7f2fa34b2d935|e420d0cf7a7983f78f5a15e6cb460e93c7603683ae6c41b27bf7f2fa34b2d935 |         | 730, 700                                                    |"
+    ],
+    [
+      0.000004,
+      "\r\n| filename|sha256 | e1ba03a10a40aab909b2ba58dcdfd378b4d264f1f4a554b669797bbb8c8ac902|e1ba03a10a40aab909b2ba58dcdfd378b4d264f1f4a554b669797bbb8c8ac902 |         | 2006, 700, 697                                              |"
+    ],
+    [
+      0.000004,
+      "\r\n| filename|sha256 | d42300fea6eddcb2f65ffec9e179e46d87d91affad55510279ecbb0250d7fdff|d42300fea6eddcb2f65ffec9e179e46d87d91affad55510279ecbb0250d7fdff |         | 715                                                         |\r\n"
+    ],
+    [
+      0.000004,
+      "| filename|sha256 | cca1850725f278587845cd19cbdf3dceb6f65790d11df950f17c5ff6beb18601|cca1850725f278587845cd19cbdf3dceb6f65790d11df950f17c5ff6beb18601 |         | 700                                                         |\r\n| filename|sha256 | c0cf8e008fbfa0cb2c61d968057b4a077d62f64d7320769982d28107db370513|c0cf8e008fbfa0cb2c61d968057b4a077d62f64d7320769982d28107db370513 |         | 2006, 700, 697                                              |"
+    ],
+    [
+      0.000004,
+      "\r\n| filename|sha256 | b755ed82c908d92043d4ec3723611c6c5a7c162e78ac8065eb77993447368fce|b755ed82c908d92043d4ec3723611c6c5a7c162e78ac8065eb77993447368fce |         | 700                                                         |\r\n"
+    ],
+    [
+      0.000004,
+      "| filename|sha256 | b12c7d57507286bbbe36d7acf9b34c22c96606ffd904e3c23008399a4a50c047|b12c7d57507286bbbe36d7acf9b34c22c96606ffd904e3c23008399a4a50c047 |         | 2006, 700, 697                                              |\r\n| filename|sha256 | a7493fac96345a989b1a03772444075754a2ef11daa22a7600466adc1f69a669|a7493fac96345a989b1a03772444075754a2ef11daa22a7600466adc1f69a669 |         | 2006, 715, 700, 697                                         |"
+    ],
+    [
+      0.000004,
+      "\r\n| filename|sha256 | a6603f27c42648a857b8a1cbf301ed4f0877be75627f6bbe99c0bfd9dc4adb35|a6603f27c42648a857b8a1cbf301ed4f0877be75627f6bbe99c0bfd9dc4adb35 |         | 700                                                         |\r\n"
+    ],
+    [
+      0.000004,
+      "| filename|sha256 | a7e3ad8ea7edf1ca10b0e5b0d976675c3016e5933219f97e94900dea0d470abe|a7e3ad8ea7edf1ca10b0e5b0d976675c3016e5933219f97e94900dea0d470abe |         | 2006, 700, 697                                              |\r\n| filename|sha256 | a0e3c52a2c99c39b70155a9115a6c74ea79f8a681111"
+    ],
+    [
+      0.000004,
+      "90faa45a8fd1e50f8880|a0e3c52a2c99c39b70155a9115a6c74ea79f8a68111190faa45a8fd1e50f8880 |         | 700                                                         |\r\n| filename|sha256 | a0d82c3730bc41e267711480c8009883d1412b68977ab175421eabc34e4ef355|a0d82c3730bc41e267711480c8009883d1412b68977ab175421eabc34e4ef355 |         | 2006, 715, 700, 697                                         |"
+    ],
+    [
+      0.000005,
+      "\r\n| filename|sha256 | 5001793790939009355ba841610412e0f8d60ef5461f2ea272ccf4fd4c83b823|5001793790939009355ba841610412e0f8d60ef5461f2ea272ccf4fd4c83b823 |         | 2006, 700, 697                                              |\r\n| filename|sha256 | 4139149552b0322f2c5c993abccc0f0d1b38db4476189a9f9901ac0d57a656be|4139149552b0322f2c5c993abccc0f0d1b38db4476189a9f9901ac0d57a656be |         | 730, 700                                                    |"
+    ],
+    [
+      0.000004,
+      "\r\n| filename|sha256 | 8389b0d3fb28a5f525742ca2bf80a81cf264c806f99ef684052439d6856bc7e7|8389b0d3fb28a5f525742ca2bf80a81cf264c806f99ef684052439d6856bc7e7 |         | 715, 700                                                    |\r\n"
+    ],
+    [
+      0.000004,
+      "| filename|sha256 | 20831e820af5f41353b5afab659f2ad42ec6df5d9692448872f3ed8bbb40ab92|20831e820af5f41353b5afab659f2ad42ec6df5d9692448872f3ed8bbb40ab92 |         | 700                                                         |\r\n| filename|sha256 | 7553d4a5914af58b23a9e0ce6a262cd230ed8bb2c30da3d42d26b295f9144ab7|7553d4a5914af58b23a9e0ce6a262cd230ed8bb2c30da3d42d26b295f9144ab7 |         | 700                                                         |"
+    ],
+    [
+      0.000004,
+      "\r\n| filename|sha256 | 392f32241cd3448c7a435935f2ff0d2cdc609dda81dd4946b1c977d25134e96e|392f32241cd3448c7a435935f2ff0d2cdc609dda81dd4946b1c977d25134e96e |         | 700                                                         |\r\n"
+    ],
+    [
+      0.000004,
+      "| filename|sha256 | 225e9596de85ca7b1025d6e444f6a01aa6507feef213f4d2e20da9e7d5d8e430|225e9596de85ca7b1025d6e444f6a01aa6507feef213f4d2e20da9e7d5d8e430 |         | 700                                                         |\r\n| filename|sha256 | 40c46bcab9acc0d6d235491c01a66d4c6f35d884c19c6f410901af6d1e33513b|40c46bcab9a"
+    ],
+    [
+      0.000004,
+      "cc0d6d235491c01a66d4c6f35d884c19c6f410901af6d1e33513b |         | 2006, 700, 697                                              |\r\n| filename|sha256 | 9ddbe7e77cb5616025b92814d68adfc9c3e076dddbe29de6eb73701a172c3379|9ddbe7e77cb5616025b92814d68adfc9c3e076dddbe29de6eb73701a172c3379 |         | 715, 700                                                    |"
+    ],
+    [
+      0.000004,
+      "\r\n| filename|sha256 | 8d7be9ed64811ea7986d788a75cbc4ca166702c6ff68c33873270d7c6597f5db|8d7be9ed64811ea7986d788a75cbc4ca166702c6ff68c33873270d7c6597f5db |         | 2006, 700, 697                                              |\r\n"
+    ],
+    [
+      0.000004,
+      "| filename|sha256 | 9cd5127ef31da0e8a4e36292f2af5a9ec1de3b294da367d7c05786fe2d5de44f|9cd5127ef31da0e8a4e36292f2af5a9ec1de3b294da367d7c05786fe2d5de44f |         | 2006, 700, 697                                              |\r\n| filename|sha256 | 7d38eb24cf5644e090e45d5efa923aff0e69a600fb0ab627e8929bb485243926|7d38eb24cf5644e090e45d5efa923aff0e69a600fb0ab627e8929bb485243926 |         | 2006, 700, 697                                              |"
+    ],
+    [
+      0.000004,
+      "\r\n| filename|sha256 | 5c81cf8262f9a8b0e100d2a220f7119e54edfc10c4fb906ab7848a015cd12d90|5c81cf8262f9a8b0e100d2a220f7119e54edfc10c4fb906ab7848a015cd12d90 |         | 700                                                         |\r\n"
+    ],
+    [
+      0.000004,
+      "| filename|sha256 | 4e39bc95e35323ab586d740725a1c8cbcde01fe453f7c4cac7cced9a26e42cc9|4e39bc95e35323ab586d740725a1c8cbcde01fe453f7c4cac7cced9a26e42cc9 |         | 2006, 700, 697                                              |\r\n| filename|sha256 | 4d6cebe37861ace885aa00046e2769b500084cc79750d2bf8c1e290a1c42aaff|4d6cebe37861ace885aa00046e2769b500084cc79750d2bf8c1e290a1c42aaff |         |                                                             |"
+    ],
+    [
+      0.000005,
+      "\r\n| malware-sample  | fe1419e9dde6d479bd7cda27edd39fafdab2668d498931931a2769b370727129|5ecff6d766ec3fcce9208c3e37f36306                                 |         | 730                                                         |\r\n| malware-sample  | fd92fd7d0f925ccc0b4cbb6b402e8b99b64fa6a4636d985d78e5507bd4cfecef|e97f6268c7b5f2f8844e2c1bfaae72c8           "
+    ],
+    [
+      0.000005,
+      "                      |         | 700                                                         |\r\n| malware-sample  | f89549fc84a8d0f8617841c6aa4bb1678ea2b6081c1f7f74ab1aebd4db4176e4|b0a35d8ed2d852230265bff39e57d9e5                                 |         | 700                                                         |"
+    ],
+    [
+      0.000004,
+      "\r\n| malware-sample  | f1d903251db466d35533c28e3c032b7212aa43c8d64ddf8c5521b43031e69e1e|06665b96e293b23acc80451abb413e50                                 |         | 2006, 750, 730, 714, 709, 700, 697                          |\r\n| malware-sample  | ecd7de3387b64b7dab9a7fb52e8aa65cb7ec9193f8eac6a7d79407a6a932ef69|049436bb90f71cf38549817d9b90e2da                                 |         | 750, 700                                                    |"
+    ],
+    [
+      0.000005,
+      "\r\n| malware-sample  | e420d0cf7a7983f78f5a15e6cb460e93c7603683ae6c41b27bf7f2fa34b2d935|b7cbb79edd04c32dc46e23407d0c4139                                 |         | 730, 700                                                    |\r\n"
+    ],
+    [
+      0.000004,
+      "| malware-sample  | e1ba03a10a40aab909b2ba58dcdfd378b4d264f1f4a554b669797bbb8c8ac902|6662c390b2bbbd291ec7987388fc75d7                                 |         | 2006, 750, 730, 714, 709, 700, 697                          |\r\n| malware-sample  | d42300fea6eddcb2f65ffec9e179e46d87d91affad55510279ecbb0250d7fdff|52897d02af0f7658e64e0db6af537dc2                                 |         | 715                                                         |\r\n"
+    ],
+    [
+      0.000004,
+      "| malware-sample  | cca1850725f278587845cd19cbdf3dceb6f65790d11df950f17c5ff6beb18601|148c1bb9d405d717252c77593aff4bd8                                 |         | 750, 700                                                    |\r\n"
+    ],
+    [
+      0.000004,
+      "| malware-sample  | c0cf8e008fbfa0cb2c61d968057b4a077d62f64d7320769982d28107db370513|1c024e599ac055312a4ab75b3950040a                                 |         | 2006, 750, 730, 714, 709, 700, 697                          |\r\n| malware-sample  | b755ed82c908d92043d4ec3723611c6c5a7c162e78ac8065eb77993447368fce|26297dc3cd0b688de3b846983c5385e5                                 |         "
+    ],
+    [
+      0.000004,
+      "| 750, 709, 700                                               |\r\n| malware-sample  | b12c7d57507286bbbe36d7acf9b34c22c96606ffd904e3c23008399a4a50c047|ffb0b9b5b610191051a7bdf0806e1e47                                 |         | 2006, 750, 730, 714, 709, 700, 697                          |"
+    ],
+    [
+      0.000004,
+      "\r\n| malware-sample  | a7493fac96345a989b1a03772444075754a2ef11daa22a7600466adc1f69a669|b269894f434657db2b15949641a67532                                 |         | 2006, 750, 730, 715, 714, 709, 700, 697                     |\r\n"
+    ],
+    [
+      0.000004,
+      "| malware-sample  | a6603f27c42648a857b8a1cbf301ed4f0877be75627f6bbe99c0bfd9dc4adb35|7137720651a55fb8978138c8bf36f00f                                 |         | 700                                                         |\r\n| malware-sample  | a7e3ad8ea7edf1ca10b0e5b0d976675c3016e5933219f97e94900dea0d470abe|187044596bc1328efa0ed636d8aa4a5c                                 |         | 2006, 750, 730, 714, 709, 700, 697                          |"
+    ],
+    [
+      0.000004,
+      "\r\n| malware-sample  | a0e3c52a2c99c39b70155a9115a6c74ea79f8a68111190faa45a8fd1e50f8880|1352a9210c8d9120f55f98f90fa5fc5c                                 |         | 700                                                         |\r\n"
+    ],
+    [
+      0.000005,
+      "| malware-sample  | a0d82c3730bc41e267711480c8009883d1412b68977ab175421eabc34e4ef355|b29ca4f22ae7b7b25f79c1d4a421139d                                 |         | 2006, 750, 730, 715, 714, 709, 700, 697                     |\r\n| malware-sample  | 5001793790939009355ba841610412e0f8d60ef5461f2ea272ccf4fd4c83b823|ba7bb65634ce1e30c1e5415be3d1db1d                                 |         | 2006, 750, 730, 714, 709, 700, 697                          |"
+    ],
+    [
+      0.000004,
+      "\r\n| malware-sample  | 4139149552b0322f2c5c993abccc0f0d1b38db4476189a9f9901ac0d57a656be|55b8dbe7bb0c37c05a30cc75742401a5                                 |         | 730, 700                                                    |\r\n"
+    ],
+    [
+      0.000004,
+      "| malware-sample  | 8389b0d3fb28a5f525742ca2bf80a81cf264c806f99ef684052439d6856bc7e7|47d0e8f9d7a6429920329207a32ecc2e                                 |         | 750, 715, 709, 700                                          |\r\n"
+    ],
+    [
+      0.000004,
+      "| malware-sample  | 20831e820af5f41353b5afab659f2ad42ec6df5d9692448872f3ed8bbb40ab92|85bd9de0382a13c09705c26a8306e22e                                 |         | 700                                                         |\r\n| malware-sample  | 7553d4a5914af58b23a9e0ce6a262cd230ed8bb2c30da3d42d26b295f9144ab7|02c5c3983983d15405875894cab47bac                                 |         | 700                                                         |"
+    ],
+    [
+      0.000004,
+      "\r\n| malware-sample  | 392f32241cd3448c7a435935f2ff0d2cdc609dda81dd4946b1c977d25134e96e|01c2f321b6bfdb9473c079b0797567ba                                 |         | 750, 709, 700                                               |\r\n"
+    ],
+    [
+      0.000004,
+      "| malware-sample  | 225e9596de85ca7b1025d6e444f6a01aa6507feef213f4d2e20da9e7d5d8e430|db405ad775ac887a337b02ea8b07fddc                                 |         | 750, 709, 700                                               |\r\n| malware-sample  | 40c46bcab9acc0d6d235491c01a66d4c6f35d884c19c6f410901af6d1e33513b|4b6b86c7fec1c574706cecedf44abded                                 |         | 2006, 750, 730, 714, 709, 700, 697                          |"
+    ],
+    [
+      0.000004,
+      "\r\n| malware-sample  | 9ddbe7e77cb5616025b92814d68adfc9c3e076dddbe29de6eb73701a172c3379|744c07e886497f7b68f6f7fe57b7ab54                                 |         | 750, 715, 709, 700                                          |\r\n"
+    ],
+    [
+      0.000903,
+      "| malware-sample  | 9cd5127ef31da0e8a4e36292f2af5a9ec1de3b294da367d7c05786fe2d5de44f|d240f06e98c8d3e647cbf4d442d79475                                 |         | 2006, 750, 730, 714, 709, 700, 697                          |\r\n| malware-sample  | 8d7be9ed64811ea7986d788a75cbc4ca166702c6ff68c33873270d7c6597f5db|bfbe8c3ee78750c3a520480700e440f8                                 |         | 2006, 750, 730, 714, 709, 700, 697                          |"
+    ],
+    [
+      0.000840,
+      "\r\n| malware-sample  | 7d38eb24cf5644e090e45d5efa923aff0e69a600fb0ab627e8929bb485243926|2c8b9d2885543d7ade3cae98225e263b                                 |         | 2006, 750, 730, 714, 709, 700, 697                          |\r\n| malware-sample  | 5c81cf8262f9a8b0e100d2a220f7119e54edfc10c4fb906ab7848a015cd12d90|22bfc970f707fd775d49e875b63c2f0c                                 |         | 750, 700                                                    |\r\n| malware-sample  | 4e39bc95e35323ab586d740725a1c8cbcde01fe453f7c4cac7cced9a26e42cc9|b505d65721bb2453d5039a389113b566                                 |         | 2006, 750, 730, 714, 709, 700, 697                          |\r\n| malware-sample  | 4d6cebe37861ace885aa00046e2769b500084cc79750d2bf8c1e290a1c42aaff|a8c032ba411c1f63220d7e7ce883ee8e                                 |         |                                                             |\r\n| sha256          | 4d6cebe37861ace885aa00046e2769b500084cc79750d2bf8c1e290a1c42aaff                                                                  |         |                                                             |\r\n| sha256          | 4139149552b0322f2c5c993abccc0f0d1b38db4476189a9f9901ac0d57a656be                                                                  |         | 730, 700                                                    |\r\n| sha256          | e420d0cf7a7983f78f5a15e6cb460e93c7603683ae6c41b27bf7f2fa34b2d935                                                                  |         | 730, 700                                                    |\r\n| sha256          | fe1419e9dde6d479bd7cda27edd39fafdab2668d498931931a2769b370727129                                                                  |         | 730                                                         |\r\n| sha256          | 8389b0d3fb28a5f525742ca2bf80a81cf264c806f99ef684052439d6856bc7e7                                                                  |         | 715, 700                                                    |\r\n| sha256          | 392f32241cd3448c7a435935f2ff0d2cdc609dda81dd4946b1c977d25134e96e                                                                  |         | 700                                                         |\r\n| sha256          | 9ddbe7e77cb5616025b92814d68adfc9c3e076dddbe29de6eb73701a172c3379                                                                  |         | 715, 700                                                    |\r\n| sha256          | ecd7de3387b64b7dab9a7fb52e8aa65cb7ec9193f8eac6a7d79407a6a932ef69                                                                  |         | 700                                                         |\r\n| sha256          | e1ba03a10a40aab909b2ba58dcdfd378b4d264f1f4a554b669797bbb8c8ac902                                                                  |         | 2006, 700, 697                                              |\r\n| sha256          | cca1850725f278587845cd19cbdf3dceb6f65790d11df950f17c5ff6beb18601                                                                  |         | 700                                                         |\r\n| sha256          | c0cf8e008fbfa0cb2c61d968057b4a077d62f64d7320769982d28107db370513                                                                  |         | 2006, 700, 697                                              |\r\n| sha256          | b755ed82c908d92043d4ec3723611c6c5a7c162e78ac8065eb77993447368fce                                                                  |         | 700                                                         |\r\n| sha256          | 5c81cf8262f9a8b0e100d2a220f7119e54edfc10c4fb906ab7848a015cd12d90                                                                  |         | 700                                                         |\r\n| sha256          | d42300fea6eddcb2f65ffec9e179e46d87d91affad55510279ecbb0250d7fdff                                                                  |         | 715                                                         |\r\n| sha256          | a0e3c52a2c99c39b70155a9"
+    ],
+    [
+      0.000014,
+      "115a6c74ea79f8a68111190faa45a8fd1e50f8880                                                                  |         | 700                                                         |\r\n| sha256          | a7e3ad8ea7edf1ca10b0e5b0d976675c3016e5933219f97e94900dea0d470abe                                                                  |         | 2006, 700, 697                                              |\r\n| sha256          | df77132b5c192bd8d2d26b1ebb19853cf03b01d38afd5d382ce77e0d7219c18c                                                                  |         | 700                                                         |\r\n| sha256          | 7d38eb24cf5644e090e45d5efa923aff0e69a600fb0ab627e8929bb485243926                                                                  |         | 2006, 700, 697                                              |\r\n| sha256          | 40c46bcab9acc0d6d235491c01a66d4c6f35d884c19c6f410901af6d1e33513b                                                                  |         | 2006, 700, 697                                              |\r\n| sha256          | 8d7be9ed64811ea7986d788a75cbc4ca166702c6ff68c33873270d7c6597f5db                                                                  |         | 2006, 700, 697                                              |\r\n| sha256          | a6603f27c42648a857b8a1cbf301ed4f0877be75627f6bbe99c0bfd9dc4adb35                                                                  |         | 700                                                         |\r\n| sha256          | 5001793790939009355ba841610412e0f8d60ef5461f2ea272ccf4fd4c83b823                                                                  |         | 2006, 700, 697                                              |\r\n| sha256          | a7493fac96345a989b1a03772444075754a2ef11daa22a7600466adc1f69a669                                                                  |         | 2006, 715, 700, 697                                         |\r\n| sha256          | a0d82c3730bc41e267711480c8009883d1412b68977ab175421eabc34e4ef355                                                                  |         | 2006, 715, 700, 697                                         |\r\n| sha256          | 4e39bc95e35323ab586d740725a1c8cbcde01fe453f7c4cac7cced9a26e42cc9                                                                  |         | 2006, 700, 697                                              |\r\n| sha256          | f1d903251db466d35533c28e3c032b7212aa43c8d64ddf8c5521b43031e69e1e                                                                  |         | 2006, 700, 697                                              |\r\n| sha256          | b12c7d57507286bbbe36d7acf9b34c22c96606ffd904e3c23008399a4a50c047                                                                  |         | 2006, 700, 697                                              |\r\n| sha256          | 225e9596de85ca7b1025d6e444f6a01aa6507feef213f4d2e20da9e7d5d8e430                                                                  |         | 700                                                         |\r\n| sha256          | 9cd5127ef31da0e8a4e36292f2af5a9ec1de3b294da367d7c05786fe2d5de44f                                                                  |         | 2006, 700, 697                                              |\r\n| sha256          | fd92fd7d0f925ccc0b4cbb6b402e8b99b64fa6a4636d985d78e5507bd4cfecef                                                                  |         | 700                                                         |\r\n| sha256          | f89549fc84a8d0f8617841c6aa4bb1678ea2b6081c1f7f74ab1aebd4db4176e4                                                                  |         | 700                                                         |\r\n| sha256          | 7553d4a5914af58b23a9e0ce6a262cd230ed8bb2c30da3d42d26b295f9144ab7                                                                  |         | 700                                                         |\r\n| sha256          | 20831e820af5f41353b5afab659f2ad42ec6df5d9692448872f3ed8bbb40ab92    "
+    ],
+    [
+      0.000005,
+      "                                                              |         | 700                                                         |\r\n| link            | https://firstlook.org/theintercept/2014/11/24/secret-regin-malware-belgacom-nsa-gchq/                                             |         | 709                                                         |\r\n| text            | Regin                                                                                                                             |         | 2006, 833, 759, 750, 730, 726, 715, 714, 709, 700, 699, 697 |\r\n+-----------------+-----------------------------------------------------------------------------------------------------------------------------------+---------+-------------------------------------------------------------+\r\n\u001b[1m\u001b[36m[*]\u001b[0m\u001b[0m This event has been published\r\n"
+    ],
+    [
+      0.002309,
+      "\u001b[36mviper \u001b[0m\u001b[37mfe1419e9dde6d479bd7cda27edd39fafdab2668d498931931a2769b370727129\u001b[0m\u001b[34m [MISP 710]\u001b[0m\u001b[36m \u003e \u001b[0m"
+    ],
+    [
+      4.041280,
+      "\r\n"
+    ],
+    [
+      0.037423,
+      "\u001b[01;34mmwa\u001b[0m \u001b[01;32mdogmatix\u001b[00m\u001b[01;32m \u001b[01;37mraphael \u001b[00;33m~/gits/viper\r\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[01;30m$ \u001b[00m(git::prod) "
+    ],
+    [
+      1.054907,
+      "exit"
+    ],
+    [
+      0.000028,
+      "\r\n"
+    ]
+  ]
+}
