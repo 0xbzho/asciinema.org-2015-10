@@ -1,0 +1,922 @@
+{
+  "version": 1,
+  "width": 108,
+  "height": 32,
+  "duration": 71.133624,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.107705,
+      "\u001b]7;file://Digital WeightScale/Users/renemarcelo/Code\u0007"
+    ],
+    [
+      0.082604,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                           \r \r"
+    ],
+    [
+      0.000044,
+      "\u001b]2;renemarcelo@Digital WeightScale\u0007"
+    ],
+    [
+      0.000018,
+      "\u001b]1;~/Code\u0007"
+    ],
+    [
+      0.002595,
+      "\u001b]7;file://Digital WeightScale/Users/renemarcelo/Code\u0007"
+    ],
+    [
+      0.014583,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[32m % "
+    ],
+    [
+      0.000116,
+      "\u001b[K\u001b[78C\u001b[37m~/Code \u001b[01;34mDigital WeightScale\u001b[00m\u001b[104D"
+    ],
+    [
+      0.000322,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      5.248838,
+      "c"
+    ],
+    [
+      0.159186,
+      "\u0008cd"
+    ],
+    [
+      0.088116,
+      " "
+    ],
+    [
+      0.704428,
+      "n"
+    ],
+    [
+      0.151881,
+      "u"
+    ],
+    [
+      0.143536,
+      "r"
+    ],
+    [
+      0.184088,
+      "\u001b[?7l"
+    ],
+    [
+      0.000006,
+      "\u001b[31m......\u001b[39m"
+    ],
+    [
+      0.000004,
+      "\u001b[?7h"
+    ],
+    [
+      0.011381,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[32m % "
+    ],
+    [
+      0.000006,
+      "cd nursing_home_app\u001b[1m/\u001b[0m\u001b[K\u001b[58C\u001b[37m~/Code \u001b[01;34mDigital WeightScale\u001b[00m\u001b[84D"
+    ],
+    [
+      1.340514,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000051,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000096,
+      "\r\r\n"
+    ],
+    [
+      0.003924,
+      "\u001b]2;cd nursing_home_app\u0007"
+    ],
+    [
+      0.000009,
+      "\u001b]1;cd\u0007"
+    ],
+    [
+      0.000150,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                           \r \r"
+    ],
+    [
+      0.000100,
+      "\u001b]2;renemarcelo@Digital WeightScale\u0007\u001b]1;..sing_home_app\u0007"
+    ],
+    [
+      0.004267,
+      "\u001b]7;file://Digital WeightScale/Users/renemarcelo/Code/nursing_home_app\u0007"
+    ],
+    [
+      0.071613,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[32m % "
+    ],
+    [
+      0.000054,
+      "\u001b[K\u001b[54C\u001b[37mCode/nursing_home_app \u001b[33m(master)\u001b[00m \u001b[01;34mDigital WeightScale\u001b[00m\u001b[104D"
+    ],
+    [
+      0.000104,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.256077,
+      "g"
+    ],
+    [
+      0.071654,
+      "\u0008gi"
+    ],
+    [
+      0.048132,
+      "t"
+    ],
+    [
+      0.095943,
+      " "
+    ],
+    [
+      3.136195,
+      "r"
+    ],
+    [
+      0.055903,
+      "e"
+    ],
+    [
+      0.104622,
+      "m"
+    ],
+    [
+      0.135732,
+      "o"
+    ],
+    [
+      0.127845,
+      "t"
+    ],
+    [
+      0.072147,
+      "e"
+    ],
+    [
+      0.103814,
+      " "
+    ],
+    [
+      0.096170,
+      "-"
+    ],
+    [
+      0.119653,
+      "-"
+    ],
+    [
+      0.168211,
+      "v"
+    ],
+    [
+      0.511772,
+      "\u0008 \u0008"
+    ],
+    [
+      0.119866,
+      "\u0008 \u0008"
+    ],
+    [
+      0.240261,
+      "v"
+    ],
+    [
+      0.256364,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000090,
+      "\r\r\n"
+    ],
+    [
+      0.004729,
+      "\u001b]2;git remote -v\u0007\u001b]1;git\u0007"
+    ],
+    [
+      0.005062,
+      "origin\tgit@github.com:renemarcelo/nursing_home_app.git (fetch)\r\norigin\tgit@github.com:renemarcelo/nursing_home_app.git (push)\r\n"
+    ],
+    [
+      0.000439,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                           \r \r"
+    ],
+    [
+      0.000131,
+      "\u001b]2;renemarcelo@Digital WeightScale\u0007"
+    ],
+    [
+      0.000062,
+      "\u001b]1;..sing_home_app\u0007"
+    ],
+    [
+      0.003099,
+      "\u001b]7;file://Digital WeightScale/Users/renemarcelo/Code/nursing_home_app\u0007"
+    ],
+    [
+      0.033521,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[32m % "
+    ],
+    [
+      0.000033,
+      "\u001b[K\u001b[54C\u001b[37mCode/nursing_home_app \u001b[33m(master)\u001b[00m \u001b[01;34mDigital WeightScale\u001b[00m\u001b[104D"
+    ],
+    [
+      0.000120,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      12.153387,
+      "g"
+    ],
+    [
+      0.056020,
+      "\u0008gi"
+    ],
+    [
+      0.095275,
+      "t"
+    ],
+    [
+      0.232307,
+      " "
+    ],
+    [
+      0.439838,
+      "r"
+    ],
+    [
+      0.064242,
+      "e"
+    ],
+    [
+      0.047678,
+      "m"
+    ],
+    [
+      0.120240,
+      "o"
+    ],
+    [
+      0.120196,
+      "t"
+    ],
+    [
+      0.079669,
+      "e"
+    ],
+    [
+      0.104079,
+      " "
+    ],
+    [
+      0.200428,
+      "a"
+    ],
+    [
+      0.103525,
+      "d"
+    ],
+    [
+      0.160462,
+      "d"
+    ],
+    [
+      0.103774,
+      " "
+    ],
+    [
+      0.919752,
+      "u"
+    ],
+    [
+      0.063973,
+      "p"
+    ],
+    [
+      0.114657,
+      "s"
+    ],
+    [
+      0.109898,
+      "t"
+    ],
+    [
+      0.184172,
+      "r"
+    ],
+    [
+      0.127709,
+      "e"
+    ],
+    [
+      0.176035,
+      "a"
+    ],
+    [
+      0.151993,
+      "m"
+    ],
+    [
+      0.399760,
+      " "
+    ],
+    [
+      0.417387,
+      "h"
+    ],
+    [
+      0.000143,
+      "t"
+    ],
+    [
+      0.000129,
+      "t"
+    ],
+    [
+      0.000083,
+      "p"
+    ],
+    [
+      0.000086,
+      "s"
+    ],
+    [
+      0.000103,
+      ":"
+    ],
+    [
+      0.000073,
+      "/"
+    ],
+    [
+      0.000079,
+      "/"
+    ],
+    [
+      0.000078,
+      "g"
+    ],
+    [
+      0.000077,
+      "i"
+    ],
+    [
+      0.000080,
+      "t"
+    ],
+    [
+      0.000295,
+      "hub."
+    ],
+    [
+      0.000110,
+      "c"
+    ],
+    [
+      0.002170,
+      "om/open-retire\u001b[Kment/nursing_hom"
+    ],
+    [
+      0.000016,
+      "e"
+    ],
+    [
+      0.000070,
+      "_"
+    ],
+    [
+      0.000062,
+      "a"
+    ],
+    [
+      0.000065,
+      "p"
+    ],
+    [
+      0.000071,
+      "p"
+    ],
+    [
+      0.000057,
+      "."
+    ],
+    [
+      0.000063,
+      "g"
+    ],
+    [
+      0.000060,
+      "i"
+    ],
+    [
+      0.000063,
+      "t"
+    ],
+    [
+      1.554857,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000064,
+      "\r\r\n"
+    ],
+    [
+      0.004678,
+      "\u001b]2;git remote add upstream \u0007\u001b]1;git\u0007"
+    ],
+    [
+      0.004774,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                           \r \r"
+    ],
+    [
+      0.000105,
+      "\u001b]2;renemarcelo@Digital WeightScale\u0007"
+    ],
+    [
+      0.000029,
+      "\u001b]1;..sing_home_app\u0007"
+    ],
+    [
+      0.002983,
+      "\u001b]7;file://Digital WeightScale/Users/renemarcelo/Code/nursing_home_app\u0007"
+    ],
+    [
+      0.033620,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[32m % "
+    ],
+    [
+      0.000062,
+      "\u001b[K\u001b[54C\u001b[37mCode/nursing_home_app \u001b[33m(master)\u001b[00m \u001b[01;34mDigital WeightScale\u001b[00m\u001b[104D"
+    ],
+    [
+      0.000095,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.556715,
+      "git remote add upstream https://github.com/open-retirement/nursing_home_app.git\u001b[K"
+    ],
+    [
+      0.117266,
+      "\u001b[68D-v\u001b[K\u001b[41C\u001b[37mCode/nursing_home_app \u001b[33m(master)\u001b[00m \u001b[01;34mDigital WeightScale\u001b[00m\u001b[91D"
+    ],
+    [
+      0.479242,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000028,
+      "\r\r\n"
+    ],
+    [
+      0.003981,
+      "\u001b]2;git remote -v\u0007\u001b]1;git\u0007"
+    ],
+    [
+      0.002895,
+      "origin\tgit@github.com:renemarcelo/nursing_home_app.git (fetch)\r\norigin\tgit@github.com:renemarcelo/nursing_home_app.git (push)\r\nupstream\thttps://github.com/open-retirement/nursing_home_app.git (fetch)\r\n"
+    ],
+    [
+      0.000008,
+      "upstream\thttps://github.com/open-retirement/nursing_home_app.git (push)\r\n"
+    ],
+    [
+      0.000334,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                           \r \r"
+    ],
+    [
+      0.000104,
+      "\u001b]2;renemarcelo@Digital WeightScale\u0007"
+    ],
+    [
+      0.000019,
+      "\u001b]1;..sing_home_app\u0007"
+    ],
+    [
+      0.002096,
+      "\u001b]7;file://Digital WeightScale/Users/renemarcelo/Code/nursing_home_app\u0007"
+    ],
+    [
+      0.034824,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[32m % "
+    ],
+    [
+      0.000044,
+      "\u001b[K\u001b[54C\u001b[37mCode/nursing_home_app \u001b[33m(master)\u001b[00m \u001b[01;34mDigital WeightScale\u001b[00m\u001b[104D"
+    ],
+    [
+      0.000133,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      3.204624,
+      "g"
+    ],
+    [
+      0.047255,
+      "\u0008gi"
+    ],
+    [
+      0.087822,
+      "t"
+    ],
+    [
+      0.064017,
+      " "
+    ],
+    [
+      0.872483,
+      "f"
+    ],
+    [
+      0.215881,
+      "e"
+    ],
+    [
+      0.471989,
+      "t"
+    ],
+    [
+      0.199702,
+      "c"
+    ],
+    [
+      0.072359,
+      "h"
+    ],
+    [
+      0.175639,
+      " "
+    ],
+    [
+      0.144071,
+      "u"
+    ],
+    [
+      0.104178,
+      "s"
+    ],
+    [
+      0.201858,
+      "t"
+    ],
+    [
+      0.430022,
+      "\u0008 \u0008"
+    ],
+    [
+      0.111729,
+      "\u0008 \u0008"
+    ],
+    [
+      0.224594,
+      "p"
+    ],
+    [
+      0.095606,
+      "s"
+    ],
+    [
+      0.210866,
+      "t"
+    ],
+    [
+      0.157451,
+      "r"
+    ],
+    [
+      0.055960,
+      "e"
+    ],
+    [
+      0.136257,
+      "a"
+    ],
+    [
+      0.104241,
+      "m"
+    ],
+    [
+      1.391360,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000066,
+      "\r\r\n"
+    ],
+    [
+      0.004603,
+      "\u001b]2;git fetch upstream\u0007\u001b]1;git\u0007"
+    ],
+    [
+      0.647200,
+      "remote: Counting objects: 6, done.\u001b[K\r\nremote: Compressing objects:  20% (1/5)   \u001b[K\r"
+    ],
+    [
+      0.000013,
+      "remote: Compressing objects:  40% (2/5)   \u001b[K\rremote: Compressing objects:  60% (3/5)   \u001b[K\rremote: Compressing objects:  80% (4/5)   \u001b[K\rremote: Compressing objects: 100% (5/5)   \u001b[K\rremote: Compressing objects: 100% (5/5), done.\u001b[K\r\n"
+    ],
+    [
+      0.466058,
+      "Unpacking objects:  16% (1/6)   \r"
+    ],
+    [
+      0.000465,
+      "Unpacking objects:  33% (2/6)   \r"
+    ],
+    [
+      0.000570,
+      "Unpacking objects:  50% (3/6)   \r"
+    ],
+    [
+      0.000575,
+      "Unpacking objects:  66% (4/6)   \r"
+    ],
+    [
+      0.000533,
+      "Unpacking objects:  83% (5/6)   \r"
+    ],
+    [
+      2.317036,
+      "remote: Total 6 (delta 0), reused 0 (delta 0), pack-reused 1\u001b[K\r\n"
+    ],
+    [
+      0.495739,
+      "Unpacking objects: 100% (6/6)   \r"
+    ],
+    [
+      0.000008,
+      "Unpacking objects: 100% (6/6), done.\r\n"
+    ],
+    [
+      0.008190,
+      "From https://github.com/open-retirement/nursing_home_app\r\n * [new branch]      master     -\u003e upstream/master\r\n"
+    ],
+    [
+      0.005519,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                           \r \r"
+    ],
+    [
+      0.000076,
+      "\u001b]2;renemarcelo@Digital WeightScale\u0007"
+    ],
+    [
+      0.000070,
+      "\u001b]1;..sing_home_app\u0007"
+    ],
+    [
+      0.002665,
+      "\u001b]7;file://Digital WeightScale/Users/renemarcelo/Code/nursing_home_app\u0007"
+    ],
+    [
+      0.032530,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[32m % "
+    ],
+    [
+      0.000008,
+      "\u001b[K\u001b[54C\u001b[37mCode/nursing_home_app \u001b[33m(master)\u001b[00m \u001b[01;34mDigital WeightScale\u001b[00m\u001b[104D"
+    ],
+    [
+      0.000123,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.434857,
+      "g"
+    ],
+    [
+      0.055326,
+      "\u0008gi"
+    ],
+    [
+      0.087942,
+      "t"
+    ],
+    [
+      0.064150,
+      " "
+    ],
+    [
+      0.136346,
+      "m"
+    ],
+    [
+      0.087447,
+      "e"
+    ],
+    [
+      0.080630,
+      "r"
+    ],
+    [
+      0.519828,
+      "g"
+    ],
+    [
+      0.096155,
+      "e"
+    ],
+    [
+      0.127368,
+      " "
+    ],
+    [
+      0.584298,
+      "u"
+    ],
+    [
+      0.112083,
+      "p"
+    ],
+    [
+      0.128340,
+      "s"
+    ],
+    [
+      0.158250,
+      "t"
+    ],
+    [
+      0.257556,
+      "r"
+    ],
+    [
+      0.120220,
+      "e"
+    ],
+    [
+      0.111821,
+      "a"
+    ],
+    [
+      0.104245,
+      "m"
+    ],
+    [
+      1.471422,
+      " "
+    ],
+    [
+      0.152684,
+      "m"
+    ],
+    [
+      0.079215,
+      "a"
+    ],
+    [
+      0.072723,
+      "s"
+    ],
+    [
+      0.135442,
+      "t"
+    ],
+    [
+      0.256000,
+      "e"
+    ],
+    [
+      0.072067,
+      "r"
+    ],
+    [
+      0.775741,
+      "\u0008 \u0008"
+    ],
+    [
+      0.184299,
+      "\u0008 \u0008"
+    ],
+    [
+      0.127808,
+      "\u0008 \u0008"
+    ],
+    [
+      0.135901,
+      "\u0008 \u0008"
+    ],
+    [
+      0.142188,
+      "\u0008 \u0008"
+    ],
+    [
+      0.137902,
+      "\u0008 \u0008"
+    ],
+    [
+      0.256265,
+      "\u0008"
+    ],
+    [
+      0.351914,
+      "/"
+    ],
+    [
+      0.248193,
+      "m"
+    ],
+    [
+      0.111762,
+      "a"
+    ],
+    [
+      0.064633,
+      "s"
+    ],
+    [
+      0.111448,
+      "t"
+    ],
+    [
+      0.207882,
+      "e"
+    ],
+    [
+      0.072114,
+      "r"
+    ],
+    [
+      0.159931,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000017,
+      "\r\r\n"
+    ],
+    [
+      0.003650,
+      "\u001b]2;git merge upstream/master\u0007"
+    ],
+    [
+      0.000009,
+      "\u001b]1;git\u0007"
+    ],
+    [
+      0.005461,
+      "Updating ccc6180..43afb7e\r\n"
+    ],
+    [
+      0.079785,
+      "Fast-forward\r\n"
+    ],
+    [
+      0.011644,
+      " public/stylesheets/background.jpg | Bin \u001b[31m583108\u001b[m -\u003e \u001b[32m11326957\u001b[m bytes\r\n"
+    ],
+    [
+      0.000008,
+      " 1 file changed, 0 insertions(+), 0 deletions(-)\r\n"
+    ],
+    [
+      0.000655,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                           \r \r"
+    ],
+    [
+      0.000120,
+      "\u001b]2;renemarcelo@Digital WeightScale\u0007"
+    ],
+    [
+      0.000024,
+      "\u001b]1;..sing_home_app\u0007"
+    ],
+    [
+      0.002957,
+      "\u001b]7;file://Digital WeightScale/Users/renemarcelo/Code/nursing_home_app\u0007"
+    ],
+    [
+      0.063912,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[32m % "
+    ],
+    [
+      0.000025,
+      "\u001b[K\u001b[54C\u001b[37mCode/nursing_home_app \u001b[33m(master)\u001b[00m \u001b[01;34mDigital WeightScale\u001b[00m\u001b[104D"
+    ],
+    [
+      0.000076,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      9.954768,
+      "\r\r\n"
+    ]
+  ]
+}
