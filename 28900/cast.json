@@ -1,0 +1,2022 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 63.511434,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.085684,
+      "\r\n"
+    ],
+    [
+      0.010423,
+      "\u001b[m\u001b[30m ▐▐▐ \u001b[m\u001b[1;30m ▐▐▐ \u001b[m\u001b[31m ▐▐▐ \u001b[m\u001b[1;31m ▐▐▐ \u001b[m\u001b[32m ▐▐▐ \u001b[m\u001b[1;32m ▐▐▐ \u001b[m\u001b[33m ▐▐▐ \u001b[m\u001b[1;33m ▐▐▐ \u001b[m\u001b[34m ▐▐▐ \u001b[m\u001b[1;34m ▐▐▐ \u001b[m\u001b[35m ▐▐▐ \u001b[m\u001b[1;35m ▐▐▐ \u001b[m\u001b[36m ▐▐▐ \u001b[m\u001b[1;36m ▐▐▐ \u001b[m\u001b[37m ▐▐▐ \u001b[m\u001b[1;37m ▐▐▐ \r\n\u001b[0m\r\n"
+    ],
+    [
+      0.169298,
+      "\u001b[0m"
+    ],
+    [
+      0.000396,
+      "\u001b[0m"
+    ],
+    [
+      0.049928,
+      "\u001b[0m"
+    ],
+    [
+      0.092869,
+      "\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000442,
+      "\u001b[0m"
+    ],
+    [
+      0.020213,
+      "\u001b]0;edps: edps@debian: /home/edps\u0007"
+    ],
+    [
+      0.057534,
+      "\u001b[00m\u001b[0;90m----------------------------------------------------------------------- 10:35:22\r"
+    ],
+    [
+      0.001866,
+      "\r\n"
+    ],
+    [
+      0.000134,
+      "\u001b[00m\r"
+    ],
+    [
+      0.000081,
+      "\r\n"
+    ],
+    [
+      0.000082,
+      "\u001b[1;33m┌(\u001b[01;31medps@debian\u001b[1;33m)─(\u001b[01;34m✓\u001b[1;33m)─(\u001b[1;32m10:35:22, Qua Out 28\u001b[1;33m)\u001b[1;33m\r"
+    ],
+    [
+      0.000085,
+      "\r\n"
+    ],
+    [
+      0.000117,
+      "└─(\u001b[1;34m~\u001b[1;33m)─(\u001b[1;34m17 files, 768Kb\u001b[1;33m)─\u003e \u001b[0m\u001b[00m\u001b[1;29m"
+    ],
+    [
+      0.630550,
+      "e"
+    ],
+    [
+      0.223417,
+      "d"
+    ],
+    [
+      0.127986,
+      "i"
+    ],
+    [
+      0.257507,
+      "t"
+    ],
+    [
+      0.164609,
+      " "
+    ],
+    [
+      0.283636,
+      "s"
+    ],
+    [
+      0.159727,
+      "o"
+    ],
+    [
+      0.226157,
+      "u"
+    ],
+    [
+      0.133158,
+      "r"
+    ],
+    [
+      0.161678,
+      "c"
+    ],
+    [
+      0.124552,
+      "e"
+    ],
+    [
+      0.210628,
+      "s"
+    ],
+    [
+      0.635085,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.130740,
+      "\u001b[?1049h\u001b[1;24r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001371,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000463,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000151,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.030689,
+      "\u001b[39;49m\u001b[39;49m\u001b(B\u001b[m\u001b[H\u001b[2J\u001b(B\u001b[0;7m  GNU nano 2.2.6        Arquivo: /etc/apt/sources.list                          \u001b[3;1H\u001b(B\u001b[0;1m\u001b[34m### ===========================================================================\u001b[39m\u001b(B\u001b[m$\u001b[4;1H\u001b(B\u001b[0;1m\u001b[34m### Debian Jessie/Stable + Backports + LoadBalancer (http://httpredir.debian.or\u001b[39m\u001b(B\u001b[m$\u001b[5;1H\u001b(B\u001b[0;1m\u001b[34m### GPGKey: apt-get update \u0026\u0026 apt-get install debian-archive-keyring\r\u001b[6d\u001b(B\u001b[0m\u001b[33mdeb\u001b(B\u001b[0;1m\u001b[31m \u001b[32mhttp://httpredir.debian.org/debian/\u001b[31m jessie\u001b[35m main contrib non-free\r\u001b[7d\u001b(B\u001b[0m\u001b[33mdeb\u001b(B\u001b[0;1m\u001b[31m \u001b[32mhttp://httpredir.debian.org/debian-security/\u001b[31m jessie/updates\u001b[35m main contrib no\u001b[39m\u001b(B\u001b[m$\u001b[8;1H\u001b[33mdeb\u001b(B\u001b[0;1m\u001b[31m \u001b[32mhttp://httpredir.debian.org/debian/\u001b[31m jessie-updates\u001b[35m main contrib non-free\r\u001b[9d\u001b(B\u001b[0m\u001b[33mdeb\u001b(B\u001b[0;1m\u001b[31m \u001b[32mhttp://httpredir.debian.org/debian/\u001b[31m jessie-proposed-updates\u001b[35m main contrib no\u001b[39m\u001b(B\u001b[m$\u001b[10;1H\u001b[33mdeb\u001b(B\u001b[0;1m\u001b[31m \u001b[32mhttp://httpredir.debian.org/debian/\u001b[31m jessie-backports\u001b[35m main contrib non-free\r\u001b[12d\u001b[34m### ===========================================================================\u001b[39m\u001b(B\u001b[m$\u001b[13;1H\u001b(B\u001b[0;1m\u001b[34m### Devuan repository.\r\u001b[14d### GPGKey: apt-get update \u0026\u0026 apt-get install devuan-keyring devuan-baseconf\r\u001b[15d### deb http://packages.devuan.org/merged jessie main contrib non-free\r\u001b[16d### deb http://packages.devuan.org/merged jessie-updates main contrib non-free\r\u001b[17d### deb http://packages.devuan.org/merged jessie-proposed-updates main contrib \u001b[39m\u001b(B\u001b[m$\u001b[18;1H\u001b(B\u001b[0;1m\u001b[34m### deb http://packages.devuan.org/merged jessie-backports main contrib non-free\u001b[20;1H### ===========================================================================\u001b[39m\u001b(B\u001b[m$\u001b[21;1H\u001b(B\u001b[0;1m\u001b[34m### Debian Wheezy/OldStable + Backports + LoadBalancer (http://httpredir.debian\u001b[39m\u001b(B\u001b[m$\u001b[22;31H\u001b(B\u001b[0;7m[ 26 linhas lidas ]\r\u001b[23d^G\u001b(B\u001b[m Ajuda     \u001b(B\u001b[0;7m^O\u001b(B\u001b[m Gravar    \u001b(B\u001b[0;7m^R\u001b(B\u001b[m Ler o Arq \u001b(B\u001b[0;7m^Y\u001b(B\u001b[m Pág Anter \u001b(B\u001b[0;7m^K\u001b(B\u001b[m Recort Txt\u001b(B\u001b[0;7m^C\u001b(B\u001b[m Pos Atual\r"
+    ],
+    [
+      0.002227,
+      "\u001b[24d\u001b(B\u001b[0;7m^X\u001b(B\u001b[m Sair\u001b[14G\u001b(B\u001b[0;7m^J\u001b(B\u001b[m Justificar\u001b(B\u001b[0;7m^W\u001b(B\u001b[m Onde está?\u001b(B\u001b[0;7m^V\u001b(B\u001b[m Próx Pág  \u001b(B\u001b[0;7m^U\u001b(B\u001b[m Colar Txt \u001b(B\u001b[0;7m^T\u001b(B\u001b[m Para Spell\r\u001b[3d"
+    ],
+    [
+      1.263554,
+      "\u001b[4d"
+    ],
+    [
+      0.659235,
+      "\u001b[5d"
+    ],
+    [
+      0.040332,
+      "\u001b[6d"
+    ],
+    [
+      0.066053,
+      "\u001b[7d"
+    ],
+    [
+      0.041354,
+      "\u001b[8d"
+    ],
+    [
+      0.040454,
+      "\u001b[9d"
+    ],
+    [
+      0.041193,
+      "\u001b[10d"
+    ],
+    [
+      0.041039,
+      "\u001b[11d"
+    ],
+    [
+      0.042289,
+      "\u001b[12d"
+    ],
+    [
+      0.041050,
+      "\u001b[13d"
+    ],
+    [
+      0.041666,
+      "\u001b[14d"
+    ],
+    [
+      0.041707,
+      "\u001b[15d"
+    ],
+    [
+      0.042404,
+      "\u001b[16d"
+    ],
+    [
+      0.039409,
+      "\u001b[17d"
+    ],
+    [
+      0.040037,
+      "\u001b[18d"
+    ],
+    [
+      0.039539,
+      "\u001b[19d"
+    ],
+    [
+      0.041663,
+      "\u001b[20d"
+    ],
+    [
+      0.042501,
+      "\u001b[21d"
+    ],
+    [
+      0.066283,
+      "\u001b7\u001b[3;21r\u001b8\u001b[10S\u001b[1;24r\u001b[12;1H\u001b(B\u001b[0;1m\u001b[34m### GPGKey: apt-get update \u0026\u0026 apt-get install debian-archive-keyring\r\u001b[13d### deb http://httpredir.debian.org/debian/ wheezy main contrib non-free\r\u001b[14d### deb http://httpredir.debian.org/debian-security/ wheezy/updates main contri\u001b[39m\u001b(B\u001b[m$\u001b[15;1H\u001b(B\u001b[0;1m\u001b[34m### deb http://httpredir.debian.org/debian/ wheezy-updates main contrib non-free\u001b[16;1H### deb http://httpredir.debian.org/debian/ wheezy-proposed-updates main contri\u001b[39m\u001b(B\u001b[m$\u001b[17;1H\u001b(B\u001b[0;1m\u001b[34m### deb http://httpredir.debian.org/debian/ wheezy-backports main contrib non-f\u001b[39m\u001b(B\u001b[m$\u001b[18;1H\u001b(B\u001b[0;1m\u001b[34m### deb http://httpredir.debian.org/debian/ wheezy-backports-sloppy main contri\u001b[39m\u001b(B\u001b[m$\u001b[12;1H"
+    ],
+    [
+      0.016672,
+      "\u001b[13d"
+    ],
+    [
+      0.040178,
+      "\u001b[14d"
+    ],
+    [
+      0.040605,
+      "\u001b[15d"
+    ],
+    [
+      0.041488,
+      "\u001b[16d"
+    ],
+    [
+      0.040969,
+      "\u001b[17d"
+    ],
+    [
+      0.044985,
+      "\u001b[18d"
+    ],
+    [
+      0.042436,
+      "\u001b[22d\u001b[K\u001b[19d"
+    ],
+    [
+      0.756317,
+      "\u001b[A"
+    ],
+    [
+      0.659767,
+      "\u001b[A"
+    ],
+    [
+      0.039690,
+      "\u001b[A"
+    ],
+    [
+      0.040482,
+      "\u001b[A"
+    ],
+    [
+      0.039916,
+      "\u001b[A"
+    ],
+    [
+      0.040095,
+      "\u001b[A"
+    ],
+    [
+      0.041611,
+      "\u001b[A"
+    ],
+    [
+      0.041706,
+      "\u001b[A"
+    ],
+    [
+      0.041749,
+      "\u001b[A"
+    ],
+    [
+      0.041502,
+      "\u001b[A"
+    ],
+    [
+      0.041805,
+      "\u001b[A"
+    ],
+    [
+      0.041169,
+      "\u001b[A"
+    ],
+    [
+      0.042909,
+      "\u001b[A"
+    ],
+    [
+      0.042630,
+      "\u001b[A"
+    ],
+    [
+      0.043870,
+      "\u001b[A"
+    ],
+    [
+      0.041971,
+      "\u001b[A"
+    ],
+    [
+      0.046472,
+      "\u001b[2;21r\u001b[2;1H\u001b[10T\u001b[1;24r\u001b[3;1H\u001b(B\u001b[0;1m\u001b[34m### ===========================================================================\u001b[39m\u001b(B\u001b[m$\u001b[4;1H\u001b(B\u001b[0;1m\u001b[34m### Debian Jessie/Stable + Backports + LoadBalancer (http://httpredir.debian.or\u001b[39m\u001b(B\u001b[m$\u001b[5;1H\u001b(B\u001b[0;1m\u001b[34m### GPGKey: apt-get update \u0026\u0026 apt-get install debian-archive-keyring\r\u001b[6d\u001b(B\u001b[0m\u001b[33mdeb\u001b(B\u001b[0;1m\u001b[31m \u001b[32mhttp://httpredir.debian.org/debian/\u001b[31m jessie\u001b[35m main contrib non-free\r\u001b[7d\u001b(B\u001b[0m\u001b[33mdeb\u001b(B\u001b[0;1m\u001b[31m \u001b[32mhttp://httpredir.debian.org/debian-security/\u001b[31m jessie/updates\u001b[35m main contrib no\u001b[39m\u001b(B\u001b[m$\u001b[8;1H\u001b[33mdeb\u001b(B\u001b[0;1m\u001b[31m \u001b[32mhttp://httpredir.debian.org/debian/\u001b[31m jessie-updates\u001b[35m main contrib non-free\r\u001b[9d\u001b(B\u001b[0m\u001b[33mdeb\u001b(B\u001b[0;1m\u001b[31m \u001b[32mhttp://httpredir.debian.org/debian/\u001b[31m jessie-proposed-updates\u001b[35m main contrib no\u001b[39m\u001b(B\u001b[m$\u001b[10;1H\u001b[33mdeb\u001b(B\u001b[0;1m\u001b[31m \u001b[32mhttp://httpredir.debian.org/debian/\u001b[31m jessie-backports\u001b[35m main contrib non-free\r\u001b[12d\u001b[34m### ===========================================================================\u001b[39m\u001b(B\u001b[m$\u001b[12;1H"
+    ],
+    [
+      0.038835,
+      "\u001b[A"
+    ],
+    [
+      0.043016,
+      "\u001b[A"
+    ],
+    [
+      0.040975,
+      "\u001b[A"
+    ],
+    [
+      0.040841,
+      "\u001b[A"
+    ],
+    [
+      0.041921,
+      "\u001b[A"
+    ],
+    [
+      0.041900,
+      "\u001b[A"
+    ],
+    [
+      0.042073,
+      "\u001b[A"
+    ],
+    [
+      0.042098,
+      "\u001b[A"
+    ],
+    [
+      0.041829,
+      "\u001b[A"
+    ],
+    [
+      2.168953,
+      "\u001b[23d\u001b[J\u001b[24;80H\u001b[24;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e\u001b[0m"
+    ],
+    [
+      0.014056,
+      "\u001b]0;edps: edps@debian: /home/edps\u0007"
+    ],
+    [
+      0.069407,
+      "\u001b[00m\u001b[0;90m----------------------------------------------------------------------- 10:35:33\r"
+    ],
+    [
+      0.002469,
+      "\r\n"
+    ],
+    [
+      0.000185,
+      "\u001b[00m\r"
+    ],
+    [
+      0.000083,
+      "\r\n"
+    ],
+    [
+      0.000080,
+      "\u001b[1;33m┌(\u001b[01;31medps@debian\u001b[1;33m)─(\u001b[01;34m✓\u001b[1;33m)─(\u001b[1;32m10:35:33, Qua Out 28\u001b[1;33m)\u001b[1;33m\r"
+    ],
+    [
+      0.000070,
+      "\r\n"
+    ],
+    [
+      0.000142,
+      "└─(\u001b[1;34m~\u001b[1;33m)─(\u001b[1;34m17 files, 768Kb\u001b[1;33m)─\u003e \u001b[0m\u001b[00m\u001b[1;29m"
+    ],
+    [
+      1.168275,
+      "e"
+    ],
+    [
+      0.253650,
+      "d"
+    ],
+    [
+      0.222917,
+      "i"
+    ],
+    [
+      0.204774,
+      "t"
+    ],
+    [
+      0.163540,
+      " "
+    ],
+    [
+      0.219527,
+      "e"
+    ],
+    [
+      0.253759,
+      "x"
+    ],
+    [
+      0.223339,
+      "t"
+    ],
+    [
+      0.235989,
+      "r"
+    ],
+    [
+      0.132891,
+      "a"
+    ],
+    [
+      0.092941,
+      "s"
+    ],
+    [
+      0.883084,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.072885,
+      "\u001b[?1049h\u001b[1;24r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000327,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000163,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000084,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.012678,
+      "\u001b[39;49m\u001b[39;49m\u001b(B\u001b[m\u001b[H\u001b[2J\u001b(B\u001b[0;7m  GNU nano 2.2.6    Arquivo: /etc/apt/sources.list.d/extras.list                \u001b[3;1H\u001b(B\u001b[0;1m\u001b[34m### Repositório Local de Pacotes (ver referência).\r\u001b[4d### Ref: http://va.mu/0HP0\r\u001b[5d### deb file:/home/edps/build/debs /\r\u001b[7d### deb-multimedia.\r\u001b[8d### Chave GPG: apt-get update \u0026\u0026 apt-get install deb-multimedia-keyring\r\u001b[9d### deb http://www.deb-multimedia.org wheezy main non-free\r\u001b[10d### deb http://www.deb-multimedia.org wheezy-backports main\r\u001b[11d\u001b(B\u001b[0m\u001b[33mdeb\u001b(B\u001b[0;1m\u001b[31m \u001b[32mhttp://www.deb-multimedia.org\u001b[31m jessie\u001b[35m main non-free\r\u001b[12d\u001b(B\u001b[0m\u001b[33mdeb\u001b(B\u001b[0;1m\u001b[31m \u001b[32mhttp://www.deb-multimedia.org\u001b[31m jessie-backports\u001b[35m main\r\u001b[14d\u001b[34m### DropBox.\r\u001b[15d### deb [arch=i386,amd64] http://linux.dropbox.com/debian wheezy main\r\u001b[17d### Fish SHELL.\r\u001b[18d### Chave GPG: wget http://download.opensuse.org/repositories/shells:fish:relea\u001b[39m\u001b(B\u001b[m$\u001b[19;1H\u001b[33mdeb\u001b(B\u001b[0;1m\u001b[31m \u001b[32mhttp://download.opensuse.org/repositories/shells:/fish:/release:/2/Debian_7\u001b[39m\u001b(B\u001b[m$\u001b[21;1H\u001b(B\u001b[0;1m\u001b[34m### Google Chrome.\u001b[22;31H\u001b[39m\u001b(B\u001b[0;7m[ 33 linhas lidas ]\r\u001b[23d^G\u001b(B\u001b[m Ajuda     \u001b(B\u001b[0;7m^O\u001b(B\u001b[m Gravar    \u001b(B\u001b[0;7m^R\u001b(B\u001b[m Ler o Arq \u001b(B\u001b[0;7m^Y\u001b(B\u001b[m Pág Anter \u001b(B\u001b[0;7m^K\u001b(B\u001b[m Recort Txt\u001b(B\u001b[0;7m^C\u001b(B\u001b[m Pos Atual\r\u001b[24d\u001b(B\u001b[0;7m^X\u001b(B\u001b[m Sair\u001b[14G\u001b(B\u001b[0;7m^J\u001b(B\u001b[m Justificar\u001b(B\u001b[0;7m^W\u001b(B\u001b[m Onde está?\u001b(B\u001b[0;7m^V\u001b(B\u001b[m Próx Pág  \u001b(B\u001b[0;7m^U\u001b(B\u001b[m Colar Txt \u001b(B\u001b[0;7m^T\u001b(B\u001b[m Para Spell\r\u001b[3d"
+    ],
+    [
+      1.484581,
+      "\u001b[4d"
+    ],
+    [
+      0.660233,
+      "\u001b[5d"
+    ],
+    [
+      0.042477,
+      "\u001b[6d"
+    ],
+    [
+      0.041371,
+      "\u001b[7d"
+    ],
+    [
+      0.040385,
+      "\u001b[8d"
+    ],
+    [
+      0.045799,
+      "\u001b[9d"
+    ],
+    [
+      0.041535,
+      "\u001b[10d"
+    ],
+    [
+      0.041400,
+      "\u001b[11d"
+    ],
+    [
+      0.040908,
+      "\u001b[12d"
+    ],
+    [
+      0.040554,
+      "\u001b[13d"
+    ],
+    [
+      0.040862,
+      "\u001b[14d"
+    ],
+    [
+      0.043583,
+      "\u001b[15d"
+    ],
+    [
+      0.040903,
+      "\u001b[16d"
+    ],
+    [
+      0.222816,
+      "\u001b[17d"
+    ],
+    [
+      0.661292,
+      "\u001b[18d"
+    ],
+    [
+      0.039939,
+      "\u001b[19d"
+    ],
+    [
+      0.039800,
+      "\u001b[20d"
+    ],
+    [
+      0.042244,
+      "\u001b[21d"
+    ],
+    [
+      0.053304,
+      "\u001b7\u001b[3;21r\u001b8\u001b[10S\u001b[1;24r\u001b[12;1H\u001b(B\u001b[0;1m\u001b[34m### deb http://dl.google.com/linux/chrome/deb/ stable main\r\u001b[14d### Iceweasel (Debian Mozilla Team).\r\u001b[15d### Chave GPG: apt-get update \u0026\u0026 apt-get install pkg-mozilla-archive-keyring\r\u001b[16d### deb http://mozilla.debian.net/ wheezy-backports iceweasel-release\r\u001b[17d\u001b(B\u001b[0m\u001b[33mdeb\u001b(B\u001b[0;1m\u001b[31m \u001b[32mhttp://mozilla.debian.net/\u001b[31m jessie-backports\u001b[35m iceweasel-aurora\r\u001b[19d\u001b[34m### Opera Web Browser.\r\u001b[20d### Chave GPG: wget -O - http://deb.opera.com/archive.key | sudo apt-key add -\u001b(B\u001b[0m\u001b[42m \r\u001b[21d\u001b[49m\u001b[33mdeb\u001b(B\u001b[0;1m\u001b[31m \u001b[32mhttp://deb.opera.com/opera/\u001b[31m stable\u001b[35m non-free\r\u001b[12d\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.035655,
+      "\u001b[13d"
+    ],
+    [
+      0.033715,
+      "\u001b[14d"
+    ],
+    [
+      0.040026,
+      "\u001b[15d"
+    ],
+    [
+      0.039670,
+      "\u001b[16d"
+    ],
+    [
+      0.040254,
+      "\u001b[17d"
+    ],
+    [
+      0.316402,
+      "\u001b[18d"
+    ],
+    [
+      0.660375,
+      "\u001b[22d\u001b[K\u001b[19d"
+    ],
+    [
+      0.041249,
+      "\u001b[20d"
+    ],
+    [
+      0.040615,
+      "\u001b[21d"
+    ],
+    [
+      0.051691,
+      "\u001b7\u001b[2;22r\u001b8\u001b[22d\u001b[10S\u001b[1;24r\u001b[2;1H\u001b[K\u001b[13d\u001b(B\u001b[0;1m\u001b[34m### Vivaldi Browser.\r\u001b[14d### deb http://repo.vivaldi.com/archive/deb/ stable main\r\u001b[12d\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.033569,
+      "\u001b[13d"
+    ],
+    [
+      0.041451,
+      "\u001b[14d"
+    ],
+    [
+      0.041276,
+      "\u001b[15d"
+    ],
+    [
+      0.041368,
+      "\u001b[16d"
+    ],
+    [
+      1.553548,
+      "\u001b[23d\u001b[J\u001b[24;80H\u001b[24;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e\u001b[0m"
+    ],
+    [
+      0.010009,
+      "\u001b]0;edps: edps@debian: /home/edps\u0007"
+    ],
+    [
+      0.084686,
+      "\u001b[00m\u001b[0;90m----------------------------------------------------------------------- 10:35:44\r"
+    ],
+    [
+      0.000241,
+      "\r\n"
+    ],
+    [
+      0.000125,
+      "\u001b[00m\r"
+    ],
+    [
+      0.000121,
+      "\r\n"
+    ],
+    [
+      0.000122,
+      "\u001b[1;33m┌(\u001b[01;31medps@debian\u001b[1;33m)─(\u001b[01;34m✓\u001b[1;33m)─(\u001b[1;32m10:35:44, Qua Out 28\u001b[1;33m)\u001b[1;33m\r"
+    ],
+    [
+      0.000122,
+      "\r\n"
+    ],
+    [
+      0.000160,
+      "└─(\u001b[1;34m~\u001b[1;33m)─(\u001b[1;34m17 files, 768Kb\u001b[1;33m)─\u003e \u001b[0m\u001b[00m\u001b[1;29m"
+    ],
+    [
+      1.501186,
+      "u"
+    ],
+    [
+      0.221185,
+      "p"
+    ],
+    [
+      0.191655,
+      "d"
+    ],
+    [
+      0.095979,
+      "a"
+    ],
+    [
+      0.191707,
+      "t"
+    ],
+    [
+      0.097893,
+      "e"
+    ],
+    [
+      0.726774,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.234714,
+      "\r\r0% [Trabalhando]"
+    ],
+    [
+      0.501087,
+      "\r                \r0% [Conectando em httpredir.debian.org (128.31.0.66)] [Conectando em www.deb-mu"
+    ],
+    [
+      0.500555,
+      "\r0% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos] [Aguardando por ca"
+    ],
+    [
+      0.100232,
+      "\r                                                                               \rAtingido http://deb.opera.com stable InRelease"
+    ],
+    [
+      0.000270,
+      "\r\n"
+    ],
+    [
+      0.000228,
+      "\r0% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos] [Aguardando por ca"
+    ],
+    [
+      0.022210,
+      "\r                                                                               \rAtingido http://www.deb-multimedia.org jessie InRelease"
+    ],
+    [
+      0.000233,
+      "\r\n"
+    ],
+    [
+      0.000539,
+      "\r                                                                               \rIgn http://download.opensuse.org  InRelease"
+    ],
+    [
+      0.000165,
+      "\r\n"
+    ],
+    [
+      0.000404,
+      "\r                                                                               \rIgn http://mozilla.debian.net jessie-backports InRelease"
+    ],
+    [
+      0.000158,
+      "\r\n"
+    ],
+    [
+      0.000179,
+      "\r                                                                               \r15% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos]"
+    ],
+    [
+      0.001151,
+      "\r                                                             \r15% [InRelease gpgv 2.590 B] [Aguardando por cabeçalhos] [Aguardando por cabe\ufffd"
+    ],
+    [
+      0.069601,
+      "\r18% [Conectando a debian.gtisc.gatech.edu] [Aguardando por cabeçalhos] [Aguard"
+    ],
+    [
+      0.001027,
+      "\r18% [Conectando a debian.gtisc.gatech.edu] [InRelease gpgv 22,3 kB] [Aguardando"
+    ],
+    [
+      0.036477,
+      "\r16% [Conectando em debian.gtisc.gatech.edu (128.61.240.89)] [Aguardando por cab"
+    ],
+    [
+      0.193394,
+      "\r16% [Conectando em debian.gtisc.gatech.edu (128.61.240.89)] [Aguardando por cab"
+    ],
+    [
+      0.000583,
+      "\r                                                                               \rAtingido http://download.opensuse.org  Release.gpg"
+    ],
+    [
+      0.000170,
+      "\r\n"
+    ],
+    [
+      0.000376,
+      "\r                                                                               \rAtingido http://mozilla.debian.net jessie-backports Release.gpg"
+    ],
+    [
+      0.000158,
+      "\r\n"
+    ],
+    [
+      0.000160,
+      "\r22% [Conectando em debian.gtisc.gatech.edu (128.61.240.89)] [Aguardando por cab"
+    ],
+    [
+      0.012891,
+      "\r                                                                               \rAtingido http://www.deb-multimedia.org jessie-backports InRelease\r\n\r22% [Conectando a mirror.as43289.net] [Aguardando por cabeçalhos] [Aguardando "
+    ],
+    [
+      0.001075,
+      "\r22% [Conectando a mirror.as43289.net] [Aguardando por cabeçalhos] [InRelease g"
+    ],
+    [
+      0.040290,
+      "\r23% [Conectando a mirror.as43289.net] [Aguardando por cabeçalhos] [Aguardando "
+    ],
+    [
+      0.026012,
+      "\r                                                                               \rAtingido http://deb.opera.com stable/non-free i386 Packages"
+    ],
+    [
+      0.000184,
+      "\r\n"
+    ],
+    [
+      0.000131,
+      "\r23% [Conectando a mirror.as43289.net] [Aguardando por cabeçalhos] [Aguardando "
+    ],
+    [
+      0.001522,
+      "\r23% [Packages 0 B] [Conectando a mirror.as43289.net] [Aguardando por cabeçalho"
+    ],
+    [
+      0.009729,
+      "\r99% [Conectando a mirror.as43289.net] [Aguardando por cabeçalhos] [Aguardando "
+    ],
+    [
+      0.154554,
+      "\r                                                                               \rIgn http://httpredir.debian.org jessie InRelease\r\n\r99% [Conectando a mirror.as43289.net] [Aguardando por cabeçalhos] [Aguardando "
+    ],
+    [
+      0.065138,
+      "\r                                                                               \rAtingido http://download.opensuse.org  Release\r\n\r99% [Conectando a mirror.as43289.net] [Aguardando por cabeçalhos] [Aguardando "
+    ],
+    [
+      0.001172,
+      "\r                                                                               \rAtingido http://mozilla.debian.net jessie-backports Release\r\n\r99% [Conectando a mirror.as43289.net] [Release gpgv 1.018 B] [Aguardando por ca"
+    ],
+    [
+      0.021479,
+      "\r99% [Conectando a mirror.as43289.net] [Release gpgv 1.018 B] [Aguardando por ca"
+    ],
+    [
+      0.014196,
+      "\r                                                                               \rAtingido http://www.deb-multimedia.org jessie/main i386 Packages\r\n\r99% [Conectando a debian.csail.mit.edu] [Conectando a mirror.as43289.net] [Rele"
+    ],
+    [
+      0.001037,
+      "\r99% [Conectando a debian.csail.mit.edu] [Packages 0 B] [Conectando a mirror.as4"
+    ],
+    [
+      0.003630,
+      "\r99% [Conectando a debian.csail.mit.edu] [Packages 0 B] [Conectando a mirror.as4"
+    ],
+    [
+      0.001015,
+      "\r99% [Conectando a debian.csail.mit.edu] [Packages 0 B] [Conectando a mirror.as4"
+    ],
+    [
+      0.042680,
+      "\r99% [Conectando a debian.csail.mit.edu] [Packages 691 kB] [Conectando a mirror."
+    ],
+    [
+      0.056186,
+      "\r100% [Conectando a debian.csail.mit.edu] [Conectando a mirror.as43289.net] [Agu"
+    ],
+    [
+      0.177825,
+      "\r                                                                               \rAtingido http://download.opensuse.org  Packages\r\n\r100% [Conectando a debian.csail.mit.edu] [Conectando a mirror.as43289.net] [Agu"
+    ],
+    [
+      0.001868,
+      "\r100% [Conectando a debian.csail.mit.edu] [Conectando a mirror.as43289.net] [Agu"
+    ],
+    [
+      0.025041,
+      "\r                                                                               \rAtingido http://www.deb-multimedia.org jessie/non-free i386 Packages\r\n\r100% [Conectando a debian.csail.mit.edu] [Conectando a mirror.as43289.net] [Agu"
+    ],
+    [
+      0.003274,
+      "\r                                                                               \rAtingido http://mozilla.debian.net jessie-backports/iceweasel-aurora i386 Packages\r\n\r100% [Conectando a debian.csail.mit.edu] [Packages 0 B] [Conectando a mirror.as"
+    ],
+    [
+      0.010921,
+      "\r100% [Conectando a debian.csail.mit.edu] [Conectando a mirror.as43289.net] [Agu"
+    ],
+    [
+      0.001300,
+      "\r100% [Conectando a debian.csail.mit.edu] [Packages 0 B] [Conectando a mirror.as"
+    ],
+    [
+      0.026530,
+      "\r100% [Conectando a debian.csail.mit.edu] [Conectando a mirror.as43289.net] [Agu"
+    ],
+    [
+      0.500762,
+      "\r100% [Conectando a debian.csail.mit.edu] [Conectando a mirror.as43289.net] [Agu"
+    ],
+    [
+      0.501107,
+      "\r100% [Conectando a debian.csail.mit.edu] [Conectando a mirror.as43289.net] [Agu"
+    ],
+    [
+      0.030115,
+      "\r100% [Conectando a debian.csail.mit.edu] [Conectando a mirror.as43289.net] [Agu"
+    ],
+    [
+      0.501018,
+      "\r100% [Conectando a debian.csail.mit.edu] [Conectando a mirror.as43289.net] [Agu"
+    ],
+    [
+      0.205507,
+      "\r100% [Conectando a debian.csail.mit.edu] [Conectando a mirror.as43289.net] [Agu"
+    ],
+    [
+      0.350302,
+      "\r100% [Conectando em debian.mirror.rafal.ca (207.210.46.249)] [Conectando em deb"
+    ],
+    [
+      0.501275,
+      "\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos] [Conectando a mi"
+    ],
+    [
+      0.072772,
+      "\r                                                                               \rAtingido http://httpredir.debian.org jessie-backports InRelease\r\n\r100% [Aguardando por cabeçalhos] [Conectando a mirror.as43289.net] [Aguardando"
+    ],
+    [
+      0.000240,
+      "\r100% [Aguardando por cabeçalhos] [Conectando a mirror.as43289.net] [InRelease "
+    ],
+    [
+      0.105868,
+      "\r100% [Aguardando por cabeçalhos] [Conectando a mirror.as43289.net] [Aguardando"
+    ],
+    [
+      0.000879,
+      "\r                                                                               \rAtingido http://httpredir.debian.org jessie-updates InRelease"
+    ],
+    [
+      0.000211,
+      "\r\n"
+    ],
+    [
+      0.000584,
+      "\r100% [Conectando a mirror.as43289.net] [Aguardando por cabeçalhos] [Aguardando"
+    ],
+    [
+      0.001152,
+      "\r100% [Aguardando por cabeçalhos] [Conectando a mirror.as43289.net] [InRelease "
+    ],
+    [
+      0.061915,
+      "\r100% [Aguardando por cabeçalhos] [Conectando a mirror.as43289.net] [Aguardando"
+    ],
+    [
+      0.282660,
+      "\r100% [Aguardando por cabeçalhos] [Conectando a mirror.as43289.net] [Aguardando"
+    ],
+    [
+      0.064482,
+      "\r                                                                               \rAtingido http://httpredir.debian.org jessie-proposed-updates InRelease\r\n\r100% [Aguardando por cabeçalhos] [Conectando a mirror.as43289.net] [Aguardando"
+    ],
+    [
+      0.000326,
+      "\r100% [Aguardando por cabeçalhos] [Conectando a mirror.as43289.net] [InRelease "
+    ],
+    [
+      0.060698,
+      "\r100% [Aguardando por cabeçalhos] [Conectando a mirror.as43289.net] [Aguardando"
+    ],
+    [
+      0.077139,
+      "\r                                                                               \rAtingido http://www.deb-multimedia.org jessie-backports/main i386 Packages"
+    ],
+    [
+      0.000212,
+      "\r\n"
+    ],
+    [
+      0.000157,
+      "\r100% [Aguardando por cabeçalhos] [Conectando a mirror.as43289.net] [Aguardando"
+    ],
+    [
+      0.000917,
+      "\r100% [Aguardando por cabeçalhos] [Packages 0 B] [Conectando a mirror.as43289.n"
+    ],
+    [
+      0.031209,
+      "\r100% [Aguardando por cabeçalhos] [Conectando a mirror.as43289.net] [Aguardando"
+    ],
+    [
+      0.027875,
+      "\r100% [Aguardando por cabeçalhos] [Conectando a mirror.as43289.net] [Aguardando"
+    ],
+    [
+      0.088067,
+      "\r                                                                               \rAtingido http://httpredir.debian.org jessie Release.gpg\r\n\r100% [Aguardando por cabeçalhos] [Conectando a mirror.as43289.net] [Aguardando"
+    ],
+    [
+      0.082159,
+      "\r                                                                               \rIgn http://deb.opera.com stable/non-free Translation-pt_BR\r\n\r100% [Aguardando por cabeçalhos] [Conectando a mirror.as43289.net] [Aguardando"
+    ],
+    [
+      0.026950,
+      "\r                                                                               \rObter:1 http://httpredir.debian.org jessie-backports/contrib i386 Packages/DiffIndex [229 B]\r\n"
+    ],
+    [
+      0.010408,
+      "\r100% [Aguardando por cabeçalhos] [Conectando a mirror.as43289.net] [Aguardando"
+    ],
+    [
+      0.148816,
+      "\r100% [Aguardando por cabeçalhos] [Conectando a mirror.as43289.net] [Aguardando"
+    ],
+    [
+      0.041331,
+      "\r                                                                               \rObter:2 http://httpredir.debian.org jessie-backports/main i386 Packages/DiffIndex [6.301 B]\r\n\r99% [Aguardando por cabeçalhos] [2 Packages 1.234 B/6.301 B 20%] [Conectando a"
+    ],
+    [
+      0.056679,
+      "\r                                                                               \rIgn http://deb.opera.com stable/non-free Translation-pt\r\n\r99% [Aguardando por cabeçalhos] [2 Packages 1.234 B/6.301 B 20%] [Conectando a"
+    ],
+    [
+      0.201439,
+      "\r                                                                               \rObter:3 http://httpredir.debian.org jessie-backports/non-free i386 Packages/DiffIndex [505 B]\r\n"
+    ],
+    [
+      0.018187,
+      "\r100% [2 Packages 5.578 B/6.301 B 89%] [Conectando a mirror.as43289.net] [Aguard"
+    ],
+    [
+      0.000575,
+      "\r100% [2 Packages 5.578 B/6.301 B 89%] [Conectando a mirror.as43289.net] [Aguard"
+    ],
+    [
+      0.136835,
+      "\r100% [Conectando a mirror.as43289.net] [Aguardando por cabeçalhos] [Aguardando"
+    ],
+    [
+      0.000620,
+      "\r                                                                               \rIgn http://deb.opera.com stable/non-free Translation-en"
+    ],
+    [
+      0.000128,
+      "\r\n"
+    ],
+    [
+      0.000122,
+      "\r100% [Conectando a mirror.as43289.net] [Aguardando por cabeçalhos] [Aguardando"
+    ],
+    [
+      0.204704,
+      "\r100% [Aguardando por cabeçalhos] [Conectando a mirror.as43289.net] [Aguardando"
+    ],
+    [
+      0.105472,
+      "\r                                                                               \rIgn http://download.opensuse.org  Translation-pt_BR\r\n\r100% [Aguardando por cabeçalhos] [Conectando a mirror.as43289.net] [Aguardando"
+    ],
+    [
+      0.082309,
+      "\r                                                                               \rAtingido http://httpredir.debian.org jessie-backports/contrib Translation-en\r\n\r100% [Conectando a mirror.as43289.net] [Aguardando por cabeçalhos] [Aguardando"
+    ],
+    [
+      0.000628,
+      "\r100% [Aguardando por cabeçalhos] [Translation-en 0 B] [Conectando a mirror.as4"
+    ],
+    [
+      0.011880,
+      "\r100% [Aguardando por cabeçalhos] [Conectando a mirror.as43289.net] [Aguardando"
+    ],
+    [
+      0.180991,
+      "\r100% [Aguardando por cabeçalhos] [Conectando a mirror.as43289.net] [Aguardando"
+    ],
+    [
+      0.066274,
+      "\r                                                                               \rIgn http://download.opensuse.org  Translation-pt\r\n\r100% [Aguardando por cabeçalhos] [Conectando a mirror.as43289.net] [Aguardando"
+    ],
+    [
+      0.061320,
+      "\r                                                                               \rObter:4 http://httpredir.debian.org jessie-backports/main Translation-en/DiffIndex [1.609 B]\r\n\r100% [4 Translation-en 1.235 B/1.609 B 77%] [Conectando a mirror.as43289.net] ["
+    ],
+    [
+      0.068415,
+      "\r100% [Conectando a mirror.as43289.net] [Aguardando por cabeçalhos] [Aguardando"
+    ],
+    [
+      0.026332,
+      "\r                                                                               \rIgn http://mozilla.debian.net jessie-backports/iceweasel-aurora Translation-pt_BR\r\n\r100% [Aguardando por cabeçalhos] [Conectando a mirror.as43289.net] [Aguardando"
+    ],
+    [
+      0.054871,
+      "\r100% [Aguardando por cabeçalhos] [Conectando a mirror.as43289.net] [Aguardando"
+    ],
+    [
+      0.066789,
+      "\r                                                                               \rIgn http://download.opensuse.org  Translation-en\r\n\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos] [Conectando a mi"
+    ],
+    [
+      0.120595,
+      "\r                                                                               \rObter:5 http://httpredir.debian.org jessie-backports/non-free Translation-en/DiffIndex [367 B]\r\n\r100% [Aguardando por cabeçalhos] [5 Translation-en 367 B/367 B 100%] [Conectan"
+    ],
+    [
+      0.018512,
+      "\r100% [Aguardando por cabeçalhos] [Conectando a mirror.as43289.net] [Aguardando"
+    ],
+    [
+      0.017699,
+      "\r                                                                               \rIgn http://mozilla.debian.net jessie-backports/iceweasel-aurora Translation-pt"
+    ],
+    [
+      0.000065,
+      "\r\n"
+    ],
+    [
+      0.000146,
+      "\r100% [Aguardando por cabeçalhos] [Conectando a mirror.as43289.net] [Aguardando"
+    ],
+    [
+      0.037961,
+      "\r                                                                               \rObter:6 http://httpredir.debian.org jessie-updates/main i386 Packages/DiffIndex [367 B]\r\n"
+    ],
+    [
+      0.024412,
+      "\r100% [Conectando a mirror.as43289.net] [Aguardando por cabeçalhos] [Aguardando\r100% [Conectando a mirror.as43289.net] [Aguardando por cabeçalhos] [Aguardando"
+    ],
+    [
+      0.255205,
+      "\r                                                                               \rIgn http://mozilla.debian.net jessie-backports/iceweasel-aurora Translation-en\r\n\r100% [Aguardando por cabeçalhos] [Conectando a mirror.as43289.net] [Aguardando"
+    ],
+    [
+      0.086208,
+      "\r100% [Aguardando por cabeçalhos] [Conectando a mirror.as43289.net] [Aguardando"
+    ],
+    [
+      0.001363,
+      "\r                                                                               \rAtingido http://httpredir.debian.org jessie-updates/contrib i386 Packages\r\n\r100% [Conectando a mirror.as43289.net] [Aguardando por cabeçalhos] [Aguardando"
+    ],
+    [
+      0.000585,
+      "\r100% [Aguardando por cabeçalhos] [Conectando a mirror.as43289.net] [Aguardando"
+    ],
+    [
+      0.347833,
+      "\r                                                                               \rAtingido http://httpredir.debian.org jessie-updates/non-free i386 Packages\r\n\r100% [Conectando em mirror.as43289.net (178.17.160.48)] [Aguardando por cabeça"
+    ],
+    [
+      0.001176,
+      "\r100% [Conectando em mirror.as43289.net (178.17.160.48)] [Aguardando por cabeça"
+    ],
+    [
+      0.343464,
+      "\r                                                                               \rAtingido http://httpredir.debian.org jessie-updates/contrib Translation-en\r\n\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos]      150 kB/s 0s"
+    ],
+    [
+      0.001515,
+      "\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos]      150 kB/s 0s"
+    ],
+    [
+      0.194187,
+      "\r                                                                               \rAtingido http://httpredir.debian.org jessie/updates InRelease\r\n\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos]      150 kB/s 0s"
+    ],
+    [
+      0.000432,
+      "\r100% [Aguardando por cabeçalhos] [InRelease gpgv 63,1 kB] [Aguardando por cabe"
+    ],
+    [
+      0.057482,
+      "\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos]      150 kB/s 0s"
+    ],
+    [
+      0.090485,
+      "\r                                                                               \rAtingido http://httpredir.debian.org jessie-updates/main Translation-en"
+    ],
+    [
+      0.000414,
+      "\r\n"
+    ],
+    [
+      0.000267,
+      "\r100% [Aguardando por cabeçalhos]                                   150 kB/s 0s"
+    ],
+    [
+      0.002661,
+      "\r100% [Translation-en 0 B] [Aguardando por cabeçalhos]              150 kB/s 0s"
+    ],
+    [
+      0.000597,
+      "\r100% [Aguardando por cabeçalhos]                                   150 kB/s 0s"
+    ],
+    [
+      0.019224,
+      "\r100% [Aguardando por cabeçalhos]                                   150 kB/s 0s"
+    ],
+    [
+      0.287733,
+      "\r                                                                               \rAtingido http://httpredir.debian.org jessie-updates/non-free Translation-en\r\n\r100% [Aguardando por cabeçalhos]                                   150 kB/s 0s"
+    ],
+    [
+      0.000681,
+      "\r100% [Aguardando por cabeçalhos]                                   150 kB/s 0s"
+    ],
+    [
+      0.001221,
+      "\r100% [Aguardando por cabeçalhos]                                   150 kB/s 0s"
+    ],
+    [
+      0.250398,
+      "\r                                                                               \rObter:7 http://httpredir.debian.org jessie-proposed-updates/main i386 Packages/DiffIndex [2.023 B]\r\n\r100% [7 Packages 1.226 B/2.023 B 61%] [Aguardando por cabeçalhos] [Aguardando "
+    ],
+    [
+      0.057088,
+      "\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos]      150 kB/s 0s"
+    ],
+    [
+      0.260552,
+      "\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos]      150 kB/s 0s"
+    ],
+    [
+      0.250951,
+      "\r                                                                               \rAtingido http://httpredir.debian.org jessie-proposed-updates/contrib i386 Packages\r\n\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos]      150 kB/s 0s"
+    ],
+    [
+      0.000417,
+      "\r                                                                               \r100% [Packages 0 B] [Aguardando por cabeçalhos] [Aguardando por cabeçalhos]"
+    ],
+    [
+      0.012484,
+      "\r                                                                             \r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos]      150 kB/s 0s"
+    ],
+    [
+      0.017887,
+      "\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos]      150 kB/s 0s"
+    ],
+    [
+      0.289769,
+      "\r                                                                               \rObter:8 http://httpredir.debian.org jessie-proposed-updates/non-free i386 Packages/DiffIndex [229 B]\r\n"
+    ],
+    [
+      0.000460,
+      "\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos]      150 kB/s 0s"
+    ],
+    [
+      0.053456,
+      "\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos]      150 kB/s 0s"
+    ],
+    [
+      0.316859,
+      "\r                                                                               \rAtingido http://httpredir.debian.org jessie-proposed-updates/contrib Translation-en\r\n\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos]      150 kB/s 0s"
+    ],
+    [
+      0.004266,
+      "\r100% [Translation-en 0 B] [Aguardando por cabeçalhos] [Aguardando por cabeçal\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos]      150 kB/s 0s"
+    ],
+    [
+      0.078411,
+      "\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos]      150 kB/s 0s"
+    ],
+    [
+      0.233361,
+      "\r                                                                               \rObter:9 http://httpredir.debian.org jessie-proposed-updates/main Translation-en/DiffIndex [1.333 B]\r\n\r100% [9 Translation-en 1.195 B/1.333 B 90%] [Aguardando por cabeçalhos] [Aguar"
+    ],
+    [
+      0.019508,
+      "\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos]      150 kB/s 0s"
+    ],
+    [
+      0.064101,
+      "\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos]      150 kB/s 0s"
+    ],
+    [
+      0.398274,
+      "\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos] [Aguardando por "
+    ],
+    [
+      0.030890,
+      "\r                                                                               \rObter:10 http://httpredir.debian.org jessie-proposed-updates/non-free Translation-en/DiffIndex [229 B]\r\n"
+    ],
+    [
+      0.005316,
+      "\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos] [Aguardando por "
+    ],
+    [
+      0.406381,
+      "\r                                                                               \rAtingido http://httpredir.debian.org jessie Release\r\n\r100% [Aguardando por cabeçalhos]                                   150 kB/s 0s"
+    ],
+    [
+      0.000503,
+      "\r100% [Release gpgv 148 kB] [Aguardando por cabeçalhos]             150 kB/s 0s"
+    ],
+    [
+      0.052202,
+      "\r100% [Aguardando por cabeçalhos]                                   150 kB/s 0s"
+    ],
+    [
+      0.010582,
+      "\r100% [Aguardando por cabeçalhos]                                   150 kB/s 0s"
+    ],
+    [
+      0.381037,
+      "\r100% [Conectando a ftp.ticklers.org] [Aguardando por cabeçalhos] [Aguardando p"
+    ],
+    [
+      0.309279,
+      "\r100% [Conectando a ftp.ticklers.org] [Aguardando por cabeçalhos] [Aguardando p"
+    ],
+    [
+      0.500851,
+      "\r100% [Aguardando por cabeçalhos] [Aguardando por cabeçalhos] [Aguardando por "
+    ],
+    [
+      0.128484,
+      "\r                                                                               \rObter:11 http://httpredir.debian.org jessie/updates/main i386 Packages [143 kB]\r\n\r87% [11 Packages 1.293 B/143 kB 1%] [Aguardando por cabeçalhos]  6.929 B/s 20s"
+    ],
+    [
+      0.500795,
+      "\r                                                                               \r89% [11 Packages 18,8 kB/143 kB 13%] [Aguardando por cabeçalhos]"
+    ],
+    [
+      0.289467,
+      "\r89% [11 Packages 21,7 kB/143 kB 15%] [Aguardando por cabeçalhos]"
+    ],
+    [
+      0.302831,
+      "\r                                                                 \rAtingido http://httpredir.debian.org jessie/main i386 Packages\r\n\r90% [11 Packages 26,1 kB/143 kB 18%] [Aguardando por cabeçalhos]"
+    ],
+    [
+      0.000465,
+      "\r                                                                 \r90% [11 Packages 26,1 kB/143 kB 18%] [Packages 0 B] [Aguardando por cabeçalhos"
+    ],
+    [
+      0.201001,
+      "\r90% [11 Packages 27,6 kB/143 kB 19%] [Packages 0 B] [Aguardando por cabeçalhos"
+    ],
+    [
+      0.293197,
+      "\r                                                                               \rAtingido http://httpredir.debian.org jessie/contrib i386 Packages\r\n\r90% [11 Packages 33,4 kB/143 kB 23%] [Packages 0 B] [Aguardando por cabeçalhos"
+    ],
+    [
+      0.007159,
+      "\r90% [11 Packages 33,4 kB/143 kB 23%] [Packages 0 B] [Aguardando por cabeçalhos"
+    ],
+    [
+      0.245239,
+      "\r                                                                               \rAtingido http://httpredir.debian.org jessie/non-free i386 Packages\r\n\r91% [11 Packages 37,8 kB/143 kB 26%] [Packages 33,8 MB] [Aguardando por cabeça"
+    ],
+    [
+      0.072219,
+      "\r91% [11 Packages 39,3 kB/143 kB 27%] [Packages 33,8 MB] [Aguardando por cabeça"
+    ],
+    [
+      0.314182,
+      "\r                                                                               \rAtingido http://httpredir.debian.org jessie/contrib Translation-en\r\n\r91% [11 Packages 43,6 kB/143 kB 30%] [Packages 33,8 MB] [Aguardando por cabeça"
+    ],
+    [
+      0.019125,
+      "\r91% [11 Packages 43,6 kB/143 kB 30%] [Packages 33,8 MB] [Aguardando por cabeça"
+    ],
+    [
+      0.304500,
+      "\r                                                                               \rAtingido http://httpredir.debian.org jessie/main Translation-pt_BR\r\n\r92% [11 Packages 50,9 kB/143 kB 36%] [Packages 33,8 MB] [Aguardando por cabeça"
+    ],
+    [
+      0.001891,
+      "\r92% [11 Packages 50,9 kB/143 kB 36%] [Packages 33,8 MB] [Aguardando por cabeça"
+    ],
+    [
+      0.360517,
+      "\r                                                                               \rAtingido http://httpredir.debian.org jessie/main Translation-pt\r\n\r92% [11 Packages 55,3 kB/143 kB 39%] [Packages 33,8 MB] [Aguardando por cabeça"
+    ],
+    [
+      0.000365,
+      "\r92% [11 Packages 55,3 kB/143 kB 39%] [Packages 33,8 MB] [Aguardando por cabeça"
+    ],
+    [
+      0.448743,
+      "\r                                                                               \rAtingido http://httpredir.debian.org jessie/main Translation-en\r\n\r94% [11 Packages 71,4 kB/143 kB 50%] [Packages 33,8 MB] [Aguardando por cabeça"
+    ],
+    [
+      0.406911,
+      "\r94% [11 Packages 74,3 kB/143 kB 52%] [Packages 33,8 MB] [Aguardando por cabeça"
+    ],
+    [
+      0.284253,
+      "\r                                                                               \rAtingido http://httpredir.debian.org jessie/non-free Translation-en\r\n\r94% [11 Packages 75,8 kB/143 kB 53%] [Packages 33,8 MB] [Aguardando por cabeça"
+    ],
+    [
+      0.073763,
+      "\r                                                                               \rIgn http://httpredir.debian.org jessie/updates/contrib Translation-en\r\n\r94% [11 Packages 77,2 kB/143 kB 54%] [Packages 33,8 MB] [Aguardando por cabeça"
+    ],
+    [
+      0.217949,
+      "\r                                                                               \rIgn http://www.deb-multimedia.org jessie/main Translation-pt_BR\r\n\r94% [11 Packages 80,1 kB/143 kB 56%] [Packages 33,8 MB] [Aguardando por cabeça"
+    ],
+    [
+      0.079132,
+      "\r                                                                               \rIgn http://httpredir.debian.org jessie/updates/main Translation-en\r\n\r94% [11 Packages 81,6 kB/143 kB 57%] [Packages 33,8 MB] [Aguardando por cabeça"
+    ],
+    [
+      0.255395,
+      "\r                                                                               \rIgn http://www.deb-multimedia.org jessie/main Translation-pt\r\n\r95% [11 Packages 87,4 kB/143 kB 61%] [Packages 33,8 MB] [Aguardando por cabeça"
+    ],
+    [
+      0.055716,
+      "\r                                                                               \rIgn http://httpredir.debian.org jessie/updates/non-free Translation-en\r\n\r95% [11 Packages 88,9 kB/143 kB 62%] [Packages 33,8 MB]            6.929 B/s 7s"
+    ],
+    [
+      0.335473,
+      "\r                                                                               \r100% [11 Packages 94,7 kB/143 kB 66%] [Aguardando por cabeçalhos]"
+    ],
+    [
+      0.000827,
+      "\r                                                                  \r100% [11 Packages 94,7 kB/143 kB 66%] [Packages 0 B] [Aguardando por cabeçalho"
+    ],
+    [
+      0.030396,
+      "\r                                                                               \r100% [11 Packages 96,2 kB/143 kB 67%] [Aguardando por cabeçalhos]"
+    ],
+    [
+      0.000376,
+      "\r                                                                  \r100% [11 Packages 96,2 kB/143 kB 67%] [Packages 0 B] [Aguardando por cabeçalho"
+    ],
+    [
+      0.054918,
+      "\r                                                                               \r100% [11 Packages 97,7 kB/143 kB 68%] [Aguardando por cabeçalhos]"
+    ],
+    [
+      0.000374,
+      "\r                                                                  \r100% [11 Packages 97,7 kB/143 kB 68%] [Translation-en 0 B] [Aguardando por cabe"
+    ],
+    [
+      0.027647,
+      "\r                                                                               \r100% [11 Packages 97,7 kB/143 kB 68%] [Aguardando por cabeçalhos]"
+    ],
+    [
+      0.000375,
+      "\r                                                                  \r100% [11 Packages 97,7 kB/143 kB 68%] [Translation-pt_BR 0 B] [Aguardando por c"
+    ],
+    [
+      0.117690,
+      "\r                                                                               \rIgn http://www.deb-multimedia.org jessie/main Translation-en\r\n\r                                                                               \r100% [11 Packages 99,1 kB/143 kB 69%] [Translation-pt_BR 3.363 kB]"
+    ],
+    [
+      0.298692,
+      "\r                                                                  \r100% [11 Packages 105 kB/143 kB 73%] [Aguardando por cabeçalhos]"
+    ],
+    [
+      0.000392,
+      "\r                                                                 \r100% [11 Packages 105 kB/143 kB 73%] [Translation-pt 0 B] [Aguardando por cabe\ufffd"
+    ],
+    [
+      0.183715,
+      "\r                                                                               \r100% [11 Packages 108 kB/143 kB 75%] [Aguardando por cabeçalhos]"
+    ],
+    [
+      0.000685,
+      "\r                                                                 \r100% [11 Packages 108 kB/143 kB 75%] [Translation-en 0 B] [Aguardando por cabe\ufffd"
+    ],
+    [
+      0.140230,
+      "\r                                                                               \rIgn http://www.deb-multimedia.org jessie/non-free Translation-pt_BR\r\n\r100% [11 Packages 109 kB/143 kB 76%] [Translation-en 0 B]         5.637 kB/s 0s"
+    ],
+    [
+      0.366847,
+      "\r                                                                               \rIgn http://www.deb-multimedia.org jessie/non-free Translation-pt\r\n\r100% [11 Packages 115 kB/143 kB 80%] [Translation-en 22,3 MB]     5.637 kB/s 0s"
+    ],
+    [
+      0.383109,
+      "\r                                                                               \rIgn http://www.deb-multimedia.org jessie/non-free Translation-en\r\n\r100% [11 Packages 131 kB/143 kB 92%] [Translation-en 22,3 MB]     5.637 kB/s 0s"
+    ],
+    [
+      0.500659,
+      "\r100% [11 Packages 137 kB/143 kB 96%] [Translation-en 22,3 MB] [Aguardando por c"
+    ],
+    [
+      0.209284,
+      "\r                                                                               \rIgn http://www.deb-multimedia.org jessie-backports/main Translation-pt_BR\r\n\r100% [11 Packages 141 kB/143 kB 99%] [Translation-en 22,3 MB]     5.637 kB/s 0s"
+    ],
+    [
+      0.139642,
+      "\r100% [Translation-en 22,3 MB] [Aguardando por cabeçalhos]        5.637 kB/s 0s"
+    ],
+    [
+      0.002526,
+      "\r100% [11 Packages bzip2 0 B] [Conectando em ftp.ticklers.org (90.207.225.196)] "
+    ],
+    [
+      0.177698,
+      "\r                                                                               \rIgn http://www.deb-multimedia.org jessie-backports/main Translation-pt\r\n\r100% [11 Packages bzip2 0 B] [Conectando em ftp.ticklers.org (90.207.225.196)] "
+    ],
+    [
+      0.207349,
+      "\r100% [Aguardando por cabeçalhos] [Translation-en 22,3 MB] [Aguardando por cabe"
+    ],
+    [
+      0.210760,
+      "\r                                                                               \rIgn http://www.deb-multimedia.org jessie-backports/main Translation-en\r\n\r100% [Aguardando por cabeçalhos] [Translation-en 22,3 MB]        5.637 kB/s 0s"
+    ],
+    [
+      0.024104,
+      "\r                                                                               \rObter:12 http://httpredir.debian.org jessie/updates/contrib i386 Packages [2.536 B]\r\n\r100% [12 Packages 1.295 B/2.536 B 51%] [Translation-en 22,3 MB]   5.637 kB/s 0s"
+    ],
+    [
+      0.006993,
+      "\r100% [Translation-en 22,3 MB]                                     5.637 kB/s 0s"
+    ],
+    [
+      0.000905,
+      "\r100% [Translation-en 22,3 MB]                                     5.637 kB/s 0s"
+    ],
+    [
+      0.340395,
+      "\r                                                                               \rObter:13 http://httpredir.debian.org jessie/updates/non-free i386 Packages [14 B]\r\n\r100% [Translation-en 22,3 MB]                                     5.637 kB/s 0s"
+    ],
+    [
+      0.000525,
+      "\r100% [Translation-en 22,3 MB]                                     5.637 kB/s 0s"
+    ],
+    [
+      0.146368,
+      "\r100% [Trabalhando]                                                5.637 kB/s 0s"
+    ],
+    [
+      0.000382,
+      "\r100% [Translation-en 0 B]                                         5.637 kB/s 0s"
+    ],
+    [
+      0.043196,
+      "\r100% [Trabalhando]                                                5.637 kB/s 0s\r                                                                               \rBaixados 159 kB em 21s (7.231 B/s)\r\n"
+    ],
+    [
+      0.063981,
+      "\rLendo listas de pacotes... 0%\r"
+    ],
+    [
+      0.043117,
+      "\rLendo listas de pacotes... 0%\r"
+    ],
+    [
+      0.041505,
+      "\rLendo listas de pacotes... 1%\r"
+    ],
+    [
+      0.725046,
+      "\rLendo listas de pacotes... 15%\r"
+    ],
+    [
+      0.744541,
+      "\rLendo listas de pacotes... 29%\r"
+    ],
+    [
+      0.751054,
+      "\rLendo listas de pacotes... 41%\r"
+    ],
+    [
+      0.448745,
+      "\rLendo listas de pacotes... 48%\r"
+    ],
+    [
+      0.000377,
+      "\rLendo listas de pacotes... 48%\r"
+    ],
+    [
+      0.019460,
+      "\rLendo listas de pacotes... 49%\r"
+    ],
+    [
+      0.000368,
+      "\rLendo listas de pacotes... 49%\r"
+    ],
+    [
+      0.029175,
+      "\rLendo listas de pacotes... 49%\r"
+    ],
+    [
+      0.000358,
+      "\rLendo listas de pacotes... 49%\r"
+    ],
+    [
+      0.005385,
+      "\rLendo listas de pacotes... 49%\r"
+    ],
+    [
+      0.000334,
+      "\rLendo listas de pacotes... 49%\r"
+    ],
+    [
+      0.198754,
+      "\rLendo listas de pacotes... 58%\r"
+    ],
+    [
+      0.723047,
+      "\rLendo listas de pacotes... 81%\r"
+    ],
+    [
+      0.038976,
+      "\rLendo listas de pacotes... 82%\r"
+    ],
+    [
+      0.000346,
+      "\rLendo listas de pacotes... 82%\r"
+    ],
+    [
+      0.058427,
+      "\rLendo listas de pacotes... 84%\r"
+    ],
+    [
+      0.000355,
+      "\rLendo listas de pacotes... 84%\r"
+    ],
+    [
+      0.110045,
+      "\rLendo listas de pacotes... 89%\r"
+    ],
+    [
+      0.000356,
+      "\rLendo listas de pacotes... 89%\r"
+    ],
+    [
+      0.009263,
+      "\rLendo listas de pacotes... 90%\r"
+    ],
+    [
+      0.000339,
+      "\rLendo listas de pacotes... 90%\r"
+    ],
+    [
+      0.041430,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.000360,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.006379,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.003404,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.005741,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.000313,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.012059,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.000683,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.010782,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.003587,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.011086,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.000312,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.000385,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.000211,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.000623,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.000202,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.000377,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.000236,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.023890,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.000581,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.011345,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.000298,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.011341,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.000360,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.000605,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.000247,
+      "\rLendo listas de pacotes... 91%\r"
+    ],
+    [
+      0.022681,
+      "\rLendo listas de pacotes... 92%\r"
+    ],
+    [
+      0.001590,
+      "\rLendo listas de pacotes... 92%\r"
+    ],
+    [
+      0.002627,
+      "\rLendo listas de pacotes... 92%\r"
+    ],
+    [
+      0.000358,
+      "\rLendo listas de pacotes... 92%\r"
+    ],
+    [
+      0.209534,
+      "\rLendo listas de pacotes... 93%\r"
+    ],
+    [
+      0.000345,
+      "\rLendo listas de pacotes... 93%\r"
+    ],
+    [
+      0.015275,
+      "\rLendo listas de pacotes... 93%\r"
+    ],
+    [
+      0.000345,
+      "\rLendo listas de pacotes... 93%\r"
+    ],
+    [
+      0.020468,
+      "\rLendo listas de pacotes... 93%\r"
+    ],
+    [
+      0.000338,
+      "\rLendo listas de pacotes... 93%\r"
+    ],
+    [
+      0.000786,
+      "\rLendo listas de pacotes... 93%\r"
+    ],
+    [
+      0.000441,
+      "\rLendo listas de pacotes... 93%\r"
+    ],
+    [
+      0.038728,
+      "\rLendo listas de pacotes... 95%\r"
+    ],
+    [
+      0.000319,
+      "\rLendo listas de pacotes... 95%\r"
+    ],
+    [
+      0.002256,
+      "\rLendo listas de pacotes... 95%\r"
+    ],
+    [
+      0.000332,
+      "\rLendo listas de pacotes... 95%\r"
+    ],
+    [
+      0.024744,
+      "\rLendo listas de pacotes... 96%\r"
+    ],
+    [
+      0.022982,
+      "\rLendo listas de pacotes... 96%\r"
+    ],
+    [
+      0.003590,
+      "\rLendo listas de pacotes... 96%\r"
+    ],
+    [
+      0.003744,
+      "\rLendo listas de pacotes... 96%\r"
+    ],
+    [
+      0.000347,
+      "\rLendo listas de pacotes... 96%\r"
+    ],
+    [
+      0.008191,
+      "\rLendo listas de pacotes... 96%\r"
+    ],
+    [
+      0.000295,
+      "\rLendo listas de pacotes... 96%\r"
+    ],
+    [
+      0.000834,
+      "\rLendo listas de pacotes... 96%\r"
+    ],
+    [
+      0.000288,
+      "\rLendo listas de pacotes... 96%\r"
+    ],
+    [
+      0.005327,
+      "\rLendo listas de pacotes... 96%\r"
+    ],
+    [
+      0.000339,
+      "\rLendo listas de pacotes... 96%\r"
+    ],
+    [
+      0.471823,
+      "\rLendo listas de pacotes... 96%\r\rLendo listas de pacotes... 96%\r"
+    ],
+    [
+      0.475928,
+      "\rLendo listas de pacotes... Pronto\r"
+    ],
+    [
+      0.000285,
+      "\r\n"
+    ],
+    [
+      0.019177,
+      "\u001b[0m"
+    ],
+    [
+      0.007852,
+      "\u001b]0;edps: edps@debian: /home/edps\u0007"
+    ],
+    [
+      0.070300,
+      "\u001b[00m\u001b[0;90m----------------------------------------------------------------------- 10:36:15\r"
+    ],
+    [
+      0.001685,
+      "\r\n"
+    ],
+    [
+      0.000140,
+      "\u001b[00m\r"
+    ],
+    [
+      0.000081,
+      "\r\n"
+    ],
+    [
+      0.000067,
+      "\u001b[1;33m┌(\u001b[01;31medps@debian\u001b[1;33m)─(\u001b[01;34m✓\u001b[1;33m)─(\u001b[1;32m10:36:15, Qua Out 28\u001b[1;33m)\u001b[1;33m\r"
+    ],
+    [
+      0.000125,
+      "\r\n"
+    ],
+    [
+      0.000118,
+      "└─(\u001b[1;34m~\u001b[1;33m)─(\u001b[1;34m17 files, 768Kb\u001b[1;33m)─\u003e \u001b[0m\u001b[00m\u001b[1;29m"
+    ],
+    [
+      1.408070,
+      "d"
+    ],
+    [
+      0.226245,
+      "u"
+    ],
+    [
+      0.154833,
+      "p"
+    ],
+    [
+      0.364907,
+      "g"
+    ],
+    [
+      0.109501,
+      "r"
+    ],
+    [
+      0.098154,
+      "a"
+    ],
+    [
+      0.342334,
+      "de "
+    ],
+    [
+      1.011858,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.024553,
+      "\rLendo listas de pacotes... 0%\r"
+    ],
+    [
+      0.016025,
+      "\rLendo listas de pacotes... 100%\r"
+    ],
+    [
+      0.000196,
+      "\rLendo listas de pacotes... Pronto\r"
+    ],
+    [
+      0.000103,
+      "\r\n"
+    ],
+    [
+      0.028929,
+      "\rConstruindo árvore de dependências... 0%\r"
+    ],
+    [
+      0.000257,
+      "\rConstruindo árvore de dependências... 0%\r"
+    ],
+    [
+      0.051394,
+      "\rConstruindo árvore de dependências... 50%\r"
+    ],
+    [
+      0.000206,
+      "\rConstruindo árvore de dependências... 50%\r"
+    ],
+    [
+      0.326868,
+      "\rConstruindo árvore de dependências       \r"
+    ],
+    [
+      0.000198,
+      "\r\n"
+    ],
+    [
+      0.000103,
+      "\rLendo informação de estado... 0%  \r"
+    ],
+    [
+      0.008557,
+      "\rLendo informação de estado... 0%\r"
+    ],
+    [
+      0.013294,
+      "\rLendo informação de estado... Pronto\r"
+    ],
+    [
+      0.000188,
+      "\r\n"
+    ],
+    [
+      0.243614,
+      "Calculando atualização... "
+    ],
+    [
+      0.575593,
+      "Pronto"
+    ],
+    [
+      0.000194,
+      "\r\n"
+    ],
+    [
+      0.017013,
+      "Os pacotes a seguir serão mantidos em suas versões atuais:"
+    ],
+    [
+      0.000185,
+      "\r\n"
+    ],
+    [
+      0.000095,
+      "  policykit-1"
+    ],
+    [
+      0.000081,
+      "\r\n"
+    ],
+    [
+      0.037493,
+      "0 pacotes atualizados, 0 pacotes novos instalados, 0 a serem removidos e 1 não atualizados."
+    ],
+    [
+      0.000182,
+      "\r\n"
+    ],
+    [
+      0.008722,
+      "\u001b[0m"
+    ],
+    [
+      0.011370,
+      "\u001b]0;edps: edps@debian: /home/edps\u0007"
+    ],
+    [
+      0.032057,
+      "\u001b[00m\u001b[0;90m----------------------------------------------------------------------- 10:36:20\r"
+    ],
+    [
+      0.000377,
+      "\r\n"
+    ],
+    [
+      0.001038,
+      "\u001b[00m\r"
+    ],
+    [
+      0.000371,
+      "\r\n"
+    ],
+    [
+      0.000881,
+      "\u001b[1;33m┌(\u001b[01;31medps@debian\u001b[1;33m)─(\u001b[01;34m✓\u001b[1;33m)─(\u001b[1;32m10:36:20, Qua Out 28\u001b[1;33m)\u001b[1;33m\r"
+    ],
+    [
+      0.000182,
+      "\r\n"
+    ],
+    [
+      0.000121,
+      "└─(\u001b[1;34m~\u001b[1;33m)─(\u001b[1;34m17 files, 768Kb\u001b[1;33m)─\u003e \u001b[0m\u001b[00m\u001b[1;29m"
+    ],
+    [
+      3.414375,
+      "e"
+    ],
+    [
+      0.346957,
+      "x"
+    ],
+    [
+      0.158886,
+      "i"
+    ],
+    [
+      0.268950,
+      "t"
+    ],
+    [
+      0.849446,
+      "\r\n\u001b[0mexit\r\n"
+    ]
+  ]
+}
