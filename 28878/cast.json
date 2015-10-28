@@ -1,0 +1,518 @@
+{
+  "version": 1,
+  "width": 74,
+  "height": 25,
+  "duration": 49.005101,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.107235,
+      "\u001b]7;file://Digital WeightScale/Users/renemarcelo/Code\u0007"
+    ],
+    [
+      0.080406,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                         \r \r"
+    ],
+    [
+      0.000057,
+      "\u001b]2;renemarcelo@Digital WeightScale\u0007"
+    ],
+    [
+      0.000016,
+      "\u001b]1;~/Code\u0007"
+    ],
+    [
+      0.002470,
+      "\u001b]7;file://Digital WeightScale/Users/renemarcelo/Code\u0007"
+    ],
+    [
+      0.014706,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[32m % "
+    ],
+    [
+      0.000024,
+      "\u001b[K\u001b[44C\u001b[37m~/Code \u001b[01;34mDigital WeightScale\u001b[00m\u001b[70D"
+    ],
+    [
+      0.000122,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.152409,
+      "c"
+    ],
+    [
+      0.190986,
+      "\u0008cd"
+    ],
+    [
+      0.072317,
+      " "
+    ],
+    [
+      0.712102,
+      "m"
+    ],
+    [
+      0.199748,
+      "y"
+    ],
+    [
+      0.375806,
+      "_"
+    ],
+    [
+      0.296057,
+      "f"
+    ],
+    [
+      0.104163,
+      "a"
+    ],
+    [
+      0.303682,
+      "\u001b[?7l"
+    ],
+    [
+      0.000022,
+      "\u001b[31m......\u001b[39m"
+    ],
+    [
+      0.000022,
+      "\u001b[?7h"
+    ],
+    [
+      0.011101,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[32m % cd my_favorite_dirname\u001b[1m/\u001b[0m\u001b[K\u001b[21C\u001b[37m~/Code \u001b[01;34mDigital WeightScale\u001b[00m\u001b[47D"
+    ],
+    [
+      1.197124,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000063,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000155,
+      "\r\r\n"
+    ],
+    [
+      0.004480,
+      "\u001b]2;cd my_favorite_dirname\u0007\u001b]1;cd\u0007"
+    ],
+    [
+      0.000125,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                         \r \r"
+    ],
+    [
+      0.000080,
+      "\u001b]2;renemarcelo@Digital WeightScale\u0007"
+    ],
+    [
+      0.000037,
+      "\u001b]1;..orite_dirname\u0007"
+    ],
+    [
+      0.003675,
+      "\u001b]7;file://Digital WeightScale/Users/renemarcelo/Code/my_favorite_dirname\u0007"
+    ],
+    [
+      0.015656,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[32m % "
+    ],
+    [
+      0.000008,
+      "\u001b[K\u001b[26C\u001b[37mCode/my_favorite_dirname \u001b[01;34mDigital WeightScale\u001b[00m\u001b[70D"
+    ],
+    [
+      0.000103,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      8.576458,
+      "g"
+    ],
+    [
+      0.095728,
+      "\u0008gi"
+    ],
+    [
+      0.055917,
+      "t"
+    ],
+    [
+      0.159918,
+      " "
+    ],
+    [
+      0.223759,
+      "i"
+    ],
+    [
+      0.024144,
+      "n"
+    ],
+    [
+      0.143919,
+      "i"
+    ],
+    [
+      0.136524,
+      "t"
+    ],
+    [
+      0.791743,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000028,
+      "\r\r\n"
+    ],
+    [
+      0.004157,
+      "\u001b]2;git init\u0007\u001b]1;git\u0007"
+    ],
+    [
+      0.009416,
+      "Initialized empty Git repository in /Users/renemarcelo/Code/my_favorite_dirname/.git/\r\n"
+    ],
+    [
+      0.000428,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                         \r \r"
+    ],
+    [
+      0.000106,
+      "\u001b]2;renemarcelo@Digital WeightScale\u0007"
+    ],
+    [
+      0.000057,
+      "\u001b]1;..orite_dirname\u0007"
+    ],
+    [
+      0.003068,
+      "\u001b]7;file://Digital WeightScale/Users/renemarcelo/Code/my_favorite_dirname\u0007"
+    ],
+    [
+      0.021405,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[32m % "
+    ],
+    [
+      0.000008,
+      "\u001b[K\u001b[17C\u001b[37mCode/my_favorite_dirname \u001b[33m(master)\u001b[00m \u001b[01;34mDigital WeightScale\u001b[00m\u001b[70D"
+    ],
+    [
+      0.000139,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      10.481972,
+      "l"
+    ],
+    [
+      0.055638,
+      "\u0008ls"
+    ],
+    [
+      0.191838,
+      " "
+    ],
+    [
+      0.111844,
+      "-"
+    ],
+    [
+      0.256066,
+      "a"
+    ],
+    [
+      0.176120,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000108,
+      "\r\r\n"
+    ],
+    [
+      0.004633,
+      "\u001b]2;ls -G -a\u0007\u001b]1;ls\u0007"
+    ],
+    [
+      0.003793,
+      "\u001b[1m\u001b[36m.\u001b[39;49m\u001b[0m    \u001b[1m\u001b[36m..\u001b[39;49m\u001b[0m   \u001b[1m\u001b[36m.git\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000417,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                         \r \r"
+    ],
+    [
+      0.000117,
+      "\u001b]2;renemarcelo@Digital WeightScale\u0007"
+    ],
+    [
+      0.000030,
+      "\u001b]1;..orite_dirname\u0007"
+    ],
+    [
+      0.003199,
+      "\u001b]7;file://Digital WeightScale/Users/renemarcelo/Code/my_favorite_dirname\u0007"
+    ],
+    [
+      0.019000,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[32m % "
+    ],
+    [
+      0.000008,
+      "\u001b[K\u001b[17C\u001b[37mCode/my_favorite_dirname \u001b[33m(master)\u001b[00m \u001b[01;34mDigital WeightScale\u001b[00m\u001b[70D"
+    ],
+    [
+      0.000166,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      3.785108,
+      "t"
+    ],
+    [
+      0.239599,
+      "\u0008tr"
+    ],
+    [
+      0.104114,
+      "e"
+    ],
+    [
+      0.143970,
+      "e"
+    ],
+    [
+      1.375934,
+      " "
+    ],
+    [
+      0.096201,
+      "-"
+    ],
+    [
+      0.495784,
+      "L"
+    ],
+    [
+      0.256152,
+      " "
+    ],
+    [
+      0.608071,
+      "2"
+    ],
+    [
+      0.599608,
+      " "
+    ],
+    [
+      1.120227,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000126,
+      "\r\r\n"
+    ],
+    [
+      0.004446,
+      "\u001b]2;tree -L 2\u0007"
+    ],
+    [
+      0.000007,
+      "\u001b]1;tree\u0007"
+    ],
+    [
+      0.033311,
+      ".\r\n\r\n"
+    ],
+    [
+      0.000008,
+      "0 directories, 0 files\r\n"
+    ],
+    [
+      0.000349,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                         \r \r"
+    ],
+    [
+      0.000114,
+      "\u001b]2;renemarcelo@Digital WeightScale\u0007"
+    ],
+    [
+      0.000059,
+      "\u001b]1;..orite_dirname\u0007"
+    ],
+    [
+      0.002418,
+      "\u001b]7;file://Digital WeightScale/Users/renemarcelo/Code/my_favorite_dirname\u0007"
+    ],
+    [
+      0.020651,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[32m % "
+    ],
+    [
+      0.000008,
+      "\u001b[K\u001b[17C\u001b[37mCode/my_favorite_dirname \u001b[33m(master)\u001b[00m \u001b[01;34mDigital WeightScale\u001b[00m\u001b[70D"
+    ],
+    [
+      0.000086,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.330562,
+      "tree -L 2 "
+    ],
+    [
+      0.759755,
+      "\u0008"
+    ],
+    [
+      0.160437,
+      "\u0008"
+    ],
+    [
+      0.159540,
+      "\u0008"
+    ],
+    [
+      0.160144,
+      "\u0008"
+    ],
+    [
+      0.176355,
+      "\u0008"
+    ],
+    [
+      1.743693,
+      "\u001b[1C"
+    ],
+    [
+      0.112192,
+      "\u001b[4C"
+    ],
+    [
+      0.608300,
+      "."
+    ],
+    [
+      0.260061,
+      "g"
+    ],
+    [
+      0.067465,
+      "i"
+    ],
+    [
+      0.104337,
+      "t"
+    ],
+    [
+      0.111856,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000095,
+      "\r\r\n"
+    ],
+    [
+      0.004542,
+      "\u001b]2;tree -L 2 .git\u0007\u001b]1;tree\u0007"
+    ],
+    [
+      0.003468,
+      ".git\r\n├── HEAD\r\n├── config\r\n├── description\r\n"
+    ],
+    [
+      0.000071,
+      "├── hooks\r\n"
+    ],
+    [
+      0.000006,
+      "│   ├── applypatch-msg.sample\r\n│   ├── commit-msg.sample\r\n│   ├── post-update.sample\r\n"
+    ],
+    [
+      0.000004,
+      "│   ├── pre-applypatch.sample\r\n"
+    ],
+    [
+      0.000021,
+      "│   ├── pre-commit.sample\r\n│   ├── pre-push.sample\r\n│   ├── pre-rebase.sample\r\n"
+    ],
+    [
+      0.000005,
+      "│   ├── prepare-commit-msg.sample\r\n│   └── update.sample\r\n"
+    ],
+    [
+      0.000117,
+      "├── info\r\n"
+    ],
+    [
+      0.000005,
+      "│   └── exclude\r\n"
+    ],
+    [
+      0.000053,
+      "├── objects\r\n│   ├── info\r\n"
+    ],
+    [
+      0.000005,
+      "│   └── pack\r\n"
+    ],
+    [
+      0.000042,
+      "└── refs\r\n    ├── heads\r\n"
+    ],
+    [
+      0.000004,
+      "    └── tags\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "8 directories, 13 files\r\n"
+    ],
+    [
+      0.000371,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                         \r \r"
+    ],
+    [
+      0.000104,
+      "\u001b]2;renemarcelo@Digital WeightScale\u0007"
+    ],
+    [
+      0.000026,
+      "\u001b]1;..orite_dirname\u0007"
+    ],
+    [
+      0.003177,
+      "\u001b]7;file://Digital WeightScale/Users/renemarcelo/Code/my_favorite_dirname\u0007"
+    ],
+    [
+      0.018560,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[32m % "
+    ],
+    [
+      0.000010,
+      "\u001b[K\u001b[17C\u001b[37mCode/my_favorite_dirname \u001b[33m(master)\u001b[00m \u001b[01;34mDigital WeightScale\u001b[00m\u001b[70D"
+    ],
+    [
+      0.000093,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      6.921492,
+      "\r\r\n"
+    ]
+  ]
+}
