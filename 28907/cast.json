@@ -1,0 +1,1214 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 109.466959,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.028914,
+      "\r\n"
+    ],
+    [
+      0.004562,
+      "\u001b[m\u001b[30m ▐▐▐ \u001b[m\u001b[1;30m ▐▐▐ \u001b[m\u001b[31m ▐▐▐ \u001b[m\u001b[1;31m ▐▐▐ \u001b[m\u001b[32m ▐▐▐ \u001b[m\u001b[1;32m ▐▐▐ \u001b[m\u001b[33m ▐▐▐ \u001b[m\u001b[1;33m ▐▐▐ \u001b[m\u001b[34m ▐▐▐ \u001b[m\u001b[1;34m ▐▐▐ \u001b[m\u001b[35m ▐▐▐ \u001b[m\u001b[1;35m ▐▐▐ \u001b[m\u001b[36m ▐▐▐ \u001b[m\u001b[1;36m ▐▐▐ \u001b[m\u001b[37m ▐▐▐ \u001b[m\u001b[1;37m ▐▐▐ \r\n\u001b[0m\r\n"
+    ],
+    [
+      0.142076,
+      "\u001b[0m"
+    ],
+    [
+      0.000341,
+      "\u001b[0m"
+    ],
+    [
+      0.047744,
+      "\u001b[0m"
+    ],
+    [
+      0.093591,
+      "\u001b[0m\u001b[0m\u001b[0m"
+    ],
+    [
+      0.014593,
+      "\u001b]0;edps: edps@debian: /home/edps\u0007"
+    ],
+    [
+      0.060722,
+      "\u001b[00m\u001b[0;90m----------------------------------------------------------------------- 12:19:33\r"
+    ],
+    [
+      0.001449,
+      "\r\n"
+    ],
+    [
+      0.000136,
+      "\u001b[00m\r"
+    ],
+    [
+      0.000081,
+      "\r\n"
+    ],
+    [
+      0.000081,
+      "\u001b[1;33m┌(\u001b[01;31medps@debian\u001b[1;33m)─(\u001b[01;34m✓\u001b[1;33m)─(\u001b[1;32m12:19:33, Qua Out 28\u001b[1;33m)\u001b[1;33m\r"
+    ],
+    [
+      0.000070,
+      "\r\n"
+    ],
+    [
+      0.000139,
+      "└─(\u001b[1;34m~\u001b[1;33m)─(\u001b[1;34m18 files, 796Kb\u001b[1;33m)─\u003e \u001b[0m\u001b[00m\u001b[1;29m"
+    ],
+    [
+      0.966263,
+      "d"
+    ],
+    [
+      0.155990,
+      "p"
+    ],
+    [
+      0.287242,
+      "k"
+    ],
+    [
+      0.163139,
+      "g"
+    ],
+    [
+      0.219489,
+      " "
+    ],
+    [
+      0.152872,
+      "-"
+    ],
+    [
+      0.219718,
+      "l"
+    ],
+    [
+      0.096074,
+      " "
+    ],
+    [
+      0.539966,
+      "|"
+    ],
+    [
+      0.225047,
+      " "
+    ],
+    [
+      0.222425,
+      "g"
+    ],
+    [
+      0.191444,
+      "r"
+    ],
+    [
+      0.190726,
+      "e"
+    ],
+    [
+      0.158452,
+      "p"
+    ],
+    [
+      0.134323,
+      " "
+    ],
+    [
+      0.250511,
+      "l"
+    ],
+    [
+      0.222575,
+      "i"
+    ],
+    [
+      0.284676,
+      "n"
+    ],
+    [
+      0.158522,
+      "u"
+    ],
+    [
+      0.255553,
+      "x"
+    ],
+    [
+      0.316633,
+      "-"
+    ],
+    [
+      0.316577,
+      "i"
+    ],
+    [
+      0.248056,
+      "m"
+    ],
+    [
+      0.096588,
+      "a"
+    ],
+    [
+      0.193421,
+      "g"
+    ],
+    [
+      0.064960,
+      "e"
+    ],
+    [
+      0.757392,
+      "\r\n\u001b[0m\u001b[0m"
+    ],
+    [
+      0.189888,
+      "ii  \u001b[01;31m\u001b[Klinux-image\u001b[m\u001b[K-3.16.0-4-686-pae          3.16.7-ckt17-1                       i386         Linux 3.16 for modern PCs\r\nii  \u001b[01;31m\u001b[Klinux-image\u001b[m\u001b[K-3.2.0-4-686-pae           3.2.71-2                             i386         Linux 3.2 for modern PCs\r\nii  \u001b[01;31m\u001b[Klinux-image\u001b[m\u001b[K-4.2.0-0.bpo.1-686-pae     4.2.3-2~bpo8+1                       i386         Linux 4.2 for modern PCs\r\nii  \u001b[01;31m\u001b[Klinux-image\u001b[m\u001b[K-686-pae                   4.2+68~bpo8+2                        i386         Linux for modern PCs (meta-package)\r\n"
+    ],
+    [
+      0.011766,
+      "\u001b[0m"
+    ],
+    [
+      0.005231,
+      "\u001b]0;edps: edps@debian: /home/edps\u0007"
+    ],
+    [
+      0.048801,
+      "\u001b[00m\u001b[0;90m----------------------------------------------------------------------- 12:19:40\r"
+    ],
+    [
+      0.000187,
+      "\r\n"
+    ],
+    [
+      0.000084,
+      "\u001b[00m\r"
+    ],
+    [
+      0.000079,
+      "\r\n"
+    ],
+    [
+      0.000068,
+      "\u001b[1;33m┌(\u001b[01;31medps@debian\u001b[1;33m)─(\u001b[01;34m✓\u001b[1;33m)─(\u001b[1;32m12:19:40, Qua Out 28\u001b[1;33m)\u001b[1;33m\r"
+    ],
+    [
+      0.000076,
+      "\r\n"
+    ],
+    [
+      0.000103,
+      "└─(\u001b[1;34m~\u001b[1;33m)─(\u001b[1;34m18 files, 796Kb\u001b[1;33m)─\u003e \u001b[0m\u001b[00m\u001b[1;29m"
+    ],
+    [
+      0.623710,
+      "dpkg -l | grep linux-image"
+    ],
+    [
+      0.597035,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.190977,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.160766,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.191318,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.160261,
+      "\u0008\u001b[K"
+    ],
+    [
+      1.113006,
+      "h"
+    ],
+    [
+      0.095871,
+      "e"
+    ],
+    [
+      0.071955,
+      "a"
+    ],
+    [
+      0.221619,
+      "d"
+    ],
+    [
+      0.253820,
+      "e"
+    ],
+    [
+      0.253410,
+      "r"
+    ],
+    [
+      0.188942,
+      "s"
+    ],
+    [
+      0.788780,
+      "\r\n\u001b[0m\u001b[0m"
+    ],
+    [
+      0.199106,
+      "ii  \u001b[01;31m\u001b[Klinux-headers\u001b[m\u001b[K-3.16.0-4-686-pae        3.16.7-ckt17-1                       i386         Header files for Linux 3.16.0-4-686-pae\r\nii  \u001b[01;31m\u001b[Klinux-headers\u001b[m\u001b[K-3.16.0-4-common         3.16.7-ckt17-1                       i386         Common header files for Linux 3.16.0-4\r\nii  \u001b[01;31m\u001b[Klinux-headers\u001b[m\u001b[K-3.2.0-4-686-pae         3.2.71-2                             i386         Header files for Linux 3.2.0-4-686-pae\r\nii  \u001b[01;31m\u001b[Klinux-headers\u001b[m\u001b[K-3.2.0-4-common          3.2.71-2                             i386         Common header files for Linux 3.2.0-4\r\nii  \u001b[01;31m\u001b[Klinux-headers\u001b[m\u001b[K-4.2.0-0.bpo.1-686-pae   4.2.3-2~bpo8+1                       i386         Header files for Linux 4.2.0-0.bpo.1-686-pae\r\nii  \u001b[01;31m\u001b[Klinux-headers\u001b[m\u001b[K-4.2.0-0.bpo.1-common    4.2.3-2~bpo8+1                       i386         Common header files for Linux 4.2.0-0.bpo.1\r\nii  \u001b[01;31m\u001b[Klinux-headers\u001b[m\u001b[K-686-pae                 4.2+68~bpo8+2                        i386         Header files for Linux 686-pae configuration (meta-package)\r\n"
+    ],
+    [
+      0.034975,
+      "\u001b[0m"
+    ],
+    [
+      0.011152,
+      "\u001b]0;edps: edps@debian: /home/edps\u0007"
+    ],
+    [
+      0.070742,
+      "\u001b[00m\u001b[0;90m----------------------------------------------------------------------- 12:19:45\r"
+    ],
+    [
+      0.000845,
+      "\r\n"
+    ],
+    [
+      0.000122,
+      "\u001b[00m\r"
+    ],
+    [
+      0.000082,
+      "\r\n"
+    ],
+    [
+      0.000141,
+      "\u001b[1;33m┌(\u001b[01;31medps@debian\u001b[1;33m)─(\u001b[01;34m✓\u001b[1;33m)─(\u001b[1;32m12:19:45, Qua Out 28\u001b[1;33m)\u001b[1;33m\r"
+    ],
+    [
+      0.000083,
+      "\r\n"
+    ],
+    [
+      0.000237,
+      "└─(\u001b[1;34m~\u001b[1;33m)─(\u001b[1;34m18 files, 796Kb\u001b[1;33m)─\u003e \u001b[0m\u001b[00m\u001b[1;29m"
+    ],
+    [
+      0.903162,
+      "s"
+    ],
+    [
+      0.158614,
+      "u"
+    ],
+    [
+      0.097523,
+      "d"
+    ],
+    [
+      0.160542,
+      "o"
+    ],
+    [
+      0.097722,
+      " "
+    ],
+    [
+      0.162395,
+      "a"
+    ],
+    [
+      0.127191,
+      "p"
+    ],
+    [
+      0.224969,
+      "t"
+    ],
+    [
+      0.162320,
+      "-"
+    ],
+    [
+      0.313881,
+      "g"
+    ],
+    [
+      0.127428,
+      "e"
+    ],
+    [
+      0.128694,
+      "t"
+    ],
+    [
+      0.162392,
+      " "
+    ],
+    [
+      0.691913,
+      "-"
+    ],
+    [
+      0.191151,
+      "-"
+    ],
+    [
+      0.254122,
+      "p"
+    ],
+    [
+      0.316288,
+      "u"
+    ],
+    [
+      0.132182,
+      "r"
+    ],
+    [
+      0.125897,
+      "g"
+    ],
+    [
+      0.096095,
+      "e"
+    ],
+    [
+      0.225729,
+      " "
+    ],
+    [
+      0.408884,
+      "l"
+    ],
+    [
+      0.253730,
+      "i"
+    ],
+    [
+      0.260562,
+      "n"
+    ],
+    [
+      0.188741,
+      "u"
+    ],
+    [
+      0.287489,
+      "x"
+    ],
+    [
+      0.347732,
+      "-"
+    ],
+    [
+      0.285361,
+      "i"
+    ],
+    [
+      0.222424,
+      "m"
+    ],
+    [
+      0.122084,
+      "a"
+    ],
+    [
+      0.248408,
+      "g"
+    ],
+    [
+      0.290463,
+      "\u0007"
+    ],
+    [
+      1.435740,
+      "e"
+    ],
+    [
+      0.255298,
+      "\u0007"
+    ],
+    [
+      2.847539,
+      "\u0008"
+    ],
+    [
+      0.193840,
+      "\u0008"
+    ],
+    [
+      0.162640,
+      "\u0008"
+    ],
+    [
+      0.162590,
+      "\u0008"
+    ],
+    [
+      0.131950,
+      "\u0008"
+    ],
+    [
+      0.162287,
+      "\u0008"
+    ],
+    [
+      0.131553,
+      "\u0008"
+    ],
+    [
+      0.193444,
+      "\u0008"
+    ],
+    [
+      0.162901,
+      "\u0008"
+    ],
+    [
+      0.162655,
+      "\u0008"
+    ],
+    [
+      0.166920,
+      "\u0008"
+    ],
+    [
+      0.720304,
+      "rlinux-image\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.235720,
+      "elinux-image\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.094783,
+      "mlinux-image\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.129382,
+      "olinux-image\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.099042,
+      "vlinux-image\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.160961,
+      "elinux-image\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.256270,
+      " linux-image\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.284995,
+      "\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.560859,
+      "\u0007-"
+    ],
+    [
+      1.069858,
+      "3"
+    ],
+    [
+      0.254631,
+      "\u0007."
+    ],
+    [
+      1.128277,
+      "2"
+    ],
+    [
+      0.226541,
+      ".0-4-686-pae\re "
+    ],
+    [
+      1.250533,
+      "l"
+    ],
+    [
+      0.222531,
+      "i"
+    ],
+    [
+      0.222446,
+      "n"
+    ],
+    [
+      0.135264,
+      "u"
+    ],
+    [
+      0.128811,
+      "x"
+    ],
+    [
+      0.287628,
+      "-"
+    ],
+    [
+      0.347963,
+      "h"
+    ],
+    [
+      0.292186,
+      "\u0007eaders-"
+    ],
+    [
+      1.155714,
+      "3"
+    ],
+    [
+      0.253365,
+      "\u0007."
+    ],
+    [
+      1.162447,
+      "2"
+    ],
+    [
+      0.218254,
+      "\u0007.0-4-"
+    ],
+    [
+      1.446159,
+      "c"
+    ],
+    [
+      0.197763,
+      "ommon "
+    ],
+    [
+      1.000123,
+      "l"
+    ],
+    [
+      0.222584,
+      "i"
+    ],
+    [
+      0.253336,
+      "n"
+    ],
+    [
+      0.127097,
+      "u"
+    ],
+    [
+      0.193335,
+      "x"
+    ],
+    [
+      0.324688,
+      "\u0007"
+    ],
+    [
+      0.000377,
+      "-"
+    ],
+    [
+      0.839683,
+      "h"
+    ],
+    [
+      0.199077,
+      "\u0007eaders-"
+    ],
+    [
+      1.125314,
+      "3"
+    ],
+    [
+      0.268197,
+      "\u0007."
+    ],
+    [
+      1.398506,
+      "2"
+    ],
+    [
+      0.267980,
+      "\u0007.0-4-"
+    ],
+    [
+      2.648033,
+      "6"
+    ],
+    [
+      0.209604,
+      "86-pae "
+    ],
+    [
+      1.409248,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.147372,
+      "\rLendo listas de pacotes... 0%\r"
+    ],
+    [
+      0.009798,
+      "\rLendo listas de pacotes... 100%\r"
+    ],
+    [
+      0.000202,
+      "\rLendo listas de pacotes... Pronto\r"
+    ],
+    [
+      0.000104,
+      "\r\n"
+    ],
+    [
+      0.035557,
+      "\rConstruindo árvore de dependências... 0%\r"
+    ],
+    [
+      0.000420,
+      "\rConstruindo árvore de dependências... 0%\r"
+    ],
+    [
+      0.080267,
+      "\rConstruindo árvore de dependências... 50%\r"
+    ],
+    [
+      0.002946,
+      "\rConstruindo árvore de dependências... 50%\r"
+    ],
+    [
+      0.328279,
+      "\rConstruindo árvore de dependências       \r"
+    ],
+    [
+      0.000344,
+      "\r\n"
+    ],
+    [
+      0.000112,
+      "\rLendo informação de estado... 0%  \r"
+    ],
+    [
+      0.008843,
+      "\rLendo informação de estado... 0%\r"
+    ],
+    [
+      0.012385,
+      "\rLendo informação de estado... Pronto\r"
+    ],
+    [
+      0.000189,
+      "\r\n"
+    ],
+    [
+      0.934311,
+      "Os pacotes a seguir serão REMOVIDOS:"
+    ],
+    [
+      0.000195,
+      "\r\n"
+    ],
+    [
+      0.000099,
+      "  linux-headers-3.2.0-4-686-pae* linux-headers-3.2.0-4-common*"
+    ],
+    [
+      0.000086,
+      "\r\n"
+    ],
+    [
+      0.000089,
+      "  linux-image-3.2.0-4-686-pae*"
+    ],
+    [
+      0.000103,
+      "\r\n"
+    ],
+    [
+      0.051167,
+      "0 pacotes atualizados, 0 pacotes novos instalados, 3 a serem removidos e 1 não atualizados."
+    ],
+    [
+      0.000177,
+      "\r\n"
+    ],
+    [
+      0.044123,
+      "Depois desta operação, 100 MB de espaço em disco serão liberados."
+    ],
+    [
+      0.000181,
+      "\r\n"
+    ],
+    [
+      0.000185,
+      "Você quer continuar?"
+    ],
+    [
+      0.000218,
+      " [S/n] "
+    ],
+    [
+      1.468937,
+      "s"
+    ],
+    [
+      0.475002,
+      "\r\n"
+    ],
+    [
+      0.000074,
+      "\r\r"
+    ],
+    [
+      2.864052,
+      "(Lendo banco de dados ... \r"
+    ],
+    [
+      0.134424,
+      "(Lendo banco de dados ... 5%\r"
+    ],
+    [
+      0.000688,
+      "(Lendo banco de dados ... 10%\r"
+    ],
+    [
+      0.000224,
+      "(Lendo banco de dados ... 15%\r"
+    ],
+    [
+      0.000287,
+      "(Lendo banco de dados ... 20%\r"
+    ],
+    [
+      0.000555,
+      "(Lendo banco de dados ... 25%\r"
+    ],
+    [
+      0.000262,
+      "(Lendo banco de dados ... 30%\r"
+    ],
+    [
+      0.000279,
+      "(Lendo banco de dados ... 35%\r"
+    ],
+    [
+      0.000295,
+      "(Lendo banco de dados ... 40%\r"
+    ],
+    [
+      0.000629,
+      "(Lendo banco de dados ... 45%\r"
+    ],
+    [
+      0.000238,
+      "(Lendo banco de dados ... 50%\r"
+    ],
+    [
+      0.611698,
+      "(Lendo banco de dados ... 55%\r"
+    ],
+    [
+      1.073344,
+      "(Lendo banco de dados ... 60%\r"
+    ],
+    [
+      0.791898,
+      "(Lendo banco de dados ... 65%\r"
+    ],
+    [
+      0.884336,
+      "(Lendo banco de dados ... 70%\r"
+    ],
+    [
+      0.761860,
+      "(Lendo banco de dados ... 75%\r"
+    ],
+    [
+      0.861519,
+      "(Lendo banco de dados ... 80%\r"
+    ],
+    [
+      0.842877,
+      "(Lendo banco de dados ... 85%\r"
+    ],
+    [
+      0.896359,
+      "(Lendo banco de dados ... 90%\r"
+    ],
+    [
+      0.984840,
+      "(Lendo banco de dados ... 95%\r"
+    ],
+    [
+      1.142198,
+      "(Lendo banco de dados ... 100%\r"
+    ],
+    [
+      0.000325,
+      "(Lendo banco de dados ... "
+    ],
+    [
+      0.000252,
+      "278325 ficheiros e directórios actualmente instalados.)"
+    ],
+    [
+      0.000240,
+      "\r\n"
+    ],
+    [
+      0.060190,
+      "A remover linux-headers-3.2.0-4-686-pae (3.2.71-2) ..."
+    ],
+    [
+      0.000309,
+      "\r\n"
+    ],
+    [
+      1.972991,
+      "A remover linux-headers-3.2.0-4-common (3.2.71-2) ..."
+    ],
+    [
+      0.000525,
+      "\r\n"
+    ],
+    [
+      1.063829,
+      "A remover linux-image-3.2.0-4-686-pae (3.2.71-2) ..."
+    ],
+    [
+      0.000358,
+      "\r\n"
+    ],
+    [
+      0.613483,
+      "Examining /etc/kernel/prerm.d.\r\n"
+    ],
+    [
+      0.001534,
+      "run-parts: executing /etc/kernel/prerm.d/dkms"
+    ],
+    [
+      0.000211,
+      " 3.2.0-4-686-pae"
+    ],
+    [
+      0.000116,
+      " /boot/vmlinuz-3.2.0-4-686-pae"
+    ],
+    [
+      0.000113,
+      "\r\n"
+    ],
+    [
+      0.930360,
+      "dkms: removing: vboxhost 5.0.4 (3.2.0-4-686-pae) (i686)\r\n"
+    ],
+    [
+      13.312548,
+      "Examining /etc/kernel/postrm.d ."
+    ],
+    [
+      0.000222,
+      "\r\n"
+    ],
+    [
+      0.002057,
+      "run-parts: executing /etc/kernel/postrm.d/initramfs-tools"
+    ],
+    [
+      0.000211,
+      " 3.2.0-4-686-pae"
+    ],
+    [
+      0.000113,
+      " /boot/vmlinuz-3.2.0-4-686-pae"
+    ],
+    [
+      0.000114,
+      "\r\n"
+    ],
+    [
+      0.037770,
+      "update-initramfs: Deleting /boot/initrd.img-3.2.0-4-686-pae\r\n"
+    ],
+    [
+      0.011146,
+      "run-parts: executing /etc/kernel/postrm.d/zz-update-grub 3.2.0-4-686-pae /boot/vmlinuz-3.2.0-4-686-pae\r\n"
+    ],
+    [
+      1.103718,
+      "Generating grub configuration file ..."
+    ],
+    [
+      0.000715,
+      "\r\n"
+    ],
+    [
+      1.527230,
+      "Found background image: /usr/share/images/desktop-base/desktop-grub.png\r\n"
+    ],
+    [
+      0.121347,
+      "Imagem Linux encontrada: /boot/vmlinuz-4.2.0-0.bpo.1-686-pae\r\n"
+    ],
+    [
+      0.033731,
+      "Imagem initrd encontrada: /boot/initrd.img-4.2.0-0.bpo.1-686-pae\r\n"
+    ],
+    [
+      0.779928,
+      "Imagem Linux encontrada: /boot/vmlinuz-3.16.0-4-686-pae\r\n"
+    ],
+    [
+      0.036121,
+      "Imagem initrd encontrada: /boot/initrd.img-3.16.0-4-686-pae\r\n"
+    ],
+    [
+      3.502428,
+      "Encontrado Slackware Linux (Slackware 14.1) em /dev/sdb2\r\n"
+    ],
+    [
+      3.166234,
+      "Encontrado Debian GNU/Linux (7.9) em /dev/sdb6\r\n"
+    ],
+    [
+      2.552727,
+      "concluído"
+    ],
+    [
+      0.001937,
+      "\r\n"
+    ],
+    [
+      0.115815,
+      "A purgar os ficheiros de configuração para linux-image-3.2.0-4-686-pae (3.2.71-2) ...\r\n"
+    ],
+    [
+      0.741664,
+      "Examining /etc/kernel/postrm.d ."
+    ],
+    [
+      0.000221,
+      "\r\n"
+    ],
+    [
+      0.001982,
+      "run-parts: executing /etc/kernel/postrm.d/initramfs-tools"
+    ],
+    [
+      0.000270,
+      " 3.2.0-4-686-pae"
+    ],
+    [
+      0.000136,
+      " /boot/vmlinuz-3.2.0-4-686-pae"
+    ],
+    [
+      0.000115,
+      "\r\n"
+    ],
+    [
+      0.002812,
+      "run-parts: executing /etc/kernel/postrm.d/zz-update-grub 3.2.0-4-686-pae /boot/vmlinuz-3.2.0-4-686-pae\r\n"
+    ],
+    [
+      0.474020,
+      "A processar 'triggers' para readahead-fedora (2:1.5.6-5.2) ...\r\n"
+    ],
+    [
+      2.421413,
+      "\u001b[0m"
+    ],
+    [
+      0.004891,
+      "\u001b]0;edps: edps@debian: /home/edps\u0007"
+    ],
+    [
+      0.042284,
+      "\u001b[00m\u001b[0;90m----------------------------------------------------------------------- 12:21:12\r"
+    ],
+    [
+      0.000203,
+      "\r\n"
+    ],
+    [
+      0.000084,
+      "\u001b[00m\r"
+    ],
+    [
+      0.000081,
+      "\r\n"
+    ],
+    [
+      0.000068,
+      "\u001b[1;33m┌(\u001b[01;31medps@debian\u001b[1;33m)─(\u001b[01;34m✓\u001b[1;33m)─(\u001b[1;32m12:21:12, Qua Out 28\u001b[1;33m)\u001b[1;33m\r"
+    ],
+    [
+      0.000075,
+      "\r\n"
+    ],
+    [
+      0.000103,
+      "└─(\u001b[1;34m~\u001b[1;33m)─(\u001b[1;34m18 files, 796Kb\u001b[1;33m)─\u003e \u001b[0m\u001b[00m\u001b[1;29m"
+    ],
+    [
+      1.278602,
+      "sudo apt-get --purge remove linux-image-3.2.0-4-686-pae\re linux-headers-3.2.0-4-common linux-headers-3.2.0-4-686-pae "
+    ],
+    [
+      0.475188,
+      "\u001b[A\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[26Pdpkg -l | grep linux-headers"
+    ],
+    [
+      0.000780,
+      "\r\n"
+    ],
+    [
+      0.000224,
+      "\r\u001b[K\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.943832,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[2Pimage"
+    ],
+    [
+      0.534665,
+      "\r\n\u001b[0m\u001b[0m"
+    ],
+    [
+      0.169881,
+      "ii  \u001b[01;31m\u001b[Klinux-image\u001b[m\u001b[K-3.16.0-4-686-pae          3.16.7-ckt17-1                       i386         Linux 3.16 for modern PCs\r\nii  \u001b[01;31m\u001b[Klinux-image\u001b[m\u001b[K-4.2.0-0.bpo.1-686-pae     4.2.3-2~bpo8+1                       i386         Linux 4.2 for modern PCs\r\nii  \u001b[01;31m\u001b[Klinux-image\u001b[m\u001b[K-686-pae                   4.2+68~bpo8+2                        i386         Linux for modern PCs (meta-package)\r\n"
+    ],
+    [
+      0.011642,
+      "\u001b[0m"
+    ],
+    [
+      0.006650,
+      "\u001b]0;edps: edps@debian: /home/edps\u0007"
+    ],
+    [
+      0.050221,
+      "\u001b[00m\u001b[0;90m----------------------------------------------------------------------- 12:21:16\r"
+    ],
+    [
+      0.000198,
+      "\r\n"
+    ],
+    [
+      0.000084,
+      "\u001b[00m\r"
+    ],
+    [
+      0.000079,
+      "\r\n"
+    ],
+    [
+      0.000068,
+      "\u001b[1;33m┌(\u001b[01;31medps@debian\u001b[1;33m)─(\u001b[01;34m✓\u001b[1;33m)─(\u001b[1;32m12:21:16, Qua Out 28\u001b[1;33m)\u001b[1;33m\r"
+    ],
+    [
+      0.000077,
+      "\r\n"
+    ],
+    [
+      0.000102,
+      "└─(\u001b[1;34m~\u001b[1;33m)─(\u001b[1;34m18 files, 796Kb\u001b[1;33m)─\u003e \u001b[0m\u001b[00m\u001b[1;29m"
+    ],
+    [
+      0.703238,
+      "dpkg -l | grep linux-image"
+    ],
+    [
+      0.381673,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008sudo apt-get --purge remove linux-image-3.2.0-4-686-pae\re linux-headers-3.2.0-4-common linux-headers-3.2.0-4-686-pae "
+    ],
+    [
+      0.505823,
+      "\u001b[A\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[26Pdpkg -l | grep linux-headers\r\n\r\u001b[K\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.846714,
+      "\r\n\u001b[0m\u001b[0m"
+    ],
+    [
+      0.119135,
+      "ii  \u001b[01;31m\u001b[Klinux-headers\u001b[m\u001b[K-3.16.0-4-686-pae        3.16.7-ckt17-1                       i386         Header files for Linux 3.16.0-4-686-pae\r\nii  \u001b[01;31m\u001b[Klinux-headers\u001b[m\u001b[K-3.16.0-4-common         3.16.7-ckt17-1                       i386         Common header files for Linux 3.16.0-4\r\nii  \u001b[01;31m\u001b[Klinux-headers\u001b[m\u001b[K-4.2.0-0.bpo.1-686-pae   4.2.3-2~bpo8+1                       i386         Header files for Linux 4.2.0-0.bpo.1-686-pae\r\nii  \u001b[01;31m\u001b[Klinux-headers\u001b[m\u001b[K-4.2.0-0.bpo.1-common    4.2.3-2~bpo8+1                       i386         Common header files for Linux 4.2.0-0.bpo.1\r\nii  \u001b[01;31m\u001b[Klinux-headers\u001b[m\u001b[K-686-pae                 4.2+68~bpo8+2                        i386         Header files for Linux 686-pae configuration (meta-package)\r\n"
+    ],
+    [
+      0.011881,
+      "\u001b[0m"
+    ],
+    [
+      0.006132,
+      "\u001b]0;edps: edps@debian: /home/edps\u0007"
+    ],
+    [
+      0.051748,
+      "\u001b[00m\u001b[0;90m----------------------------------------------------------------------- 12:21:19\r"
+    ],
+    [
+      0.000106,
+      "\r\n"
+    ],
+    [
+      0.000077,
+      "\u001b[00m\r"
+    ],
+    [
+      0.000080,
+      "\r\n"
+    ],
+    [
+      0.000080,
+      "\u001b[1;33m┌(\u001b[01;31medps@debian\u001b[1;33m)─(\u001b[01;34m✓\u001b[1;33m)─(\u001b[1;32m12:21:19, Qua Out 28\u001b[1;33m)\u001b[1;33m\r"
+    ],
+    [
+      0.000067,
+      "\r\n"
+    ],
+    [
+      0.000132,
+      "└─(\u001b[1;34m~\u001b[1;33m)─(\u001b[1;34m18 files, 796Kb\u001b[1;33m)─\u003e \u001b[0m\u001b[00m\u001b[1;29m"
+    ],
+    [
+      1.437641,
+      "e"
+    ],
+    [
+      0.347070,
+      "x"
+    ],
+    [
+      0.223125,
+      "i"
+    ],
+    [
+      0.283809,
+      "t"
+    ],
+    [
+      1.036332,
+      "\r\n\u001b[0mexit\r\n"
+    ]
+  ]
+}
