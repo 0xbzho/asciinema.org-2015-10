@@ -1,0 +1,2906 @@
+{
+  "version": 1,
+  "width": 120,
+  "height": 33,
+  "duration": 62.163805,
+  "command": "./rigger configure --provider \"digitalocean\" --version \"1.11.2\" \u0026\u0026 ./rigger provision",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.136429,
+      "\u001b[33mDEIS_SOURCE already set to 1. Skipping prompt.\u001b[0m\r\n"
+    ],
+    [
+      0.015363,
+      "\u001b[33mVERSION already set to 1.11.2. Skipping prompt.\u001b[0m\r\n"
+    ],
+    [
+      0.027843,
+      "\u001b[33mDEIS_GIT_REPO already set to https://github.com/sgoings/deis.git. Skipping prompt.\u001b[0m\r\n"
+    ],
+    [
+      0.014739,
+      "\u001b[33mDEIS_GIT_VERSION already set to 1.11.2. Skipping prompt.\u001b[0m\r\n"
+    ],
+    [
+      0.075915,
+      "\u001b[33mGOPATH already set to /Users/sethgoings/.rigger/22712b4077/go. Skipping prompt.\u001b[0m\r\n"
+    ],
+    [
+      0.032415,
+      "\u001b[33mDEIS_ROOT already set to /Users/sethgoings/.rigger/22712b4077/go/src/github.com/deis/deis. Skipping prompt.\u001b[0m\r\n"
+    ],
+    [
+      0.021478,
+      "\u001b[32mCloning Deis at /Users/sethgoings/.rigger/22712b4077/go/src/github.com/deis/deis to v1.11.2\u001b[0m\r\n"
+    ],
+    [
+      0.002543,
+      "Cloning into '/Users/sethgoings/.rigger/22712b4077/go/src/github.com/deis/deis'...\r\n"
+    ],
+    [
+      0.704526,
+      "remote: Counting objects: 2163, done.\u001b[K\r\n"
+    ],
+    [
+      0.019388,
+      "remote: Compressing objects:   0% (1/1912)   \u001b[K\rremote: Compressing objects:   1% (20/1912)   \u001b[K\rremote: Compressing objects:   2% (39/1912)   \u001b[K\r"
+    ],
+    [
+      0.004323,
+      "remote: Compressing objects:   3% (58/1912)   \u001b[K\r"
+    ],
+    [
+      0.007382,
+      "remote: Compressing objects:   4% (77/1912)   \u001b[K\rremote: Compressing objects:   5% (96/1912)   \u001b[K\r"
+    ],
+    [
+      0.016510,
+      "remote: Compressing objects:   6% (115/1912)   \u001b[K\rremote: Compressing objects:   7% (134/1912)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:   8% (153/1912)   \u001b[K\r"
+    ],
+    [
+      0.000019,
+      "remote: Compressing objects:   9% (173/1912)   \u001b[K\rremote: Compressing objects:  10% (192/1912)   \u001b[K\r"
+    ],
+    [
+      0.009258,
+      "remote: Compressing objects:  11% (211/1912)   \u001b[K\rremote: Compressing objects:  12% (230/1912)   \u001b[K\r"
+    ],
+    [
+      0.000005,
+      "remote: Compressing objects:  13% (249/1912)   \u001b[K\r"
+    ],
+    [
+      0.003633,
+      "remote: Compressing objects:  14% (268/1912)   \u001b[K\r"
+    ],
+    [
+      0.000004,
+      "remote: Compressing objects:  15% (287/1912)   \u001b[K\r"
+    ],
+    [
+      0.000325,
+      "remote: Compressing objects:  16% (306/1912)   \u001b[K\r"
+    ],
+    [
+      0.021279,
+      "remote: Compressing objects:  17% (326/1912)   \u001b[K\rremote: Compressing objects:  18% (345/1912)   \u001b[K\rremote: Compressing objects:  19% (364/1912)   \u001b[K\r"
+    ],
+    [
+      0.000010,
+      "remote: Compressing objects:  20% (383/1912)   \u001b[K\r"
+    ],
+    [
+      0.000003,
+      "remote: Compressing objects:  21% (402/1912)   \u001b[K\rremote: Compressing objects:  22% (421/1912)   \u001b[K\r"
+    ],
+    [
+      0.000019,
+      "remote: Compressing objects:  23% (440/1912)   \u001b[K\r"
+    ],
+    [
+      0.000298,
+      "remote: Compressing objects:  24% (459/1912)   \u001b[K\rremote: Compressing objects:  25% (478/1912)   \u001b[K\r"
+    ],
+    [
+      0.000005,
+      "remote: Compressing objects:  26% (498/1912)   \u001b[K\r"
+    ],
+    [
+      0.000003,
+      "remote: Compressing objects:  27% (517/1912)   \u001b[K\r"
+    ],
+    [
+      0.000021,
+      "remote: Compressing objects:  28% (536/1912)   \u001b[K\r"
+    ],
+    [
+      0.000190,
+      "remote: Compressing objects:  29% (555/1912)   \u001b[K\rremote: Compressing objects:  30% (574/1912)   \u001b[K\r"
+    ],
+    [
+      0.009254,
+      "remote: Compressing objects:  31% (593/1912)   \u001b[K\rremote: Compressing objects:  32% (612/1912)   \u001b[K\r"
+    ],
+    [
+      0.003330,
+      "remote: Compressing objects:  33% (631/1912)   \u001b[K\rremote: Compressing objects:  34% (651/1912)   \u001b[K\r"
+    ],
+    [
+      0.007015,
+      "remote: Compressing objects:  35% (670/1912)   \u001b[K\rremote: Compressing objects:  36% (689/1912)   \u001b[K\r"
+    ],
+    [
+      0.002233,
+      "remote: Compressing objects:  37% (708/1912)   \u001b[K\r"
+    ],
+    [
+      0.001291,
+      "remote: Compressing objects:  38% (727/1912)   \u001b[K\rremote: Compressing objects:  39% (746/1912)   \u001b[K\rremote: Compressing objects:  40% (765/1912)   \u001b[K\r"
+    ],
+    [
+      0.008787,
+      "remote: Compressing objects:  41% (784/1912)   \u001b[K\r"
+    ],
+    [
+      0.000161,
+      "remote: Compressing objects:  42% (804/1912)   \u001b[K\r"
+    ],
+    [
+      0.016838,
+      "remote: Compressing objects:  43% (823/1912)   \u001b[K\rremote: Compressing objects:  44% (842/1912)   \u001b[K\rremote: Compressing objects:  45% (861/1912)   \u001b[K\r"
+    ],
+    [
+      0.000012,
+      "remote: Compressing objects:  46% (880/1912)   \u001b[K\rremote: Compressing objects:  47% (899/1912)   \u001b[K\rremote: Compressing objects:  48% (918/1912)   \u001b[K\r"
+    ],
+    [
+      0.000082,
+      "remote: Compressing objects:  49% (937/1912)   \u001b[K\r"
+    ],
+    [
+      0.039707,
+      "remote: Compressing objects:  50% (956/1912)   \u001b[K\rremote: Compressing objects:  51% (976/1912)   \u001b[K\rremote: Compressing objects:  52% (995/1912)   \u001b[K\rremote: Compressing objects:  53% (1014/1912)   \u001b[K\rremote: Compressing objects:  54% (1033/1912)   \u001b[K\rremote: Compressing objects:  55% (1052/1912)   \u001b[K\r"
+    ],
+    [
+      0.000010,
+      "remote: Compressing objects:  56% (1071/1912)   \u001b[K\rremote: Compressing objects:  57% (1090/1912)   \u001b[K\r"
+    ],
+    [
+      0.000003,
+      "remote: Compressing objects:  58% (1109/1912)   \u001b[K\r"
+    ],
+    [
+      0.045787,
+      "remote: Compressing objects:  59% (1129/1912)   \u001b[K\r"
+    ],
+    [
+      0.000018,
+      "remote: Compressing objects:  60% (1148/1912)   \u001b[K\r"
+    ],
+    [
+      0.000052,
+      "remote: Compressing objects:  61% (1167/1912)   \u001b[K\r"
+    ],
+    [
+      0.000033,
+      "remote: Compressing objects:  62% (1186/1912)   \u001b[K\r"
+    ],
+    [
+      0.000034,
+      "remote: Compressing objects:  63% (1205/1912)   \u001b[K\r"
+    ],
+    [
+      0.000015,
+      "remote: Compressing objects:  64% (1224/1912)   \u001b[K\r"
+    ],
+    [
+      0.000035,
+      "remote: Compressing objects:  65% (1243/1912)   \u001b[K\r"
+    ],
+    [
+      0.000005,
+      "remote: Compressing objects:  66% (1262/1912)   \u001b[K\r"
+    ],
+    [
+      0.000032,
+      "remote: Compressing objects:  67% (1282/1912)   \u001b[K\r"
+    ],
+    [
+      0.000023,
+      "remote: Compressing objects:  68% (1301/1912)   \u001b[K\r"
+    ],
+    [
+      0.000058,
+      "remote: Compressing objects:  69% (1320/1912)   \u001b[K\rremote: Compressing objects:  70% (1339/1912)   \u001b[K\r"
+    ],
+    [
+      0.000076,
+      "remote: Compressing objects:  71% (1358/1912)   \u001b[K\r"
+    ],
+    [
+      0.000052,
+      "remote: Compressing objects:  72% (1377/1912)   \u001b[K\r"
+    ],
+    [
+      0.000060,
+      "remote: Compressing objects:  73% (1396/1912)   \u001b[K\r"
+    ],
+    [
+      0.000051,
+      "remote: Compressing objects:  74% (1415/1912)   \u001b[K\r"
+    ],
+    [
+      0.000030,
+      "remote: Compressing objects:  75% (1434/1912)   \u001b[K\r"
+    ],
+    [
+      0.000066,
+      "remote: Compressing objects:  76% (1454/1912)   \u001b[K\r"
+    ],
+    [
+      0.005470,
+      "remote: Compressing objects:  77% (1473/1912)   \u001b[K\rremote: Compressing objects:  78% (1492/1912)   \u001b[K\rremote: Compressing objects:  79% (1511/1912)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  80% (1530/1912)   \u001b[K\r"
+    ],
+    [
+      0.000003,
+      "remote: Compressing objects:  81% (1549/1912)   \u001b[K\r"
+    ],
+    [
+      0.000057,
+      "remote: Compressing objects:  82% (1568/1912)   \u001b[K\rremote: Compressing objects:  83% (1587/1912)   \u001b[K\r"
+    ],
+    [
+      0.000006,
+      "remote: Compressing objects:  84% (1607/1912)   \u001b[K\r"
+    ],
+    [
+      0.000003,
+      "remote: Compressing objects:  85% (1626/1912)   \u001b[K\r"
+    ],
+    [
+      0.000035,
+      "remote: Compressing objects:  86% (1645/1912)   \u001b[K\r"
+    ],
+    [
+      0.000053,
+      "remote: Compressing objects:  87% (1664/1912)   \u001b[K\r"
+    ],
+    [
+      0.000003,
+      "remote: Compressing objects:  88% (1683/1912)   \u001b[K\r"
+    ],
+    [
+      0.000029,
+      "remote: Compressing objects:  89% (1702/1912)   \u001b[K\r"
+    ],
+    [
+      0.000021,
+      "remote: Compressing objects:  90% (1721/1912)   \u001b[K\r"
+    ],
+    [
+      0.000004,
+      "remote: Compressing objects:  91% (1740/1912)   \u001b[K\r"
+    ],
+    [
+      0.000024,
+      "remote: Compressing objects:  92% (1760/1912)   \u001b[K\r"
+    ],
+    [
+      0.000020,
+      "remote: Compressing objects:  93% (1779/1912)   \u001b[K\r"
+    ],
+    [
+      0.000026,
+      "remote: Compressing objects:  94% (1798/1912)   \u001b[K\r"
+    ],
+    [
+      0.000010,
+      "remote: Compressing objects:  95% (1817/1912)   \u001b[K\r"
+    ],
+    [
+      0.000017,
+      "remote: Compressing objects:  96% (1836/1912)   \u001b[K\rremote: Compressing objects:  97% (1855/1912)   \u001b[K\r"
+    ],
+    [
+      0.000024,
+      "remote: Compressing objects:  98% (1874/1912)   \u001b[K\r"
+    ],
+    [
+      0.000010,
+      "remote: Compressing objects:  99% (1893/1912)   \u001b[K\r"
+    ],
+    [
+      0.000053,
+      "remote: Compressing objects: 100% (1912/1912)   \u001b[K\rremote: Compressing objects: 100% (1912/1912), done.\u001b[K\r\n"
+    ],
+    [
+      0.004117,
+      "Receiving objects:   0% (1/2163)   \r"
+    ],
+    [
+      0.160987,
+      "Receiving objects:   1% (22/2163)   \r"
+    ],
+    [
+      0.003633,
+      "Receiving objects:   2% (44/2163)   \r"
+    ],
+    [
+      0.008938,
+      "Receiving objects:   3% (65/2163)   \r"
+    ],
+    [
+      0.000884,
+      "Receiving objects:   4% (87/2163)   \r"
+    ],
+    [
+      0.000914,
+      "Receiving objects:   5% (109/2163)   \r"
+    ],
+    [
+      0.001177,
+      "Receiving objects:   6% (130/2163)   \r"
+    ],
+    [
+      0.045138,
+      "Receiving objects:   7% (152/2163)   \r"
+    ],
+    [
+      0.000533,
+      "Receiving objects:   8% (174/2163)   \r"
+    ],
+    [
+      0.001049,
+      "Receiving objects:   9% (195/2163)   \r"
+    ],
+    [
+      0.001230,
+      "Receiving objects:  10% (217/2163)   \r"
+    ],
+    [
+      0.004090,
+      "Receiving objects:  11% (238/2163)   \r"
+    ],
+    [
+      0.013279,
+      "Receiving objects:  12% (260/2163)   \r"
+    ],
+    [
+      0.001154,
+      "Receiving objects:  13% (282/2163)   \r"
+    ],
+    [
+      0.000962,
+      "Receiving objects:  14% (303/2163)   \r"
+    ],
+    [
+      0.033894,
+      "Receiving objects:  15% (325/2163)   \r"
+    ],
+    [
+      0.002774,
+      "Receiving objects:  16% (347/2163)   \r"
+    ],
+    [
+      0.013424,
+      "Receiving objects:  17% (368/2163)   \r"
+    ],
+    [
+      0.002428,
+      "Receiving objects:  18% (390/2163)   \r"
+    ],
+    [
+      0.010192,
+      "Receiving objects:  19% (411/2163)   \r"
+    ],
+    [
+      0.003027,
+      "Receiving objects:  20% (433/2163)   \r"
+    ],
+    [
+      0.000721,
+      "Receiving objects:  21% (455/2163)   \r"
+    ],
+    [
+      0.000364,
+      "Receiving objects:  22% (476/2163)   \r"
+    ],
+    [
+      0.000771,
+      "Receiving objects:  23% (498/2163)   \r"
+    ],
+    [
+      0.000366,
+      "Receiving objects:  24% (520/2163)   \r"
+    ],
+    [
+      0.000558,
+      "Receiving objects:  25% (541/2163)   \r"
+    ],
+    [
+      0.031355,
+      "Receiving objects:  26% (563/2163)   \r"
+    ],
+    [
+      0.044789,
+      "Receiving objects:  27% (585/2163)   \r"
+    ],
+    [
+      0.001304,
+      "Receiving objects:  28% (606/2163)   \r"
+    ],
+    [
+      0.000889,
+      "Receiving objects:  29% (628/2163)   \r"
+    ],
+    [
+      0.000988,
+      "Receiving objects:  30% (649/2163)   \r"
+    ],
+    [
+      0.001867,
+      "Receiving objects:  31% (671/2163)   \r"
+    ],
+    [
+      0.001945,
+      "Receiving objects:  32% (693/2163)   \r"
+    ],
+    [
+      0.010883,
+      "Receiving objects:  33% (714/2163)   \r"
+    ],
+    [
+      0.002581,
+      "Receiving objects:  34% (736/2163)   \r"
+    ],
+    [
+      0.001141,
+      "Receiving objects:  35% (758/2163)   \r"
+    ],
+    [
+      0.001867,
+      "Receiving objects:  36% (779/2163)   \r"
+    ],
+    [
+      0.008861,
+      "Receiving objects:  37% (801/2163)   \r"
+    ],
+    [
+      0.016879,
+      "Receiving objects:  38% (822/2163)   \r"
+    ],
+    [
+      0.019526,
+      "Receiving objects:  39% (844/2163)   \r"
+    ],
+    [
+      0.000827,
+      "Receiving objects:  40% (866/2163)   \r"
+    ],
+    [
+      0.000481,
+      "Receiving objects:  41% (887/2163)   \r"
+    ],
+    [
+      0.015223,
+      "Receiving objects:  42% (909/2163)   \r"
+    ],
+    [
+      0.015532,
+      "Receiving objects:  43% (931/2163)   \r"
+    ],
+    [
+      0.000506,
+      "Receiving objects:  44% (952/2163)   \r"
+    ],
+    [
+      0.001697,
+      "Receiving objects:  45% (974/2163)   \r"
+    ],
+    [
+      0.017844,
+      "Receiving objects:  46% (995/2163), 1.19 MiB | 2.34 MiB/s   \r"
+    ],
+    [
+      0.001397,
+      "Receiving objects:  47% (1017/2163), 1.19 MiB | 2.34 MiB/s   \r"
+    ],
+    [
+      0.028030,
+      "Receiving objects:  48% (1039/2163), 1.19 MiB | 2.34 MiB/s   \r"
+    ],
+    [
+      0.002049,
+      "Receiving objects:  49% (1060/2163), 1.19 MiB | 2.34 MiB/s   \r"
+    ],
+    [
+      0.003051,
+      "Receiving objects:  50% (1082/2163), 1.19 MiB | 2.34 MiB/s   \r"
+    ],
+    [
+      0.011373,
+      "Receiving objects:  51% (1104/2163), 1.19 MiB | 2.34 MiB/s   \r"
+    ],
+    [
+      0.019009,
+      "Receiving objects:  52% (1125/2163), 1.19 MiB | 2.34 MiB/s   \r"
+    ],
+    [
+      0.013519,
+      "Receiving objects:  53% (1147/2163), 1.19 MiB | 2.34 MiB/s   \r"
+    ],
+    [
+      0.000883,
+      "Receiving objects:  54% (1169/2163), 1.19 MiB | 2.34 MiB/s   \r"
+    ],
+    [
+      0.001937,
+      "Receiving objects:  55% (1190/2163), 1.19 MiB | 2.34 MiB/s   \r"
+    ],
+    [
+      0.001850,
+      "Receiving objects:  56% (1212/2163), 1.19 MiB | 2.34 MiB/s   \r"
+    ],
+    [
+      0.022021,
+      "Receiving objects:  57% (1233/2163), 1.19 MiB | 2.34 MiB/s   \r"
+    ],
+    [
+      0.001370,
+      "Receiving objects:  58% (1255/2163), 1.19 MiB | 2.34 MiB/s   \r"
+    ],
+    [
+      0.010745,
+      "Receiving objects:  59% (1277/2163), 1.19 MiB | 2.34 MiB/s   \r"
+    ],
+    [
+      0.000579,
+      "Receiving objects:  60% (1298/2163), 1.19 MiB | 2.34 MiB/s   \r"
+    ],
+    [
+      0.000388,
+      "Receiving objects:  61% (1320/2163), 1.19 MiB | 2.34 MiB/s   \r"
+    ],
+    [
+      0.000571,
+      "Receiving objects:  62% (1342/2163), 1.19 MiB | 2.34 MiB/s   \r"
+    ],
+    [
+      0.000471,
+      "Receiving objects:  63% (1363/2163), 1.19 MiB | 2.34 MiB/s   \r"
+    ],
+    [
+      0.000387,
+      "Receiving objects:  64% (1385/2163), 1.19 MiB | 2.34 MiB/s   \r"
+    ],
+    [
+      0.000349,
+      "Receiving objects:  65% (1406/2163), 1.19 MiB | 2.34 MiB/s   \r"
+    ],
+    [
+      0.010800,
+      "Receiving objects:  66% (1428/2163), 1.19 MiB | 2.34 MiB/s   \r"
+    ],
+    [
+      0.000969,
+      "Receiving objects:  67% (1450/2163), 1.19 MiB | 2.34 MiB/s   \r"
+    ],
+    [
+      0.001006,
+      "Receiving objects:  68% (1471/2163), 1.19 MiB | 2.34 MiB/s   \r"
+    ],
+    [
+      0.019531,
+      "Receiving objects:  69% (1493/2163), 1.19 MiB | 2.34 MiB/s   \r"
+    ],
+    [
+      0.002373,
+      "Receiving objects:  70% (1515/2163), 1.19 MiB | 2.34 MiB/s   \r"
+    ],
+    [
+      0.013840,
+      "Receiving objects:  71% (1536/2163), 1.19 MiB | 2.34 MiB/s   \r"
+    ],
+    [
+      0.029234,
+      "Receiving objects:  72% (1558/2163), 1.19 MiB | 2.34 MiB/s   \r"
+    ],
+    [
+      0.013800,
+      "Receiving objects:  73% (1579/2163), 1.19 MiB | 2.34 MiB/s   \r"
+    ],
+    [
+      0.000354,
+      "Receiving objects:  74% (1601/2163), 1.19 MiB | 2.34 MiB/s   \r"
+    ],
+    [
+      0.000781,
+      "Receiving objects:  75% (1623/2163), 1.19 MiB | 2.34 MiB/s   \r"
+    ],
+    [
+      0.000792,
+      "Receiving objects:  76% (1644/2163), 1.19 MiB | 2.34 MiB/s   \r"
+    ],
+    [
+      0.003512,
+      "Receiving objects:  77% (1666/2163), 1.19 MiB | 2.34 MiB/s   \r"
+    ],
+    [
+      0.000395,
+      "Receiving objects:  78% (1688/2163), 1.19 MiB | 2.34 MiB/s   \r"
+    ],
+    [
+      0.000138,
+      "Receiving objects:  79% (1709/2163), 1.19 MiB | 2.34 MiB/s   \r"
+    ],
+    [
+      0.010566,
+      "Receiving objects:  80% (1731/2163), 1.19 MiB | 2.34 MiB/s   \r"
+    ],
+    [
+      0.007715,
+      "Receiving objects:  81% (1753/2163), 1.19 MiB | 2.34 MiB/s   \r"
+    ],
+    [
+      0.049015,
+      "Receiving objects:  82% (1774/2163), 1.19 MiB | 2.34 MiB/s   \r"
+    ],
+    [
+      0.011539,
+      "Receiving objects:  83% (1796/2163), 1.19 MiB | 2.34 MiB/s   \r"
+    ],
+    [
+      0.000355,
+      "Receiving objects:  84% (1817/2163), 1.19 MiB | 2.34 MiB/s   \r"
+    ],
+    [
+      0.000550,
+      "Receiving objects:  85% (1839/2163), 1.19 MiB | 2.34 MiB/s   \r"
+    ],
+    [
+      0.174727,
+      "Receiving objects:  86% (1861/2163), 1.19 MiB | 2.34 MiB/s   \r"
+    ],
+    [
+      0.000983,
+      "Receiving objects:  87% (1882/2163), 1.19 MiB | 2.34 MiB/s   \r"
+    ],
+    [
+      0.000367,
+      "Receiving objects:  88% (1904/2163), 1.19 MiB | 2.34 MiB/s   \r"
+    ],
+    [
+      0.000689,
+      "Receiving objects:  89% (1926/2163), 1.19 MiB | 2.34 MiB/s   \r"
+    ],
+    [
+      0.000458,
+      "Receiving objects:  90% (1947/2163), 1.19 MiB | 2.34 MiB/s   \r"
+    ],
+    [
+      0.020598,
+      "Receiving objects:  90% (1966/2163), 1.19 MiB | 2.34 MiB/s   \r"
+    ],
+    [
+      0.000042,
+      "Receiving objects:  91% (1969/2163), 1.19 MiB | 2.34 MiB/s   \r"
+    ],
+    [
+      0.000281,
+      "Receiving objects:  92% (1990/2163), 1.19 MiB | 2.34 MiB/s   \r"
+    ],
+    [
+      0.000871,
+      "Receiving objects:  93% (2012/2163), 1.19 MiB | 2.34 MiB/s   \r"
+    ],
+    [
+      0.000255,
+      "Receiving objects:  94% (2034/2163), 1.19 MiB | 2.34 MiB/s   \r"
+    ],
+    [
+      0.014791,
+      "Receiving objects:  95% (2055/2163), 3.04 MiB | 2.97 MiB/s   \r"
+    ],
+    [
+      0.000341,
+      "Receiving objects:  96% (2077/2163), 3.04 MiB | 2.97 MiB/s   \r"
+    ],
+    [
+      0.000411,
+      "Receiving objects:  97% (2099/2163), 3.04 MiB | 2.97 MiB/s   \r"
+    ],
+    [
+      0.000906,
+      "Receiving objects:  98% (2120/2163), 3.04 MiB | 2.97 MiB/s   \r"
+    ],
+    [
+      0.000288,
+      "remote: Total 2163 (delta 163), reused 1360 (delta 77), pack-reused 0\u001b[K\r\n"
+    ],
+    [
+      0.000088,
+      "Receiving objects:  99% (2142/2163), 3.04 MiB | 2.97 MiB/s   \r"
+    ],
+    [
+      0.000339,
+      "Receiving objects: 100% (2163/2163), 3.04 MiB | 2.97 MiB/s   \rReceiving objects: 100% (2163/2163), 3.10 MiB | 2.97 MiB/s, done.\r\n"
+    ],
+    [
+      0.001464,
+      "Resolving deltas:   0% (0/163)   \r"
+    ],
+    [
+      0.000665,
+      "Resolving deltas:   1% (2/163)   \r"
+    ],
+    [
+      0.000098,
+      "Resolving deltas:   2% (4/163)   \r"
+    ],
+    [
+      0.000022,
+      "Resolving deltas:   3% (5/163)   \r"
+    ],
+    [
+      0.000049,
+      "Resolving deltas:   4% (7/163)   \r"
+    ],
+    [
+      0.000031,
+      "Resolving deltas:   5% (9/163)   \r"
+    ],
+    [
+      0.000031,
+      "Resolving deltas:   6% (11/163)   \r"
+    ],
+    [
+      0.000247,
+      "Resolving deltas:   7% (12/163)   \r"
+    ],
+    [
+      0.000783,
+      "Resolving deltas:   8% (14/163)   \r"
+    ],
+    [
+      0.000026,
+      "Resolving deltas:   9% (15/163)   \r"
+    ],
+    [
+      0.000346,
+      "Resolving deltas:  10% (17/163)   \r"
+    ],
+    [
+      0.000034,
+      "Resolving deltas:  11% (18/163)   \r"
+    ],
+    [
+      0.000214,
+      "Resolving deltas:  17% (29/163)   \r"
+    ],
+    [
+      0.000021,
+      "Resolving deltas:  18% (30/163)   \r"
+    ],
+    [
+      0.000029,
+      "Resolving deltas:  19% (31/163)   \r"
+    ],
+    [
+      0.000141,
+      "Resolving deltas:  20% (33/163)   \r"
+    ],
+    [
+      0.000033,
+      "Resolving deltas:  21% (35/163)   \r"
+    ],
+    [
+      0.000036,
+      "Resolving deltas:  22% (36/163)   \r"
+    ],
+    [
+      0.000030,
+      "Resolving deltas:  23% (39/163)   \r"
+    ],
+    [
+      0.000063,
+      "Resolving deltas:  25% (42/163)   \r"
+    ],
+    [
+      0.000091,
+      "Resolving deltas:  26% (43/163)   \r"
+    ],
+    [
+      0.000032,
+      "Resolving deltas:  27% (45/163)   \r"
+    ],
+    [
+      0.000487,
+      "Resolving deltas:  28% (46/163)   \r"
+    ],
+    [
+      0.000212,
+      "Resolving deltas:  29% (48/163)   \r"
+    ],
+    [
+      0.000004,
+      "Resolving deltas:  30% (49/163)   \r"
+    ],
+    [
+      0.000038,
+      "Resolving deltas:  31% (51/163)   \r"
+    ],
+    [
+      0.000048,
+      "Resolving deltas:  34% (56/163)   \r"
+    ],
+    [
+      0.000043,
+      "Resolving deltas:  35% (58/163)   \r"
+    ],
+    [
+      0.000022,
+      "Resolving deltas:  36% (60/163)   \r"
+    ],
+    [
+      0.000033,
+      "Resolving deltas:  37% (61/163)   \r"
+    ],
+    [
+      0.000016,
+      "Resolving deltas:  38% (62/163)   \r"
+    ],
+    [
+      0.000253,
+      "Resolving deltas:  39% (64/163)   \r"
+    ],
+    [
+      0.000120,
+      "Resolving deltas:  41% (68/163)   \r"
+    ],
+    [
+      0.000017,
+      "Resolving deltas:  42% (69/163)   \r"
+    ],
+    [
+      0.000133,
+      "Resolving deltas:  43% (71/163)   \rResolving deltas:  44% (72/163)   \r"
+    ],
+    [
+      0.000012,
+      "Resolving deltas:  45% (74/163)   \r"
+    ],
+    [
+      0.000017,
+      "Resolving deltas:  46% (75/163)   \r"
+    ],
+    [
+      0.000023,
+      "Resolving deltas:  47% (77/163)   \r"
+    ],
+    [
+      0.000228,
+      "Resolving deltas:  48% (79/163)   \r"
+    ],
+    [
+      0.000005,
+      "Resolving deltas:  49% (80/163)   \r"
+    ],
+    [
+      0.000094,
+      "Resolving deltas:  50% (83/163)   \r"
+    ],
+    [
+      0.000004,
+      "Resolving deltas:  51% (84/163)   \r"
+    ],
+    [
+      0.000066,
+      "Resolving deltas:  52% (86/163)   \r"
+    ],
+    [
+      0.000015,
+      "Resolving deltas:  53% (87/163)   \r"
+    ],
+    [
+      0.000064,
+      "Resolving deltas:  55% (90/163)   \r"
+    ],
+    [
+      0.000031,
+      "Resolving deltas:  56% (92/163)   \r"
+    ],
+    [
+      0.000023,
+      "Resolving deltas:  57% (93/163)   \r"
+    ],
+    [
+      0.000050,
+      "Resolving deltas:  58% (95/163)   \r"
+    ],
+    [
+      0.000090,
+      "Resolving deltas:  59% (97/163)   \r"
+    ],
+    [
+      0.000020,
+      "Resolving deltas:  60% (98/163)   \r"
+    ],
+    [
+      0.000027,
+      "Resolving deltas:  61% (100/163)   \r"
+    ],
+    [
+      0.000037,
+      "Resolving deltas:  62% (102/163)   \r"
+    ],
+    [
+      0.000013,
+      "Resolving deltas:  63% (103/163)   \r"
+    ],
+    [
+      0.000025,
+      "Resolving deltas:  64% (105/163)   \r"
+    ],
+    [
+      0.000004,
+      "Resolving deltas:  65% (106/163)   \r"
+    ],
+    [
+      0.000025,
+      "Resolving deltas:  66% (108/163)   \r"
+    ],
+    [
+      0.000048,
+      "Resolving deltas:  67% (110/163)   \r"
+    ],
+    [
+      0.000031,
+      "Resolving deltas:  68% (112/163)   \r"
+    ],
+    [
+      0.000082,
+      "Resolving deltas:  75% (123/163)   \r"
+    ],
+    [
+      0.000003,
+      "Resolving deltas:  76% (124/163)   \r"
+    ],
+    [
+      0.000025,
+      "Resolving deltas:  77% (126/163)   \r"
+    ],
+    [
+      0.000006,
+      "Resolving deltas:  78% (128/163)   \r"
+    ],
+    [
+      0.000014,
+      "Resolving deltas:  79% (129/163)   \r"
+    ],
+    [
+      0.000033,
+      "Resolving deltas:  80% (131/163)   \r"
+    ],
+    [
+      0.000143,
+      "Resolving deltas:  82% (134/163)   \r"
+    ],
+    [
+      0.000011,
+      "Resolving deltas:  84% (137/163)   \r"
+    ],
+    [
+      0.000047,
+      "Resolving deltas:  85% (140/163)   \r"
+    ],
+    [
+      0.000019,
+      "Resolving deltas:  87% (142/163)   \r"
+    ],
+    [
+      0.000059,
+      "Resolving deltas:  88% (144/163)   \r"
+    ],
+    [
+      0.000036,
+      "Resolving deltas:  89% (146/163)   \r"
+    ],
+    [
+      0.000071,
+      "Resolving deltas:  90% (148/163)   \r"
+    ],
+    [
+      0.000024,
+      "Resolving deltas:  91% (149/163)   \r"
+    ],
+    [
+      0.000019,
+      "Resolving deltas:  92% (150/163)   \r"
+    ],
+    [
+      0.000067,
+      "Resolving deltas:  93% (152/163)   \r"
+    ],
+    [
+      0.000131,
+      "Resolving deltas:  94% (154/163)   \r"
+    ],
+    [
+      0.000017,
+      "Resolving deltas:  95% (155/163)   \r"
+    ],
+    [
+      0.000032,
+      "Resolving deltas:  96% (157/163)   \r"
+    ],
+    [
+      0.000199,
+      "Resolving deltas:  97% (159/163)   \r"
+    ],
+    [
+      0.000020,
+      "Resolving deltas:  98% (160/163)   \r"
+    ],
+    [
+      0.000114,
+      "Resolving deltas:  99% (162/163)   \r"
+    ],
+    [
+      0.000033,
+      "Resolving deltas: 100% (163/163)   \r"
+    ],
+    [
+      0.000063,
+      "Resolving deltas: 100% (163/163), done.\r\n"
+    ],
+    [
+      0.005785,
+      "Checking connectivity... "
+    ],
+    [
+      0.013234,
+      "done.\r\n"
+    ],
+    [
+      0.229136,
+      "\u001b[33mConfiguring digitalocean provider...\u001b[0m\r\n"
+    ],
+    [
+      0.024880,
+      "\u001b[32m-\u003e What DigitalOcean token should I use? DO_TOKEN (no default)\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "You chose: ******\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[32mSuccessfully logged into DigitalOcean!\u001b[0m\r\n"
+    ],
+    [
+      0.038870,
+      "\u001b[32m-\u003e What private SSH key should I use when creating DigitalOcean droplets? SSH_PRIVATE_KEY_FILE [ /Users/sethgoings/.ssh/deis-ci.pem ]\u001b[0m\r\n"
+    ],
+    [
+      0.002529,
+      "1) /Users/sethgoings/.ssh/deis-ci.pem\r\n"
+    ],
+    [
+      0.002269,
+      "2) /Users/sethgoings/.ssh/deis-test\r\n"
+    ],
+    [
+      0.002269,
+      "3) /Users/sethgoings/.ssh/deiskey\r\n"
+    ],
+    [
+      0.002181,
+      "4) /Users/sethgoings/.ssh/id_rsa\r\n"
+    ],
+    [
+      0.002501,
+      "5) /Users/sethgoings/.ssh/sgoings-ey.pem\r\n"
+    ],
+    [
+      0.000015,
+      "#? "
+    ],
+    [
+      1.000000,
+      "2"
+    ],
+    [
+      0.312370,
+      "\r\n"
+    ],
+    [
+      0.018515,
+      "\u001b[33mYou chose: 2) /Users/sethgoings/.ssh/deis-test\u001b[0m\r\n"
+    ],
+    [
+      0.508607,
+      "\u001b[32mThis SSH key is correctly configured for use with DigitalOcean!\u001b[0m\r\n"
+    ],
+    [
+      0.004364,
+      "DO_SSH_FINGERPRINT set to 02:81:cf:41:d0:7e:c2:4f:af:62:02:96:f2:11:59:b9\r\n"
+    ],
+    [
+      0.060012,
+      "\u001b[33mDEIS_TEST_SSH_KEY already set to /Users/sethgoings/.ssh/deis-test. Skipping prompt.\u001b[0m\r\n"
+    ],
+    [
+      0.026078,
+      "\u001b[33mDEIS_TEST_AUTH_KEY_FULL already set to /Users/sethgoings/.ssh/deis-test. Skipping prompt.\u001b[0m\r\n"
+    ],
+    [
+      0.038920,
+      "\u001b[33mDEIS_TEST_DOMAIN already set to xip.io. Skipping prompt.\u001b[0m\r\n"
+    ],
+    [
+      0.022054,
+      "\r\n"
+    ],
+    [
+      0.011711,
+      "\u001b[32mRigger has been configured on this system using /Users/sethgoings/.rigger/22712b4077/vars\u001b[0m\r\n"
+    ],
+    [
+      0.003726,
+      "To use the configuration outside of rigger, you can run:\r\n\r\n  source \"/Users/sethgoings/.rigger/22712b4077/vars\"\r\n\r\n"
+    ],
+    [
+      0.115868,
+      "\u001b[33mInstalling dependencies for digitalocean...\u001b[0m\r\n"
+    ],
+    [
+      0.030959,
+      "Terraform already downloaded into /Users/sethgoings/.rigger/terraform.\r\n"
+    ],
+    [
+      0.014930,
+      "Terraform in /Users/sethgoings/.rigger/terraform added to PATH.\r\n"
+    ],
+    [
+      0.019426,
+      "\u001b[32mInstalling deis-cli (1.11.2) at /Users/sethgoings/.rigger/bin/deis...\u001b[0m\r\n"
+    ],
+    [
+      0.800291,
+      "  % Total    % Received % Xferd "
+    ],
+    [
+      0.000009,
+      " Average Speed   Time    Time     Time  Current\r\n"
+    ],
+    [
+      0.000002,
+      "    "
+    ],
+    [
+      0.000002,
+      "   "
+    ],
+    [
+      0.000002,
+      "   "
+    ],
+    [
+      0.000002,
+      " "
+    ],
+    [
+      0.000002,
+      "  "
+    ],
+    [
+      0.000001,
+      "  "
+    ],
+    [
+      0.000002,
+      "   "
+    ],
+    [
+      0.000002,
+      "  "
+    ],
+    [
+      0.000002,
+      "   "
+    ],
+    [
+      0.000002,
+      "  "
+    ],
+    [
+      0.000002,
+      "   "
+    ],
+    [
+      0.000002,
+      "  "
+    ],
+    [
+      0.000002,
+      "   D"
+    ],
+    [
+      0.000002,
+      "loa"
+    ],
+    [
+      0.000002,
+      "d  U"
+    ],
+    [
+      0.000001,
+      "plo"
+    ],
+    [
+      0.000001,
+      "ad "
+    ],
+    [
+      0.000001,
+      "  "
+    ],
+    [
+      0.000002,
+      "Tot"
+    ],
+    [
+      0.000002,
+      "al "
+    ],
+    [
+      0.000002,
+      "  S"
+    ],
+    [
+      0.000002,
+      "pent"
+    ],
+    [
+      0.000001,
+      "   "
+    ],
+    [
+      0.000002,
+      " Le"
+    ],
+    [
+      0.000001,
+      "ft"
+    ],
+    [
+      0.000002,
+      "  S"
+    ],
+    [
+      0.000001,
+      "pe"
+    ],
+    [
+      0.000002,
+      "ed\r\n"
+    ],
+    [
+      0.000012,
+      "\r  0     "
+    ],
+    [
+      0.000003,
+      "0    0     0  "
+    ],
+    [
+      0.000002,
+      "  0"
+    ],
+    [
+      0.000002,
+      "  "
+    ],
+    [
+      0.000001,
+      "   "
+    ],
+    [
+      0.000002,
+      "0 "
+    ],
+    [
+      0.000001,
+      "   "
+    ],
+    [
+      0.000001,
+      "  "
+    ],
+    [
+      0.000002,
+      "0  "
+    ],
+    [
+      0.000001,
+      "  "
+    ],
+    [
+      0.000002,
+      "  "
+    ],
+    [
+      0.000001,
+      "0 -"
+    ],
+    [
+      0.000001,
+      "-:"
+    ],
+    [
+      0.000002,
+      "--:"
+    ],
+    [
+      0.000001,
+      "--"
+    ],
+    [
+      0.000002,
+      " --"
+    ],
+    [
+      0.000002,
+      ":--"
+    ],
+    [
+      0.000001,
+      ":-"
+    ],
+    [
+      0.000002,
+      "- -"
+    ],
+    [
+      0.000001,
+      "-:"
+    ],
+    [
+      0.000002,
+      "--:"
+    ],
+    [
+      0.000002,
+      "--"
+    ],
+    [
+      0.000002,
+      "   "
+    ],
+    [
+      0.000001,
+      "  "
+    ],
+    [
+      0.000001,
+      "0"
+    ],
+    [
+      0.898821,
+      "\r 18 2358k"
+    ],
+    [
+      0.000010,
+      "   18  441k    0     0   491"
+    ],
+    [
+      0.000004,
+      "k   "
+    ],
+    [
+      0.000003,
+      "  "
+    ],
+    [
+      0.000003,
+      " 0 "
+    ],
+    [
+      0.000003,
+      " 0"
+    ],
+    [
+      0.000003,
+      ":00"
+    ],
+    [
+      0.000003,
+      ":0"
+    ],
+    [
+      0.000004,
+      "4 -"
+    ],
+    [
+      0.000003,
+      "-:"
+    ],
+    [
+      0.000003,
+      "--:"
+    ],
+    [
+      0.000003,
+      "--"
+    ],
+    [
+      0.000004,
+      "  0"
+    ],
+    [
+      0.000003,
+      ":0"
+    ],
+    [
+      0.000003,
+      "0:0"
+    ],
+    [
+      0.000003,
+      "4 "
+    ],
+    [
+      0.000003,
+      " 4"
+    ],
+    [
+      0.000003,
+      "91k"
+    ],
+    [
+      0.985686,
+      "\r 83 "
+    ],
+    [
+      0.000007,
+      "2358k   83 1971k    0     0  1046"
+    ],
+    [
+      0.000004,
+      "k   "
+    ],
+    [
+      0.000003,
+      "   0"
+    ],
+    [
+      0.000003,
+      "  0"
+    ],
+    [
+      0.000003,
+      ":00:"
+    ],
+    [
+      0.000003,
+      "02 "
+    ],
+    [
+      0.000003,
+      " 0:0"
+    ],
+    [
+      0.000003,
+      "0:01"
+    ],
+    [
+      0.000003,
+      "  0"
+    ],
+    [
+      0.000003,
+      ":00"
+    ],
+    [
+      0.000003,
+      ":01 "
+    ],
+    [
+      0.000003,
+      "104"
+    ],
+    [
+      0.000002,
+      "5k"
+    ],
+    [
+      0.201697,
+      "\r100 2358k  100 2358k  "
+    ],
+    [
+      0.000007,
+      "  0     0  1130k      0  0:00:02  0"
+    ],
+    [
+      0.000002,
+      ":00"
+    ],
+    [
+      0.000002,
+      ":02"
+    ],
+    [
+      0.000002,
+      " --"
+    ],
+    [
+      0.000002,
+      ":-"
+    ],
+    [
+      0.000002,
+      "-:-"
+    ],
+    [
+      0.000002,
+      "- "
+    ],
+    [
+      0.000002,
+      "113"
+    ],
+    [
+      0.000002,
+      "0k"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.015514,
+      "Verifying archive integrity..."
+    ],
+    [
+      0.030994,
+      " All good.\r\n"
+    ],
+    [
+      0.002831,
+      "Uncompressing Deis CLI"
+    ],
+    [
+      0.331238,
+      "     0% "
+    ],
+    [
+      0.006135,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000016,
+      "   43% "
+    ],
+    [
+      0.008098,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000005,
+      "   87% "
+    ],
+    [
+      0.003596,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000004,
+      " 100%  "
+    ],
+    [
+      0.026737,
+      "\r\n"
+    ],
+    [
+      0.000195,
+      "\r\ndeis is in the current directory. Please\r\n"
+    ],
+    [
+      0.000013,
+      "move deis to a directory in your search PATH.\r\n"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "See http://docs.deis.io/ for documentation.\r\n"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.013018,
+      "\u001b[32mLinking /Users/sethgoings/.rigger/bin/deis -\u003e /Users/sethgoings/.rigger/22712b4077/1.11.2/deis\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "  % Total    % Rec"
+    ],
+    [
+      0.000005,
+      "eived % Xferd  Average Speed   Time "
+    ],
+    [
+      0.000002,
+      "   "
+    ],
+    [
+      0.000002,
+      "Tim"
+    ],
+    [
+      0.000002,
+      "e  "
+    ],
+    [
+      0.000002,
+      "   "
+    ],
+    [
+      0.000002,
+      "Ti"
+    ],
+    [
+      0.000001,
+      "me "
+    ],
+    [
+      0.000001,
+      " C"
+    ],
+    [
+      0.000002,
+      "urr"
+    ],
+    [
+      0.000001,
+      "e"
+    ],
+    [
+      0.000002,
+      "nt"
+    ],
+    [
+      0.000001,
+      "\r\n "
+    ],
+    [
+      0.000001,
+      "  "
+    ],
+    [
+      0.000002,
+      "   "
+    ],
+    [
+      0.000001,
+      "  "
+    ],
+    [
+      0.000002,
+      "   "
+    ],
+    [
+      0.000002,
+      "  "
+    ],
+    [
+      0.000001,
+      "   "
+    ],
+    [
+      0.000002,
+      "   "
+    ],
+    [
+      0.000001,
+      "  "
+    ],
+    [
+      0.000002,
+      "   "
+    ],
+    [
+      0.000001,
+      "  "
+    ],
+    [
+      0.000002,
+      "   "
+    ],
+    [
+      0.000001,
+      "  "
+    ],
+    [
+      0.000002,
+      "  D"
+    ],
+    [
+      0.000001,
+      "lo"
+    ],
+    [
+      0.000002,
+      "ad "
+    ],
+    [
+      0.000001,
+      " U"
+    ],
+    [
+      0.000002,
+      "plo"
+    ],
+    [
+      0.000001,
+      "ad"
+    ],
+    [
+      0.000002,
+      "   "
+    ],
+    [
+      0.000001,
+      "To"
+    ],
+    [
+      0.000003,
+      "tal  "
+    ],
+    [
+      0.000002,
+      " Sp"
+    ],
+    [
+      0.000002,
+      "ent "
+    ],
+    [
+      0.000002,
+      "   "
+    ],
+    [
+      0.000002,
+      "Left"
+    ],
+    [
+      0.000002,
+      "  S"
+    ],
+    [
+      0.000002,
+      "peed"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "\r  0"
+    ],
+    [
+      0.000001,
+      "  "
+    ],
+    [
+      0.000002,
+      "   "
+    ],
+    [
+      0.000001,
+      "0 "
+    ],
+    [
+      0.000002,
+      "   "
+    ],
+    [
+      0.000001,
+      "0 "
+    ],
+    [
+      0.000001,
+      "  "
+    ],
+    [
+      0.000001,
+      "  0"
+    ],
+    [
+      0.000001,
+      "  "
+    ],
+    [
+      0.000001,
+      "  "
+    ],
+    [
+      0.000002,
+      "0  "
+    ],
+    [
+      0.000001,
+      "  "
+    ],
+    [
+      0.000002,
+      " 0 "
+    ],
+    [
+      0.000001,
+      "  "
+    ],
+    [
+      0.000001,
+      "  "
+    ],
+    [
+      0.000002,
+      " 0 "
+    ],
+    [
+      0.000001,
+      "  "
+    ],
+    [
+      0.000001,
+      "  "
+    ],
+    [
+      0.000002,
+      " 0 "
+    ],
+    [
+      0.000001,
+      "--"
+    ],
+    [
+      0.000001,
+      ":-"
+    ],
+    [
+      0.000001,
+      "-:-"
+    ],
+    [
+      0.000001,
+      "- "
+    ],
+    [
+      0.000002,
+      "--:"
+    ],
+    [
+      0.000001,
+      "--"
+    ],
+    [
+      0.000002,
+      ":--"
+    ],
+    [
+      0.000001,
+      " -"
+    ],
+    [
+      0.000001,
+      "-:"
+    ],
+    [
+      0.000002,
+      "--:"
+    ],
+    [
+      0.000001,
+      "--"
+    ],
+    [
+      0.000002,
+      "   "
+    ],
+    [
+      0.000001,
+      "  "
+    ],
+    [
+      0.000001,
+      "0"
+    ],
+    [
+      0.110898,
+      "\r  0 "
+    ],
+    [
+      0.000008,
+      "    0    0     0    0     "
+    ],
+    [
+      0.000004,
+      "0   "
+    ],
+    [
+      0.000003,
+      "  "
+    ],
+    [
+      0.000003,
+      " 0 "
+    ],
+    [
+      0.000003,
+      " "
+    ],
+    [
+      0.000016,
+      "    "
+    ],
+    [
+      0.000004,
+      "0 --:-"
+    ],
+    [
+      0.000003,
+      "-:"
+    ],
+    [
+      0.000003,
+      "-- "
+    ],
+    [
+      0.000003,
+      "--"
+    ],
+    [
+      0.000025,
+      ":--"
+    ],
+    [
+      0.000007,
+      ":-- --:--:--     0"
+    ],
+    [
+      0.951409,
+      "\r 14 346"
+    ],
+    [
+      0.000009,
+      "4k   14  492k    0     0   463k      0  0:00:07  "
+    ],
+    [
+      0.000004,
+      "0:"
+    ],
+    [
+      0.000003,
+      "00"
+    ],
+    [
+      0.000003,
+      ":01"
+    ],
+    [
+      0.000003,
+      " "
+    ],
+    [
+      0.000003,
+      " "
+    ],
+    [
+      0.000019,
+      "0:"
+    ],
+    [
+      0.000004,
+      "00:06  "
+    ],
+    [
+      0.000002,
+      "46"
+    ],
+    [
+      0.000002,
+      "3k"
+    ],
+    [
+      1.000000,
+      "\r 44 3464k   44 1529k   "
+    ],
+    [
+      0.000008,
+      " 0     0   741k      0"
+    ],
+    [
+      0.000021,
+      "  "
+    ],
+    [
+      0.000005,
+      "0:00:04  "
+    ],
+    [
+      0.000007,
+      "0:00:02"
+    ],
+    [
+      0.000002,
+      "  "
+    ],
+    [
+      0.000002,
+      "0:"
+    ],
+    [
+      0.000003,
+      "00"
+    ],
+    [
+      0.000090,
+      ":02  741k"
+    ],
+    [
+      0.821255,
+      "\r100 3464k  100 3464k    "
+    ],
+    [
+      0.000005,
+      "0     0  1200k      0  0:00:02  0:00:"
+    ],
+    [
+      0.000002,
+      "02 "
+    ],
+    [
+      0.000002,
+      "--:"
+    ],
+    [
+      0.000002,
+      "--"
+    ],
+    [
+      0.000002,
+      ":-"
+    ],
+    [
+      0.000002,
+      "- "
+    ],
+    [
+      0.000002,
+      "120"
+    ],
+    [
+      0.000002,
+      "0k"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.013812,
+      "Verifying archive integrity..."
+    ],
+    [
+      0.032305,
+      " All good.\r\n"
+    ],
+    [
+      0.002897,
+      "Uncompressing Deis Control Utility"
+    ],
+    [
+      0.524719,
+      "     0% "
+    ],
+    [
+      0.006409,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000005,
+      "   29% "
+    ],
+    [
+      0.007224,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000005,
+      "   59% "
+    ],
+    [
+      0.007357,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000014,
+      "   88% "
+    ],
+    [
+      0.003508,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000026,
+      " 100%  "
+    ],
+    [
+      0.025494,
+      "\r\n"
+    ],
+    [
+      0.307675,
+      "Refreshed deis-builder unit from v1.11.2\r\n"
+    ],
+    [
+      0.083467,
+      "Refreshed deis-builder decorator from v1.11.2\r\n"
+    ],
+    [
+      0.099867,
+      "Refreshed deis-controller unit from v1.11.2\r\n"
+    ],
+    [
+      0.101076,
+      "Refreshed deis-controller decorator from v1.11.2\r\n"
+    ],
+    [
+      0.086075,
+      "Refreshed deis-database unit from v1.11.2\r\n"
+    ],
+    [
+      0.082921,
+      "Refreshed deis-database decorator from v1.11.2\r\n"
+    ],
+    [
+      0.089236,
+      "Refreshed deis-logger unit from v1.11.2\r\n"
+    ],
+    [
+      0.091348,
+      "Refreshed deis-logger decorator from v1.11.2\r\n"
+    ],
+    [
+      0.085023,
+      "Refreshed deis-logspout unit from v1.11.2\r\n"
+    ],
+    [
+      0.102248,
+      "Refreshed deis-logspout decorator from v1.11.2\r\n"
+    ],
+    [
+      0.566475,
+      "Refreshed deis-publisher unit from v1.11.2\r\n"
+    ],
+    [
+      0.083795,
+      "Refreshed deis-publisher decorator from v1.11.2\r\n"
+    ],
+    [
+      0.092808,
+      "Refreshed deis-registry unit from v1.11.2\r\n"
+    ],
+    [
+      0.087825,
+      "Refreshed deis-registry decorator from v1.11.2\r\n"
+    ],
+    [
+      0.086713,
+      "Refreshed deis-router unit from v1.11.2\r\n"
+    ],
+    [
+      0.100550,
+      "Refreshed deis-router decorator from v1.11.2\r\n"
+    ],
+    [
+      0.096121,
+      "Refreshed deis-store-admin unit from v1.11.2\r\n"
+    ],
+    [
+      0.087375,
+      "Refreshed deis-store-admin decorator from v1.11.2\r\n"
+    ],
+    [
+      0.108305,
+      "Refreshed deis-store-daemon unit from v1.11.2\r\n"
+    ],
+    [
+      0.086103,
+      "Refreshed deis-store-daemon decorator from v1.11.2\r\n"
+    ],
+    [
+      0.081597,
+      "Refreshed deis-store-gateway unit from v1.11.2\r\n"
+    ],
+    [
+      0.083933,
+      "Refreshed deis-store-gateway decorator from v1.11.2\r\n"
+    ],
+    [
+      0.085932,
+      "Refreshed deis-store-metadata unit from v1.11.2\r\n"
+    ],
+    [
+      0.084999,
+      "Refreshed deis-store-metadata decorator from v1.11.2\r\n"
+    ],
+    [
+      0.085901,
+      "Refreshed deis-store-monitor unit from v1.11.2\r\n"
+    ],
+    [
+      0.107210,
+      "Refreshed deis-store-monitor decorator from v1.11.2\r\n"
+    ],
+    [
+      0.085063,
+      "Refreshed deis-store-volume unit from v1.11.2\r\n"
+    ],
+    [
+      0.083620,
+      "Refreshed deis-store-volume decorator from v1.11.2\r\n"
+    ],
+    [
+      0.083704,
+      "Refreshed deis-swarm-manager unit from v1.11.2\r\n"
+    ],
+    [
+      0.084416,
+      "Refreshed deis-swarm-manager decorator from v1.11.2\r\n"
+    ],
+    [
+      0.081200,
+      "Refreshed deis-swarm-node unit from v1.11.2\r\n"
+    ],
+    [
+      0.099553,
+      "Refreshed deis-swarm-node decorator from v1.11.2\r\n"
+    ],
+    [
+      0.102449,
+      "Refreshed deis-mesos-marathon unit from v1.11.2\r\n"
+    ],
+    [
+      0.089868,
+      "Refreshed deis-mesos-marathon decorator from v1.11.2\r\n"
+    ],
+    [
+      0.091854,
+      "Refreshed deis-mesos-master unit from v1.11.2\r\n"
+    ],
+    [
+      0.086749,
+      "Refreshed deis-mesos-master decorator from v1.11.2\r\n"
+    ],
+    [
+      0.137013,
+      "Refreshed deis-mesos-slave unit from v1.11.2\r\n"
+    ],
+    [
+      0.100398,
+      "Refreshed deis-mesos-slave decorator from v1.11.2\r\n"
+    ],
+    [
+      0.096061,
+      "Refreshed deis-zookeeper unit from v1.11.2\r\n"
+    ],
+    [
+      0.083838,
+      "Refreshed deis-zookeeper decorator from v1.11.2\r\n"
+    ],
+    [
+      0.097020,
+      "Refreshed deis-kube-apiserver unit from v1.11.2\r\n"
+    ],
+    [
+      0.103723,
+      "Refreshed deis-kube-apiserver decorator from v1.11.2\r\n"
+    ],
+    [
+      0.084422,
+      "Refreshed deis-kube-controller-manager unit from v1.11.2\r\n"
+    ],
+    [
+      0.083699,
+      "Refreshed deis-kube-controller-manager decorator from v1.11.2\r\n"
+    ],
+    [
+      0.086196,
+      "Refreshed deis-kube-kubelet unit from v1.11.2\r\n"
+    ],
+    [
+      0.090752,
+      "Refreshed deis-kube-kubelet decorator from v1.11.2\r\n"
+    ],
+    [
+      0.087578,
+      "Refreshed deis-kube-proxy unit from v1.11.2\r\n"
+    ],
+    [
+      0.229437,
+      "Refreshed deis-kube-proxy decorator from v1.11.2\r\n"
+    ],
+    [
+      0.084486,
+      "Refreshed deis-kube-scheduler unit from v1.11.2\r\n"
+    ],
+    [
+      0.085037,
+      "Refreshed deis-kube-scheduler decorator from v1.11.2\r\n"
+    ],
+    [
+      0.001834,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "deisctl is in the current directory and unit files are\r\n"
+    ],
+    [
+      0.000013,
+      "in /Users/sethgoings/.deis/units. Please move deisctl to a\r\n"
+    ],
+    [
+      0.000037,
+      "directory in your search PATH.\r\n\r\nSee http://docs.deis.io/ for documentation.\r\n\r\n"
+    ],
+    [
+      0.015483,
+      "\u001b[32mMoving unit files to /Users/sethgoings/.rigger/units\u001b[0m\r\n"
+    ],
+    [
+      0.017408,
+      "\u001b[32mLinking /Users/sethgoings/.rigger/bin/deisctl -\u003e /Users/sethgoings/.rigger/22712b4077/1.11.2/deisctl\u001b[0m\r\n"
+    ],
+    [
+      0.016139,
+      "\u001b[32mLinking /Users/sethgoings/.rigger/units -\u003e /Users/sethgoings/.rigger/22712b4077/1.11.2/units\u001b[0m\r\n"
+    ],
+    [
+      0.322756,
+      "Wrote https://discovery.etcd.io/f7f8d253c39621033f04f200c845fc90 to contrib/coreos/user-data\r\n"
+    ],
+    [
+      0.012224,
+      "\u001b[32mStarting ssh-agent and adding keys...\u001b[0m\r\n"
+    ],
+    [
+      0.038807,
+      "\u001b[33mProvisioning infrastructure on digitalocean...\u001b[0m\r\n"
+    ],
+    [
+      0.268485,
+      "\u001b[0m\u001b[1mdigitalocean_droplet.deis.2: Creating...\u001b[21m\r\n"
+    ],
+    [
+      0.000006,
+      "  backups:              \"\" =\u003e \"0\"\r\n"
+    ],
+    [
+      0.000083,
+      "  image:                \"\" =\u003e \"coreos-stable\"\r\n"
+    ],
+    [
+      0.000032,
+      "  ipv4_address:         \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.000059,
+      "  ipv4_address_private: \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.000032,
+      "  ipv6:                 \"\" =\u003e \"0\"\r\n"
+    ],
+    [
+      0.000047,
+      "  ipv6_address:         \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.000155,
+      "  ipv6_address_private: \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.000056,
+      "  locked:               \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.000059,
+      "  name:                 \"\" =\u003e \"deis-22712b4077-3\"\r\n"
+    ],
+    [
+      0.000046,
+      "  private_networking:   \"\" =\u003e \"1\"\r\n"
+    ],
+    [
+      0.000047,
+      "  region:               \"\" =\u003e \"sfo1\"\r\n"
+    ],
+    [
+      0.000099,
+      "  size:                 \"\" =\u003e \"8gb\"\r\n"
+    ],
+    [
+      0.000004,
+      "  ssh_keys.#:           \"\" =\u003e \"1\"\r\n"
+    ],
+    [
+      0.000085,
+      "  ssh_keys.0:           \"\" =\u003e \"02:81:cf:41:d0:7e:c2:4f:af:62:02:96:f2:11:59:b9\"\r\n"
+    ],
+    [
+      0.000021,
+      "  status:               \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.016572,
+      "\u001b[0m\u001b[1mdigitalocean_droplet.deis.0: Creating...\u001b[21m\r\n"
+    ],
+    [
+      0.000006,
+      "  backups:              \"\" =\u003e \"0\"\r\n"
+    ],
+    [
+      0.000063,
+      "  image:                \"\" =\u003e \"coreos-stable\"\r\n"
+    ],
+    [
+      0.000022,
+      "  ipv4_address:         \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.000039,
+      "  ipv4_address_private: \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.000033,
+      "  ipv6:                 \"\" =\u003e \"0\"\r\n"
+    ],
+    [
+      0.000025,
+      "  ipv6_address:         \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.000052,
+      "  ipv6_address_private: \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.000045,
+      "  locked:               \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.000031,
+      "  name:                 \"\" =\u003e \"deis-22712b4077-1\"\r\n"
+    ],
+    [
+      0.000031,
+      "  private_networking:   \"\" =\u003e \"1\"\r\n"
+    ],
+    [
+      0.000080,
+      "  region:               \"\" =\u003e \"sfo1\"\r\n"
+    ],
+    [
+      0.000023,
+      "  size:                 \"\" =\u003e \"8gb\"\r\n"
+    ],
+    [
+      0.000048,
+      "  ssh_keys.#:           \"\" =\u003e \"1\"\r\n"
+    ],
+    [
+      0.000052,
+      "  ssh_keys.0:           \"\" =\u003e \"02:81:cf:41:d0:7e:c2:4f:af:62:02:96:f2:11:59:b9\"\r\n"
+    ],
+    [
+      0.000035,
+      "  status:               \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.011175,
+      "\u001b[0m\u001b[1mdigitalocean_droplet.deis.1: Creating...\u001b[21m\r\n"
+    ],
+    [
+      0.000005,
+      "  backups:              \"\" =\u003e \"0\"\r\n"
+    ],
+    [
+      0.000038,
+      "  image:                \"\" =\u003e \"coreos-stable\"\r\n"
+    ],
+    [
+      0.000065,
+      "  ipv4_address:         \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.000040,
+      "  ipv4_address_private: \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.000036,
+      "  ipv6:                 \"\" =\u003e \"0\"\r\n"
+    ],
+    [
+      0.000057,
+      "  ipv6_address:         \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.000049,
+      "  ipv6_address_private: \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.000035,
+      "  locked:               \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.000084,
+      "  name:                 \"\" =\u003e \"deis-22712b4077-2\"\r\n"
+    ],
+    [
+      0.000047,
+      "  private_networking:   \"\" =\u003e \"1\"\r\n"
+    ],
+    [
+      0.000036,
+      "  region:               \"\" =\u003e \"sfo1\"\r\n"
+    ],
+    [
+      0.000053,
+      "  size:                 \"\" =\u003e \"8gb\"\r\n"
+    ],
+    [
+      0.000030,
+      "  ssh_keys.#:           \"\" =\u003e \"1\"\r\n"
+    ],
+    [
+      0.000065,
+      "  ssh_keys.0:           \"\" =\u003e \"02:81:cf:41:d0:7e:c2:4f:af:62:02:96:f2:11:59:b9\"\r\n"
+    ],
+    [
+      0.000045,
+      "  status:               \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[0m\u001b[1mdigitalocean_droplet.deis.2: Creation complete\u001b[21m\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[0m\u001b[1mdigitalocean_droplet.deis.0: Creation complete\u001b[21m\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[0m\u001b[1mdigitalocean_droplet.deis.1: Creation complete\u001b[21m\u001b[0m\r\n"
+    ],
+    [
+      0.011137,
+      "\u001b[0m\u001b[1m\u001b[32m\r\n"
+    ],
+    [
+      0.000152,
+      "Apply complete! Resources: 3 added, 0 changed, 0 destroyed.\u001b[0m\r\n\u001b[0m\r\n"
+    ],
+    [
+      0.000103,
+      "The state of your infrastructure has been saved to the path\r\n"
+    ],
+    [
+      0.000075,
+      "below. This state is required to modify and destroy your\r\n"
+    ],
+    [
+      0.000066,
+      "infrastructure, so keep it safe. To inspect the complete state\r\n"
+    ],
+    [
+      0.000047,
+      "use the `terraform show` command.\r\n\r\n"
+    ],
+    [
+      0.000103,
+      "State path: terraform.tfstate\u001b[0m\r\n"
+    ],
+    [
+      0.000025,
+      "\u001b[0m\u001b[1m\u001b[32m\r\n"
+    ],
+    [
+      0.000028,
+      "Outputs:\r\n\r\n"
+    ],
+    [
+      0.000030,
+      "  ip  = 107.170.250.42\r\n"
+    ],
+    [
+      0.000231,
+      "  msg = Your hosts are ready to go! Continue following the documentation to install and start Deis. Your hosts are: 107.170.250.42, 107.170.253.64, 159.203.248.138\u001b[0m\r\n"
+    ],
+    [
+      0.142827,
+      "\u001b[32mStarting ssh-agent and adding keys...\u001b[0m\r\n"
+    ],
+    [
+      0.034231,
+      "\u001b[32mUsing released version 1.11.2.\u001b[0m\r\n"
+    ],
+    [
+      0.011304,
+      "\u001b[32mWaiting for etcd/fleet at 107.170.250.42\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[32metcd available after 6 seconds\u001b[0m\r\n"
+    ],
+    [
+      0.011440,
+      "\u001b[33mdeisctl config platform set domain=107.170.250.42.xip.io\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "107.170.250.42.xip.io\r\n"
+    ],
+    [
+      0.014813,
+      "\u001b[33mdeisctl config platform set sshPrivateKey=/Users/sethgoings/.ssh/deis-test\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "LS0tLS1CRUdJTiBSU0EgUFJJVkFURSBLRVktLS0tLQpNSUlFb3dJQkFBS0NBUUVBcThiT1BmZTl4N0xZRU9aYUxZZ3ZBZkxIaEZBMy94QTRSbURqcG5SZGxtZVlQSlVjClEyV0wza1dZWHlzRWQvUVlZYk9pZnVSTHpvUTdvOFo2aXUwZEJVR2IxRjFVMEtGcDRMTER4MURjekZPSEw3WVgKM0FneG1PYkVLekpYbnBDa2pJSS9zbDZuTWlnMjJaKzA3Ym0vYUxsTEFlVXV0eEJsMXJETlBWc0dsMHh4bSthUQpwN3ZXOSsvU2c2bXhHRm13SGJOTW1wMzNoN2xmay9POGRpV1pLUTlvWWlDYWY0MmxScTJmSDR3RGcxZll5WXJ6ClFaUnNSREZXbEorK2N5ajc4SU5LVVRYY01XejNJMEU2SnlET1VLMk9FeEpKQis3cExaRWdWMlozNW1WZ1ljdXoKKytwRkhCaFhHSFFGWW5VamR6bE94ZWkyK0MxaEhpcHdQbFJENndJREFRQUJBb0lCQUZQU1UxblJ4bjNvTzU4agppT1duQ3FrOHV6ZEpuY21OTktqREp0TlcvVVFqa1JvZStRZTZTYUpRKzZXVTdEMU1rNGs1aXhXNGVYVncrVmxWCnhQNTk3aWRlZUpnTVl4TGJjVHNBZ0tDR1NQZzcyai9oNzRxalJQQ0R5ejM0OXVDZFhHNWtNSWp0djFDdVp2V1QKQlVycjFRZFpROHpNOVJySG1hcEY1Q0VJaGhMVm9lM2N1NWN5Tmg5cXhlZUExQUxrTkt0U1ZaM2xSeVhYb2JJcApoQnNHWkU1WGxuNzZkNXE3SU5BSWw1aXBydDB6OHlNWURsTFZ1QXR6ZHNQbDZTWnVlS0VCbEJ1M2JKQVFKVlE3CnEvYkduNVl5bUdHQ1FxVEYrLytBeXd5aHRRWklJYTVwVE9rZDd2eURHZ0hkbEoxb3JSbDJJeGMxRVp2YmFrNGoKNWxlQk9jRUNnWUVBMTVjYnBrczZz"
+    ],
+    [
+      0.000046,
+      "Unc5TkYwZWtlQkc2WlZ1QUJ5NzZjUzhUMlRVb2lTOW9JemN0L1Q5VEFYagptTURMWVVMVDVKTDFIQ1RBSVZOcjgzTVd4Y2N0YlVJVkxtY3l0ei94d2o3bTNWVUQwUFFvQUpLWDBFWUxITVR1CmV6Ty9SNjJJZStMN05QZE92dVB4WjQ0VU9EeVVIcjZwWlMxZHRuQ2dRL2FyMW9nRWw4ZTgwek1DZ1lFQXkvbFgKRm1PeHpzaGg2ckV6UTA3T1Njay9UYlRtK2ZyNElzWDVYWFdxTWFIRk5MNlcwR2NpZ3drbmtXUnhHckJ6Z3oxUApYeDJNSUk5dlJkbEozaE8zMFNCMnExdzZobTl0b0ZuR2JFa1R0cTU1UlY5dk5HY05HblNzbGkyNE1BT1F5VGpsCnMwWHVHeHdTZWpSSkFMWlRPMStqTkJGVjA3c2VLbnRrdXFBWHpHa0NnWUEreUMxd0h1WkhuMjZmYWlLMTNuY28KSExEODdXRTNzV2daUXNhOU5TL1hxazI0Y0dxM0VkdjJwdVpUTzQvVE40eVRsb3d3NkVjK2pSeHJtaFk3aEF3QgpDR0ozaFBLVlc1WUZqSFZoQzBqKzZiRzJJRCtxTUJzMjI1bnZlTFNQUjBsYVlrNlhQbkFWZFFXa1h0ZlBvRHhhClQzekQzVVorcEQza2FwWFQwWUhHaXdLQmdGNzBZMXRUNjlsMHBVaXBWMUQxSmNscHUyT0VYS1p3OUFUVUh1TW8KUEtQQVNGcm1nclRmM2t3Yi9lU01XcTd2QjhkSHltUmdEL1MwY1R1V0RQSXFRYjlFR3BwcFpBRmpiQ2hpd3FGMApYNDRDcVFmbmhwQmhqTk1ORDY4Vjk1RzZoek4xbmxFWHMrSEE3c1VmQkFFbDM1ZGJUVkdXNUZxZDJFdzBoMDd0CjZrWkpBb0dCQUlMc1JDNlBpRXRsb0hPR0xLY1dmdDgzQzFTeUR2U0xEckxNMFRmMDlDNVhScnVQcVJ4eXNhQnMKbmFVeW1wdTZP"
+    ],
+    [
+      0.000260,
+      "K0xkcTVSeDZ0Z1JFNlVHR3RKTEhBSzJ5N3JmaWZJNFNEaVV4Q2cwYXRqbXljOVZLbm9JOFR4Swo2aFA0ZFU1L1B6R3NUTi9DaElFUmwrWGFETUJuOU9za1VNZWpUeHN6WlU4bHN1UEc4QnFzCi0tLS0tRU5EIFJTQSBQUklWQVRFIEtFWS0tLS0tCg==\r\n"
+    ],
+    [
+      0.014447,
+      "\u001b[33mdeisctl config platform set version=v1.11.2\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "v1.11.2\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[31m● \u001b[34m▴ \u001b[32m■\u001b[0m\r\n\u001b[32m■ \u001b[31m● \u001b[34m▴\u001b[0m Installing Deis...\r\n\u001b[34m▴ \u001b[32m■ \u001b[31m●\u001b[0m\r\nStorage subsystem...\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[0;33mdeis-store-metadata.service:\u001b[0m loaded\r\n"
+    ],
+    [
+      0.088821,
+      "\u001b[0;33mdeis-store-daemon.service:\u001b[0m loaded\r\n"
+    ],
+    [
+      0.080282,
+      "\u001b[0;33mdeis-store-volume.service:\u001b[0m loaded\r\n"
+    ],
+    [
+      0.064496,
+      "\u001b[0;33mdeis-store-monitor.service:\u001b[0m loaded\r\n"
+    ],
+    [
+      0.833495,
+      "\u001b[0;33mdeis-store-gateway@1.service:\u001b[0m loaded\r\nLogging subsystem...\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[0;33mdeis-logspout.service:\u001b[0m loaded\r\n"
+    ],
+    [
+      0.120017,
+      "\u001b[0;33mdeis-logger.service:\u001b[0m loaded\r\nControl plane...\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[0;33mdeis-builder.service:\u001b[0m loaded\r\n"
+    ],
+    [
+      0.058767,
+      "\u001b[0;33mdeis-registry@1.service:\u001b[0m loaded\r\n"
+    ],
+    [
+      0.599309,
+      "\u001b[0;33mdeis-controller.service:\u001b[0m loaded\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[0;33mdeis-database.service:\u001b[0m loaded\r\n"
+    ],
+    [
+      0.000006,
+      "Data plane...\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[0;33mdeis-publisher.service:\u001b[0m loaded\r\nRouter mesh...\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[0;33mdeis-router@2.service:\u001b[0m loaded\r\n"
+    ],
+    [
+      0.473940,
+      "\u001b[0;33mdeis-router@1.service:\u001b[0m loaded\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[0;33mdeis-router@3.service:\u001b[0m loaded\r\n"
+    ],
+    [
+      0.000007,
+      "Done.\r\n\r\nPlease run `deisctl start platform` to boot up Deis.\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[31m● \u001b[34m▴ \u001b[32m■\u001b[0m\r\n\u001b[32m■ \u001b[31m● \u001b[34m▴\u001b[0m Starting Deis...\r\n\u001b[34m▴ \u001b[32m■ \u001b[31m●\u001b[0m\r\nStorage subsystem...\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[0;33mdeis-store-monitor.service:\u001b[0m activating/start-pre                     \r"
+    ],
+    [
+      1.000000,
+      "\u001b[0;33mdeis-store-monitor.service:\u001b[0m active/running                           \r\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[0;33mdeis-store-daemon.service:\u001b[0m activating/start-pre                      \r"
+    ],
+    [
+      1.000000,
+      "\u001b[0;33mdeis-store-daemon.service:\u001b[0m active/running                            \r\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[0;33mdeis-store-metadata.service:\u001b[0m activating/start-pre                    \r"
+    ],
+    [
+      1.000000,
+      "\u001b[0;33mdeis-store-metadata.service:\u001b[0m active/running                          \r\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[0;33mdeis-store-gateway@1.service:\u001b[0m activating/start-pre                   \r"
+    ],
+    [
+      1.000000,
+      "\u001b[0;33mdeis-store-gateway@1.service:\u001b[0m activating/start-post                  \r"
+    ],
+    [
+      1.000000,
+      "\u001b[0;33mdeis-store-gateway@1.service:\u001b[0m active/running                         \r\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[0;33mdeis-store-volume.service:\u001b[0m active/running                            \r\r\n"
+    ],
+    [
+      0.000006,
+      "Logging subsystem...\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[0;33mdeis-logger.service:\u001b[0m activating/start-pre                            \r"
+    ],
+    [
+      1.000000,
+      "\u001b[0;33mdeis-logger.service:\u001b[0m active/running                                  \r\r\n"
+    ],
+    [
+      0.870178,
+      "\u001b[0;33mdeis-logspout.service:\u001b[0m activating/start-pre                          \r"
+    ],
+    [
+      1.000000,
+      "\u001b[0;33mdeis-logspout.service:\u001b[0m active/running                                \r\r\n"
+    ],
+    [
+      1.000000,
+      "Control plane...\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[0;33mdeis-registry@1.service:\u001b[0m activating/start-pre                        \r"
+    ],
+    [
+      0.278032,
+      "\u001b[0;33mdeis-database.service:\u001b[0m activating/start-pre                          \r"
+    ],
+    [
+      0.009680,
+      "\u001b[0;33mdeis-controller.service:\u001b[0m activating/start-pre                        \r"
+    ],
+    [
+      1.000000,
+      "\u001b[0;33mdeis-controller.service:\u001b[0m active/running                              \r\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[0;33mdeis-database.service:\u001b[0m active/running                                \r\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[0;33mdeis-registry@1.service:\u001b[0m active/running                              \r\r\n"
+    ],
+    [
+      0.326884,
+      "\u001b[0;33mdeis-builder.service:\u001b[0m activating/start-post                          \r"
+    ],
+    [
+      1.000000,
+      "\u001b[0;33mdeis-builder.service:\u001b[0m activating/start-pre                           \r"
+    ],
+    [
+      1.000000,
+      "Could not find unit: deis-builder.service\r\n"
+    ],
+    [
+      0.000009,
+      "Data plane...\r\n"
+    ],
+    [
+      0.216982,
+      "\u001b[0;33mdeis-publisher.service:\u001b[0m active/running                               \r\r\n"
+    ],
+    [
+      0.000007,
+      "Router mesh...\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[0;33mdeis-router@1.service:\u001b[0m active/running                                \r\r\n"
+    ],
+    [
+      0.050873,
+      "\u001b[0;33mdeis-router@3.service:\u001b[0m active/running                                \r\r\n"
+    ],
+    [
+      0.053678,
+      "Could not find unit: deis-router@2.service\r\n"
+    ],
+    [
+      0.001837,
+      "Done.\r\n \r\nPlease set up an administrative account. See 'deis help register'\r\n"
+    ],
+    [
+      0.022614,
+      "\u001b[33mChecking infrastructure on digitalocean...\u001b[0m\r\n"
+    ]
+  ]
+}
