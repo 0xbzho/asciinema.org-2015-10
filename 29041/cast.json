@@ -1,0 +1,838 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 70.046927,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.083574,
+      "\u001b[01;33m~\u001b[00m\u001b[00;33m$\u001b[00m "
+    ],
+    [
+      0.953587,
+      "i"
+    ],
+    [
+      0.407852,
+      "\r\n"
+    ],
+    [
+      0.055551,
+      "\u001b[?1049h\u001b[?1h\u001b=\u001b[?25l\u001b(B\u001b[m\u001b[H\u001b[2J"
+    ],
+    [
+      0.001953,
+      "\u001b(B\u001b[m\u001b[37m\u001b[1;1Hsearch: /home/fouric\u001b(B\u001b[m\u001b[34m\u001b[2;1HAnki/\u001b[3;1HBlender/\u001b[4;1HDarkive/\u001b[5;1HDesktop/\u001b[6;1HDocuments/\u001b[7;1HDropbox/\u001b[8;1HMusic/\u001b[9;1HPictures/\u001b[10;1HRamdisk/\u001b[11;1HVideos/\u001b[12;1Hcode/\u001b(B\u001b[m\u001b[37m\u001b[13;1Hlightning-2-1\u001b[14;1Hlightning-2-2\u001b(B\u001b[m\u001b[34m\u001b[15;1Hmercurial/\u001b(B\u001b[m\u001b[37m\u001b[16;1Hpaypal_fields\u001b(B\u001b[m\u001b[34m\u001b[17;1Hquicklisp/\u001b[18;1Htinyhud/\u001b(B\u001b[m\u001b[37m\u001b[19;1Hwiki.html"
+    ],
+    [
+      1.143085,
+      "\u001b(B\u001b[m\u001b[1;14H       \u001b(B\u001b[m\u001b[34m\u001b[2;1Hfouric/\u001b[3;1Hkermac/\u001b(B\u001b[m \u001b(B\u001b[m\u001b[34m\u001b[4;1Hlost+found/\u001b(B\u001b[m\u001b[5;1H        \u001b[6;1H          \u001b[7;1H        \u001b[8;1H      \u001b[9;1H         \u001b[10;1H        \u001b[11;1H       \u001b[12;1H     \u001b[13;1H             \u001b[14;1H             \u001b[15;1H          \u001b[16;1H             \u001b[17;1H          \u001b[18;1H        \u001b[19;1H         "
+    ],
+    [
+      0.487062,
+      "\u001b[1;10H    \u001b(B\u001b[m\u001b[34m\u001b[2;1Hbin/\u001b(B\u001b[m   \u001b(B\u001b[m\u001b[34m\u001b[2;13Husr/\u001b[3;1Hboot/\u001b(B\u001b[m  \u001b(B\u001b[m\u001b[34m\u001b[3;13Hvar/\u001b[4;1Hcdrom/\u001b(B\u001b[m     \u001b(B\u001b[m\u001b[37m\u001b[4;13Hvmlinuz\u001b[5;1Hcore\u001b(B\u001b[m\u001b[34m\u001b[6;1Hdev/\u001b[7;1Hetc/\u001b[8;1Hhome/\u001b(B\u001b[m\u001b[37m\u001b[9;1Hinitrd.img\u001b(B\u001b[m\u001b[34m\u001b[10;1Hlib/\u001b[11;1Hlib32/\u001b[12;1Hlib64/\u001b[13;1Hlibx32/\u001b[14;1Hlost+found/\u001b[15;1Hmedia/\u001b[16;1Hmnt/\u001b[17;1Hproc/\u001b[18;1Hroot/\u001b[19;1Hrun/\u001b[20;1Hsbin/\u001b[21;1Hsrv/\u001b[22;1Hsys/\u001b[23;1Htmp/"
+    ],
+    [
+      1.610097,
+      "\u001b(B\u001b[m\u001b[37m\u001b[1;10Hhome\u001b(B\u001b[m\u001b[34m\u001b[2;1Hfouric/\u001b(B\u001b[m\u001b[2;13H    \u001b(B\u001b[m\u001b[34m\u001b[3;1Hkermac/\u001b(B\u001b[m\u001b[3;13H    \u001b(B\u001b[m\u001b[34m\u001b[4;1Hlost+found/\u001b(B\u001b[m\u001b[4;13H       \u001b[5;1H    \u001b[6;1H    \u001b[7;1H    \u001b[8;1H     \u001b[9;1H          \u001b[10;1H    \u001b[11;1H      \u001b[12;1H      \u001b[13;1H       \u001b[14;1H           \u001b[15;1H      \u001b[16;1H    \u001b[17;1H     \u001b[18;1H     \u001b[19;1H    \u001b[20;1H     \u001b[21;1H    \u001b[22;1H    \u001b[23;1H    "
+    ],
+    [
+      0.662362,
+      "\u001b(B\u001b[m\u001b[37m\u001b[1;14H/fouric\u001b(B\u001b[m\u001b[34m\u001b[2;1HAnki/\u001b(B\u001b[m  \u001b(B\u001b[m\u001b[34m\u001b[3;1HBlender/\u001b[4;1HDarkive/\u001b(B\u001b[m   \u001b(B\u001b[m\u001b[34m\u001b[5;1HDesktop/\u001b[6;1HDocuments/\u001b[7;1HDropbox/\u001b[8;1HMusic/\u001b[9;1HPictures/\u001b[10;1HRamdisk/\u001b[11;1HVideos/\u001b[12;1Hcode/\u001b(B\u001b[m\u001b[37m\u001b[13;1Hlightning-2-1\u001b[14;1Hlightning-2-2\u001b(B\u001b[m\u001b[34m\u001b[15;1Hmercurial/\u001b(B\u001b[m\u001b[37m\u001b[16;1Hpaypal_fields\u001b(B\u001b[m\u001b[34m\u001b[17;1Hquicklisp/\u001b[18;1Htinyhud/\u001b(B\u001b[m\u001b[37m\u001b[19;1Hwiki.html"
+    ],
+    [
+      1.528228,
+      "\u001b[1;1Hnormal\u001b(B\u001b[m\u001b[30;47m\u001b[2;1HAnki/"
+    ],
+    [
+      0.254917,
+      "\u001b(B\u001b[m\u001b[34m\u001b[2;1HAnki/\u001b(B\u001b[m\u001b[30;47m\u001b[3;1HBlender/"
+    ],
+    [
+      0.142336,
+      "\u001b(B\u001b[m\u001b[34m\u001b[3;1HBlender/\u001b(B\u001b[m\u001b[30;47m\u001b[4;1HDarkive/"
+    ],
+    [
+      0.184909,
+      "\u001b(B\u001b[m\u001b[34m\u001b[4;1HDarkive/\u001b(B\u001b[m\u001b[30;47m\u001b[5;1HDesktop/"
+    ],
+    [
+      0.145765,
+      "\u001b(B\u001b[m\u001b[34m\u001b[5;1HDesktop/\u001b(B\u001b[m\u001b[30;47m\u001b[6;1HDocuments/"
+    ],
+    [
+      0.162164,
+      "\u001b(B\u001b[m\u001b[34m\u001b[6;1HDocuments/\u001b(B\u001b[m\u001b[30;47m\u001b[7;1HDropbox/"
+    ],
+    [
+      0.178355,
+      "\u001b(B\u001b[m\u001b[34m\u001b[7;1HDropbox/\u001b(B\u001b[m\u001b[30;47m\u001b[8;1HMusic/"
+    ],
+    [
+      0.161892,
+      "\u001b(B\u001b[m\u001b[34m\u001b[8;1HMusic/\u001b(B\u001b[m\u001b[30;47m\u001b[9;1HPictures/"
+    ],
+    [
+      0.181030,
+      "\u001b(B\u001b[m\u001b[34m\u001b[9;1HPictures/\u001b(B\u001b[m\u001b[30;47m\u001b[10;1HRamdisk/"
+    ],
+    [
+      0.149885,
+      "\u001b(B\u001b[m\u001b[34m\u001b[10;1HRamdisk/\u001b(B\u001b[m\u001b[30;47m\u001b[11;1HVideos/"
+    ],
+    [
+      0.424988,
+      "\u001b[10;1HRamdisk/\u001b(B\u001b[m\u001b[34m\u001b[11;1HVideos/"
+    ],
+    [
+      0.170593,
+      "\u001b(B\u001b[m\u001b[30;47m\u001b[9;1HPictures/\u001b(B\u001b[m\u001b[34m\u001b[10;1HRamdisk/"
+    ],
+    [
+      0.171457,
+      "\u001b(B\u001b[m\u001b[30;47m\u001b[8;1HMusic/\u001b(B\u001b[m\u001b[34m\u001b[9;1HPictures/"
+    ],
+    [
+      0.176198,
+      "\u001b(B\u001b[m\u001b[30;47m\u001b[7;1HDropbox/\u001b(B\u001b[m\u001b[34m\u001b[8;1HMusic/"
+    ],
+    [
+      0.194671,
+      "\u001b(B\u001b[m\u001b[30;47m\u001b[6;1HDocuments/\u001b(B\u001b[m\u001b[34m\u001b[7;1HDropbox/"
+    ],
+    [
+      0.371018,
+      "\u001b(B\u001b[m\u001b[30;47m\u001b[5;1HDesktop/\u001b(B\u001b[m\u001b[34m\u001b[6;1HDocuments/"
+    ],
+    [
+      0.805516,
+      "\u001b[5;1HDesktop/\u001b(B\u001b[m\u001b[30;47m\u001b[6;1HDocuments/"
+    ],
+    [
+      0.427063,
+      "\u001b(B\u001b[m\u001b[34m\u001b[6;1HDocuments/\u001b(B\u001b[m\u001b[30;47m\u001b[7;1HDropbox/"
+    ],
+    [
+      0.152663,
+      "\u001b(B\u001b[m\u001b[34m\u001b[7;1HDropbox/\u001b(B\u001b[m\u001b[30;47m\u001b[8;1HMusic/"
+    ],
+    [
+      0.155030,
+      "\u001b(B\u001b[m\u001b[34m\u001b[8;1HMusic/\u001b(B\u001b[m\u001b[30;47m\u001b[9;1HPictures/"
+    ],
+    [
+      0.184894,
+      "\u001b(B\u001b[m\u001b[34m\u001b[9;1HPictures/\u001b(B\u001b[m\u001b[30;47m\u001b[10;1HRamdisk/"
+    ],
+    [
+      0.170463,
+      "\u001b(B\u001b[m\u001b[34m\u001b[10;1HRamdisk/\u001b(B\u001b[m\u001b[30;47m\u001b[11;1HVideos/"
+    ],
+    [
+      0.158860,
+      "\u001b(B\u001b[m\u001b[34m\u001b[11;1HVideos/\u001b(B\u001b[m\u001b[30;47m\u001b[12;1Hcode/"
+    ],
+    [
+      0.304545,
+      "\u001b(B\u001b[m\u001b[37m\u001b[1;21H/code\u001b(B\u001b[m\u001b[30;47m\u001b[2;1Harx/\u001b(B\u001b[m \u001b(B\u001b[m\u001b[34m\u001b[2;18Hother/\u001b(B\u001b[m\u001b[37m\u001b[3;1Hbackup.lisp\u001b(B\u001b[m\u001b[34m\u001b[3;18Hproject/\u001b[4;1Hc/\u001b(B\u001b[m      \u001b(B\u001b[m\u001b[34m\u001b[4;18Hproject_bug/\u001b[5;1Hc++/\u001b(B\u001b[m    \u001b(B\u001b[m\u001b[34m\u001b[5;18Hproxyprint/\u001b[6;1Hcappl\u001b[6;7Ht/\u001b(B\u001b[m  \u001b(B\u001b[m\u001b[34m\u001b[6;18Hpython/\u001b[7;1Hcoinapplet/\u001b[7;18Hschool/\u001b[8;1Hcorestrike_logs/\u001b(B\u001b[m\u001b[37m\u001b[8;18Hscraper.py\u001b(B\u001b[m\u001b[34m\u001b[9;1Hderivative/\u001b[9;18Hsdl/\u001b[10;1Heditkit\u001b[10;18Hshell/\u001b[11;1Hfouric.net/\u001b[11;18Hsitting/\u001b[12;1Hgcw-test/\u001b[12;18Hsketchbook/\u001b[13;1Hhtml/\u001b(B\u001b[m        \u001b(B\u001b[m\u001b[34m\u001b[13;18Hstarfight/\u001b[14;1Hkarl/\u001b(B\u001b[m        \u001b(B\u001b[m\u001b[34m\u001b[14;18Hstickfight/\u001b[15;1Hk\u001b[15;4Hnel/\u001b(B\u001b[m   \u001b(B\u001b[m\u001b[34m\u001b[15;18Htag/\u001b[16;1Hlatex/\u001b(B\u001b[m       \u001b(B\u001b[m\u001b[34m\u001b[16;18Htemplates/\u001b[17;1Hlca\u001b[17;5Hhe/\u001b(B\u001b[m   \u001b(B\u001b[m\u001b[34m\u001b[17;18Htest/\u001b[18;1Hl\u001b[18;3Hghtning-cd/\u001b[18;18Htext/\u001b[19;1Hlisp/\u001b(B\u001b[m    \u001b(B\u001b[m\u001b[34m\u001b[19;18Huserscripts/\u001b[20;1Hmissles/\u001b[20;18Hwccls-checker/\u001b[21;1Hnefaria/\u001b[21;18Hwhetstone/\u001b[22;1Hold/\u001b[22;18Hwork/\u001b[23;1Hopengl/"
+    ],
+    [
+      0.525670,
+      "\u001b[2;1Harx/\u001b(B\u001b[m\u001b[30;47m\u001b[3;1Hbackup.lisp"
+    ],
+    [
+      0.177375,
+      "\u001b(B\u001b[m\u001b[37m\u001b[3;1Hbackup.lisp\u001b(B\u001b[m\u001b[30;47m\u001b[4;1Hc/"
+    ],
+    [
+      0.383166,
+      "\u001b(B\u001b[m\u001b[37m\u001b[1;26H/c\u001b(B\u001b[m\u001b[30;47m\u001b[2;1Hcshelper/\u001b(B\u001b[m\u001b[2;18H      \u001b(B\u001b[m\u001b[34m\u001b[3;1Hgamepad/\u001b(B\u001b[m   \u001b[3;18H        \u001b(B\u001b[m\u001b[34m\u001b[4;1Hmisc/\u001b(B\u001b[m\u001b[4;18H            \u001b(B\u001b[m\u001b[34m\u001b[5;1Hmouse_move/\u001b(B\u001b[m\u001b[5;18H           \u001b(B\u001b[m\u001b[34m\u001b[6;1Hsockets\u001b(B\u001b[m\u001b[6;18H       \u001b(B\u001b[m\u001b[34m\u001b[7;1Htee\u001b[7;5Hsy/\u001b(B\u001b[m    \u001b[7;18H       \u001b[8;1H                \u001b[8;18H          \u001b[9;1H           \u001b[9;18H    \u001b[10;1H        \u001b[10;18H      \u001b[11;1H           \u001b[11;18H        \u001b[12;1H         \u001b[12;18H           \u001b[13;1H     \u001b[13;18H          \u001b[14;1H     \u001b[14;18H           \u001b[15;1H       \u001b[15;18H    \u001b[16;1H      \u001b[16;18H          \u001b[17;1H       \u001b[17;18H     \u001b[18;1H             \u001b[18;18H     \u001b[19;1H     \u001b[19;18H            \u001b[20;1H        \u001b[20;18H              \u001b[21;1H        \u001b[21;18H          \u001b[22;1H    \u001b[22;18H     \u001b[23;1H       "
+    ],
+    [
+      0.949535,
+      "\u001b(B\u001b[m\u001b[37m\u001b[1;1Hsearch\u001b(B\u001b[m\u001b[34m\u001b[2;1Hcshelper/"
+    ],
+    [
+      0.201347,
+      "\u001b(B\u001b[m\u001b[37m\u001b[1;28H/cshelper\u001b[2;1HMakefile\u001b(B\u001b[m \u001b(B\u001b[m\u001b[37m\u001b[3;1HREADME\u001b(B\u001b[m  \u001b(B\u001b[m\u001b[37m\u001b[4;1Hcshelper.c\u001b(B\u001b[m\u001b[5;1H           \u001b[6;1H        \u001b[7;1H       "
+    ],
+    [
+      0.846185,
+      "\u001b[?12l\u001b[?25h\u001b(B\u001b[m\u001b[H\u001b[2J\u001b[?1049l\u001b[?1l\u001b\u003e\u001b[?1000l"
+    ],
+    [
+      0.333392,
+      "\u001b[?1049h\u001b[H\u001b[2J\u001b[?2004h\u001b[8;24;80t\u001b[1;1H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m                                                                                \u001b[2;1H                                                                                \u001b[3;1H                                                                                \u001b[4;1H                                                                                \u001b[5;1H                                                                                \u001b[6;1H                                                                                \u001b[7;1H                                                                                \u001b[8;1H                                                                                \u001b[9;1H                                                                                \u001b[10;1H                                                                                \u001b[11;1H                                                                                \u001b[12;1H                                                                                \u001b[13;1H                                                                                \u001b[14;1H                                                                                \u001b[15;1H                                                                                \u001b[16;1H                                                                                \u001b[17;1H                                                                                \u001b[18;1H                                                                                \u001b[19;1H                                                                                \u001b[20;1H                                                                                \u001b[21;1H                                                                                \u001b[22;1H                                                                                \u001b[23;1H                                                                           "
+    ],
+    [
+      0.000022,
+      "     \u001b[24;1H                                                                                \u001b[1;1H\u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000478,
+      "\u001b[?25l\u001b[?1002h\u001b[?1006h\u001b[1;1H                                                                                \u001b[2;1H                                                                                \u001b[3;1H                                                                                \u001b[4;1H                                                                                \u001b[5;1H                                                                                \u001b[6;1H                                                                                \u001b[7;1H                                                                                \u001b[8;1H                                                                                \u001b[9;1H                                                                                \u001b[10;1H                                                                                \u001b[11;1H                                                                                \u001b[12;1H                                                                                \u001b[13;1H                                                                                \u001b[14;1H                                                                                \u001b[15;1H                                                                                \u001b[16;1H                                                                                \u001b[17;1H                                                                                \u001b[18;1H                                                                                \u001b[19;1H                                                                                \u001b[20;1H                                                                                \u001b[21;1H                                                                                \u001b[22;1H                                                                                \u001b[23;1H                                                                                \u001b[24;1H                           "
+    ],
+    [
+      0.000018,
+      "                                                     \u001b[1;1H\u001b[24;1H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m\"Makefile\"\u001b[24;11H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.012896,
+      "\u001b[?25l\u001b[24;12H13L,\u001b[24;17H306C\u001b[24;21H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.052879,
+      "\u001b[?25l\u001b[24;21H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.292176,
+      "\u001b[?25l\u001b[24;21H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.006332,
+      "\u001b[?25l\u001b[1;1H\u001b(B\u001b[m\u001b[93m\u001b[48;5;235m1   \u001b(B\u001b[m\u001b[38;5;109m\u001b[48;5;236mcshelper:\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;236m gamepad.o cshelper.o                                              \u001b[2;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m  1 \u001b(B\u001b[m\u001b[38;5;173m\u001b[48;5;235m        gcc gamepad.o cshelper.o -o cshelper -lpthread -lX11 -lXtst -g\u001b[3;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m  2 \u001b[4;1H  3 \u001b(B\u001b[m\u001b[38;5;109m\u001b[48;5;235mgamepad.o:\u001b[4;16H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m../gamepad/gamepad.c\u001b[5;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m  4 \u001b(B\u001b[m\u001b[38;5;173m\u001b[48;5;235m        gcc -c ../gamepad/gamepad.c -g -o gamepad.o -I ../gamepad\u001b[6;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m  5 \u001b[7;1H  6 \u001b(B\u001b[m\u001b[38;5;109m\u001b[48;5;235mcshelper.o:\u001b[7;17H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235mcshelper.c\u001b[8;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m  7 \u001b(B\u001b[m\u001b[38;5;173m\u001b[48;5;235m        gcc -c cshelper.c -g -I ../gamepad\u001b[9;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m  8 \u001b[10;1H  9 \u001b(B\u001b[m\u001b[38;5;109m\u001b[48;5;235mclean:\u001b[11;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m 10 \u001b(B\u001b[m\u001b[38;5;173m\u001b[48;5;235m        rm -f gamepad.o\u001b[12;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m 11 \u001b(B\u001b[m\u001b[38;5;173m\u001b[48;5;235m        rm -f cshelper.o\u001b[13;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m 12 \u001b(B\u001b[m\u001b[38;5;173m\u001b[48;5;235m        rm -f cshelper\u001b[14;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m~                                                                               \u001b[15;1H~                                                                               \u001b[16;1H~                                                                               \u001b[17;1H~                                                                               \u001b[18;1H~                                                                               \u001b[19;1H~                                                                               \u001b[20;1H~                                                                               \u001b[21;1H~                                                                               \u001b[22;1H~                                                                               \u001b[23;1H\u001b(B\u001b[m\u001b[38;5;235m\u001b[48;5;109m\u001b[1m NORMAL \u001b(B\u001b[m\u001b[38;5;109m\u001b["
+    ],
+    [
+      0.000018,
+      "48;5;239m▶\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;236m▶\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;236m Makefile                                   \u001b(B\u001b[m\u001b[38;5;236m\u001b[48;5;236m◀\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;236m make \u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;236m◀\u001b(B\u001b[m\u001b[38;5;109m\u001b[48;5;239m◀\u001b(B\u001b[m\u001b[38;5;235m\u001b[48;5;109m   7% ¶\u001b(B\u001b[m\u001b[38;5;235m\u001b[48;5;109m\u001b[1m   1\u001b(B\u001b[m\u001b[38;5;235m\u001b[48;5;109m:  1  \u001b[1;5H\u001b[1;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.122459,
+      "\u001b[?25l\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000032,
+      "\u001b[?25l\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000022,
+      "\u001b[?25l\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000021,
+      "\u001b[?25l\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.185246,
+      "\u001b[?25l\u001b[24;1H\u001b[?1002l\u001b[?1006l\u001b(B\u001b[m\u001b[?12l\u001b[?25h\u001b[?1049l\u001b[?2004l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.046335,
+      "\u001b[01;33m~/code/c/cshelper\u001b[00m\u001b[00;33m$\u001b[00m "
+    ],
+    [
+      0.261210,
+      "i"
+    ],
+    [
+      0.378372,
+      "\r\n"
+    ],
+    [
+      0.057936,
+      "\u001b[?1049h\u001b[?1h\u001b=\u001b[?25l\u001b(B\u001b[m\u001b[H\u001b[2J"
+    ],
+    [
+      0.000552,
+      "\u001b(B\u001b[m\u001b[37m\u001b[1;1Hsearch: /home/fouric/code/c/cshelper\u001b[2;1HMakefile\u001b[3;1HREADME\u001b[4;1Hcshelper.c"
+    ],
+    [
+      0.548316,
+      "\u001b(B\u001b[m\u001b[1;28H         \u001b(B\u001b[m\u001b[34m\u001b[2;1Hcshelper/\u001b[3;1Hgamepad/\u001b[4;1Hmisc/\u001b(B\u001b[m     \u001b(B\u001b[m\u001b[34m\u001b[5;1Hmouse_move/\u001b[6;1Hsockets/\u001b[7;1Hteensy/"
+    ],
+    [
+      0.647779,
+      "\u001b(B\u001b[m\u001b[1;26H  \u001b(B\u001b[m\u001b[34m\u001b[2;1Harx/\u001b(B\u001b[m     \u001b(B\u001b[m\u001b[34m\u001b[2;18Hother/\u001b(B\u001b[m\u001b[37m\u001b[3;1Hbackup.lisp\u001b(B\u001b[m\u001b[34m\u001b[3;18Hproject/\u001b[4;1Hc/\u001b(B\u001b[m   \u001b(B\u001b[m\u001b[34m\u001b[4;18Hproject_bug/\u001b[5;1Hc++/\u001b(B\u001b[m       \u001b(B\u001b[m\u001b[34m\u001b[5;18Hproxyprint/\u001b[6;1Hcapplet\u001b[6;18Hpython/\u001b[7;1Hcoi\u001b[7;5Happlet/\u001b[7;18Hschool/\u001b[8;1Hcorestrike_logs/\u001b(B\u001b[m\u001b[37m\u001b[8;18Hscraper.py\u001b(B\u001b[m\u001b[34m\u001b[9;1Hderivative/\u001b[9;18Hsdl/\u001b[10;1Heditkit/\u001b[10;18Hshell/\u001b[11;1Hfouric.net/\u001b[11;18Hsitting/\u001b[12;1Hgcw-test/\u001b[12;18Hsketchbook/\u001b[13;1Hhtml/\u001b[13;18Hstarfight/\u001b[14;1Hkarl/\u001b[14;18Hstickfight/\u001b[15;1Hkernel/\u001b[15;18Htag/\u001b[16;1Hlatex/\u001b[16;18Htemplates/\u001b[17;1Hlcache/\u001b[17;18Htest/\u001b[18;1Hlightning-cd/\u001b[18;18Htext/\u001b[19;1Hlisp/\u001b[19;18Huserscripts/\u001b[20;1Hmissles/\u001b[20;18Hwccls-checker/\u001b[21;1Hnefaria/\u001b[21;18Hwhetstone/\u001b[22;1Hold/\u001b[22;18Hwork/\u001b[23;1Hopengl/"
+    ],
+    [
+      2.516518,
+      "\u001b[2;1Hwccls-checker/\u001b(B\u001b[m\u001b[2;18H      \u001b(B\u001b[m\u001b[34m\u001b[3;1Hwhetstone/\u001b(B\u001b[m \u001b[3;18H        \u001b(B\u001b[m\u001b[34m\u001b[4;1Hwork/\u001b(B\u001b[m\u001b[4;18H            \u001b[5;1H    \u001b[5;18H           \u001b[6;1H        \u001b[6;18H       \u001b[7;1H           \u001b[7;18H       \u001b[8;1H                \u001b[8;18H          \u001b[9;1H           \u001b[9;18H    \u001b[10;1H        \u001b[10;18H      \u001b[11;1H           \u001b[11;18H        \u001b[12;1H         \u001b[12;18H           \u001b[13;1H     \u001b[13;18H          \u001b[14;1H     \u001b[14;18H           \u001b[15;1H       \u001b[15;18H    \u001b[16;1H      \u001b[16;18H          \u001b[17;1H       \u001b[17;18H     \u001b[18;1H             \u001b[18;18H     \u001b[19;1H     \u001b[19;18H            \u001b[20;1H        \u001b[20;18H              \u001b[21;1H        \u001b[21;18H          \u001b[22;1H    \u001b[22;18H     \u001b[23;1H       \u001b(B\u001b[m\u001b[37m\u001b[24;1Hw"
+    ],
+    [
+      0.764944,
+      "\u001b[1;26H/whetstone\u001b[2;1HMISC\u001b(B\u001b[m          \u001b(B\u001b[m\u001b[37m\u001b[3;1HREADME\u001b(B\u001b[m    \u001b(B\u001b[m\u001b[37m\u001b[4;1HTODO\u001b(B\u001b[m \u001b(B\u001b[m\u001b[37m\u001b[5;1Hactivity-widget.lisp\u001b[6;1Hactivity.lisp\u001b[7;1Haddmode-view.lisp\u001b[8;1Hbase-view.lisp\u001b[9;1Hbox.lisp\u001b[10;1Hdraw.lisp\u001b[11;1Hfouric.dat\u001b[12;1Hnumber-view.lisp\u001b[13;1Hprobe.otf\u001b[14;1Hstart.lisp\u001b[15;1Hsupport.lisp\u001b[16;1Huser.lisp\u001b[17;1Hutilities.lisp\u001b[18;1Hwhetstone.lisp\u001b[19;1Hwidget-view.lisp\u001b(B\u001b[m\u001b[24;1H "
+    ],
+    [
+      1.529239,
+      "\u001b(B\u001b[m\u001b[37m\u001b[2;1Hactivity-widget.lisp\u001b[3;1Hactivity.lisp\u001b[4;1Haddmode-view.lisp\u001b(B\u001b[m\u001b[5;1H                    \u001b[6;1H             \u001b[7;1H                 \u001b[8;1H              \u001b[9;1H        \u001b[10;1H         \u001b[11;1H          \u001b[12;1H                \u001b[13;1H         \u001b[14;1H          \u001b[15;1H            \u001b[16;1H         \u001b[17;1H              \u001b[18;1H              \u001b[19;1H                \u001b(B\u001b[m\u001b[37m\u001b[24;1Ha"
+    ],
+    [
+      0.980803,
+      "\u001b(B\u001b[m\u001b[4;1H                 \u001b(B\u001b[m\u001b[37m\u001b[24;2Hc"
+    ],
+    [
+      0.686075,
+      "\u001b[24;3Ht"
+    ],
+    [
+      1.261944,
+      "\u001b[24;4Hi"
+    ],
+    [
+      0.135399,
+      "\u001b[24;5Hv"
+    ],
+    [
+      0.118856,
+      "\u001b[24;6Hi"
+    ],
+    [
+      0.122093,
+      "\u001b[24;7Ht"
+    ],
+    [
+      0.331516,
+      "\u001b[24;8Hy"
+    ],
+    [
+      0.722535,
+      "\u001b[?12l\u001b[?25h\u001b(B\u001b[m\u001b[H\u001b[2J\u001b[?1049l\u001b[?1l\u001b\u003e\u001b[?1000l"
+    ],
+    [
+      0.331514,
+      "\u001b[?1049h\u001b[H\u001b[2J\u001b[?2004h\u001b[8;24;80t\u001b[1;1H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m                                                                                \u001b[2;1H                                                                                \u001b[3;1H                                                                                \u001b[4;1H                                                                                \u001b[5;1H                                                                                \u001b[6;1H                                                                                \u001b[7;1H                                                                                \u001b[8;1H                                                                                \u001b[9;1H                                                                                \u001b[10;1H                                                                                \u001b[11;1H                                                                                \u001b[12;1H                                                                                \u001b[13;1H                                                                                \u001b[14;1H                                                                                \u001b[15;1H                                                                                \u001b[16;1H                                                                                \u001b[17;1H                                                                                \u001b[18;1H                                                                                \u001b[19;1H                                                                                \u001b[20;1H                                                                                \u001b[21;1H                                                                                \u001b[22;1H                                                                                \u001b[23;1H                                                                           "
+    ],
+    [
+      0.000020,
+      "     \u001b[24;1H                                                                                \u001b[1;1H\u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000745,
+      "\u001b[?25l\u001b[?1002h\u001b[?1006h\u001b[1;1H                                                                                \u001b[2;1H                                                                                \u001b[3;1H                                                                                \u001b[4;1H                                                                                \u001b[5;1H                                                                                \u001b[6;1H                                                                                \u001b[7;1H                                                                                \u001b[8;1H                                                                                \u001b[9;1H                                                                                \u001b[10;1H                                                                                \u001b[11;1H                                                                                \u001b[12;1H                                                                                \u001b[13;1H                                                                                \u001b[14;1H                                                                                \u001b[15;1H                                                                                \u001b[16;1H                                                                                \u001b[17;1H                                                                                \u001b[18;1H                                                                                \u001b[19;1H                                                                                \u001b[20;1H                                                                                \u001b[21;1H                                                                                \u001b[22;1H                                                                                \u001b[23;1H                                                                                \u001b[24;1H                           "
+    ],
+    [
+      0.000019,
+      "                                                     \u001b[1;1H\u001b[24;1H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m\"activity-widget.lisp\"\u001b[24;23H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.017609,
+      "\u001b[?25l\u001b[24;24H22L,\u001b[24;29H1017C\u001b[24;34H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.049215,
+      "\u001b[?25l\u001b[24;34H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.244821,
+      "\u001b[?25l\u001b[24;34H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.005545,
+      "\u001b[?25l\u001b[1;1H\u001b(B\u001b[m\u001b[93m\u001b[48;5;235m1   \u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;239m(\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;236mload \u001b(B\u001b[m\u001b[38;5;143m\u001b[48;5;236m\"draw.lisp\"\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;239m)\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;236m                                                          \u001b[2;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m  1 \u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m(load\u001b[2;11H\u001b(B\u001b[m\u001b[38;5;143m\u001b[48;5;235m\"activity.lisp\"\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m)\u001b[3;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m  2 \u001b[4;1H  3 \u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m(defclass\u001b[4;15Hactivity-widget\u001b[4;31H()\u001b[5;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m  4 \u001b[5;7H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m((activity\u001b[5;18H:accessor\u001b[5;28Hactivity\u001b[5;37H:initarg\u001b[5;46H:activity)\u001b[6;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m  5 \u001b[6;8H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m(baseline-text\u001b[6;23H:accessor\u001b[6;33Hbaseline-text)\u001b[7;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m  6 \u001b[7;8H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m(remaining-text\u001b[7;24H:accessor\u001b[7;34Hremaining-text)\u001b[8;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m  7 \u001b[8;8H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m(height\u001b[8;16H:reader\u001b[8;24Hheight\u001b[8;31H:allocation\u001b[8;43H:class\u001b[8;50H:initform\u001b[8;60H\u001b(B\u001b[m\u001b[38;5;173m\u001b[48;5;235m3\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m)\u001b[9;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m  8 \u001b[9;8H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m(width\u001b[9;15H:accessor\u001b[9;25Hwidth))\u001b[10;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m  9 \u001b[10;7H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m(\u001b(B\u001b[m\u001b[38;5;109m\u001b[48;5;235m:documentation\u001b[10;23H\u001b(B\u001b[m\u001b[38;5;143m\u001b[48;5;235m\"base widget class, with only a box and text description f\u001b[11;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m    \u001b(B\u001b[m\u001b[38;5;143m\u001b[48;5;235mield\"\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m))\u001b[12;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m 10 \u001b[13;1H 11 \u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m(defmethod\u001b[13;16Hdraw-widget\u001b[13;28H((self\u001b[13;35Hactivity-widget)\u001b[13;52Hselected-p\u001b[13;63Hx\u001b[13;65Hy)\u001b[14;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m 12 \u001b[14;7H\u001b(B\u001b[m\u001b[38;5;143m\u001b[48;5;235m\"calculates the progress bar for and draws the given widget\"\u001b[15;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m 13 \u001b[15;7H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m(when\u001b[15;13Hselected-p\u001b[16;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m 14 \u001b[16;9H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m(draw-ver"
+    ],
+    [
+      0.000014,
+      "tical-bar\u001b[16;28Hx\u001b[16;30Hy\u001b[16;32H(height\u001b[16;40Hself)\u001b[16;46H:ch\u001b[16;50H\u001b(B\u001b[m\u001b[38;5;109m\u001b[48;5;235m#\\\u003e\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m))\u001b[17;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m 15 \u001b[17;7H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m(draw-progress-bar\u001b[17;26H(+\u001b[17;29H\u001b(B\u001b[m\u001b[38;5;173m\u001b[48;5;235m2\u001b[17;31H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235mx)\u001b[17;34Hy\u001b[17;36H(progress\u001b[17;46H(activity\u001b[17;56Hself))\u001b[17;63H(width\u001b[17;70Hself))\u001b[18;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m 16 \u001b[18;7H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m(draw-text\u001b[18;18H(+\u001b[18;21H\u001b(B\u001b[m\u001b[38;5;173m\u001b[48;5;235m2\u001b[18;23H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235mx)\u001b[18;26H(1+\u001b[18;30Hy)\u001b[18;33H(coerce\u001b[18;41H(text\u001b[18;47H(activity\u001b[18;57Hself))\u001b[18;64H'\u001b(B\u001b[m\u001b[38;5;167m\u001b[48;5;235mlist\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m))\u001b[19;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m 17 \u001b[19;7H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m(draw-text\u001b[19;18H(+\u001b[19;21H\u001b(B\u001b[m\u001b[38;5;173m\u001b[48;5;235m2\u001b[19;23H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235mx)\u001b[19;26H(+\u001b[19;29H\u001b(B\u001b[m\u001b[38;5;173m\u001b[48;5;235m2\u001b[19;31H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235my)\u001b[19;34H(coerce\u001b[19;42H(first\u001b[19;49H(remove\u001b[19;57Hnil\u001b[19;61H(get-text\u001b[19;71H(activity \u001b[20;1H \u001b[20;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m    \u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235mself))))\u001b[20;14H'\u001b(B\u001b[m\u001b[38;5;167m\u001b[48;5;235mlist\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m)))\u001b[21;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m 18 \u001b[22;1H 19 \u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m(defmethod\u001b[22;16Hwrite-out\u001b[22;26H((self\u001b[22;33Hactivity-widget))\u001b[23;1H\u001b(B\u001b[m\u001b[38;5;235m\u001b[48;5;109m\u001b[1m NORMAL \u001b(B\u001b[m\u001b[38;5;109m\u001b[48;5;239m▶\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;236m▶\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;236m activity-widget.lisp                       \u001b(B\u001b[m\u001b[38;5;236m\u001b[48;5;236m◀\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;236m lisp \u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;236m◀\u001b(B\u001b[m\u001b[38;5;109m\u001b[48;5;239m◀\u001b(B\u001b[m\u001b[38;5;235m\u001b[48;5;109m   4% ¶\u001b(B\u001b[m\u001b[38;5;235m\u001b[48;5;109m\u001b[1m   1\u001b(B\u001b[m\u001b[38;5;235m\u001b[48;5;109m:  1  \u001b[1;5H\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000012,
+      "\u001b[?25l\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.082386,
+      "\u001b[?25l\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000033,
+      "\u001b[?25l\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000016,
+      "\u001b[?25l\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000011,
+      "\u001b[?25l\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.270730,
+      "\u001b[?25l\u001b[24;1H\u001b[?1002l\u001b[?1006l\u001b(B\u001b[m\u001b[?12l\u001b[?25h\u001b[?1049l\u001b[?2004l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.038480,
+      "\u001b[01;33m~/code/whetstone\u001b[00m\u001b[00;33m$\u001b[00m "
+    ],
+    [
+      0.764880,
+      "i"
+    ],
+    [
+      0.267353,
+      "\r\n"
+    ],
+    [
+      0.056559,
+      "\u001b[?1049h\u001b[?1h\u001b=\u001b[?25l\u001b(B\u001b[m\u001b[H\u001b[2J"
+    ],
+    [
+      0.002010,
+      "\u001b(B\u001b[m\u001b[37m\u001b[1;1Hsearch: /home/fouric/code/whetstone\u001b[2;1HMISC\u001b[3;1HREADME\u001b[4;1HTODO\u001b[5;1Hactivity-widget.lisp\u001b[6;1Hactivity.lisp\u001b[7;1Haddmode-view.lisp\u001b[8;1Hbase-view.lisp\u001b[9;1Hbox.lisp\u001b[10;1Hdraw.lisp\u001b[11;1Hfouric.dat\u001b[12;1Hnumber-view.lisp\u001b[13;1Hprobe.otf\u001b[14;1Hstart.lisp\u001b[15;1Hsupport.lisp\u001b[16;1Huser.lisp\u001b[17;1Hutilities.lisp\u001b[18;1Hwhetstone.lisp\u001b[19;1Hwidget-view.lisp"
+    ],
+    [
+      2.790713,
+      "\u001b(B\u001b[m\u001b[1;26H          \u001b(B\u001b[m\u001b[34m\u001b[2;1Harx/\u001b[2;18Hother/\u001b(B\u001b[m\u001b[37m\u001b[3;1Hbackup.lisp\u001b(B\u001b[m\u001b[34m\u001b[3;18Hproject/\u001b[4;1Hc/\u001b(B\u001b[m  \u001b(B\u001b[m\u001b[34m\u001b[4;18Hproject_bug/\u001b[5;1Hc++/\u001b(B\u001b[m             \u001b(B\u001b[m\u001b[34mproxyprint/\u001b[6;1Hcapplet/\u001b(B\u001b[m     \u001b(B\u001b[m\u001b[34m\u001b[6;18Hpython/\u001b[7;1Hcoinapplet/\u001b(B\u001b[m      \u001b(B\u001b[m\u001b[34mschool/\u001b[8;1Hcorestrike_logs/\u001b(B\u001b[m\u001b[37m\u001b[8;18Hscraper.py\u001b(B\u001b[m\u001b[34m\u001b[9;1Hderivative/\u001b[9;18Hsdl/\u001b[10;1Heditkit/\u001b(B\u001b[m \u001b(B\u001b[m\u001b[34m\u001b[10;18Hshell/\u001b[11;1Hfouric.net/\u001b[11;18Hsitting/\u001b[12;1Hgcw-test/\u001b(B\u001b[m       \u001b(B\u001b[m\u001b[34m\u001b[12;18Hsketchbook/\u001b[13;1Hhtml/\u001b(B\u001b[m    \u001b(B\u001b[m\u001b[34m\u001b[13;18Hstarfight/\u001b[14;1Hkarl/\u001b(B\u001b[m     \u001b(B\u001b[m\u001b[34m\u001b[14;18Hstickfight/\u001b[15;1Hkernel/\u001b(B\u001b[m     \u001b(B\u001b[m\u001b[34m\u001b[15;18Htag/\u001b[16;1Hlatex/\u001b(B\u001b[m   \u001b(B\u001b[m\u001b[34m\u001b[16;18Htemplates/\u001b[17;1Hlcache/\u001b(B\u001b[m       \u001b(B\u001b[m\u001b[34m\u001b[17;18Htest/\u001b[18;1Hlightning-cd/\u001b(B\u001b[m \u001b(B\u001b[m\u001b[34m\u001b[18;18Htext/\u001b[19;1Hlisp/\u001b(B\u001b[m           \u001b(B\u001b[m\u001b[34m\u001b[19;18Huserscripts/\u001b[20;1Hmissles/\u001b[20;18Hwccls-checker/\u001b[21;1Hnefaria/\u001b[21;18Hwhetstone/\u001b[22;1Hold/\u001b[22;18Hwork/\u001b[23;1Hopengl/"
+    ],
+    [
+      1.299757,
+      "\u001b[2;1Hschool/\u001b(B\u001b[m\u001b[2;18H      \u001b(B\u001b[m\u001b[37m\u001b[3;1Hscraper.py\u001b(B\u001b[m \u001b[3;18H        \u001b(B\u001b[m\u001b[34m\u001b[4;1Hsdl/\u001b(B\u001b[m\u001b[4;18H            \u001b(B\u001b[m\u001b[34m\u001b[5;1Hshell/\u001b(B\u001b[m\u001b[5;18H           \u001b(B\u001b[m\u001b[34m\u001b[6;1Hsitting\u001b(B\u001b[m\u001b[6;18H       \u001b(B\u001b[m\u001b[34m\u001b[7;1Hsketchbook\u001b(B\u001b[m\u001b[7;18H       \u001b(B\u001b[m\u001b[34m\u001b[8;1Hstarfight/\u001b(B\u001b[m      \u001b[8;18H          \u001b(B\u001b[m\u001b[34m\u001b[9;1Hstickfight\u001b(B\u001b[m\u001b[9;18H    \u001b[10;1H        \u001b[10;18H      \u001b[11;1H           \u001b[11;18H        \u001b[12;1H         \u001b[12;18H           \u001b[13;1H     \u001b[13;18H          \u001b[14;1H     \u001b[14;18H           \u001b[15;1H       \u001b[15;18H    \u001b[16;1H      \u001b[16;18H          \u001b[17;1H       \u001b[17;18H     \u001b[18;1H             \u001b[18;18H     \u001b[19;1H     \u001b[19;18H            \u001b[20;1H        \u001b[20;18H              \u001b[21;1H        \u001b[21;18H          \u001b[22;1H    \u001b[22;18H     \u001b[23;1H       \u001b(B\u001b[m\u001b[37m\u001b[24;1Hs"
+    ],
+    [
+      0.633757,
+      "\u001b(B\u001b[m\u001b[4;1H    \u001b[5;1H      \u001b[6;1H        \u001b[7;1H           \u001b[8;1H          \u001b[9;1H           \u001b(B\u001b[m\u001b[37m\u001b[24;2Hc"
+    ],
+    [
+      0.475486,
+      "\u001b[?12l\u001b[?25h\u001b(B\u001b[m\u001b[H\u001b[2J\u001b[?1049l\u001b[?1l\u001b\u003e\u001b[?1000l"
+    ],
+    [
+      0.310725,
+      "\u001b[?1049h\u001b[H\u001b[2J\u001b[?2004h\u001b[8;24;80t\u001b[1;1H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m                                                                                \u001b[2;1H                                                                                \u001b[3;1H                                                                                \u001b[4;1H                                                                                \u001b[5;1H                                                                                \u001b[6;1H                                                                                \u001b[7;1H                                                                                \u001b[8;1H                                                                                \u001b[9;1H                                                                                \u001b[10;1H                                                                                \u001b[11;1H                                                                                \u001b[12;1H                                                                                \u001b[13;1H                                                                                \u001b[14;1H                                                                                \u001b[15;1H                                                                                \u001b[16;1H                                                                                \u001b[17;1H                                                                                \u001b[18;1H                                                                                \u001b[19;1H                                                                                \u001b[20;1H                                                                                \u001b[21;1H                                                                                \u001b[22;1H                                                                                \u001b[23;1H                                                                           "
+    ],
+    [
+      0.000015,
+      "     \u001b[24;1H                                                                                \u001b[1;1H\u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000385,
+      "\u001b[?25l\u001b[?1002h\u001b[?1006h\u001b[1;1H                                                                                \u001b[2;1H                                                                                \u001b[3;1H                                                                                \u001b[4;1H                                                                                \u001b[5;1H                                                                                \u001b[6;1H                                                                                \u001b[7;1H                                                                                \u001b[8;1H                                                                                \u001b[9;1H                                                                                \u001b[10;1H                                                                                \u001b[11;1H                                                                                \u001b[12;1H                                                                                \u001b[13;1H                                                                                \u001b[14;1H                                                                                \u001b[15;1H                                                                                \u001b[16;1H                                                                                \u001b[17;1H                                                                                \u001b[18;1H                                                                                \u001b[19;1H                                                                                \u001b[20;1H                                                                                \u001b[21;1H                                                                                \u001b[22;1H                                                                                \u001b[23;1H                                                                                \u001b[24;1H                           "
+    ],
+    [
+      0.000011,
+      "                                                     \u001b[1;1H\u001b[24;1H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m\"scraper.py\"\u001b[24;13H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000064,
+      "\u001b[?25l\u001b[24;14H181L,\u001b[24;20H5820C\u001b[24;25H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.043860,
+      "\u001b[?25l\u001b[24;25H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.277525,
+      "\u001b[?25l\u001b[24;25H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.008382,
+      "\u001b[?25l\u001b[1;1H\u001b(B\u001b[m\u001b[93m\u001b[48;5;235m1   \u001b(B\u001b[m\u001b[38;5;139m\u001b[48;5;236mimport\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;236m pdb                                                                  \u001b[2;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m  1 \u001b(B\u001b[m\u001b[38;5;139m\u001b[48;5;235mimport\u001b[2;12H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235mtime\u001b[3;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m  2 \u001b(B\u001b[m\u001b[38;5;139m\u001b[48;5;235mimport\u001b[3;12H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235murllib\u001b[4;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m  3 \u001b(B\u001b[m\u001b[38;5;139m\u001b[48;5;235mimport\u001b[4;12H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235murllib2\u001b[5;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m  4 \u001b(B\u001b[m\u001b[38;5;139m\u001b[48;5;235mimport\u001b[5;12H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235mre\u001b[6;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m  5 \u001b(B\u001b[m\u001b[38;5;139m\u001b[48;5;235mimport\u001b[6;12H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235msys\u001b[7;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m  6 \u001b(B\u001b[m\u001b[38;5;139m\u001b[48;5;235mimport\u001b[7;12H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235mos\u001b[8;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m  7 \u001b(B\u001b[m\u001b[38;5;139m\u001b[48;5;235mimport\u001b[8;12H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235mshutil\u001b[9;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m  8 \u001b(B\u001b[m\u001b[38;5;139m\u001b[48;5;235mimport\u001b[9;12H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235mcodecs\u001b[10;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m  9 \u001b(B\u001b[m\u001b[38;5;139m\u001b[48;5;235mimport\u001b[10;12H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235municodedata\u001b[11;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m 10 \u001b(B\u001b[m\u001b[38;5;139m\u001b[48;5;235mfrom\u001b[11;10H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235mBeautifulSoup\u001b[11;24H\u001b(B\u001b[m\u001b[38;5;139m\u001b[48;5;235mimport\u001b[11;31H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235mBeautifulSoup\u001b[12;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m 11 \u001b[13;1H 12 \u001b(B\u001b[m\u001b[38;5;245m\u001b[48;5;235m#debugger, just in case :S\u001b[14;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m 13 \u001b(B\u001b[m\u001b[38;5;245m\u001b[48;5;235m#pdb.set_trace()\u001b[15;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m 14 \u001b(B\u001b[m\u001b[38;5;109m\u001b[48;5;235mprint\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m(\u001b(B\u001b[m\u001b[38;5;143m\u001b[48;5;235m\"eBay allGrab Scraper by Ben Fishman, 2013\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m\\n\u001b(B\u001b[m\u001b[38;5;143m\u001b[48;5;235m\"\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m)\u001b[16;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m 15 \u001b(B\u001b[m\u001b[38;5;109m\u001b[48;5;235mprint\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m(\u001b(B\u001b[m\u001b[38;5;143m\u001b[48;5;235m\"\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m\\n\u001b(B\u001b[m\u001b[38;5;143m\u001b[48;5;235m\"\u001b(B\u001b[m\u001b[38;5;250m\u001b[4"
+    ],
+    [
+      0.000013,
+      "8;5;235m)\u001b[17;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m 16 \u001b[18;1H 17 \u001b(B\u001b[m\u001b[38;5;245m\u001b[48;5;235m#Create input.csv\u001b[19;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m 18 \u001b(B\u001b[m\u001b[38;5;109m\u001b[48;5;235mfile\u001b[19;10H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m=\u001b[19;12H\u001b(B\u001b[m\u001b[38;5;109m\u001b[48;5;235mopen\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m(\u001b(B\u001b[m\u001b[38;5;143m\u001b[48;5;235m\"input.csv\"\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m,\u001b[19;30H\u001b(B\u001b[m\u001b[38;5;143m\u001b[48;5;235m\"w\"\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m)\u001b[20;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m 19 \u001b(B\u001b[m\u001b[38;5;109m\u001b[48;5;235mfile\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m.close()\u001b[21;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m 20 \u001b(B\u001b[m\u001b[38;5;245m\u001b[48;5;235m#Set counter to 0\u001b[22;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m 21 \u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235mi\u001b[22;7H=\u001b[22;9H\u001b(B\u001b[m\u001b[38;5;173m\u001b[48;5;235m0\u001b[23;1H\u001b(B\u001b[m\u001b[38;5;235m\u001b[48;5;109m\u001b[1m NORMAL \u001b(B\u001b[m\u001b[38;5;109m\u001b[48;5;239m▶\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;236m▶\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;236m scraper.py              \u001b(B\u001b[m\u001b[38;5;236m\u001b[48;5;236m◀\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;236m python \u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;236m◀\u001b(B\u001b[m\u001b[38;5;109m\u001b[48;5;239m◀\u001b(B\u001b[m\u001b[38;5;235m\u001b[48;5;109m   0% ¶\u001b(B\u001b[m\u001b[38;5;235m\u001b[48;5;109m\u001b[1m   1\u001b(B\u001b[m\u001b[38;5;235m\u001b[48;5;109m:  1  \u001b(B\u001b[m\u001b[38;5;166m\u001b[48;5;109m◀\u001b(B\u001b[m\u001b[38;5;232m\u001b[48;5;166m Ξ trailing[39] \u001b[1;5H\u001b[1;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.194737,
+      "\u001b[?25l\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000028,
+      "\u001b[?25l\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000021,
+      "\u001b[?25l\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000019,
+      "\u001b[?25l\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.340213,
+      "\u001b[?25l\u001b[24;1H\u001b[?1002l\u001b[?1006l\u001b(B\u001b[m\u001b[?12l\u001b[?25h\u001b[?1049l\u001b[?2004l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.049192,
+      "\u001b[01;33m~/code\u001b[00m\u001b[00;33m$\u001b[00m "
+    ],
+    [
+      0.684103,
+      "i"
+    ],
+    [
+      0.343516,
+      "\r\n"
+    ],
+    [
+      0.059742,
+      "\u001b[?1049h\u001b[?1h\u001b=\u001b[?25l\u001b(B\u001b[m\u001b[H\u001b[2J"
+    ],
+    [
+      0.004271,
+      "\u001b(B\u001b[m\u001b[37m\u001b[1;1Hsearch: /home/fouric/code\u001b(B\u001b[m\u001b[34m\u001b[2;1Harx/\u001b[2;18Hother/\u001b(B\u001b[m\u001b[37m\u001b[3;1Hbackup.lisp\u001b(B\u001b[m\u001b[34m\u001b[3;18Hproject/\u001b[4;1Hc/\u001b[4;18Hproject_bug/\u001b[5;1Hc++/\u001b[5;18Hproxyprint/\u001b[6;1Hcapplet/\u001b[6;18Hpython/\u001b[7;1Hcoinapplet/\u001b[7;18Hschool/\u001b[8;1Hcorestrike_logs/\u001b(B\u001b[m\u001b[37m\u001b[8;18Hscraper.py\u001b(B\u001b[m\u001b[34m\u001b[9;1Hderivative/\u001b[9;18Hsdl/\u001b[10;1Heditkit/\u001b[10;18Hshell/\u001b[11;1Hfouric.net/\u001b[11;18Hsitting/\u001b[12;1Hgcw-test/\u001b[12;18Hsketchbook/\u001b[13;1Hhtml/\u001b[13;18Hstarfight/\u001b[14;1Hkarl/\u001b[14;18Hstickfight/\u001b[15;1Hkernel/\u001b[15;18Htag/\u001b[16;1Hlatex/\u001b[16;18Htemplates/\u001b[17;1Hlcache/\u001b[17;18Htest/\u001b[18;1Hlightning-cd/\u001b[18;18Htext/\u001b[19;1Hlisp/\u001b[19;18Huserscripts/\u001b[20;1Hmissles/\u001b[20;18Hwccls-checker/\u001b[21;1Hnefaria/\u001b[21;18Hwhetstone/\u001b[22;1Hold/\u001b[22;18Hwork/\u001b[23;1Hopengl/"
+    ],
+    [
+      2.414748,
+      "\u001b(B\u001b[m\u001b[1;21H     \u001b(B\u001b[m\u001b[34m\u001b[2;1HAnki/\u001b(B\u001b[m\u001b[2;18H      \u001b(B\u001b[m\u001b[34m\u001b[3;1HBlender/\u001b(B\u001b[m   \u001b[3;18H        \u001b(B\u001b[m\u001b[34m\u001b[4;1HDarkive/\u001b(B\u001b[m\u001b[4;18H            \u001b(B\u001b[m\u001b[34m\u001b[5;1HDesktop/\u001b(B\u001b[m\u001b[5;18H           \u001b(B\u001b[m\u001b[34m\u001b[6;1HDocum\u001b[6;7Hnts/\u001b(B\u001b[m\u001b[6;18H       \u001b(B\u001b[m\u001b[34m\u001b[7;1HDropbox/\u001b(B\u001b[m   \u001b[7;18H       \u001b(B\u001b[m\u001b[34m\u001b[8;1HMusic/\u001b(B\u001b[m          \u001b[8;18H          \u001b(B\u001b[m\u001b[34m\u001b[9;1HPictures/\u001b(B\u001b[m  \u001b[9;18H    \u001b(B\u001b[m\u001b[34m\u001b[10;1HRamdisk\u001b(B\u001b[m\u001b[10;18H      \u001b(B\u001b[m\u001b[34m\u001b[11;1HVideos/\u001b(B\u001b[m    \u001b[11;18H        \u001b(B\u001b[m\u001b[34m\u001b[12;1Hcode/\u001b(B\u001b[m    \u001b[12;18H           \u001b(B\u001b[m\u001b[37m\u001b[13;1Hlightning-2-1\u001b(B\u001b[m\u001b[13;18H          \u001b(B\u001b[m\u001b[37m\u001b[14;1Hlightning-2-2\u001b(B\u001b[m\u001b[14;18H           \u001b(B\u001b[m\u001b[34m\u001b[15;1Hm\u001b[15;4Hcurial/\u001b(B\u001b[m\u001b[15;18H    \u001b(B\u001b[m\u001b[37m\u001b[16;1Hpaypal_fields\u001b(B\u001b[m\u001b[16;18H          \u001b(B\u001b[m\u001b[34m\u001b[17;1Hqui\u001b[17;5Hklisp/\u001b(B\u001b[m\u001b[17;18H     \u001b(B\u001b[m\u001b[34m\u001b[18;1Ht\u001b[18;3Hnyhud/\u001b(B\u001b[m     \u001b[18;18H     \u001b(B\u001b[m\u001b[37m\u001b[19;1Hwiki.html\u001b(B\u001b[m\u001b[19;18H            \u001b[20;1H        \u001b[20;18H              \u001b[21;1H        \u001b[21;18H          \u001b[22;1H    \u001b[22;18H     \u001b[23;1H       "
+    ],
+    [
+      3.368208,
+      "\u001b(B\u001b[m\u001b[37m\u001b[1;21H/code\u001b(B\u001b[m\u001b[34m\u001b[2;1Harx/\u001b(B\u001b[m \u001b(B\u001b[m\u001b[34m\u001b[2;18Hother/\u001b(B\u001b[m\u001b[37m\u001b[3;1Hbackup.lisp\u001b(B\u001b[m\u001b[34m\u001b[3;18Hproject/\u001b[4;1Hc/\u001b(B\u001b[m      \u001b(B\u001b[m\u001b[34m\u001b[4;18Hproject_bug/\u001b[5;1Hc++/\u001b(B\u001b[m    \u001b(B\u001b[m\u001b[34m\u001b[5;18Hproxyprint/\u001b[6;1Hcappl\u001b[6;7Ht/\u001b(B\u001b[m  \u001b(B\u001b[m\u001b[34m\u001b[6;18Hpython/\u001b[7;1Hcoinapplet/\u001b[7;18Hschool/\u001b[8;1Hcorestrike_logs/\u001b(B\u001b[m\u001b[37m\u001b[8;18Hscraper.py\u001b(B\u001b[m\u001b[34m\u001b[9;1Hderivative/\u001b[9;18Hsdl/\u001b[10;1Heditkit\u001b[10;18Hshell/\u001b[11;1Hfouric.net/\u001b[11;18Hsitting/\u001b[12;1Hgcw-test/\u001b[12;18Hsketchbook/\u001b[13;1Hhtml/\u001b(B\u001b[m        \u001b(B\u001b[m\u001b[34m\u001b[13;18Hstarfight/\u001b[14;1Hkarl/\u001b(B\u001b[m        \u001b(B\u001b[m\u001b[34m\u001b[14;18Hstickfight/\u001b[15;1Hk\u001b[15;4Hnel/\u001b(B\u001b[m   \u001b(B\u001b[m\u001b[34m\u001b[15;18Htag/\u001b[16;1Hlatex/\u001b(B\u001b[m       \u001b(B\u001b[m\u001b[34m\u001b[16;18Htemplates/\u001b[17;1Hlca\u001b[17;5Hhe/\u001b(B\u001b[m   \u001b(B\u001b[m\u001b[34m\u001b[17;18Htest/\u001b[18;1Hl\u001b[18;3Hghtning-cd/\u001b[18;18Htext/\u001b[19;1Hlisp/\u001b(B\u001b[m    \u001b(B\u001b[m\u001b[34m\u001b[19;18Huserscripts/\u001b[20;1Hmissles/\u001b[20;18Hwccls-checker/\u001b[21;1Hnefaria/\u001b[21;18Hwhetstone/\u001b[22;1Hold/\u001b[22;18Hwork/\u001b[23;1Hopengl/"
+    ],
+    [
+      1.261801,
+      "\u001b(B\u001b[m\u001b[37m\u001b[1;26H/arx\u001b[2;1Harx.asd\u001b(B\u001b[m\u001b[2;18H      \u001b(B\u001b[m\u001b[37m\u001b[3;1Harx.lisp\u001b(B\u001b[m   \u001b[3;18H        \u001b(B\u001b[m\u001b[37m\u001b[4;1Hlevel.lisp\u001b(B\u001b[m\u001b[4;18H            \u001b(B\u001b[m\u001b[37m\u001b[5;1Htile.lisp\u001b(B\u001b[m\u001b[5;18H           \u001b(B\u001b[m\u001b[37m\u001b[6;1Hubuntu-mono.ttf\u001b(B\u001b[m\u001b[6;18H       \u001b(B\u001b[m\u001b[37m\u001b[7;1Hunit.lisp\u001b(B\u001b[m  \u001b[7;18H       \u001b(B\u001b[m\u001b[37m\u001b[8;1Hworld.lisp\u001b(B\u001b[m      \u001b[8;18H          \u001b[9;1H           \u001b[9;18H    \u001b[10;1H        \u001b[10;18H      \u001b[11;1H           \u001b[11;18H        \u001b[12;1H         \u001b[12;18H           \u001b[13;1H     \u001b[13;18H          \u001b[14;1H     \u001b[14;18H           \u001b[15;1H       \u001b[15;18H    \u001b[16;1H      \u001b[16;18H          \u001b[17;1H       \u001b[17;18H     \u001b[18;1H             \u001b[18;18H     \u001b[19;1H     \u001b[19;18H            \u001b[20;1H        \u001b[20;18H              \u001b[21;1H        \u001b[21;18H          \u001b[22;1H    \u001b[22;18H     \u001b[23;1H       "
+    ],
+    [
+      1.512319,
+      "\u001b[?12l\u001b[?25h\u001b(B\u001b[m\u001b[H\u001b[2J\u001b[?1049l\u001b[?1l\u001b\u003e\u001b[?1000l"
+    ],
+    [
+      0.340019,
+      "\u001b[?1049h\u001b[H\u001b[2J\u001b[?2004h\u001b[8;24;80t\u001b[1;1H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m                                                                                \u001b[2;1H                                                                                \u001b[3;1H                                                                                \u001b[4;1H                                                                                \u001b[5;1H                                                                                \u001b[6;1H                                                                                \u001b[7;1H                                                                                \u001b[8;1H                                                                                \u001b[9;1H                                                                                \u001b[10;1H                                                                                \u001b[11;1H                                                                                \u001b[12;1H                                                                                \u001b[13;1H                                                                                \u001b[14;1H                                                                                \u001b[15;1H                                                                                \u001b[16;1H                                                                                \u001b[17;1H                                                                                \u001b[18;1H                                                                                \u001b[19;1H                                                                                \u001b[20;1H                                                                                \u001b[21;1H                                                                                \u001b[22;1H                                                                                \u001b[23;1H                                                                                \u001b[24;1H                                                                                \u001b[1;1H\u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000712,
+      "\u001b[?25l\u001b[?1002h\u001b[?1006h\u001b[1;1H                                                                                \u001b[2;1H                                                                                \u001b[3;1H                                                                                \u001b[4;1H                                                                                \u001b[5;1H                                                                                \u001b[6;1H                                                                                \u001b[7;1H                                                                                \u001b[8;1H                                                                                \u001b[9;1H                                                                                \u001b[10;1H                                                                                \u001b[11;1H                                                                                \u001b[12;1H                                                                                \u001b[13;1H                                                                                \u001b[14;1H                                                                                \u001b[15;1H                                                                                \u001b[16;1H                                                                                \u001b[17;1H                                                                                \u001b[18;1H                                                                                \u001b[19;1H                                                                                \u001b[20;1H                                                                                \u001b[21;1H                                                                                \u001b[22;1H                                                                                \u001b[23;1H                                                                                \u001b[24;1H                           "
+    ],
+    [
+      0.000018,
+      "                                                     \u001b[1;1H\u001b[24;1H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m\"level.lisp\"\u001b[24;13H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.010062,
+      "\u001b[?25l\u001b[24;14H38L,\u001b[24;19H1019C\u001b[24;24H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.048690,
+      "\u001b[?25l\u001b[24;24H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.352755,
+      "\u001b[?25l\u001b[24;24H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.005645,
+      "\u001b[?25l\u001b[1;1H\u001b(B\u001b[m\u001b[93m\u001b[48;5;235m1   \u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;239m(\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;236mload \u001b(B\u001b[m\u001b[38;5;143m\u001b[48;5;236m\"tile.lisp\"\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;239m)\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;236m                                                          \u001b[2;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m  1 \u001b[3;1H  2 \u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m(defclass\u001b[3;15Hlevel-class\u001b[3;27H()\u001b[4;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m  3 \u001b[4;7H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m((tiles\u001b[4;15H:accessor\u001b[4;25Htiles\u001b[4;31H:initarg\u001b[4;40H:tiles)\u001b[5;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m  4 \u001b[5;8H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m(width\u001b[5;15H:accessor\u001b[5;25Hwidth\u001b[5;31H:initarg\u001b[5;40H:width)\u001b[6;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m  5 \u001b[6;8H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m(height\u001b[6;16H:accessor\u001b[6;26Hheight\u001b[6;33H:initarg\u001b[6;42H:height)))\u001b[7;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m  6 \u001b[8;1H  7 \u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m(defmethod\u001b[8;16Htile-at\u001b[8;24H((level\u001b[8;32Hlevel-class)\u001b[8;45Hx\u001b[8;47Hy)\u001b[9;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m  8 \u001b[9;7H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m(aref\u001b[9;13H(tiles\u001b[9;20Hlevel)\u001b[9;27Hy\u001b[9;29Hx))\u001b[10;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m  9 \u001b[11;1H 10 \u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m(defun\u001b[11;12Hmake-level\u001b[11;23H(width\u001b[11;30Hheight)\u001b[12;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m 11 \u001b[12;7H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m(let\u001b[12;12H((level\u001b[12;20H(make-instance\u001b[12;35H'\u001b(B\u001b[m\u001b[38;5;167m\u001b[48;5;235mlevel-class\u001b[12;48H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m:tiles\u001b[12;55H(make-array\u001b[12;67H(list\u001b[12;73Hheight\u001b[12;80Hw\u001b[13;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m    \u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235midth)\u001b[13;11H\u001b(B\u001b[m\u001b[38;5;109m\u001b[48;5;235m:element-type\u001b[13;25H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m'\u001b(B\u001b[m\u001b[38;5;167m\u001b[48;5;235mtile-class\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m)\u001b[13;38H:width\u001b[13;45Hwidth\u001b[13;51H:height\u001b[13;59Hheight))\u001b[14;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m 12 \u001b[14;13H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m(x\u001b[14;16H\u001b(B\u001b[m\u001b[38;5;173m\u001b[48;5;235m0\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m)\u001b[15;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m 13 \u001b[15;13H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m(y\u001b[15;16H\u001b(B\u001b[m\u001b[38;5;173m\u001b[48;5;235m0\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m))\u001b[16;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m 14 "
+    ],
+    [
+      0.000016,
+      "\u001b[16;9H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m(loop\u001b[17;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m 15 \u001b[17;12H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m(setf\u001b[17;18H(aref\u001b[17;24H(tiles\u001b[17;31Hlevel)\u001b[17;38Hy\u001b[17;40Hx)\u001b[18;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m 16 \u001b[18;18H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m(make-instance\u001b[18;33H'\u001b(B\u001b[m\u001b[38;5;167m\u001b[48;5;235mtile-class\u001b[18;45H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m:tile-type\u001b[18;56H(if\u001b[18;60H(or\u001b[18;64H(zerop\u001b[18;71H(mod\u001b[18;76Hx\u001b[18;78H(1-\u001b[19;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m    \u001b[19;6H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235mwidth)))\u001b[19;15H(zerop\u001b[19;22H(mod\u001b[19;27Hy\u001b[19;29H(1-\u001b[19;33Hheight))))\u001b[20;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m 17 \u001b[20;60H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m'\u001b(B\u001b[m\u001b[38;5;167m\u001b[48;5;235mwall\u001b[21;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m 18 \u001b[21;60H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m'\u001b(B\u001b[m\u001b[38;5;167m\u001b[48;5;235mfloor\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m)))\u001b[22;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m 19 \u001b[22;12H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m(incf\u001b[22;18Hx)\u001b[23;1H\u001b(B\u001b[m\u001b[38;5;235m\u001b[48;5;109m\u001b[1m NORMAL \u001b(B\u001b[m\u001b[38;5;109m\u001b[48;5;239m▶\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;236m▶\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;236m level.lisp            \u001b(B\u001b[m\u001b[38;5;236m\u001b[48;5;236m◀\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;236m lisp \u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;236m◀\u001b(B\u001b[m\u001b[38;5;109m\u001b[48;5;239m◀\u001b(B\u001b[m\u001b[38;5;235m\u001b[48;5;109m   2% ¶\u001b(B\u001b[m\u001b[38;5;235m\u001b[48;5;109m\u001b[1m   1\u001b(B\u001b[m\u001b[38;5;235m\u001b[48;5;109m:  1  \u001b(B\u001b[m\u001b[38;5;166m\u001b[48;5;109m◀\u001b(B\u001b[m\u001b[38;5;232m\u001b[48;5;166m Ξ mixed-indent[17] \u001b[1;5H\u001b[1;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.133953,
+      "\u001b[?25l\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000091,
+      "\u001b[?25l\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000022,
+      "\u001b[?25l\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000038,
+      "\u001b[?25l\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.249921,
+      "\u001b[?25l\u001b[24;1H\u001b[?1002l\u001b[?1006l\u001b(B\u001b[m\u001b[?12l\u001b[?25h\u001b[?1049l\u001b[?2004l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.042184,
+      "\u001b[01;33m~/code/arx\u001b[00m\u001b[00;33m$\u001b[00m "
+    ],
+    [
+      0.698191,
+      "i"
+    ],
+    [
+      0.125307,
+      "\r\n"
+    ],
+    [
+      0.054495,
+      "\u001b[?1049h\u001b[?1h\u001b=\u001b[?25l\u001b(B\u001b[m\u001b[H\u001b[2J"
+    ],
+    [
+      0.000923,
+      "\u001b(B\u001b[m\u001b[37m\u001b[1;1Hsearch: /home/fouric/code/arx\u001b[2;1Harx.asd\u001b[3;1Harx.lisp\u001b[4;1Hlevel.lisp\u001b[5;1Htile.lisp\u001b[6;1Hubuntu-mono.ttf\u001b[7;1Hunit.lisp\u001b[8;1Hworld.lisp"
+    ],
+    [
+      0.455480,
+      "\u001b(B\u001b[m\u001b[1;26H    \u001b(B\u001b[m\u001b[34m\u001b[2;1Harx/\u001b(B\u001b[m   \u001b(B\u001b[m\u001b[34m\u001b[2;18Hother/\u001b(B\u001b[m\u001b[37m\u001b[3;1Hbackup.lisp\u001b(B\u001b[m\u001b[34m\u001b[3;18Hproject/\u001b[4;1Hc/\u001b(B\u001b[m        \u001b(B\u001b[m\u001b[34m\u001b[4;18Hproject_bug/\u001b[5;1Hc++/\u001b(B\u001b[m     \u001b(B\u001b[m\u001b[34m\u001b[5;18Hproxyprint/\u001b[6;1Hcapplet/\u001b(B\u001b[m       \u001b(B\u001b[m\u001b[34m\u001b[6;18Hpython/\u001b[7;1Hcoinapplet/\u001b[7;18Hschool/\u001b[8;1Hcorestrike_logs/\u001b(B\u001b[m\u001b[37m\u001b[8;18Hscraper.py\u001b(B\u001b[m\u001b[34m\u001b[9;1Hderivative/\u001b[9;18Hsdl/\u001b[10;1Heditkit/\u001b[10;18Hshell/\u001b[11;1Hfouric.net/\u001b[11;18Hsitting/\u001b[12;1Hgcw-test/\u001b[12;18Hsketchbook/\u001b[13;1Hhtml/\u001b[13;18Hstarfight/\u001b[14;1Hkarl/\u001b[14;18Hstickfight/\u001b[15;1Hkernel/\u001b[15;18Htag/\u001b[16;1Hlatex/\u001b[16;18Htemplates/\u001b[17;1Hlcache/\u001b[17;18Htest/\u001b[18;1Hlightning-cd/\u001b[18;18Htext/\u001b[19;1Hlisp/\u001b[19;18Huserscripts/\u001b[20;1Hmissles/\u001b[20;18Hwccls-checker/\u001b[21;1Hnefaria/\u001b[21;18Hwhetstone/\u001b[22;1Hold/\u001b[22;18Hwork/\u001b[23;1Hopengl/"
+    ],
+    [
+      0.329754,
+      "\u001b(B\u001b[m\u001b[1;21H     \u001b(B\u001b[m\u001b[34m\u001b[2;1HAnki/\u001b(B\u001b[m\u001b[2;18H      \u001b(B\u001b[m\u001b[34m\u001b[3;1HBlender/\u001b(B\u001b[m   \u001b[3;18H        \u001b(B\u001b[m\u001b[34m\u001b[4;1HDarkive/\u001b(B\u001b[m\u001b[4;18H            \u001b(B\u001b[m\u001b[34m\u001b[5;1HDesktop/\u001b(B\u001b[m\u001b[5;18H           \u001b(B\u001b[m\u001b[34m\u001b[6;1HDocum\u001b[6;7Hnts/\u001b(B\u001b[m\u001b[6;18H       \u001b(B\u001b[m\u001b[34m\u001b[7;1HDropbox/\u001b(B\u001b[m   \u001b[7;18H       \u001b(B\u001b[m\u001b[34m\u001b[8;1HMusic/\u001b(B\u001b[m          \u001b[8;18H          \u001b(B\u001b[m\u001b[34m\u001b[9;1HPictures/\u001b(B\u001b[m  \u001b[9;18H    \u001b(B\u001b[m\u001b[34m\u001b[10;1HRamdisk\u001b(B\u001b[m\u001b[10;18H      \u001b(B\u001b[m\u001b[34m\u001b[11;1HVideos/\u001b(B\u001b[m    \u001b[11;18H        \u001b(B\u001b[m\u001b[34m\u001b[12;1Hcode/\u001b(B\u001b[m    \u001b[12;18H           \u001b(B\u001b[m\u001b[37m\u001b[13;1Hlightning-2-1\u001b(B\u001b[m\u001b[13;18H          \u001b(B\u001b[m\u001b[37m\u001b[14;1Hlightning-2-2\u001b(B\u001b[m\u001b[14;18H           \u001b(B\u001b[m\u001b[34m\u001b[15;1Hm\u001b[15;4Hcurial/\u001b(B\u001b[m\u001b[15;18H    \u001b(B\u001b[m\u001b[37m\u001b[16;1Hpaypal_fields\u001b(B\u001b[m\u001b[16;18H          \u001b(B\u001b[m\u001b[34m\u001b[17;1Hqui\u001b[17;5Hklisp/\u001b(B\u001b[m\u001b[17;18H     \u001b(B\u001b[m\u001b[34m\u001b[18;1Ht\u001b[18;3Hnyhud/\u001b(B\u001b[m     \u001b[18;18H     \u001b(B\u001b[m\u001b[37m\u001b[19;1Hwiki.html\u001b(B\u001b[m\u001b[19;18H            \u001b[20;1H        \u001b[20;18H              \u001b[21;1H        \u001b[21;18H          \u001b[22;1H    \u001b[22;18H     \u001b[23;1H       "
+    ],
+    [
+      0.686260,
+      "\u001b(B\u001b[m\u001b[34m\u001b[2;15H.android/\u001b(B\u001b[m\u001b[37m\u001b[2;38H.gitconfig\u001b[2;55H.pulse-cookie\u001b(B\u001b[m\u001b[34m\u001b[3;15H.arduino/\u001b(B\u001b[m\u001b[37m\u001b[3;38H.gksu.lock\u001b(B\u001b[m\u001b[34m\u001b[3;55H.purple/\u001b[4;15H.arduino15/\u001b[4;38H.gnupg/\u001b[4;55H.python-eggs/\u001b[5;15H.atom/\u001b[5;38H.gstreamer-0.10/\u001b(B\u001b[m\u001b[37m\u001b[5;55H.python_history\u001b[6;15H.bash_history\u001b(B\u001b[m\u001b[34m\u001b[6;38H.gvfs/\u001b(B\u001b[m\u001b[37m\u001b[6;55H.rnd\u001b[7;15H.bash_logout\u001b[7;38H.hgrc\u001b[7;55H.sbclrc\u001b[8;15H.bashrc\u001b(B\u001b[m\u001b[34m\u001b[8;38H.irssi/\u001b[8;55H.slime/\u001b[9;15H.cache/\u001b[9;38H.java/\u001b(B\u001b[m\u001b[37m\u001b[9;55H.slime-history.eld\u001b[10;15H.clisprc.lisp\u001b(B\u001b[m\u001b[34m\u001b[10;38H.jssc/\u001b[10;55H.ssh/\u001b[11;15H.config/\u001b[11;38H.local/\u001b[11;55H.subversion/\u001b[12;15H.cpan/\u001b[12;38H.lugaru/\u001b(B\u001b[m\u001b[37m\u001b[12;55H.sudo_as_admin_successful\u001b(B\u001b[m\u001b[34m\u001b[13;15H.dbus/\u001b[13;38H.macromedia/\u001b(B\u001b[m\u001b[37m\u001b[13;55H.swank.lisp\u001b[14;15H.dmrc\u001b(B\u001b[m\u001b[34m\u001b[14;38H.mono/\u001b[14;55H.thumbnails/\u001b[15;15H.dropbox/\u001b[15;38H.mozilla/\u001b[15;55H.thunderbird/\u001b[16;15H.dropbox-dist/\u001b[16;38H.mplayer/\u001b(B\u001b[m\u001b[37m\u001b[16;55H.tmux.conf\u001b[17;15H.emacs\u001b(B\u001b[m\u001b[34m\u001b[17;38H.nvim/\u001b[17;55H.vim/\u001b[18;15H.emacs.d/\u001b(B\u001b[m\u001b[37m\u001b[18;38H.nviminfo\u001b(B\u001b[m\u001b[34m\u001b[18;55H.weechat/\u001b[19;15H.fonts/\u001b(B\u001b[m\u001b[37m\u001b[19;38H.nvimlog\u001b[19;55H.xsession-errors\u001b[20;1H.ICEauthority\u001b(B\u001b[m\u001b[34m\u001b[20;15H.gconf/\u001b[20;38H.nylas/\u001b(B\u001b[m\u001b[37m\u001b[20;55H.xsession-errors.old\u001b[21;1H.Xauthority\u001b(B\u001b[m\u001b[34m\u001b[21;15H.ghc/\u001b[21;38H.pip/\u001b(B\u001b[m\u001b[37m\u001b[22;1H.Xmodmap\u001b(B\u001b[m\u001b[34m\u001b[22;15H.gimp-2.8/\u001b[22;38H.pki/\u001b[23;1H.adobe/\u001b[23;15H.git-credential-cache/\u001b(B\u001b[m\u001b[37m\u001b[23;38H.profile"
+    ],
+    [
+      2.201754,
+      "\u001b[2;1H.ICEauthority\u001b(B\u001b[m\u001b[2;15H \u001b(B\u001b[m\u001b[34m.gconf/\u001b(B\u001b[m \u001b[2;38H \u001b(B\u001b[m\u001b[34m.nylas/\u001b(B\u001b[m  \u001b[2;55H          \u001b(B\u001b[m\u001b[37m.xsession-errors\u001b[3;1H.Xauthority\u001b(B\u001b[m\u001b[3;15H \u001b(B\u001b[m\u001b[34m.ghc/\u001b(B\u001b[m   \u001b[3;38H \u001b(B\u001b[m\u001b[34m.pip/\u001b(B\u001b[m    \u001b[3;55H        \u001b(B\u001b[m\u001b[37m\u001b[4;1H.Xmodmap\u001b(B\u001b[m\u001b[4;15H \u001b(B\u001b[m\u001b[34m.gimp-2.8\u001b(B\u001b[m\u001b[4;38H \u001b(B\u001b[m\u001b[34m.pki/\u001b(B\u001b[m \u001b[4;55H             \u001b(B\u001b[m\u001b[34m\u001b[5;1H.adobe/\u001b(B\u001b[m \u001b[5;15H \u001b(B\u001b[m\u001b[34m.git-credential-cache/\u001b(B\u001b[m \u001b(B\u001b[m\u001b[37m.profile\u001b(B\u001b[m       \u001b[5;55H               \u001b(B\u001b[m\u001b[34m\u001b[6;1H.android/\u001b(B\u001b[m \u001b[6;15H \u001b(B\u001b[m\u001b[37m.gitconfig\u001b(B\u001b[m  \u001b[6;38H \u001b(B\u001b[m\u001b[37m.pulse-cookie\u001b(B\u001b[m\u001b[6;55H    \u001b(B\u001b[m\u001b[34m\u001b[7;1H.arduino/\u001b(B\u001b[m\u001b[7;15H \u001b(B\u001b[m\u001b[37m.gksu.lock\u001b(B\u001b[m \u001b[7;38H \u001b(B\u001b[m\u001b[34m.purple/\u001b(B\u001b[m\u001b[7;55H       \u001b(B\u001b[m\u001b[34m\u001b[8;1H.arduino15/\u001b(B\u001b[m\u001b[8;15H \u001b(B\u001b[m\u001b[34m.gnupg/\u001b(B\u001b[m\u001b[8;38H \u001b(B\u001b[m\u001b[34m.python-eggs/\u001b(B\u001b[m\u001b[8;55H       \u001b(B\u001b[m\u001b[34m\u001b[9;1H.atom/\u001b(B\u001b[m   \u001b[9;15H \u001b(B\u001b[m\u001b[34m.gstreamer-0.10/\u001b(B\u001b[m\u001b[9;38H \u001b(B\u001b[m\u001b[37m.python_history\u001b(B\u001b[m\u001b[9;55H                  \u001b(B\u001b[m\u001b[37m\u001b[10;1H.bash_history\u001b(B\u001b[m\u001b[10;15H \u001b(B\u001b[m\u001b[34m.gvfs/\u001b(B\u001b[m      \u001b[10;38H \u001b(B\u001b[m\u001b[37m.rnd\u001b(B\u001b[m \u001b[10;55H     \u001b(B\u001b[m\u001b[37m\u001b[11;1H.bash_logout\u001b(B\u001b[m\u001b[11;15H \u001b(B\u001b[m\u001b[37m.hgrc\u001b(B\u001b[m  \u001b[11;38H \u001b(B\u001b[m\u001b[37m.sbclrc\u001b(B\u001b[m\u001b[11;55H            \u001b(B\u001b[m\u001b[37m\u001b[12;1H.bashrc\u001b(B\u001b[m\u001b[12;15H \u001b(B\u001b[m\u001b[34m.irssi/\u001b(B\u001b[m\u001b[12;38H \u001b(B\u001b[m\u001b[34m.slime\u001b(B\u001b[m\u001b[12;55H                         \u001b(B\u001b[m\u001b[34m\u001b[13;1H.cache/\u001b(B\u001b[m      \u001b[13;15H \u001b(B\u001b[m\u001b[34m.java/\u001b(B\u001b[m\u001b[13;38H \u001b(B\u001b[m\u001b[37m.slime-history.eld\u001b(B\u001b[m         \u001b(B\u001b[m\u001b[37m\u001b[14;1H.clisprc.lisp\u001b(B\u001b[m\u001b[14;15H \u001b(B\u001b[m\u001b[34m.jssc/\u001b(B\u001b[m\u001b[14;38H \u001b(B\u001b[m\u001b[34m.ssh\u001b(B\u001b[m\u001b[14;55H            \u001b(B\u001b[m\u001b[34m\u001b[15;1H.config/\u001b(B\u001b[m  \u001b[15;15H \u001b(B\u001b[m\u001b[34m.l\u001b[15;19Hcal/\u001b(B\u001b[m \u001b[15;38H \u001b(B\u001b[m\u001b[34m.subversion/\u001b(B\u001b[m\u001b[15;55H             \u001b(B\u001b[m\u001b[34m\u001b[16;1H.cpan/\u001b(B\u001b[m       \u001b[16;15H \u001b(B\u001b[m\u001b[34m.lugaru/\u001b(B\u001b[m     \u001b[16;38H \u001b(B\u001b[m\u001b[37m.sudo_as_admin_successful\u001b(B\u001b[m \u001b(B\u001b[m\u001b[34m\u001b[17;1H.dbus/\u001b(B\u001b[m    \u001b[17;15H \u001b(B\u001b[m\u001b[34m.macromedia/\u001b(B\u001b[m\u001b[17;38H \u001b(B\u001b[m\u001b[37m.swank.lisp\u001b(B\u001b[m\u001b[17;55H     \u001b(B\u001b[m\u001b[37m\u001b[18;1H.dmrc\u001b(B\u001b[m   \u001b[18;15H \u001b(B\u001b[m\u001b[34m.\u001b[18;18Hono/\u001b(B\u001b[m  \u001b[18;38H \u001b(B\u001b[m\u001b[34m.thumbnails/\u001b(B\u001b[m\u001b[18;55H         \u001b(B\u001b[m\u001b[34m\u001b[19;1H.dropbox/\u001b(B\u001b[m\u001b[19;15H \u001b(B\u001b[m\u001b[34m.mozilla/\u001b(B\u001b[m\u001b[19;38H \u001b(B\u001b[m\u001b[34m.thunderbird/\u001b(B\u001b[m\u001b[19;55H                \u001b(B\u001b[m\u001b[34m\u001b[20;1H.dropbox-dist/\u001b(B\u001b[m \u001b(B\u001b[m\u001b[34m.mplayer/\u001b(B\u001b[m\u001b[20;38H \u001b(B\u001b[m\u001b[37m.tmux.conf\u001b(B\u001b[m\u001b[20;55H                    \u001b(B\u001b[m\u001b[37m\u001b[21;2Hemacs\u001b(B\u001b[m     \u001b[21;15H \u001b(B\u001b[m\u001b[34m.nvim/\u001b(B\u001b[m\u001b[21;38H \u001b(B\u001b[m\u001b[34m.vim/\u001b[22;1H.emacs.d/\u001b(B\u001b[m\u001b[22;15H \u001b(B\u001b[m\u001b[37m.nviminfo\u001b(B\u001b[m\u001b[22;38H \u001b(B\u001b[m\u001b[34m.weechat/\u001b[23;2Hfonts\u001b(B\u001b[m\u001b[23;15H \u001b(B\u001b[m\u001b[37m.nvimlog\u001b(B\u001b[m             \u001b[23;38H \u001b(B\u001b[m\u001b[37m.xsession-errors\u001b[24;1H."
+    ],
+    [
+      0.958907,
+      "\u001b[2;2Hbash_histor\u001b(B\u001b[m\u001b[2;16H       \u001b[2;39H       \u001b[2;65H                \u001b(B\u001b[m\u001b[37m\u001b[3;2Hb\u001b[3;4Hsh_logout\u001b(B\u001b[m\u001b[3;16H     \u001b[3;39H     \u001b(B\u001b[m\u001b[37m\u001b[4;2Hbashrc\u001b(B\u001b[m \u001b[4;16H          \u001b[4;39H     \u001b[5;1H       \u001b[5;16H                      \u001b[5;39H        \u001b[6;1H         \u001b[6;16H          \u001b[6;39H             \u001b[7;1H         \u001b[7;16H          \u001b[7;39H        \u001b[8;1H           \u001b[8;16H       \u001b[8;39H             \u001b[9;1H      \u001b[9;16H                \u001b[9;39H               \u001b[10;1H             \u001b[10;16H      \u001b[10;39H    \u001b[11;1H            \u001b[11;16H     \u001b[11;39H       \u001b[12;1H       \u001b[12;16H       \u001b[12;39H       \u001b[13;1H       \u001b[13;16H      \u001b[13;39H                  \u001b[14;1H             \u001b[14;16H      \u001b[14;39H     \u001b[15;1H        \u001b[15;16H       \u001b[15;39H            \u001b[16;1H      \u001b[16;16H        \u001b[16;39H                         \u001b[17;1H      \u001b[17;16H            \u001b[17;39H           \u001b[18;1H     \u001b[18;16H      \u001b[18;39H            \u001b[19;1H         \u001b[19;16H         \u001b[19;39H             \u001b[20;1H              \u001b[20;16H         \u001b[20;39H          \u001b[21;1H      \u001b[21;16H      \u001b[21;39H     \u001b[22;1H         \u001b[22;16H         \u001b[22;39H         \u001b[23;1H       \u001b[23;16H        \u001b[23;39H                \u001b(B\u001b[m\u001b[37m\u001b[24;2Hb"
+    ],
+    [
+      0.388023,
+      "\u001b[24;3Ha"
+    ],
+    [
+      0.477938,
+      "\u001b[24;4Hs"
+    ],
+    [
+      0.128426,
+      "\u001b[24;5Hh"
+    ],
+    [
+      0.292012,
+      "\u001b[?12l\u001b[?25h\u001b(B\u001b[m\u001b[H\u001b[2J\u001b[?1049l\u001b[?1l\u001b\u003e\u001b[?1000l"
+    ],
+    [
+      0.326024,
+      "\u001b[?1049h\u001b[H\u001b[2J\u001b[?2004h\u001b[8;24;80t\u001b[1;1H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m                                                                                \u001b[2;1H                                                                                \u001b[3;1H                                                                                \u001b[4;1H                                                                                \u001b[5;1H                                                                                \u001b[6;1H                                                                                \u001b[7;1H                                                                                \u001b[8;1H                                                                                \u001b[9;1H                                                                                \u001b[10;1H                                                                                \u001b[11;1H                                                                                \u001b[12;1H                                                                                \u001b[13;1H                                                                                \u001b[14;1H                                                                                \u001b[15;1H                                                                                \u001b[16;1H                                                                                \u001b[17;1H                                                                                \u001b[18;1H                                                                                \u001b[19;1H                                                                                \u001b[20;1H                                                                                \u001b[21;1H                                                                                \u001b[22;1H                                                                                \u001b[23;1H                                                                           "
+    ],
+    [
+      0.000022,
+      "     \u001b[24;1H                                                                                \u001b[1;1H\u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000368,
+      "\u001b[?25l\u001b[?1002h\u001b[?1006h\u001b[1;1H                                                                                \u001b[2;1H                                                                                \u001b[3;1H                                                                                \u001b[4;1H                                                                                \u001b[5;1H                                                                                \u001b[6;1H                                                                                \u001b[7;1H                                                                                \u001b[8;1H                                                                                \u001b[9;1H                                                                                \u001b[10;1H                                                                                \u001b[11;1H                                                                                \u001b[12;1H                                                                                \u001b[13;1H                                                                                \u001b[14;1H                                                                                \u001b[15;1H                                                                                \u001b[16;1H                                                                                \u001b[17;1H                                                                                \u001b[18;1H                                                                                \u001b[19;1H                                                                                \u001b[20;1H                                                                                \u001b[21;1H                                                                                \u001b[22;1H                                                                                \u001b[23;1H                                                                                \u001b[24;1H                           "
+    ],
+    [
+      0.000014,
+      "                                                     \u001b[1;1H\u001b[24;1H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m\".bashrc\"\u001b[24;10H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000063,
+      "\u001b[?25l\u001b[24;11H121L,\u001b[24;17H3873C\u001b[24;22H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.059926,
+      "\u001b[?25l\u001b[24;22H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.289968,
+      "\u001b[?25l\u001b[24;22H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.006901,
+      "\u001b[?25l\u001b[1;1H\u001b(B\u001b[m\u001b[93m\u001b[48;5;235m1   \u001b(B\u001b[m\u001b[38;5;245m\u001b[48;5;236m# ~/.bashrc: executed by bash(1) for non-login shells.\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;236m                      \u001b[2;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m  1 \u001b(B\u001b[m\u001b[38;5;245m\u001b[48;5;235m# see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)\u001b[3;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m  2 \u001b(B\u001b[m\u001b[38;5;245m\u001b[48;5;235m# for examples\u001b[4;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m  3 \u001b[5;1H  4 \u001b(B\u001b[m\u001b[38;5;245m\u001b[48;5;235m# if not running interactively, don't do anything\u001b[6;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m  5 \u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235mcase\u001b[6;10H\u001b(B\u001b[m\u001b[38;5;139m\u001b[48;5;235m$-\u001b[6;13H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235min\u001b[7;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m  6 \u001b[7;9H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m*i*)\u001b[7;14H;;\u001b[8;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m  7 \u001b[8;11H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m*)\u001b[8;14Hreturn;;\u001b[9;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m  8 \u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235mesac\u001b[10;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m  9 \u001b[11;1H 10 \u001b(B\u001b[m\u001b[38;5;245m\u001b[48;5;235m# don't put duplicate lines or lines starting with space in the history.\u001b[12;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m 11 \u001b(B\u001b[m\u001b[38;5;245m\u001b[48;5;235m# See bash(1) for more options\u001b[13;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m 12 \u001b(B\u001b[m\u001b[38;5;167m\u001b[48;5;235mHISTCONTROL\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m=ignoreboth\u001b[14;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m 13 \u001b[15;1H 14 \u001b(B\u001b[m\u001b[38;5;245m\u001b[48;5;235m# disable less's history feature\u001b[16;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m 15 \u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235mexport\u001b(B\u001b[m\u001b[38;5;167m\u001b[48;5;235m LESSHISTFILE=\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m/dev/null\u001b[17;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m 16 \u001b[18;1H 17 \u001b(B\u001b[m\u001b[38;5;245m\u001b[48;5;235m# append to the history file, don't overwrite it\u001b[19;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m 18 \u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235mshopt\u001b[19;11H-s\u001b[19;14Hhistappend\u001b[20;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m 19 \u001b[21;1H 20 \u001b(B\u001b[m\u001b[38;5;245m\u001b[48;5;235m# use autocd\u001b[22;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m 21 \u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235mshopt\u001b[22;11H-s\u001b[22;14Hautocd\u001b[23;1H\u001b(B\u001b[m\u001b[38;5;235m\u001b[48;5;109m\u001b[1m NORMAL \u001b(B\u001b[m\u001b[38;5;109m\u001b[48;5;239m▶\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;236m▶\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;236m .bashrc                                      \u001b(B\u001b[m\u001b[38;5;236m\u001b[48;5;236m◀\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;236m sh \u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;236m◀\u001b(B\u001b[m\u001b[38;5;109m\u001b[48;5;239m◀\u001b(B\u001b[m\u001b[38;5;235m\u001b[48;5;109m   0% ¶\u001b(B\u001b[m\u001b[38;5;235m\u001b[48;5;109m\u001b[1m   1\u001b(B\u001b[m\u001b[38;5;235m\u001b[48;5;109m:  1  \u001b[1;5H\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000018,
+      "\u001b[?25l\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.577838,
+      "\u001b[?25l\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000024,
+      "\u001b[?25l\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001719,
+      "\u001b[?25l\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.003746,
+      "\u001b[?25l\u001b[1;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m  1 \u001b(B\u001b[m\u001b[38;5;245m\u001b[48;5;235m# ~/.bashrc: executed by bash(1) for non-login shells.\u001b[1;59H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m                      \u001b[1;59H\u001b[2;1H\u001b(B\u001b[m\u001b[93m\u001b[48;5;235m2   \u001b(B\u001b[m\u001b[38;5;245m\u001b[48;5;236m# see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;236m  \u001b[3;1H\u001b[3;3H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m1\u001b[4;3H2\u001b[5;3H3\u001b[6;3H4\u001b[7;3H5\u001b[8;3H6\u001b[9;3H7\u001b[10;3H8\u001b[11;2H 9\u001b[12;3H0\u001b[13;3H1\u001b[14;3H2\u001b[15;3H3\u001b[16;3H4\u001b[17;3H5\u001b[18;3H6\u001b[19;3H7\u001b[20;3H8\u001b[21;2H19\u001b[22;3H0\u001b[23;67H\u001b(B\u001b[m\u001b[38;5;235m\u001b[48;5;109m1\u001b[23;74H\u001b(B\u001b[m\u001b[38;5;235m\u001b[48;5;109m\u001b[1m2\u001b[2;5H\u001b[2;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[2;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.220175,
+      "\u001b[?25l\u001b[2;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[2;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.004719,
+      "\u001b[?25l\u001b[2;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.011428,
+      "\u001b[?25l\u001b[1;3H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m2\u001b[2;1H  1 \u001b(B\u001b[m\u001b[38;5;245m\u001b[48;5;235m# see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)\u001b[2;79H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m  \u001b[2;79H\u001b[3;1H\u001b(B\u001b[m\u001b[93m\u001b[48;5;235m3   \u001b(B\u001b[m\u001b[38;5;245m\u001b[48;5;236m# for examples\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;236m                                                              \u001b[4;1H\u001b[4;3H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m1\u001b[5;3H2\u001b[6;3H3\u001b[7;3H4\u001b[8;3H5\u001b[9;3H6\u001b[10;3H7\u001b[11;3H8\u001b[12;2H 9\u001b[13;3H0\u001b[14;3H1\u001b[15;3H2\u001b[16;3H3\u001b[17;3H4\u001b[18;3H5\u001b[19;3H6\u001b[20;3H7\u001b[21;3H8\u001b[22;2H19\u001b[23;67H\u001b(B\u001b[m\u001b[38;5;235m\u001b[48;5;109m2\u001b[23;74H\u001b(B\u001b[m\u001b[38;5;235m\u001b[48;5;109m\u001b[1m3\u001b[3;5H\u001b[3;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[3;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.144081,
+      "\u001b[?25l\u001b[3;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000089,
+      "\u001b[?25l\u001b[3;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.003296,
+      "\u001b[?25l\u001b[3;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.010437,
+      "\u001b[?25l\u001b[1;3H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m3\u001b[2;3H2\u001b[3;1H  1 \u001b(B\u001b[m\u001b[38;5;245m\u001b[48;5;235m# for examples\u001b[3;19H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m                                                              \u001b[3;19H\u001b[4;1H\u001b(B\u001b[m\u001b[93m\u001b[48;5;235m4   \u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;236m                                                                            \u001b[5;1H\u001b[5;3H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m1\u001b[6;3H2\u001b[7;3H3\u001b[8;3H4\u001b[9;3H5\u001b[10;3H6\u001b[11;3H7\u001b[12;3H8\u001b[13;2H 9\u001b[14;3H0\u001b[15;3H1\u001b[16;3H2\u001b[17;3H3\u001b[18;3H4\u001b[19;3H5\u001b[20;3H6\u001b[21;3H7\u001b[22;3H8\u001b[23;67H\u001b(B\u001b[m\u001b[38;5;235m\u001b[48;5;109m3\u001b[23;74H\u001b(B\u001b[m\u001b[38;5;235m\u001b[48;5;109m\u001b[1m4\u001b[4;5H\u001b[4;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000033,
+      "\u001b[?25l\u001b[4;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.354568,
+      "\u001b[?25l\u001b[4;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000045,
+      "\u001b[?25l\u001b[4;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.004850,
+      "\u001b[?25l\u001b[4;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.011968,
+      "\u001b[?25l\u001b[1;3H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m2\u001b[2;3H1\u001b[3;1H\u001b(B\u001b[m\u001b[93m\u001b[48;5;235m3   \u001b(B\u001b[m\u001b[38;5;245m\u001b[48;5;236m# for examples\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;236m                                                              \u001b[4;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m  1 \u001b[4;5H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m                                                                            \u001b[4;5H\u001b[5;3H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m2\u001b[6;3H3\u001b[7;3H4\u001b[8;3H5\u001b[9;3H6\u001b[10;3H7\u001b[11;3H8\u001b[12;3H9\u001b[13;2H10\u001b[14;3H1\u001b[15;3H2\u001b[16;3H3\u001b[17;3H4\u001b[18;3H5\u001b[19;3H6\u001b[20;3H7\u001b[21;3H8\u001b[22;3H9\u001b[23;67H\u001b(B\u001b[m\u001b[38;5;235m\u001b[48;5;109m2\u001b[23;74H\u001b(B\u001b[m\u001b[38;5;235m\u001b[48;5;109m\u001b[1m3\u001b[3;5H\u001b[3;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[3;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.174364,
+      "\u001b[?25l\u001b[3;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000030,
+      "\u001b[?25l\u001b[3;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.004666,
+      "\u001b[?25l\u001b[3;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.011748,
+      "\u001b[?25l\u001b[1;3H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m1\u001b[2;1H\u001b(B\u001b[m\u001b[93m\u001b[48;5;235m2   \u001b(B\u001b[m\u001b[38;5;245m\u001b[48;5;236m# see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;236m  \u001b[3;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m  1 \u001b(B\u001b[m\u001b[38;5;245m\u001b[48;5;235m# for examples\u001b[3;19H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m                                                              \u001b[3;19H\u001b[4;3H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m2\u001b[5;3H3\u001b[6;3H4\u001b[7;3H5\u001b[8;3H6\u001b[9;3H7\u001b[10;3H8\u001b[11;3H9\u001b[12;2H10\u001b[13;3H1\u001b[14;3H2\u001b[15;3H3\u001b[16;3H4\u001b[17;3H5\u001b[18;3H6\u001b[19;3H7\u001b[20;3H8\u001b[21;3H9\u001b[22;2H20\u001b[23;67H\u001b(B\u001b[m\u001b[38;5;235m\u001b[48;5;109m1\u001b[23;74H\u001b(B\u001b[m\u001b[38;5;235m\u001b[48;5;109m\u001b[1m2\u001b[2;5H\u001b[2;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000038,
+      "\u001b[?25l\u001b[2;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.146945,
+      "\u001b[?25l\u001b[2;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000011,
+      "\u001b[?25l\u001b[2;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.003531,
+      "\u001b[?25l\u001b[2;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.007997,
+      "\u001b[?25l\u001b[1;1H\u001b(B\u001b[m\u001b[93m\u001b[48;5;235m1   \u001b(B\u001b[m\u001b[38;5;245m\u001b[48;5;236m# ~/.bashrc: executed by bash(1) for non-login shells.\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;236m                      \u001b[2;1H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m  1 \u001b(B\u001b[m\u001b[38;5;245m\u001b[48;5;235m# see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)\u001b[2;79H\u001b(B\u001b[m\u001b[38;5;250m\u001b[48;5;235m  \u001b[2;79H\u001b[3;3H\u001b(B\u001b[m\u001b[38;5;239m\u001b[48;5;235m2\u001b[4;3H3\u001b[5;3H4\u001b[6;3H5\u001b[7;3H6\u001b[8;3H7\u001b[9;3H8\u001b[10;3H9\u001b[11;2H10\u001b[12;3H1\u001b[13;3H2\u001b[14;3H3\u001b[15;3H4\u001b[16;3H5\u001b[17;3H6\u001b[18;3H7\u001b[19;3H8\u001b[20;3H9\u001b[21;2H20\u001b[22;3H1\u001b[23;67H\u001b(B\u001b[m\u001b[38;5;235m\u001b[48;5;109m0\u001b[23;74H\u001b(B\u001b[m\u001b[38;5;235m\u001b[48;5;109m\u001b[1m1\u001b[1;5H\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000027,
+      "\u001b[?25l\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.147384,
+      "\u001b[?25l\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000076,
+      "\u001b[?25l\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000073,
+      "\u001b[?25l\u0007\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002003,
+      "\u001b[?25l\u001b[1;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.748553,
+      "\u001b[?25l\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000035,
+      "\u001b[?25l\u001b[1;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000022,
+      "\u001b[?25l\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.223259,
+      "\u001b[?25l\u001b[24;1H\u001b[?1002l\u001b[?1006l\u001b(B\u001b[m\u001b[?12l\u001b[?25h\u001b[?1049l\u001b[?2004l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.053319,
+      "\u001b[01;33m~\u001b[00m\u001b[00;33m$\u001b[00m "
+    ],
+    [
+      2.884804,
+      "i"
+    ],
+    [
+      0.107259,
+      "\r\n"
+    ],
+    [
+      0.056948,
+      "\u001b[?1049h\u001b[?1h\u001b=\u001b[?25l\u001b(B\u001b[m\u001b[H\u001b[2J"
+    ],
+    [
+      0.002232,
+      "\u001b(B\u001b[m\u001b[37m\u001b[1;1Hsearch: /home/fouric\u001b(B\u001b[m\u001b[34m\u001b[2;1HAnki/\u001b[3;1HBlender/\u001b[4;1HDarkive/\u001b[5;1HDesktop/\u001b[6;1HDocuments/\u001b[7;1HDropbox/\u001b[8;1HMusic/\u001b[9;1HPictures/\u001b[10;1HRamdisk/\u001b[11;1HVideos/\u001b[12;1Hcode/\u001b(B\u001b[m\u001b[37m\u001b[13;1Hlightning-2-1\u001b[14;1Hlightning-2-2\u001b(B\u001b[m\u001b[34m\u001b[15;1Hmercurial/\u001b(B\u001b[m\u001b[37m\u001b[16;1Hpaypal_fields\u001b(B\u001b[m\u001b[34m\u001b[17;1Hquicklisp/\u001b[18;1Htinyhud/\u001b(B\u001b[m\u001b[37m\u001b[19;1Hwiki.html"
+    ],
+    [
+      0.855378,
+      "\u001b(B\u001b[m\u001b[1;14H       \u001b(B\u001b[m\u001b[34m\u001b[2;1Hfouric/\u001b[3;1Hkermac/\u001b(B\u001b[m \u001b(B\u001b[m\u001b[34m\u001b[4;1Hlost+found/\u001b(B\u001b[m\u001b[5;1H        \u001b[6;1H          \u001b[7;1H        \u001b[8;1H      \u001b[9;1H         \u001b[10;1H        \u001b[11;1H       \u001b[12;1H     \u001b[13;1H             \u001b[14;1H             \u001b[15;1H          \u001b[16;1H             \u001b[17;1H          \u001b[18;1H        \u001b[19;1H         "
+    ],
+    [
+      0.140674,
+      "\u001b[1;10H    \u001b(B\u001b[m\u001b[34m\u001b[2;1Hbin/\u001b(B\u001b[m   \u001b(B\u001b[m\u001b[34m\u001b[2;13Husr/\u001b[3;1Hboot/\u001b(B\u001b[m  \u001b(B\u001b[m\u001b[34m\u001b[3;13Hvar/\u001b[4;1Hcdrom/\u001b(B\u001b[m     \u001b(B\u001b[m\u001b[37m\u001b[4;13Hvmlinuz\u001b[5;1Hcore\u001b(B\u001b[m\u001b[34m\u001b[6;1Hdev/\u001b[7;1Hetc/\u001b[8;1Hhome/\u001b(B\u001b[m\u001b[37m\u001b[9;1Hinitrd.img\u001b(B\u001b[m\u001b[34m\u001b[10;1Hlib/\u001b[11;1Hlib32/\u001b[12;1Hlib64/\u001b[13;1Hlibx32/\u001b[14;1Hlost+found/\u001b[15;1Hmedia/\u001b[16;1Hmnt/\u001b[17;1Hproc/\u001b[18;1Hroot/\u001b[19;1Hrun/\u001b[20;1Hsbin/\u001b[21;1Hsrv/\u001b[22;1Hsys/\u001b[23;1Htmp/"
+    ],
+    [
+      0.730841,
+      "\u001b[?12l\u001b[?25h\u001b(B\u001b[m\u001b[H\u001b[2J\u001b[?1049l\u001b[?1l\u001b\u003e\u001b[?1000l"
+    ],
+    [
+      0.025455,
+      "\u001b[01;33m/\u001b[00m\u001b[00;33m$\u001b[00m "
+    ],
+    [
+      0.519529,
+      "p"
+    ],
+    [
+      0.059659,
+      "w"
+    ],
+    [
+      0.136131,
+      "d"
+    ],
+    [
+      0.575054,
+      "\r\n"
+    ],
+    [
+      0.000239,
+      "/"
+    ],
+    [
+      0.000033,
+      "\r\n"
+    ],
+    [
+      0.002523,
+      "\u001b[01;33m/\u001b[00m\u001b[00;33m$\u001b[00m "
+    ],
+    [
+      2.640959,
+      "exit"
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ]
+  ]
+}
