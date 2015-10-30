@@ -1,0 +1,186 @@
+{
+  "version": 1,
+  "width": 92,
+  "height": 33,
+  "duration": 12.697703,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "ansi",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.105338,
+      "\u001b[1m\u001b[7m%\u001b[m\u001b[1m\u001b[0m                                                                                          \r \r"
+    ],
+    [
+      0.000008,
+      "\u001b]7;file://IDMAC008.local/usr/local/Library\u0007"
+    ],
+    [
+      0.001194,
+      "\r\u001b[0m\u001b[m\u001b[m\u001b[J\u001b[34m/u/l/Library "
+    ],
+    [
+      0.000009,
+      "\u001b[K"
+    ],
+    [
+      0.000582,
+      "\r\r\u001b[0m\u001b[m\u001b[m\u001b[J\u001b[34m/u/l/Library \u001b[1m\u001b[31m❯\u001b[33m❯\u001b[32m❯\u001b[39m\u001b[0m \u001b[K"
+    ],
+    [
+      0.135898,
+      "\r\r\u001b[0m\u001b[m\u001b[m\u001b[J\u001b[34m/u/l/Library \u001b[1m\u001b[31m❯\u001b[33m❯\u001b[32m❯\u001b[39m\u001b[0m "
+    ],
+    [
+      0.000007,
+      "\u001b[K\u001b[65C \u001b[1m\u001b[32mmaster\u001b[39m\u001b[0m \u001b[1m\u001b[36m✭\u001b[39m\u001b[0m\u001b[74D"
+    ],
+    [
+      4.616241,
+      "\u001b[32mw\u001b[39m"
+    ],
+    [
+      0.148633,
+      "\u001b[D\u001b[4m\u001b[33mw\u001b[4m\u001b[33mh\u001b[m\u001b[39m"
+    ],
+    [
+      0.976883,
+      "\u001b[D\u001b[D\u001b[m\u001b[32mw\u001b[m\u001b[32mh\u001b[32mo\u001b[39m"
+    ],
+    [
+      0.152470,
+      " "
+    ],
+    [
+      0.249420,
+      "\u001b[4ma\u001b[m"
+    ],
+    [
+      0.564078,
+      "\u001b[D\u001b[4m\u001b[33ma\u001b[4m\u001b[33mm\u001b[m\u001b[39m"
+    ],
+    [
+      0.168753,
+      "\u001b[D\u001b[D\u001b[m\u001b[39ma\u001b[m\u001b[39mm "
+    ],
+    [
+      0.507336,
+      "\u001b[4m\u001b[33mi\u001b[m\u001b[39m"
+    ],
+    [
+      0.310317,
+      "\r\r\u001b[0m\u001b[m\u001b[m\u001b[J\u001b[34m/u/l/Library \u001b[1m\u001b[31m❯\u001b[33m❯\u001b[32m❯\u001b[39m\u001b[0m "
+    ],
+    [
+      0.000011,
+      "\u001b[32mwho\u001b[39m am \u001b[4m\u001b[33mi\u001b[m\u001b[39m\u001b[K\u001b[57C \u001b[1m\u001b[32mmaster\u001b[39m\u001b[0m \u001b[1m\u001b[36m✭\u001b[39m\u001b[0m\u001b[66D"
+    ],
+    [
+      0.000172,
+      "\r\r\n"
+    ],
+    [
+      0.010132,
+      "ab       ttys002  Oct 30 23:04 \r\n"
+    ],
+    [
+      0.000457,
+      "\u001b[1m\u001b[7m%\u001b[m\u001b[1m\u001b[0m                                                                                          \r \r"
+    ],
+    [
+      0.000039,
+      "\u001b]7;file://IDMAC008.local/usr/local/Library\u0007"
+    ],
+    [
+      0.001244,
+      "\r\u001b[0m\u001b[m\u001b[m\u001b[J\u001b[34m/u/l/Library \u001b[1m\u001b[31m❯\u001b[33m❯\u001b[32m❯\u001b[39m\u001b[0m "
+    ],
+    [
+      0.000012,
+      "\u001b[K"
+    ],
+    [
+      0.000519,
+      "\r\r\u001b[0m\u001b[m\u001b[m\u001b[J\u001b[34m/u/l/Library \u001b[1m\u001b[31m❯\u001b[33m❯\u001b[32m❯\u001b[39m\u001b[0m \u001b[K"
+    ],
+    [
+      0.128375,
+      "\r\r\u001b[0m\u001b[m\u001b[m\u001b[J\u001b[34m/u/l/Library \u001b[1m\u001b[31m❯\u001b[33m❯\u001b[32m❯\u001b[39m\u001b[0m \u001b[K\u001b[65C \u001b[1m\u001b[32mmaster\u001b[39m\u001b[0m \u001b[1m\u001b[36m✭\u001b[39m\u001b[0m\u001b[74D"
+    ],
+    [
+      0.945139,
+      "\u001b[4m\u001b[33mu\u001b[m\u001b[39m"
+    ],
+    [
+      0.235125,
+      "\u001b[D\u001b[4m\u001b[33mu\u001b[4m\u001b[33mn\u001b[m\u001b[39m"
+    ],
+    [
+      0.123649,
+      "\u001b[D\u001b[D\u001b[m\u001b[1m\u001b[31mu\u001b[m\u001b[1m\u001b[31mn\u001b[1m\u001b[31ma\u001b[0m\u001b[39m"
+    ],
+    [
+      0.062868,
+      "\u001b[D\u001b[1m\u001b[31ma\u001b[1m\u001b[31mm\u001b[0m\u001b[39m"
+    ],
+    [
+      0.123616,
+      "\u001b[4D\u001b[0m\u001b[32mu\u001b[0m\u001b[32mn\u001b[0m\u001b[32ma\u001b[0m\u001b[32mm\u001b[32me\u001b[39m"
+    ],
+    [
+      0.680574,
+      " "
+    ],
+    [
+      0.122557,
+      "-"
+    ],
+    [
+      0.173339,
+      "a"
+    ],
+    [
+      0.154429,
+      "\r\r\u001b[0m\u001b[m\u001b[m\u001b[J\u001b[34m/u/l/Library \u001b[1m\u001b[31m❯\u001b[33m❯\u001b[32m❯\u001b[39m\u001b[0m "
+    ],
+    [
+      0.000008,
+      "\u001b[32muname\u001b[39m -a\u001b[K\u001b[57C \u001b[1m\u001b[32mmaster\u001b[39m\u001b[0m \u001b[1m\u001b[36m✭\u001b[39m\u001b[0m\u001b[66D"
+    ],
+    [
+      0.000065,
+      "\r\r\n"
+    ],
+    [
+      0.003955,
+      "Darwin IDMAC008.local 15.0.0 Darwin Kernel Version 15.0.0: Wed Aug 26 16:57:32 PDT 2015; root:xnu-3247.1.106~1/RELEASE_X86_64 x86_64\r\n"
+    ],
+    [
+      0.000351,
+      "\u001b[1m\u001b[7m%\u001b[m\u001b[1m\u001b[0m                                                                                          \r \r"
+    ],
+    [
+      0.000015,
+      "\u001b]7;file://IDMAC008.local/usr/local/Library\u0007"
+    ],
+    [
+      0.000979,
+      "\r\u001b[0m\u001b[m\u001b[m\u001b[J\u001b[34m/u/l/Library \u001b[1m\u001b[31m❯\u001b[33m❯\u001b[32m❯\u001b[39m\u001b[0m \u001b[K"
+    ],
+    [
+      0.000687,
+      "\r\r\u001b[0m\u001b[m\u001b[m\u001b[J\u001b[34m/u/l/Library \u001b[1m\u001b[31m❯\u001b[33m❯\u001b[32m❯\u001b[39m\u001b[0m \u001b[K"
+    ],
+    [
+      0.118658,
+      "\r\r\u001b[0m\u001b[m\u001b[m\u001b[J\u001b[34m/u/l/Library \u001b[1m\u001b[31m❯\u001b[33m❯\u001b[32m❯\u001b[39m\u001b[0m \u001b[K\u001b[65C \u001b[1m\u001b[32mmaster\u001b[39m\u001b[0m \u001b[1m\u001b[36m✭\u001b[39m\u001b[0m\u001b[74D"
+    ],
+    [
+      1.862156,
+      "\r\r\n"
+    ]
+  ]
+}
