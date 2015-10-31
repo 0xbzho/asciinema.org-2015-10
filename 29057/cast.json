@@ -1,0 +1,2026 @@
+{
+  "version": 1,
+  "width": 146,
+  "height": 30,
+  "duration": 169.901472,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.067605,
+      "\u001b]777;notify;Command completed;vagrant ssh\u0007\u001b]0;nkhare@dhcp35-118:/work/presetations/linuxconeu\u0007\u001b]7;file://dhcp35-118.lab.eng.blr.redhat.com/work/presetations/linuxconeu\u0007"
+    ],
+    [
+      0.000168,
+      "[nkhare@dhcp35-118 linuxconeu]$ "
+    ],
+    [
+      0.861734,
+      "\r\u001b[10P(reverse-i-search)`':\u001b[C"
+    ],
+    [
+      0.187840,
+      "\u0008\u0008\u0008s': vagrant ssh\u0008\u0008"
+    ],
+    [
+      0.141864,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[1@s\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.088475,
+      "\u0007\r\u001b[C\u001b[8@failed reverse-i-search)`ssj\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.718383,
+      "\r[nkhare@dhcp35-118 linuxconeu]$\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\r\n"
+    ],
+    [
+      2.399083,
+      "Last login: Wed Sep 30 16:01:11 2015 from 10.0.2.2\r\r\n"
+    ],
+    [
+      0.000825,
+      "\u001b]0;vagrant@lab-vm-1:~\u0007"
+    ],
+    [
+      0.000751,
+      "[vagrant@lab-vm-1 ~]$ "
+    ],
+    [
+      1.142475,
+      "s"
+    ],
+    [
+      0.119308,
+      "u"
+    ],
+    [
+      0.100833,
+      "d"
+    ],
+    [
+      0.118144,
+      "o"
+    ],
+    [
+      0.057784,
+      " "
+    ],
+    [
+      0.156278,
+      "-"
+    ],
+    [
+      0.102043,
+      "s"
+    ],
+    [
+      0.206294,
+      "\r\n"
+    ],
+    [
+      0.043153,
+      "\u001b]0;root@lab-vm-1:/home/vagrant\u0007"
+    ],
+    [
+      0.000516,
+      "[root@lab-vm-1 vagrant]# "
+    ],
+    [
+      1.942156,
+      "\u001b[H\u001b[2J[root@lab-vm-1 vagrant]# "
+    ],
+    [
+      3.485966,
+      "f"
+    ],
+    [
+      0.189246,
+      "d"
+    ],
+    [
+      0.141810,
+      "\u0007"
+    ],
+    [
+      0.399573,
+      "o"
+    ],
+    [
+      0.213330,
+      "k"
+    ],
+    [
+      0.085799,
+      "k"
+    ],
+    [
+      0.287305,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.173817,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.141887,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.260550,
+      "o"
+    ],
+    [
+      0.582508,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.204245,
+      "i"
+    ],
+    [
+      0.115902,
+      "s"
+    ],
+    [
+      0.112933,
+      "k"
+    ],
+    [
+      0.103341,
+      " "
+    ],
+    [
+      0.268267,
+      "-"
+    ],
+    [
+      0.221271,
+      "l"
+    ],
+    [
+      0.133994,
+      " "
+    ],
+    [
+      0.349530,
+      "|"
+    ],
+    [
+      0.172861,
+      " "
+    ],
+    [
+      0.140829,
+      "l"
+    ],
+    [
+      0.211736,
+      "e"
+    ],
+    [
+      0.205339,
+      "s"
+    ],
+    [
+      0.141717,
+      "s"
+    ],
+    [
+      0.314998,
+      "\r\n\u001b[?1049h\u001b[?1h\u001b=\r"
+    ],
+    [
+      0.010139,
+      "Disk /dev/sdb: 39.1 GiB, 41943040000 bytes, 81920000 sectors"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000488,
+      "Units: sectors of 1 * 512 = 512 bytes\r\nSector size (logical/physical): 512 bytes / 512 bytes\r\nI/O size (minimum/optimal): 512 bytes / 512 bytes\r\nDisklabel type: dos\r\nDisk identifier: 0xfa5d0d54\r\n\r\nDevice     Boot Start      End  Sectors  Size Id Type\r\n/dev/sdb1  *     2048 81919999 81917952 39.1G 83 Linux\r\n\r\n\r\nDisk /dev/sda: 4 GiB, 4294967296 bytes, 8388608 sectors\r\nUnits: sectors of 1 * 512 = 512 bytes\r\nSector size (logical/physical): 512 bytes / 512 bytes\r\nI/O size (minimum/optimal): 512 bytes / 512 bytes\r\n\r\n\r\nDisk /dev/loop0: 100 GiB, 107374182400 bytes, 209715200 sectors\r\nUnits: sectors of 1 * 512 = 512 bytes\r\nSector size (logical/physical): 512 bytes / 512 bytes\r\nI/O size (minimum/optimal): 512 bytes / 512 bytes\r\n\r\n\r\nDisk /dev/loop1: 2 GiB, 2147483648 bytes, 4194304 sectors\r\nUnits: sectors of 1 * 512 = 512 bytes\r\nSector size (logical/physical): 512 bytes / 512 bytes\r\nI/O size (minimum/optimal): 512 bytes / 512 bytes\r\n\r\n\r\n:\u001b[K"
+    ],
+    [
+      3.127627,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[KDisk /dev/mapper/docker-8:17-787438-pool: 100 GiB, 107374182400 bytes, 209715200 sectors\r\n:\u001b[K"
+    ],
+    [
+      0.500618,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[KUnits: sectors of 1 * 512 = 512 bytes\r\n:\u001b[K"
+    ],
+    [
+      0.033413,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[KSector size (logical/physical): 512 bytes / 512 bytes\r\n:\u001b[K"
+    ],
+    [
+      0.029374,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[KI/O size (minimum/optimal): 65536 bytes / 65536 bytes\r\n:\u001b[K"
+    ],
+    [
+      0.030698,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.028170,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.030896,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.030152,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.030813,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.031044,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.030670,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.783325,
+      "\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      2.971672,
+      "\r\u001b[K\u001b[?1l\u001b\u003e\u001b[?1049l\u001b]0;root@lab-vm-1:/home/vagrant\u0007[root@lab-vm-1 vagrant]# "
+    ],
+    [
+      4.034387,
+      "fdisk  -l /dev/sda"
+    ],
+    [
+      0.755020,
+      "\r\n"
+    ],
+    [
+      0.000356,
+      "\u001b[1mDisk /dev/sda: 4 GiB, 4294967296 bytes, 8388608 sectors"
+    ],
+    [
+      0.000097,
+      "\r\n"
+    ],
+    [
+      0.000145,
+      "\u001b[0mUnits: sectors of 1 * 512 = 512 bytes"
+    ],
+    [
+      0.000105,
+      "\r\n"
+    ],
+    [
+      0.000158,
+      "Sector size (logical/physical): 512 bytes / 512 bytes\r\nI/O size (minimum/optimal): 512 bytes / 512 bytes\r\n"
+    ],
+    [
+      0.000416,
+      "\u001b]0;root@lab-vm-1:/home/vagrant\u0007"
+    ],
+    [
+      0.000174,
+      "[root@lab-vm-1 vagrant]# "
+    ],
+    [
+      4.364491,
+      "pvcreate /dev/sda"
+    ],
+    [
+      0.988569,
+      "\r\n"
+    ],
+    [
+      0.018624,
+      "  Physical volume \"/dev/sda\" successfully created"
+    ],
+    [
+      0.000135,
+      "\r\n"
+    ],
+    [
+      0.002011,
+      "\u001b]0;root@lab-vm-1:/home/vagrant\u0007"
+    ],
+    [
+      0.000343,
+      "[root@lab-vm-1 vagrant]# "
+    ],
+    [
+      6.610612,
+      "vgcreate direct-lvm /dev/sda"
+    ],
+    [
+      0.875088,
+      "\r\n"
+    ],
+    [
+      0.014514,
+      "  Volume group \"direct-lvm\" successfully created"
+    ],
+    [
+      0.000036,
+      "\r\n"
+    ],
+    [
+      0.000677,
+      "\u001b]0;root@lab-vm-1:/home/vagrant\u0007"
+    ],
+    [
+      0.000172,
+      "[root@lab-vm-1 vagrant]# "
+    ],
+    [
+      4.526045,
+      "l"
+    ],
+    [
+      0.000164,
+      "v"
+    ],
+    [
+      0.000187,
+      "c"
+    ],
+    [
+      0.000136,
+      "r"
+    ],
+    [
+      0.000119,
+      "e"
+    ],
+    [
+      0.000123,
+      "a"
+    ],
+    [
+      0.000128,
+      "t"
+    ],
+    [
+      0.000147,
+      "e"
+    ],
+    [
+      0.000151,
+      " "
+    ],
+    [
+      0.000122,
+      "-"
+    ],
+    [
+      0.000118,
+      "-"
+    ],
+    [
+      0.000155,
+      "w"
+    ],
+    [
+      0.000111,
+      "i"
+    ],
+    [
+      0.000122,
+      "p"
+    ],
+    [
+      0.000123,
+      "e"
+    ],
+    [
+      0.000120,
+      "s"
+    ],
+    [
+      0.000151,
+      "i"
+    ],
+    [
+      0.000073,
+      "g"
+    ],
+    [
+      0.000112,
+      "n"
+    ],
+    [
+      0.000084,
+      "a"
+    ],
+    [
+      0.000101,
+      "t"
+    ],
+    [
+      0.000085,
+      "u"
+    ],
+    [
+      0.000101,
+      "r"
+    ],
+    [
+      0.000084,
+      "e"
+    ],
+    [
+      0.000101,
+      "s"
+    ],
+    [
+      0.000084,
+      " "
+    ],
+    [
+      0.000120,
+      "y"
+    ],
+    [
+      0.000085,
+      " "
+    ],
+    [
+      0.000108,
+      "-"
+    ],
+    [
+      0.000093,
+      "n"
+    ],
+    [
+      0.000116,
+      " "
+    ],
+    [
+      0.000137,
+      "d"
+    ],
+    [
+      0.000105,
+      "a"
+    ],
+    [
+      0.000115,
+      "t"
+    ],
+    [
+      0.000116,
+      "a"
+    ],
+    [
+      0.000135,
+      " "
+    ],
+    [
+      0.000130,
+      "d"
+    ],
+    [
+      0.000176,
+      "i"
+    ],
+    [
+      0.000143,
+      "r"
+    ],
+    [
+      0.000100,
+      "e"
+    ],
+    [
+      0.000160,
+      "ct-lv"
+    ],
+    [
+      0.000224,
+      "m -l 95%V"
+    ],
+    [
+      0.000119,
+      "G"
+    ],
+    [
+      1.662101,
+      "\r\n"
+    ],
+    [
+      0.018805,
+      "  Logical volume \"data\" created.\r\n"
+    ],
+    [
+      0.000944,
+      "\u001b]0;root@lab-vm-1:/home/vagrant\u0007"
+    ],
+    [
+      0.000198,
+      "[root@lab-vm-1 vagrant]# "
+    ],
+    [
+      3.864092,
+      "lvcreate --wipesignatures y -n metadata direct-lvm -l 5%VG"
+    ],
+    [
+      0.483871,
+      "\r\n"
+    ],
+    [
+      0.017894,
+      "  Logical volume \"metadata\" created.\r\n"
+    ],
+    [
+      0.000775,
+      "\u001b]0;root@lab-vm-1:/home/vagrant\u0007"
+    ],
+    [
+      0.000144,
+      "[root@lab-vm-1 vagrant]# "
+    ],
+    [
+      5.568143,
+      "systemctl stop "
+    ],
+    [
+      0.000042,
+      "docker"
+    ],
+    [
+      0.666920,
+      "\r\n"
+    ],
+    [
+      0.026366,
+      "\u001b]0;root@lab-vm-1:/home/vagrant\u0007"
+    ],
+    [
+      0.000531,
+      "[root@lab-vm-1 vagrant]# "
+    ],
+    [
+      1.055158,
+      "m"
+    ],
+    [
+      0.279577,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.092421,
+      "r"
+    ],
+    [
+      0.132906,
+      "m"
+    ],
+    [
+      0.081370,
+      " "
+    ],
+    [
+      0.196490,
+      "-"
+    ],
+    [
+      0.060714,
+      "r"
+    ],
+    [
+      0.180885,
+      "f"
+    ],
+    [
+      0.065515,
+      " "
+    ],
+    [
+      0.244058,
+      "/"
+    ],
+    [
+      0.539625,
+      "v"
+    ],
+    [
+      0.053369,
+      "a"
+    ],
+    [
+      0.135144,
+      "r/"
+    ],
+    [
+      0.358401,
+      "l"
+    ],
+    [
+      0.572960,
+      "i"
+    ],
+    [
+      0.644590,
+      "b"
+    ],
+    [
+      0.126649,
+      "/"
+    ],
+    [
+      0.492219,
+      "d"
+    ],
+    [
+      0.103833,
+      "o"
+    ],
+    [
+      0.083916,
+      "c"
+    ],
+    [
+      0.151464,
+      "ker/"
+    ],
+    [
+      0.574880,
+      "\r\n"
+    ],
+    [
+      0.065596,
+      "\u001b]0;root@lab-vm-1:/home/vagrant\u0007"
+    ],
+    [
+      0.000140,
+      "[root@lab-vm-1 vagrant]# "
+    ],
+    [
+      0.776827,
+      "v"
+    ],
+    [
+      0.134822,
+      "i"
+    ],
+    [
+      0.247309,
+      " "
+    ],
+    [
+      0.229198,
+      "/"
+    ],
+    [
+      0.163383,
+      "e"
+    ],
+    [
+      0.209588,
+      "tc/"
+    ],
+    [
+      0.225464,
+      "s"
+    ],
+    [
+      0.159317,
+      "y"
+    ],
+    [
+      0.062124,
+      "s"
+    ],
+    [
+      0.152744,
+      "\u0007"
+    ],
+    [
+      2.495127,
+      "c"
+    ],
+    [
+      0.183831,
+      "o"
+    ],
+    [
+      0.144012,
+      "nfig/"
+    ],
+    [
+      1.008900,
+      "d"
+    ],
+    [
+      0.111847,
+      "o"
+    ],
+    [
+      0.347659,
+      "c"
+    ],
+    [
+      0.170062,
+      "\u0007"
+    ],
+    [
+      0.000153,
+      "ker"
+    ],
+    [
+      0.411657,
+      "-"
+    ],
+    [
+      0.218808,
+      "s"
+    ],
+    [
+      0.170494,
+      "\u0007"
+    ],
+    [
+      0.000175,
+      "torage"
+    ],
+    [
+      0.523911,
+      "\r\n"
+    ],
+    [
+      0.003669,
+      "\u001b[?1049h\u001b[?1h\u001b="
+    ],
+    [
+      0.000458,
+      "\u001b[1;30r\u001b[?12;25h\u001b[?12l\u001b[?25h\u001b[27m\u001b[23m\u001b[m\u001b[H\u001b[2J\u001b[?25l\u001b[30;1H\"/etc/sysconfig/docker-storage\""
+    ],
+    [
+      0.000192,
+      " 14L, 597C"
+    ],
+    [
+      0.000514,
+      "\u001b[1;1H# This file may be automatically generated by an installation program.\r\n\r\n# By default, Docker uses a loopback-mounted sparse file in\r\n# /var/lib/docker.  The loopback makes it slower, and there are some\r\n# restrictive defaults, such as 100GB max storage.\r\n\r\n# If your installation did not set a custom storage for Docker, you\r\n# may do it below.\r\n\r\n# Example: Use a custom pair of raw logical volumes (one for metadata,\r\n# one for data).\r\n# DOCKER_STORAGE_OPTIONS = --storage-opt dm.metadatadev=/dev/mylogvol/my-docker-metadata --storage-opt dm.datadev=/dev/mylogvol/my-docker-data\r\n\r\nDOCKER_STORAGE_OPTIONS=\r\n\u001b[94m~                                                                                                                                                 \u001b[16;1H~                                                                                                                                                 \u001b[17;1H~                                                                                                                                                 \u001b[18;1H~                                                                                                                                                 \u001b[19;1H~                                                                                                                                                 \u001b[20;1H~                                                                                                                                                 \u001b[21;1H~                                                                                                                                                 \u001b[22;1H~                                                                                                                                                 \u001b[23;1H~                                                                                                                                                 \u001b[24;1H~                                               "
+    ],
+    [
+      0.000156,
+      "                                                                                                  \u001b[25;1H~                                                                                                                                                 \u001b[26;1H~                                                                                                                                                 \u001b[27;1H~                                                                                                                                                 \u001b[28;1H~                                                                                                                                                 \u001b[29;1H~                                                                                                                                                 \u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      7.491853,
+      "\r\n"
+    ],
+    [
+      0.181732,
+      "\r\n"
+    ],
+    [
+      0.500135,
+      "\r\n"
+    ],
+    [
+      0.030916,
+      "\r\n"
+    ],
+    [
+      0.030642,
+      "\r\n"
+    ],
+    [
+      0.030762,
+      "\r\n"
+    ],
+    [
+      0.029791,
+      "\r\n"
+    ],
+    [
+      0.030636,
+      "\r\n"
+    ],
+    [
+      0.029635,
+      "\r\n"
+    ],
+    [
+      0.030509,
+      "\r\n"
+    ],
+    [
+      0.030630,
+      "\r\n"
+    ],
+    [
+      0.277280,
+      "\r\n"
+    ],
+    [
+      0.157865,
+      "\r\n"
+    ],
+    [
+      0.161728,
+      "\u001b[?25l\u001b[m\u001b[30;1H\u001b[1m-- INSERT --\u001b[m\u001b[30;13H\u001b[K\u001b[14;1HOCKER_STORAGE_OPTIONS=\u001b[14;23H\u001b[K\u001b[14;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.125433,
+      "\u001b[?25lsOCKER_STORAGE_OPTIONS=\rs\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.678199,
+      "\u001b[30;1H\u001b[K\u001b[14;1H"
+    ],
+    [
+      0.405048,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.149896,
+      "\u001b[?25l\u001b[94m~                                                                                                                                                 \u001b[13;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.662916,
+      "\u001b[?25l\u001b[m\u001b[30;1H\u001b[1m-- INSERT --\u001b[13;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.203638,
+      "\u001b[?25l\u001b[mDOCKER_STORAGE_OPTIONS = --storage-opt dm.metadatadev=/dev/direct-lvm/metadata --storage-opt dm.datadev=/dev/direct-lvm/data\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.214976,
+      "\u001b[30;1H\u001b[K\u001b[13;124H"
+    ],
+    [
+      0.393310,
+      "\u001b[?25l\u001b[?12l\u001b[?25h\r"
+    ],
+    [
+      0.300637,
+      "\u0007"
+    ],
+    [
+      0.827772,
+      "\u001b[?25l\u001b[30;1H\u001b[1m-- INSERT --\u001b[13;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.207278,
+      "\u001b[?25l\u001b[m\u001b[13;1H\u001b[K\u001b[14;1HDOCKER_STORAGE_OPTIONS = --storage-opt dm.metadatadev=/dev/direct-lvm/metadata --storage-opt dm.datadev=/dev/direct-lvm/data\u001b[14;125H\u001b[K\u001b[14;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.514888,
+      "\u001b[30;1H\u001b[K\u001b[14;1H"
+    ],
+    [
+      0.151843,
+      "\u001b[?25l\u001b[?12l\u001b[?25h\u001b[?25l\u001b[30;1H:\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.168811,
+      "w"
+    ],
+    [
+      0.245309,
+      "q"
+    ],
+    [
+      0.172780,
+      "!"
+    ],
+    [
+      0.249392,
+      "\r\u001b[?25l\"/etc/sysconfig/docker-storage\""
+    ],
+    [
+      0.001171,
+      " 14L, 698C written\r\r\r\n\u001b[?1l\u001b\u003e\u001b[?12l\u001b[?25h\u001b[?1049l\u001b]0;root@lab-vm-1:/home/vagrant\u0007[root@lab-vm-1 vagrant]# "
+    ],
+    [
+      4.414169,
+      "vi /etc/sysconfig/docker-storage"
+    ],
+    [
+      0.165898,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[9Prm -rf /var/lib/docker/"
+    ],
+    [
+      0.381662,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[2Psystemctl stop docker"
+    ],
+    [
+      0.509528,
+      "\u0008"
+    ],
+    [
+      0.500062,
+      "\u0008"
+    ],
+    [
+      0.029223,
+      "\u0008"
+    ],
+    [
+      0.030702,
+      "\u0008"
+    ],
+    [
+      0.030672,
+      "\u0008"
+    ],
+    [
+      0.029489,
+      "\u0008"
+    ],
+    [
+      0.030343,
+      "\u0008"
+    ],
+    [
+      0.234393,
+      "\u0008"
+    ],
+    [
+      0.292229,
+      "\u001b[C"
+    ],
+    [
+      0.381080,
+      "\u0008\u001b[1P docker\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.149971,
+      "\u0008\u001b[1P docker\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.097844,
+      "a docker\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.631149,
+      "r docker\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.197446,
+      "t docker\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.218224,
+      "\r\n"
+    ],
+    [
+      4.107380,
+      "\u001b]0;root@lab-vm-1:/home/vagrant\u0007[root@lab-vm-1 vagrant]# "
+    ],
+    [
+      2.038479,
+      "docker info"
+    ],
+    [
+      0.962299,
+      "\r\n"
+    ],
+    [
+      0.105713,
+      "Containers: 0\r\nImages: 0\r\nStorage Driver: devicemapper\r\n Pool Name: docker-8:17-787413-pool\r\n Pool Blocksize: 65.54 kB\r\n Backing Filesystem: extfs\r\n Data file: /dev/direct-lvm/data\r\n Metadata file: /dev/direct-lvm/metadata\r\n Data Space Used: 1.821 GB\r\n Data Space Total: 4.073 GB\r\n Data Space Available: 2.252 GB\r\n Metadata Space Used: 962.6 kB\r\n Metadata Space Total: 213.9 MB\r\n Metadata Space Available: 212.9 MB\r\n Udev Sync Supported: true\r\n Deferred Removal Enabled: false\r\n Library Version: 1.02.93 (2015-01-30)\r\nExecution Driver: native-0.2\r\nLogging Driver: json-file\r\nKernel Version: 4.0.4-301.fc22.x86_64\r\nOperating System: Fedora 22 (Twenty Two)\r\nCPUs: 1\r\nTotal Memory: 993.5 MiB\r\nName: lab-vm-1\r\nID: I5MF:I2RU:TPDA:6KME:XTKR:SEQ4:W6KD:MW53:FMCW:FVAH:GUAU:X65K\r\n"
+    ],
+    [
+      0.000678,
+      "\u001b]0;root@lab-vm-1:/home/vagrant\u0007[root@lab-vm-1 vagrant]# "
+    ],
+    [
+      4.131370,
+      "d"
+    ],
+    [
+      0.421150,
+      "s"
+    ],
+    [
+      0.095170,
+      "m"
+    ],
+    [
+      0.092859,
+      "\u0007"
+    ],
+    [
+      1.375552,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.189771,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.195837,
+      "m"
+    ],
+    [
+      0.228303,
+      "s"
+    ],
+    [
+      0.150190,
+      "etup "
+    ],
+    [
+      0.630211,
+      "t"
+    ],
+    [
+      0.100158,
+      "a"
+    ],
+    [
+      0.352525,
+      "l"
+    ],
+    [
+      0.147899,
+      "e"
+    ],
+    [
+      0.712328,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.341645,
+      "\u0008\u001b[K"
+    ],
+    [
+      1.058491,
+      "b"
+    ],
+    [
+      0.295125,
+      "l"
+    ],
+    [
+      0.179992,
+      "e"
+    ],
+    [
+      0.186472,
+      "\r\ndirect--lvm-metadata: 0 417792 linear 8:0 7956480\r\ndirect--lvm-data: 0 7954432 linear 8:0 2048\r\ndocker-8:17-787413-pool: 0 7954432 thin-pool 253:2 253:1 128 32768 1 skip_block_zeroing \r\n\u001b]0;root@lab-vm-1:/home/vagrant\u0007[root@lab-vm-1 vagrant]# "
+    ],
+    [
+      4.662639,
+      "l"
+    ],
+    [
+      0.179561,
+      "s"
+    ],
+    [
+      0.534368,
+      "b"
+    ],
+    [
+      0.239287,
+      "l"
+    ],
+    [
+      0.123846,
+      "k "
+    ],
+    [
+      0.377124,
+      "\r\n"
+    ],
+    [
+      0.005409,
+      "NAME                        MAJ:MIN RM  SIZE RO TYPE MOUNTPOINT\r\n"
+    ],
+    [
+      0.000147,
+      "sda                           8:0    0    4G  0 disk "
+    ],
+    [
+      0.000113,
+      "\r\n"
+    ],
+    [
+      0.000133,
+      "├─direct--lvm-data          253:1    0  3.8G  0 lvm  "
+    ],
+    [
+      0.000091,
+      "\r\n"
+    ],
+    [
+      0.000151,
+      "│ └─docker-8:17-787413-pool 253:0    0  3.8G  0 dm   "
+    ],
+    [
+      0.000119,
+      "\r\n"
+    ],
+    [
+      0.000116,
+      "└─direct--lvm-metadata      253:2    0  204M  0 lvm  "
+    ],
+    [
+      0.000111,
+      "\r\n"
+    ],
+    [
+      0.000111,
+      "  └─docker-8:17-787413-pool 253:0    0  3.8G  0 dm   "
+    ],
+    [
+      0.000111,
+      "\r\n"
+    ],
+    [
+      0.000104,
+      "sdb                           8:16   0 39.1G  0 disk "
+    ],
+    [
+      0.000105,
+      "\r\n"
+    ],
+    [
+      0.000116,
+      "└─sdb1                        8:17   0 39.1G  0 part /"
+    ],
+    [
+      0.000134,
+      "\r\n"
+    ],
+    [
+      0.000526,
+      "\u001b]0;root@lab-vm-1:/home/vagrant\u0007"
+    ],
+    [
+      0.000158,
+      "[root@lab-vm-1 vagrant]# "
+    ],
+    [
+      10.213003,
+      "d"
+    ],
+    [
+      1.071002,
+      "o"
+    ],
+    [
+      0.203805,
+      "c"
+    ],
+    [
+      0.277579,
+      "\u0007ker"
+    ],
+    [
+      0.392737,
+      " "
+    ],
+    [
+      0.172266,
+      "i"
+    ],
+    [
+      0.133321,
+      "m"
+    ],
+    [
+      0.123902,
+      "a"
+    ],
+    [
+      0.175319,
+      "g"
+    ],
+    [
+      0.085461,
+      "e"
+    ],
+    [
+      0.189306,
+      "s"
+    ],
+    [
+      0.084915,
+      "\r\n"
+    ],
+    [
+      0.008665,
+      "REPOSITORY"
+    ],
+    [
+      0.000267,
+      "        "
+    ],
+    [
+      0.000101,
+      "  "
+    ],
+    [
+      0.000175,
+      "TAG"
+    ],
+    [
+      0.000144,
+      "        "
+    ],
+    [
+      0.000117,
+      "        "
+    ],
+    [
+      0.000092,
+      " "
+    ],
+    [
+      0.000106,
+      "IMAGE ID"
+    ],
+    [
+      0.000117,
+      "        "
+    ],
+    [
+      0.000113,
+      "    "
+    ],
+    [
+      0.000111,
+      "CREATED"
+    ],
+    [
+      0.000068,
+      "        "
+    ],
+    [
+      0.000125,
+      "     "
+    ],
+    [
+      0.000132,
+      "VIRTUAL SIZE"
+    ],
+    [
+      0.000149,
+      "\r\n"
+    ],
+    [
+      0.001165,
+      "\u001b]0;root@lab-vm-1:/home/vagrant\u0007[root@lab-vm-1 vagrant]# "
+    ],
+    [
+      4.560638,
+      "docker run -id busybox /bin/sh"
+    ],
+    [
+      0.542973,
+      "\r\n"
+    ],
+    [
+      0.007784,
+      "Unable to find image 'busybox:latest' locally"
+    ],
+    [
+      0.000165,
+      "\r\n"
+    ],
+    [
+      0.001845,
+      "Trying to pull repository docker.io/library/busybox ... "
+    ],
+    [
+      6.652559,
+      "latest: Pulling from library/busybox\r\n\u001b[0B"
+    ],
+    [
+      0.000418,
+      "\r\n\u001b[0A\u001b[2K\rbf0f46991aed: Pulling fs layer \r\u001b[0B"
+    ],
+    [
+      0.000279,
+      "\r\n\u001b[0A\u001b[2K\r3d5bcd78e074: Pulling fs layer \r\u001b[0B"
+    ],
+    [
+      4.630401,
+      "\u001b[1A\u001b[2K\r3d5bcd78e074: Downloading [==================================================\u003e]     32 B/32 B\r\u001b[1B"
+    ],
+    [
+      0.000219,
+      "\u001b[1A\u001b[2K\r3d5bcd78e074: Verifying Checksum \r\u001b[1B"
+    ],
+    [
+      0.000235,
+      "\u001b[1A\u001b[2K\r3d5bcd78e074: Download complete \r\u001b[1B"
+    ],
+    [
+      0.050855,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Downloading [=\u003e                                                 ] 22.76 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.006310,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Downloading [==\u003e                                                ] 29.55 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.068771,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Downloading [===\u003e                                               ] 45.93 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.050083,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Downloading [====\u003e                                              ] 63.31 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.017803,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Downloading [=====\u003e                                             ] 70.09 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.006767,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Downloading [=====\u003e                                             ] 76.93 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.006352,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Downloading [======\u003e                                            ] 84.17 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.008730,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Downloading [======\u003e                                            ] 93.32 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.025670,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Downloading [========\u003e                                          ] 109.7 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.031972,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Downloading [=========\u003e                                         ] 126.1 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.014574,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Downloading [==========\u003e                                        ] 142.5 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.006696,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Downloading [===========\u003e                                       ] 149.7 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.016502,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Downloading [============\u003e                                      ] 166.1 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.014194,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Downloading [=============\u003e                                     ] 182.5 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.014240,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Downloading [==============\u003e                                    ] 198.9 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.016411,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Downloading [===============\u003e                                   ] 215.2 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.017886,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Downloading [=================\u003e                                 ] 231.6 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.012601,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Downloading [==================\u003e                                ]   248 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.014739,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Downloading [===================\u003e                               ] 264.4 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.014648,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Downloading [====================\u003e                              ] 280.8 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.015634,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Downloading [=====================\u003e                             ] 297.2 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.014830,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Downloading [=======================\u003e                           ] 313.5 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.017121,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Downloading [========================\u003e                          ] 329.9 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.013873,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Downloading [=========================\u003e                         ] 346.3 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.013904,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Downloading [==========================\u003e                        ] 362.7 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.016371,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Downloading [============================\u003e                      ] 379.1 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.014142,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Downloading [=============================\u003e                     ] 395.5 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.015789,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Downloading [==============================\u003e                    ] 411.9 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.203404,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Downloading [===============================\u003e                   ] 428.2 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.000619,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Downloading [================================\u003e                  ] 444.6 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.000519,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Downloading [==================================\u003e                ]   461 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.009787,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Downloading [===================================\u003e               ] 477.4 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.008020,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Downloading [====================================\u003e              ] 493.8 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.000594,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Downloading [=====================================\u003e             ] 510.2 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.008937,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Downloading [======================================\u003e            ] 526.5 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.010794,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Downloading [========================================\u003e          ] 542.9 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.000690,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Downloading [=========================================\u003e         ] 559.3 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.000508,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Downloading [==========================================\u003e        ] 575.7 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.000576,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Downloading [===========================================\u003e       ] 592.1 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.000481,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Downloading [=============================================\u003e     ] 608.5 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.000561,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Downloading [==============================================\u003e    ] 624.8 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.000478,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Downloading [===============================================\u003e   ] 641.2 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.000490,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Downloading [================================================\u003e  ] 657.6 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.000550,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Downloading [=================================================\u003e ]   674 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.000476,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Downloading [==================================================\u003e] 675.4 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.000220,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Verifying Checksum \r\u001b[2B"
+    ],
+    [
+      0.000179,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Download complete \r\u001b[2B"
+    ],
+    [
+      0.011126,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Extracting [==\u003e                                                ] 32.77 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.040464,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Extracting [====\u003e                                              ] 65.54 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.001940,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Extracting [=======\u003e                                           ]  98.3 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.001898,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Extracting [=========\u003e                                         ] 131.1 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.001941,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Extracting [============\u003e                                      ] 163.8 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.001874,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Extracting [==============\u003e                                    ] 196.6 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.001962,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Extracting [================\u003e                                  ] 229.4 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.002105,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Extracting [===================\u003e                               ] 262.1 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.001919,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Extracting [=====================\u003e                             ] 294.9 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.001631,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Extracting [========================\u003e                          ] 327.7 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.001869,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Extracting [==========================\u003e                        ] 360.4 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.001617,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Extracting [=============================\u003e                     ] 393.2 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.001886,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Extracting [===============================\u003e                   ]   426 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.001896,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Extracting [=================================\u003e                 ] 458.8 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.001690,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Extracting [====================================\u003e              ] 491.5 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.001841,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Extracting [======================================\u003e            ] 524.3 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.002409,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Extracting [=========================================\u003e         ] 557.1 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.001558,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Extracting [===========================================\u003e       ] 589.8 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.002339,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Extracting [==============================================\u003e    ] 622.6 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.002429,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Extracting [================================================\u003e  ] 655.4 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.009529,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Extracting [==================================================\u003e] 675.4 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.019954,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Extracting [==================================================\u003e] 675.4 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.000417,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Extracting [==================================================\u003e] 675.4 kB/675.4 kB\r\u001b[2B"
+    ],
+    [
+      0.062523,
+      "\u001b[2A\u001b[2K\rbf0f46991aed: Pull complete \r\u001b[2B"
+    ],
+    [
+      0.011171,
+      "\u001b[1A\u001b[2K\r3d5bcd78e074: Extracting [==================================================\u003e]     32 B/32 B\r\u001b[1B"
+    ],
+    [
+      0.023575,
+      "\u001b[1A\u001b[2K\r3d5bcd78e074: Extracting [==================================================\u003e]     32 B/32 B\r\u001b[1B"
+    ],
+    [
+      0.000280,
+      "\u001b[1A\u001b[2K\r3d5bcd78e074: Extracting [==================================================\u003e]     32 B/32 B\r\u001b[1B"
+    ],
+    [
+      0.022258,
+      "\u001b[1A\u001b[2K\r3d5bcd78e074: Pull complete \r\u001b[1B"
+    ],
+    [
+      0.000744,
+      "library/busybox:latest: The image you are pulling has been verified. Important: image verification is a tech preview feature and should not be relied on to provide security.\r\n\u001b[1B"
+    ],
+    [
+      0.000981,
+      "Digest: sha256:5551dbdfc48d66734d0f01cafee0952cb6e8eeecd1e2492240bf2fd9640c2279\r\n"
+    ],
+    [
+      0.000481,
+      "Status: Downloaded newer image for docker.io/busybox:latest\r\n"
+    ],
+    [
+      0.000440,
+      "\r\n"
+    ],
+    [
+      0.085130,
+      "feb47f2fa978c33e5fbf559709134b9e30350943e8311c42a42a61e3e0d5cfd6\r\n"
+    ],
+    [
+      0.165183,
+      "\u001b]0;root@lab-vm-1:/home/vagrant\u0007[root@lab-vm-1 vagrant]# "
+    ],
+    [
+      0.624918,
+      "d"
+    ],
+    [
+      0.095776,
+      "o"
+    ],
+    [
+      0.099788,
+      "c"
+    ],
+    [
+      0.166009,
+      "\u0007ker"
+    ],
+    [
+      0.272660,
+      " "
+    ],
+    [
+      0.157514,
+      "p"
+    ],
+    [
+      0.146881,
+      "s"
+    ],
+    [
+      0.270322,
+      "\r\n"
+    ],
+    [
+      0.006972,
+      "CONTAINER ID"
+    ],
+    [
+      0.000186,
+      "        "
+    ],
+    [
+      0.000203,
+      "IMAGE"
+    ],
+    [
+      0.000132,
+      "        "
+    ],
+    [
+      0.000090,
+      "       "
+    ],
+    [
+      0.000115,
+      "COMMAND"
+    ],
+    [
+      0.000077,
+      "        "
+    ],
+    [
+      0.000107,
+      "     "
+    ],
+    [
+      0.000089,
+      "CREATED"
+    ],
+    [
+      0.000077,
+      "        "
+    ],
+    [
+      0.000113,
+      "     "
+    ],
+    [
+      0.000120,
+      "STATUS"
+    ],
+    [
+      0.000111,
+      "        "
+    ],
+    [
+      0.000112,
+      "      "
+    ],
+    [
+      0.000112,
+      "PORTS"
+    ],
+    [
+      0.000101,
+      "        "
+    ],
+    [
+      0.000108,
+      "       "
+    ],
+    [
+      0.000115,
+      "NAMES"
+    ],
+    [
+      0.000097,
+      "\r\n"
+    ],
+    [
+      0.000070,
+      "feb47f2fa978"
+    ],
+    [
+      0.000123,
+      "        "
+    ],
+    [
+      0.000114,
+      "busybox"
+    ],
+    [
+      0.000112,
+      "        "
+    ],
+    [
+      0.000072,
+      "     "
+    ],
+    [
+      0.000119,
+      "\"/bin/sh\""
+    ],
+    [
+      0.000064,
+      "        "
+    ],
+    [
+      0.000110,
+      "   "
+    ],
+    [
+      0.000067,
+      "2 seconds ago"
+    ],
+    [
+      0.000118,
+      "       "
+    ],
+    [
+      0.000068,
+      "Up 1 seconds"
+    ],
+    [
+      0.000150,
+      "        "
+    ],
+    [
+      0.000133,
+      "        "
+    ],
+    [
+      0.000073,
+      "        "
+    ],
+    [
+      0.000130,
+      "    "
+    ],
+    [
+      0.000119,
+      "elegant_noyce"
+    ],
+    [
+      0.000118,
+      "\r\n"
+    ],
+    [
+      0.001201,
+      "\u001b]0;root@lab-vm-1:/home/vagrant\u0007[root@lab-vm-1 vagrant]# "
+    ],
+    [
+      2.551594,
+      "d"
+    ],
+    [
+      0.310668,
+      "n"
+    ],
+    [
+      0.423602,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.627397,
+      "m"
+    ],
+    [
+      0.060323,
+      "s"
+    ],
+    [
+      0.166251,
+      "etup "
+    ],
+    [
+      0.702023,
+      "t"
+    ],
+    [
+      0.483926,
+      "a"
+    ],
+    [
+      0.127402,
+      "b"
+    ],
+    [
+      0.231364,
+      "l"
+    ],
+    [
+      0.131958,
+      "e"
+    ],
+    [
+      0.235390,
+      "\r\ndocker-8:17-787413-feb47f2fa978c33e5fbf559709134b9e30350943e8311c42a42a61e3e0d5cfd6: 0 209715200 thin 253:0 5\r\ndirect--lvm-metadata: 0 417792 linear 8:0 7956480\r\ndirect--lvm-data: 0 7954432 linear 8:0 2048\r\ndocker-8:17-787413-pool: 0 7954432 thin-pool 253:2 253:1 128 32768 1 skip_block_zeroing \r\n"
+    ],
+    [
+      0.000227,
+      "\u001b]0;root@lab-vm-1:/home/vagrant\u0007"
+    ],
+    [
+      0.000206,
+      "[root@lab-vm-1 vagrant]# "
+    ],
+    [
+      2.168704,
+      "l"
+    ],
+    [
+      0.315262,
+      "s"
+    ],
+    [
+      0.694433,
+      "b"
+    ],
+    [
+      0.247204,
+      "l"
+    ],
+    [
+      0.115861,
+      "k "
+    ],
+    [
+      0.400983,
+      "\r\n"
+    ],
+    [
+      0.002989,
+      "NAME                                                                                      MAJ:MIN RM  SIZE RO TYPE MOUNTPOINT\r\n"
+    ],
+    [
+      0.000126,
+      "sda                                                                                         8:0    0    4G  0 disk "
+    ],
+    [
+      0.000075,
+      "\r\n"
+    ],
+    [
+      0.000132,
+      "├─direct--lvm-data                                                                        253:1    0  3.8G  0 lvm  "
+    ],
+    [
+      0.000083,
+      "\r\n"
+    ],
+    [
+      0.000110,
+      "│ └─docker-8:17-787413-pool                                                               253:0    0  3.8G  0 dm   "
+    ],
+    [
+      0.000090,
+      "\r\n"
+    ],
+    [
+      0.000107,
+      "│   └─docker-8:17-787413-feb47f2fa978c33e5fbf559709134b9e30350943e8311c42a42a61e3e0d5cfd6 253:3    0  100G  0 dm   "
+    ],
+    [
+      0.000081,
+      "\r\n"
+    ],
+    [
+      0.000099,
+      "└─direct--lvm-metadata                                                                    253:2    0  204M  0 lvm  "
+    ],
+    [
+      0.000096,
+      "\r\n"
+    ],
+    [
+      0.000093,
+      "  └─docker-8:17-787413-pool                                                               253:0    0  3.8G  0 dm   "
+    ],
+    [
+      0.000087,
+      "\r\n"
+    ],
+    [
+      0.000098,
+      "    └─docker-8:17-787413-feb47f2fa978c33e5fbf559709134b9e30350943e8311c42a42a61e3e0d5cfd6 253:3    0  100G  0 dm   "
+    ],
+    [
+      0.000124,
+      "\r\n"
+    ],
+    [
+      0.000107,
+      "sdb                                                                                         8:16   0 39.1G  0 disk "
+    ],
+    [
+      0.000082,
+      "\r\n"
+    ],
+    [
+      0.000108,
+      "└─sdb1                                                                                      8:17   0 39.1G  0 part /"
+    ],
+    [
+      0.000080,
+      "\r\n"
+    ],
+    [
+      0.000450,
+      "\u001b]0;root@lab-vm-1:/home/vagrant\u0007"
+    ],
+    [
+      0.000118,
+      "[root@lab-vm-1 vagrant]# "
+    ],
+    [
+      3.079191,
+      "exit"
+    ],
+    [
+      0.000113,
+      "\r\n"
+    ],
+    [
+      0.001959,
+      "\u001b]0;vagrant@lab-vm-1:~\u0007"
+    ],
+    [
+      0.000240,
+      "[vagrant@lab-vm-1 ~]$ "
+    ],
+    [
+      0.569518,
+      "logout\r\n"
+    ],
+    [
+      0.002838,
+      "Connection to 127.0.0.1 closed.\r\r\n"
+    ],
+    [
+      0.002169,
+      "\u001b]777;notify;Command completed;vagrant ssh\u0007\u001b]0;nkhare@dhcp35-118:/work/presetations/linuxconeu\u0007\u001b]7;file://dhcp35-118.lab.eng.blr.redhat.com/work/presetations/linuxconeu\u0007[nkhare@dhcp35-118 linuxconeu]$ "
+    ],
+    [
+      0.621503,
+      "exit\r\n"
+    ]
+  ]
+}
